@@ -1,0 +1,6562 @@
+// Do vinaya pm automatically
+[
+{
+  "pli": "Pāpaṃ na kayirā vacasā manasā, Kāyena vā kiñcana sabbaloke; Kāme pahāya satimā sampajāno, Dukkhaṃ na sevetha anatthasaṃhitan'ti",
+  "skt": "pāpaṃ na kuryān manasā na vācā kāyena vā kiṃcana sarvaloke riktaḥ kāmaiḥ smṛtimān saṃprajānaṃ duḥkhaṃ na seveta anarthasaṃhitam",
+  "matches": [
+    "sag#1.1",
+    "sn1.20#28"
+  ]
+},
+{
+  "pli": "Akkheyyasaññino sattā, akkheyyasmiṃ patiṭṭhitā; Akkheyyaṃ apariññāya, yogamāyanti maccuno.",
+  "skt": "ākhyeyasaṃjñinaḥ satvā ākhyeye ’smin pratiṣṭhitāḥ ākhyeyam aparijñāya yogam āyānti mṛtyunaḥ",
+  "matches": [
+    "sag#2.1",
+    "sn1.20#20",
+    "iti63#3"
+  ]
+},
+{
+  "pli": "Akkheyyañca pariññāya, Akkhātāraṃ na maññati; Tañhi tassa na hotīti, Yena naṃ vajjā na tassa atthi.",
+  "skt": "ākhyeyaṃ tu parijñāya ākhyātāraṃ na manyate tad vai na vidyate tasya vadeyur yena taṃ pare",
+  "matches": [
+    "sag#2.2",
+    "sn1.20#21"
+  ]
+},
+{
+  "pli": "Samo visesī uda vā nihīno, Yo maññatī so vivadetha tena; Tīsu vidhāsu avikampamāno, Samo visesīti na tassa hoti.",
+  "skt": "samo viśeṣa uta vāpi hīno yo manyate sa vivadeta tena vidhātraye ’smin na vikampate yaḥ samo viśiṣṭaś ca na tasya bhavati",
+  "matches": [
+    "sag#2.3",
+    "sn1.20#23"
+  ]
+},
+{
+  "pli": "Acchecchi taṇhaṃ idha nāmarūpe; Taṃ chinnaganthaṃ anighaṃ nirāsaṃ, Pariyesamānā nājjhagamuṃ; Devā manussā idha vā huraṃ vā, Saggesu vā sabbanivesanesu.",
+  "skt": "ācchidya tṛṣṇām iha nāmarūpe prahāya mānaṃ ca na saṃgam eti taṃ śāntadhūmam anighaṃ nirāśaṃ nādrākṣus te devamanuṣyaloke iha bāhirataś ca",
+  "matches": [
+    "sag#2.4",
+    "sn1.20#25"
+  ]
+},
+{
+  "pli": "Kathaṃvihārībahulodha bhikkhu, Pañcoghatiṇṇo atarīdha chaṭṭhaṃ; Kathaṃ jhāyiṃ bahulaṃ kāmasaññā, Paribāhirā honti aladdha yo tan'ti.",
+  "skt": "kathaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ kathaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ",
+  "matches": [
+    "sag#4.1",
+    "sn4.25#16"
+  ]
+},
+{
+  "pli": "Passaddhakāyo suvimuttacitto, Asaṅkharāno satimā anoko; Aññāya dhammaṃ avitakkajhāyī, Na kuppati na sarati na thino.",
+  "skt": "praśrabdhakāyaḥ suvimuktacitto hy asaṃskurvan smṛtimān akopyaḥ ājñāya dharmam avitarkadhyāyī kopaspṛhāstyānadoṣaiḥ viyuktaḥ",
+  "matches": [
+    "sag#4.2",
+    "sn4.25#17"
+  ]
+},
+{
+  "pli": "Evaṃvihārībahulodha bhikkhu, Pañcoghatiṇṇo atarīdha chaṭṭhaṃ; Evaṃ jhāyiṃ bahulaṃ kāmasaññā, Paribāhirā honti aladdha yo tan'ti.",
+  "skt": "evaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ evaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ",
+  "matches": [
+    "sag#4.3",
+    "sn4.25#18"
+  ]
+},
+{
+  "pli": "Nāññatra bojjhā tapasā, nāññatrindriyasaṃvarā; Nāññatra sabbanissaggā, sotthiṃ passāmi pāṇinan”ti.",
+  "skt": "nānyatra jñānatapaso nānyatrendriyanigrahāt nānyatra sarvasaṃtyāgān mokṣaṃ paśyāmi devate",
+  "matches": [
+    "sag#5.2",
+    "sn2.17#3"
+  ]
+},
+{
+  "pli": "Cirassaṃ vata passāmi, brāhmaṇaṃ parinibbutaṃ; Appatiṭṭhaṃ anāyūhaṃ, tiṇṇaṃ loke visattikan”ti.",
+  "skt": "cirasya bata paśyāmi brāhmaṇaṃ parinirvṛtaṃ sarvavairabhayātītaṃ tīrṇaṃ loke viṣaktikām",
+  "matches": [
+    "sag#5.3",
+    "sn1.1#2",
+    "sn2.18#6",
+    "sf105#1545.2"
+  ]
+},
+{
+  "pli": "Yo sīlavā paññavā bhāvitatto, Samāhito jhānarato satīmā; Sabbassa sokā vigatā pahīnā, Khīṇāsavo antimadehadhārī.",
+  "skt": "yaḥ śīlavāñ jñānavān bhāvitātmā samāhitaḥ smṛtimān ṛjugataś ca sarve ’sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktaṃ",
+  "matches": [
+    "sag#6.2",
+    "sn2.14#3"
+  ]
+},
+{
+  "pli": "Kathaṃsu kittiṃ pappoti, kathaṃ mittāni ganthati.",
+  "skt": "kathaṃ kīrtim avāpnoti kathaṃ mitrāṇi vindati",
+  "matches": [
+    "sag#7.1",
+    "sn10.12#6"
+  ]
+},
+{
+  "pli": "Saccena kittiṃ pappoti, dadaṃ mittāni ganthati.",
+  "skt": "satyena kīrtim āpnoti dadan mitrāṇi vindati",
+  "matches": [
+    "snp1.10#vns189",
+    "sn10.12#8",
+    "sag#7.2"
+  ]
+},
+{
+  "pli": "Kuto sarā nivattanti, kattha vaṭṭaṃ na vattati; Kattha nāmañca rūpañca, asesaṃ uparujjhatī'ti.",
+  "skt": "kutaḥ sarā nivartante kutra vartma na vartate kutra duḥkhasukhaṃ loke niḥśeṣam uparudhyate",
+  "matches": [
+    "sn1.27#1",
+    "sag#8.1"
+  ]
+},
+{
+  "pli": "Sokāvatiṇṇo nu vanamhi jhāyasi, Vittaṃ nu jīno uda patthayāno; Āguṃ nu gāmasmimakāsi kiñci, Kasmā janena na karosi sakkhiṃ; Sakkhī na sampajjati kenaci te”ti.",
+  "skt": "eko ’raṇye prasṛto dhyāyase tvaṃ vittād vihīna uta vā prārthayānaḥ grāmasya vā kiṃcanāgo nv akārṣīḥ kasmāj janena na karoṣi sakhyaṃ sakhyaṃ na saṃvidyate kena cit tava",
+  "matches": [
+    "sag#14.1",
+    "sn4.25#13"
+  ]
+},
+{
+  "pli": "Atthassa pattiṃ hadayassa santiṃ, Jetvāna senaṃ piyasātarūpaṃ; Ekohaṃ jhāyaṃ sukhamanubodhiṃ, Tasmā janena na karomi sakkhiṃ; Sakkhī na sampajjati kenaci me”ti.",
+  "skt": "arthāprāptyā hṛdayasyeha śāntir jitveha senāṃ priyaśātarūpaṃ eko dhyāyī sukham asmy anvabhotsaṃ tasmād janena na karomi sakhyaṃ sakhyaṃ na saṃvidyate kena cid mama",
+  "matches": [
+    "sag#14.2",
+    "an10.26#2",
+    "sn4.25#14"
+  ]
+},
+{
+  "pli": "Ye ca rūpe pamāṇiṃsu, ye ca ghosena anvagū; Chandarāgavasūpetā, nābhijānanti te janā.",
+  "skt": "ye rūpeṇa pramiṇvanti māṃ ghoṣeṇānuyānti ca cchandarāgavaśopetā na mā jānanti te janāḥ",
+  "matches": [
+    "uv22#22.12",
+    "sag#24.1",
+    "thag7.2#vns469",
+    "an4.65#2"
+  ]
+},
+{
+  "pli": "Ajjhattañca na jānāti, bahiddhā ca vipassati; Bahiddhā phaladassāvī, sopi ghosena vuyhati.",
+  "skt": "adhyātmaṃ ca vijānāti bahirdhā ca na paśyati adhyātmaphaladarśī yaḥ sa vai ghoṣeṇa nīyate",
+  "matches": [
+    "sag#24.2",
+    "uv22#22.13",
+    "thag7.2#vns471",
+    "an4.65#4"
+  ]
+},
+{
+  "pli": "Ajjhattañca na jānāti, bahiddhā ca na passati; Samantāvaraṇo bālo, sa ve ghosena vuyhati.",
+  "skt": "adhyātmaṃ ca na jānāti bahirdhā ca na paśyati samantāvaraṇo bālaḥ so ’pi ghoṣeṇa nīyate",
+  "matches": [
+    "uv22#22.15",
+    "sag#24.4",
+    "thag7.2#vns470",
+    "an4.65#3"
+  ]
+},
+{
+  "pli": "Ajjhattañca pajānāti, bahiddhā ca vipassati; Vinīvaraṇadassāvī, na so ghosena vuyhatī”ti.",
+  "skt": "adhyātmaṃ ca vijānāti bahirdhā ca vipaśyati dhīro niḥsaraṇaprajño na sa ghoṣeṇa nīyate",
+  "matches": [
+    "uv22#22.16",
+    "sag#24.5",
+    "thag7.2#vns472",
+    "an4.65#5"
+  ]
+},
+{
+  "pli": "Dadato puññaṃ pavaḍḍhati, Saṃyamato veraṃ na cīyati; Kusalo ca jahāti pāpakaṃ, Rāgadosamohakkhayā sanibbuto”ti",
+  "skt": "dadataḥ puṇyaṃ pravardhate vairaṃ saṃyamato na cīyate kuśalī prajahāti pāpakaṃ kleśānāṃ kṣayatas tu nirvṛtaḥ",
+  "matches": [
+    "uv28#28.2",
+    "sag#33",
+    "ud8.5#23",
+    "dn16#193",
+    "san-mu-bu-pm-gbm3#305"
+  ]
+},
+{
+  "pli": "Tassa ce kāmayānassa, chandajātassa jantuno; Te kāmā parihāyanti, sallaviddhova ruppati.",
+  "skt": "tasya cet kāmāyamānasya chandajātasya jaṃtunaḥ te kāmāḥ parihīyaṃte śalyaviddha iva rūpyate",
+  "matches": [
+    "sag#40.2",
+    "snp4.1#vns774"
+  ]
+},
+{
+  "pli": "Yo kāme parivajjeti, sappasseva padā siro; Somaṃ visattikaṃ loke, sato samativattati.",
+  "skt": "yaḥ kāmāṃ parivarjayati sarpasyeva śirāt padaṃ sa imāṃ viṣaktikāṃ loke smṛtaḥ samativartate",
+  "matches": [
+    "sag#40.3",
+    "snp4.1#vns775"
+  ]
+},
+{
+  "pli": "Khettaṃ vatthuṃ hiraññaṃ vā, gavāssaṃ dāsaporisaṃ; Thiyo bandhū puthu kāme, yo naro anugijjhati.",
+  "skt": "kṣetravastuhiraṇyaṃ ca gavāśvamaṇikuṇḍalaṃ striyo dāsān pṛthakkāmān yo naro hy abhigṛdhyati",
+  "matches": [
+    "sag#40.4",
+    "snp4.1#vns776",
+  ]
+},
+{
+  "pli": "Abalā naṃ balīyanti, maddantenaṃ parissayā; Tato naṃ dukkhamanveti, nāvaṃ bhinnamivodakaṃ.",
+  "skt": "abalaṃ vā balīyāṃso mṛdnaṃty enaṃ parisravāḥ tata enaṃ duḥkham anveti bhinnāṃ nāvam ivodakaṃ",
+  "matches": [
+    "sag#40.5",
+    "snp4.1#vns777"
+  ]
+},
+{
+  "pli": "Kāmaṃ kāmayamānassa, tassa ce taṃ samijjhati; Addhā pītimano hoti, laddhā macco yadicchati.",
+  "skt": "kāmān kāmāyamānasya tasya cet tat samṛdhyati addhā prītamanā bhavati labdhvā martyo yad īpsitaṃ",
+  "matches": [
+    "snp4.1#vns773",
+    "ja467#1",
+    "sag#40.1"
+  ]
+},
+{
+  "pli": "Atītaṃ nānvāgameyya, nappaṭikaṅkhe anāgataṃ; Paccuppannañca yo dhammaṃ, Tattha tattha vipassati; Asaṃhīraṃ asaṃkuppaṃ, Taṃ vidvā manubrūhaye.",
+  "skt": "atītaṃ nānvāgamayen na pratikāṃkṣed anāgataṃ pratyutpannāś ca ye dharmās tatra tatra vipaśyakaḥ asaṃhāryam asaṃkṣobhyaṃ tad vidvān anubṛṃhayet",
+  "matches": [
+    "sag#41.1",
+    "mn131#2-#3",
+    "mn132#4-#5",
+    "mn133#5-#6",
+    "mn134#2-#3"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati uppanno vā kāmacchando bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, subhanimittaṃ. Subhanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca kāmacchandanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati yathā aśubhayā anāsevitayā abhāvitayā abahulīkṛtayā | aśubhayā anāsevitayā abhāvitayā abahulīkṛtayā anutpannaṃ ca kāmacchandanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati",
+  "matches": [
+    "an1.11-15",
+    "sf203#16.101-#16.105"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo uppajjati uppanno vā byāpādo bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, paṭighanimittaṃ. Paṭighanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva byāpādo uppajjati uppanno ca byāpādo bhiyyobhāvāya vepullāya saṃvattatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca vyāpādanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati yathā maitryā anāsevitayā abhāvitayā abahulīkṛtayā | maitryā anāsevitayā abhāvitayā abahulīkṛtayā anutpannaṃ ca vāpādanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati",
+  "matches": [
+    "an1.11-15",
+    "sf203#16.101-#16.105"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ uppajjati uppannaṃ vā thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, arati tandī vijambhitā bhattasammado cetaso ca līnattaṃ. Līnacittassa, bhikkhave, anuppannañceva thinamiddhaṃ uppajjati uppannañca thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca styānamiddhanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati yathā anāsevitayā abhāvitayā abahulīkṛtayā | anāsevitayā abhāvitayā abahulīkṛtayā anutpannaṃ ca styānamiddhanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati",
+  "matches": [
+    "an1.11-15",
+    "sf203#16.101-#16.105"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ uppajjati uppannaṃ vā uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, cetaso avūpasamo. Avūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ uppajjati uppannañca uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca auddhatyakaukṛtyanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati yathā śamathena | śamathena anāsevitena abhāvitena abahulīkṛtena | anutpannaṃ ca styānamiddhanivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati ",
+  "matches": [
+    "an1.11-15",
+    "sf203#16.101-#16.105"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā uppajjati uppannā vā vicikicchā bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, ayonisomanasikāro. Ayoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā uppajjati uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṃvattatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca vicikitsānivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati yathā idaṃpratyayatāpratītyasamutpādaparīkṣayā anāsevitayā abhāvitayā abahulīkṛtayā | idaṃpratyayatāpratītyasamutpādaparīkṣayā anāsevitayā abhāvitayā abahulīkṛtayā anutpannaṃ ca vicikitsānivaraṇam utpadyate utpannaṃ ca bhūyobhāvavṛddhivipulatāṃ gacchati",
+  "matches": [
+    "an1.11-15",
+    "sf203#16.101-#16.105"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando nuppajjati uppanno vā kāmacchando pahīyati yathayidaṃ, bhikkhave, asubhanimittaṃ. Asubhanimittaṃ, bhikkhave, yoniso manasi karoto anuppanno ceva kāmacchando nuppajjati uppanno ca kāmacchando pahīyatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca kāmacchandanivaraṇam notpadyate utpannaṃ ca prahīyate yathā śubhayā āsevitayā bhāvitayā bahulīkṛtayā | śubhayā āsevitayā bhāvitayā bahulīkṛtayā kāmacchandanivaraṇam notpadyate utpannaṃ ca prahīyate",
+  "matches": [
+    "an1.16-20",
+    "sf203#16.106-#16.111"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṃ, bhikkhave, mettā cetovimutti. Mettaṃ, bhikkhave, cetovimuttiṃ yoniso manasi karoto anuppanno ceva byāpādo nuppajjati uppanno ca byāpādo pahīyatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca vyāpādanivaraṇam notpadyate utpannaṃ ca prahīyate yathā maitryā āsevitayā bhāvitayā bahulīkṛtayā | maitryā āsevitayā bhāvitayā bahulīkṛtayā vyāpādanivaraṇam notpadyate utpannaṃ ca prahīyate",
+  "matches": [
+    "an1.16-20",
+    "sf203#16.106-#16.111"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ nuppajjati uppannaṃ vā thinamiddhaṃ pahīyati yathayidaṃ, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Āraddhavīriyassa, bhikkhave, anuppannañceva thinamiddhaṃ nuppajjati uppannañca thinamiddhaṃ pahīyatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca styānamiddhanivaraṇam notpadyate utpannaṃ ca prahīyate yathā āsevitayā bhāvitayā bahulīkṛtayā | āsevitayā bhāvitayā bahulīkṛtayā styānamiddhanivaraṇam notpadyate utpannaṃ ca prahīyate",
+  "matches": [
+    "an1.16-20",
+    "sf203#16.106-#16.111"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ nuppajjati uppannaṃ vā uddhaccakukkuccaṃ pahīyati yathayidaṃ, bhikkhave, cetaso vūpasamo. Vūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ nuppajjati uppannañca uddhaccakukkuccaṃ pahīyatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca auddhatyakaukṛtyanivaraṇam notpadyate utpannaṃ ca prahīyate yathā śamathena āsevitena bhāvitena bahulīkṛtena | śamathena āsevitena bhāvitena bahulīkṛtena auddhatyakaukṛtyanivaraṇam notpadyate utpannaṃ ca prahīyate",
+  "matches": [
+    "an1.16-20",
+    "sf203#16.106-#16.111"
+  ]
+},
+{
+  "pli": "Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā nuppajjati uppannā vā vicikicchā pahīyati yathayidaṃ, bhikkhave, yonisomanasikāro. Yoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā nuppajjati uppannā ca vicikicchā pahīyatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yenānutpannaṃ ca vicikitsānivaraṇam notpadyate utpannaṃ ca prahīyate yathā idaṃpratyayatāpratītyasamutpādaparīkṣayā āsevitayā bhāvitayā bahulīkṛtayā | idaṃpratyayatāpratītyasamutpādaparīkṣayā āsevitayā bhāvitayā bahulīkṛtayā vicikitsānivaraṇam notpadyate utpannaṃ ca prahīyate",
+  "matches": [
+    "an1.16-20",
+    "sf203#16.106-#16.111"
+  ]
+},
+{
+  "pli": "Nāhaṃ aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ abhāvitaṃ akammaniyaṃ hoti yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, abhāvitaṃ akammaniyaṃ hotī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yad evam abhāvitam amṛdu bhavati akarmaṇyaṃ yathedaṃ cittam | cittaṃ hi bhikṣavaḥ abhāvitam amṛdu bhavati akarmaṇyam",
+  "matches": [
+    "an1.21",
+    "sf177#2.1"
+  ]
+},
+{
+  "pli": "Taṃ kissa hetu?",
+  "skt": "tat kasya hetor |"
+},
+{
+  "pli": "Micchādiṭṭhikassa, purisapuggalassa yañceva kāyakammaṃ yathādiṭṭhi yañca vacīkammaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā sabbe te dhammā aniṭṭhāya akantāya amanāpāya ahitāya dukkhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa, bhikkhave, pāpikā. ",
+  "skt": "mithyādṛṣṭeḥ puruṣapudgalasya yac ca kāyakarma tathādṛṣṭeḥ yad vākkarma yā cetanā yā prārthanā yaḥ praṇidhir ye ca saṃskārās tanmayāḥ sarve ’sya te dharmā aniṣṭatvāya saṃvartante akāntatvāya apriyatvāya amanāpatvāya amanojñatvāya anabhipretatvāya saṃvartante | tat kasya hetor | dṛṣṭir hi pāpikā yaduta mithyādṛṣṭiḥ |",
+  "matches": [
+    "an1.314",
+    "sf206#17.511-#18.00"
+  ]
+},
+{
+  "pli": "Seyyathāpi, bhikkhave, nimbabījaṃ vā kosātakibījaṃ vā tittakālābubījaṃ vā allāya pathaviyā nikkhittaṃ yañceva pathavirasaṃ upādiyati yañca āporasaṃ upādiyati sabbaṃ taṃ tittakattāya kaṭukattāya asātattāya saṃvattati. Taṃ kissa hetu? Bījañhissa, bhikkhave, pāpakaṃ.",
+  "skt": "tadyathā bhikṣavas tiktāny alābubījāni vā nimbabījāni vā kāśātakībījāni vā sukṣetre ropitāni syuḥ susnigdhe vā pṛthivīpradeśe upanikṣiptāni tāni yaṃ yam eva pṛthivyāḥ pṛthivīrasam ādadate adbhya abrasaṃ tejasas tejorasaṃ vāyor vāyurasaṃ sarve ’sya te rasās tiktatvāya saṃvartante kaṭukatvāya asvādutvāya | tat kasya hetor | bījāni hi tiktāni kaṭūny asvādūni |",
+  "matches": [
+    "an1.314",
+    "sf206#17.511-#18.00"
+  ]
+},
+{
+  "pli": "Evamevaṃ kho, bhikkhave, micchādiṭṭhikassa purisapuggalassa yañceva kāyakammaṃ yathādiṭṭhi yañca vacīkammaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā sabbe te dhammā aniṭṭhāya akantāya amanāpāya ahitāya dukkhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa, bhikkhave, pāpikā”ti.",
+  "skt": "evam eva mithyādṛṣṭir bhikṣavaḥ param avadyānāṃ | mithyādṛṣṭeḥ puruṣapudgalasya yac ca kāyakarma tathādṛṣṭeḥ yad vākkarma yā cetanā yā prārthanā yaḥ praṇidhir ye ca saṃskārās tanmayāḥ sarve ’sya te dharmā aniṣṭatvāya saṃvartante akāntatvāya apriyatvāya amanāpatvāya amanojñatvāya anabhipretatvāya saṃvartante | tat kasya hetor | dṛṣṭir hi bhikṣavaḥ pāpikā yaduta mithyādṛṣṭiḥ |",
+  "matches": [
+    "an1.314",
+    "sf206#17.511-#18.00"
+  ]
+},
+{
+  "pli": "Sammādiṭṭhikassa, purisapuggalassa yañceva kāyakammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yañca vacīkammaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā sabbe te dhammā iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa, bhikkhave, bhaddikā.",
+  "skt": "samyagdṛṣṭeḥ puruṣapudgalasya yac ca kāyakarma tathādṛṣṭeḥ yad vākkarma yā cetanā yā prārthanā yaḥ praṇidhir ye ca saṃskārās tanmayāḥ sarve ’sya te dharmā iṣṭatvāya saṃvartante kāntatvāya priyatvāya manāpatvāya manojñatvāya abhipretatvāya saṃvartante | tat kasya hetor | dṛṣṭir hi bhikṣavo bhadrikā yaduta samyagdṛṣṭiḥ |",
+  "matches": [
+    "an1.315",
+    "sf206#17.521-#17.523"
+  ]
+},
+{
+  "pli": "Seyyathāpi, ucchubījaṃ vā sālibījaṃ vā muddikābījaṃ vā allāya pathaviyā nikkhittaṃ yañceva pathavirasaṃ upādiyati yañca āporasaṃ upādiyati sabbaṃ taṃ madhurattāya sātattāya asecanakattāya saṃvattati. Taṃ kissa hetu? Bījaṃ hissa, bhikkhave, bhaddakaṃ.",
+  "skt": "tadyathā ikṣubījāni vā śālibījāni vā mṛdvikābjāni vā sukṣetre ropitāni syuḥ susnigdhe vā pṛthivīpradeśe upanikṣiptāni tāni yaṃ yam eva pṛthivyāḥ pṛthivīrasam ādadate adbhyaḥ abrasaṃ tejasas tejorasaṃ vāyor vāyurasaṃ sarve ’sya te rasā atiktatvāya saṃvartante akaṭukatvāya svādutvāya | tat kasya hetor | bījāni hi atiktāny akaṭūni svādūni |",
+  "matches": [
+    "an1.315",
+    "sf206#17.521-#17.523"
+  ]
+},
+{
+  "pli": "Evamevaṃ kho, sammādiṭṭhikassa purisapuggalassa yañceva kāyakammaṃ yathādiṭṭhi yañca vacīkammaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā sabbe te dhammā iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa, bhikkhave, bhaddikā”ti.",
+  "skt": "evam eva samyagdṛṣṭeḥ puruṣapudgalasya yac ca kāyakarma tathādṛṣṭeḥ yad vākkarma yā cetanā yā prārthanā yaḥ praṇidhir ye ca saṃskārās tanmayāḥ sarve ’sya te dharmā iṣṭatvāya saṃvartante kāntatvāya priyatvāya manāpatvāya manojñatvāya abhipretatvāya saṃvartante | tat kasya hetor | dṛṣṭir hi bhikṣavo bhadrikā yaduta samyagdṛṣṭiḥ |",
+  "matches": [
+    "an1.315",
+    "sf206#17.521-#17.523"
+  ]
+},
+{
+  "pli": "Durakkhāte, dhammavinaye yo ca samādapeti yañca samādapeti yo ca samādapito tathattāya paṭipajjati sabbe te bahuṃ apuññaṃ pasavanti.",
+  "skt": "durākhyāte dharmavinaya yaś ca samādāpayati yaś ca samādāpyate yaś ca samādāpitas tathatāṃ pratipadyate sarve te bahuśaḥ pāpaṃ prasavanti |",
+  "matches": [
+    "an1.320-321",
+    "sf196#13.14-#13.15"
+  ]
+},
+{
+  "pli": "Svākkhāte, dhammavinaye yo ca samādapeti yañca samādapeti yo ca samādapito tathattāya paṭipajjati sabbe te bahuṃ puññaṃ pasavanti.",
+  "skt": "svākhyāte dharmavinaye yaś ca samādāpayati yaś ca samādāpyate yaś ca samādāpitas tathatāṃ pratipadyate sarve te bahuśaḥ puṇyaṃ prasavanti ||",
+  "matches": [
+    "an1.320-321",
+    "sf196#13.14-#13.15"
+  ]
+},
+{
+  "pli": "Durakkhāte, dhammavinaye yo āraddhavīriyo so dukkhaṃ viharati. Svākkhāte, dhammavinaye yo kusīto so dukkhaṃ viharati. Durakkhāte, bhikkhave, dhammavinaye yo kusīto so sukhaṃ viharati. Svākkhāte, bhikkhave, dhammavinaye yo āraddhavīriyo so sukhaṃ viharati.",
+  "skt": "durākhyāte dharmavinaye yathāyathā ārabdhavīryas tathātathā pāpaṃ | svākhyāte dharmavinaye yathāyathā kusīdas tathātathā pāpaṃ | durākhyāte dharmavinaye yathāyathā kusīdas tathātathā śreyaḥ | svākhyāte dharmavinaye yathāyathā ārabdhavīryas tathātathā śreyaḥ ||",
+  "matches": [
+    "an1.324-327",
+    "sf196#13.21-#13.22"
+  ]
+},
+{
+  "pli": "Nāhaṃ, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ cittaṃ. Cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yad evam adāntam aguptam arakṣitam asaṃvṛtam abhāvitam āyatyāṃ duḥkhavipākaṃ bhavati yathedaṃ cittam | cittaṃ hi bhikṣavaḥ adāntam aguptam arakṣitam asaṃvṛtam abhāvitam āyatyāṃ duḥkhavipākaṃ bhavati |",
+  "matches": [
+    "an1.39",
+    "sf180#3.11",
+  ]
+},
+{
+  "pli": "Nāhaṃ, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattatī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yad evam sudāntaṃ suguptaṃ surakṣitaṃ susaṃvṛtaṃ subhāvitam āyatyāṃ sukhavipākaṃ bhavati yathedaṃ cittam | cittaṃ hi bhikṣavaḥ sudāntaṃ suguptaṃ surakṣitaṃ susaṃvṛtaṃ subhāvitam āyatyāṃ sukhavipākaṃ bhavati |",
+  "matches": [
+    "an1.40",
+    "sf180#3.12-#3.13",
+  ]
+},
+{
+  "pli": "Seyyathāpi, sālisūkaṃ vā yavasūkaṃ vā micchāpaṇihitaṃ hatthena vā pādena vā akkantaṃ hatthaṃ vā pādaṃ vā bhecchati lohitaṃ vā uppādessatīti netaṃ ṭhānaṃ vijjati. Taṃ kissa hetu? Micchāpaṇihitattā, sūkassa. Evamevaṃ kho, so vata bhikkhu micchāpaṇihitena cittena avijjaṃ bhecchati, vijjaṃ uppādessati, nibbānaṃ sacchikarissatīti netaṃ ṭhānaṃ vijjati. Taṃ kissa hetu? Micchāpaṇihitattā, cittassā”ti.",
+  "skt": "tadyathā śāliśūko vā yavaśūko vā mithyāduṣpraṇihitaḥ syāt | taṃ śūkaṃ strī vā puruṣo vā sukumāraḥ sukhaiṣī padbhyām anvākrameta | sa tasya abhavyas tvacaṃ bhitvā rudhiram utpādayituṃ | tat kasya hetor | mithyāduṣpraṇihitatvāc chūkasya | evam eva sa bata mithyāduṣpraṇihitena cittena ātmārthaṃ vā jñāsyati parārthaṃ vā ubhayārthaṃ vā uttaraṃ vā manuṣyadharmam alamāryaviśeṣādhigamaṃ jñānaṃ vā darśanaṃ vā sparśavihāratāṃ vā jñāsyati vā drakṣyati vā nedaṃ sthānaṃ vidyate | tat kasya hetor | mithyāduṣpraṇihitatvāc cittasya |",
+  "matches": [
+    "an1.41",
+    "sf183#4.11-#4.13",
+  ]
+},
+{
+  "pli": "Seyyathāpi, sālisūkaṃ vā yavasūkaṃ vā sammāpaṇihitaṃ hatthena vā pādena vā akkantaṃ hatthaṃ vā pādaṃ vā bhecchati lohitaṃ vā uppādessatīti ṭhānametaṃ vijjati. Taṃ kissa hetu? Sammāpaṇihitattā, sūkassa. Evamevaṃ kho, so vata bhikkhu sammāpaṇihitena cittena avijjaṃ bhecchati, vijjaṃ uppādessati, nibbānaṃ sacchikarissatīti ṭhānametaṃ vijjati. Taṃ kissa hetu? Sammāpaṇihitattā, cittassā”ti.",
+  "skt": " tadyathā śāliśūko vā yavaśūko vā samyaksupraṇihitaḥ syāt | taṃ śūkaṃ strī vā puruṣo vā sukumāraḥ sukhaiṣī padbhyām anvākrameta | sa tasya bhavyas tvacaṃ bhitvā rudhiram utpādayituṃ | tat kasya hetoḥ | samyaksupraṇihitatvāc chūkasya | evam eva sa bata samyaksupraṇihitena cittena ātmārthaṃ vā jñāsyati parārthaṃ vā ubhayārthaṃ vā uttaraṃ vā manuṣyadharmam alamāryaviśeṣādhigamaṃ jñānaṃ vā darśanaṃ vā jñāsyati vā drakṣyati vā sthānam etad vidyate | tat kasya hetor | ṛju samyaksupraṇihitatvāc cittasya |",
+  "matches": [
+    "an1.42",
+    "sf183#4.21-#4.23",
+  ]
+},
+{
+  "pli": "nāññaṃ ekadhammampi samanupassāmi yaṃ evaṃ bhāvitaṃ bahulīkataṃ mudu ca hoti kammaññañca yathayidaṃ cittaṃ. Cittaṃ, bhikkhave, bhāvitaṃ bahulīkataṃ mudu ca hoti kammaññañca hotī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yad evaṃ subhāvitaṃ mṛdu bhavati karmaṇyaṃ yathedaṃ cittaṃ | cittaṃ hi bhikṣavaḥ subhāvitaṃ mṛdu bhavati karmaṇyam |",
+  "matches": [
+    "an1.47",
+    "sf177#2.2-#2.3"
+  ]
+},
+{
+  "pli": "Nāhaṃ, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṃ, kalyāṇamittatā. Kalyāṇamittassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca akusalā dhammā parihāyantī”ti.",
+  "skt": "nāham ekadharmam api samanupaśyāmi yena anutpannāś ca pāpakā akuśalā dharmā notpadyante utpannāś ca prahīyante anutpannāḥ kuśalā dharmā utpadyante utpannāś ca bhūyobhāvavṛddhivipulatāṃ gacchanti yathā kalyāṇamitratayā kalyāṇasahāyatayā kalyāṇasaṃparkatayā | kalyāṇamitrasya hi bhikṣor viharataḥ kalyāṇasahāyasya kalyāṇasaṃparkasya anutpannāś ca pāpakā akuśalā dharmā notpadyante utpannāś ca prahīyante anutpannāḥ kuśalā dharmā utpadyante utpannāś ca bhūyobhāvavṛddhivipulatāṃ gacchanti ||",
+  "matches": [
+    "an1.71",
+    "sf206#17.42"
+  ]
+},
+{
+  "pli": "Dvemā, vassūpanāyikā. Purimikā ca pacchimikā ca.",
+  "skt": "dve varṣopanāyike | pūrvikā ca paścimikā ca || ||",
+  "matches": [
+    "an2.10",
+    "sf225#28.8",
+  ]
+},
+{
+  "pli": "Dveme, paccayā sammādiṭṭhiyā uppādāya. Parato ca ghoso, yoniso ca manasikāro.",
+  "skt": "dve hetū dvau pratyayau samyagdṛṣṭer utpādāya | parataś ca ghoṣa adhyātmaṃ ca yoniśo manasikāraḥ ||",
+  "matches": [
+    "an2.126",
+    "sf225#28.3",
+  ]
+},
+{
+  "pli": "Dveme, bālā. Yo ca accayaṃ accayato na passati, yo ca accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti. Ime kho, bhikkhave, dve bālāti.",
+  "skt": "dvau balau / yaś cātyayam atyayato na jānāti / yaś cātyayam atyayato jñātvā na yathādharmaṃ pratikaroti //",
+  "matches": [
+    "an2.21",
+    "sf235#35.11-#35.12",
+  ]
+},
+{
+  "pli": "Uttānā ca parisā gambhīrā ca parisā. Katamā ca uttānā parisā? Idha, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatī asampajānā asamāhitā vibbhantacittā pākatindriyā. Ayaṃ vuccati, uttānā parisā.",
+  "skt": "uttānāṃ ca vaḥ parṣadaṃ deśayiṣyāmi gaṃbhīrāṃ ca | uttānā parṣat katamā | yeyaṃ parṣat uddhatā unnatā capalā mukharā pragalbhā gharṣitasmṛtir asamāhitā ||| | iyam ucyate uttānā parṣat |",
+  "matches": [
+    "an2.42",
+    "sf121",
+    "sf217#26.41-#26.44"
+  ]
+},
+{
+  "pli": "Katamā ca gambhīrā parisā? Idha, yassaṃ parisāyaṃ bhikkhū anuddhatā honti anunnaḷā acapalā amukharā avikiṇṇavācā upaṭṭhitassatī sampajānā samāhitā ekaggacittā saṃvutindriyā. Ayaṃ vuccati gambhīrā parisā. Imā kho, dve parisā. Etadaggaṃ, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ gambhīrā parisā”ti.",
+  "skt": "gaṃbhīrā parṣat katamā | yeyaṃ parṣad anuddhatā anunnatā acapalā amukharā apragalbhā upasthitasmṛtiḥ samāhitā ||| | iyam ucyate gaṃbhīrā parṣat | uttānāṃ ca vaḥ parṣadaṃ deśayiṣyāmi gaṃbhīrāṃ ceti me yad uktam idaṃ me tat pratyuktam ||",
+  "matches": [
+    "an2.42",
+    "sf121",
+    "sf217#26.41-#26.44"
+  ]
+},
+{
+  "pli": "Vaggā ca parisā samaggā ca parisā. Katamā ca, vaggā parisā? Idha, yassaṃ parisāyaṃ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti. Ayaṃ vuccati vaggā parisā.",
+  "skt": "vyagrāṃ ca vaḥ parṣadaṃ deśayiṣyāmi samagrāṃ ca | vyagrā parṣat katamā | yeyaṃ parṣat kalahajātā viharati bhaṇḍanajātā vigṛhitā vivādamāpannā | iyam ucyate vyagrā parṣat |",
+  "matches": [
+    "an2.43",
+    "sf217#26.31-#26.34",
+  ]
+},
+{
+  "pli": "Anaggavatī ca parisā aggavatī ca parisā. Katamā ca, anaggavatī parisā? Idha, yassaṃ parisāyaṃ therā bhikkhū bāhulikā honti sāthalikā, okkamane pubbaṅgamā, paviveke nikkhittadhurā, na vīriyaṃ ārabhanti appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Ayaṃ vuccati, anaggavatī parisā.",
+  "skt": "anagravatīṃ ca vaḥ parṣadaṃ deśayiṣyāmi agravatīṃ ca | anagravatī parṣat katamā | yasyāṃ parṣadi navakā bhikṣavaḥ sthavireṣu bhikṣuṣu agauravā viharanty apratīśā abhayavaśavartinaḥ sthavirāś ca bhikṣavaḥ śaithilikā bhavanti bāhulikā avakramaṇīye pūrvaṃgamāḥ praviveke nikṣiptadhurāḥ śikṣāyāṃ mandagauravāḥ | iyam ucyate anagravatī parṣat |",
+  "matches": [
+    "an2.44",
+    "sf217#26.21-#26.24",
+  ]
+},
+{
+  "pli": "Katamā ca aggavatī parisā? Idha, yassaṃ parisāyaṃ therā bhikkhū na bāhulikā honti na sāthalikā, okkamane nikkhittadhurā, paviveke pubbaṅgamā, vīriyaṃ ārabhanti appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Tesaṃ pacchimā janatā diṭṭhānugatiṃ āpajjati. Ayaṃ vuccati aggavatī parisā.",
+  "skt": "agravatī parṣat katamā | yasyāṃ parṣadi navakā bhikṣavaḥ sthavireṣu bhikṣuṣu sagauravā viharanti sapratīśāḥ sabhayavaśavartinaḥ sthavirāś ca bhikṣavaḥ na śaithilikā bhavanti abāhulikāḥ avakramaṇīye nikṣiptadhurāḥ praviveke pūrvaṃgamāḥ śikṣāyāṃ tīvragauravāḥ | iyam ucyate agravatī parṣat | ",
+  "matches": [
+    "an2.44",
+    "sf217#26.21-#26.24",
+  ]
+},
+{
+  "pli": "Anariyā ca parisā ariyā ca parisā. Katamā ca anariyā parisā? Idha yassaṃ parisāyaṃ bhikkhū ‘idaṃ dukkhan’ti yathābhūtaṃ nappajānanti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ nappajānanti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ nappajānanti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānanti. Ayaṃ vuccati, anariyā parisā.",
+  "skt": "anāryāṃ ca vaḥ parṣadaṃ deśayiṣyāmi āryāṃ ca | anāryā parṣat katamā | yeyaṃ parṣad idaṃ duḥkham āryasatyam iti yathābhūtaṃ na prajānāty ayaṃ duḥkhasamudayo ’yaṃ duḥkhanirodha iyaṃ duḥkhanirodhagāminī pratipad āryasatyam iti yathābhūtaṃ na prajānāti | iyam ucyate anāryā parṣat |",
+  "matches": [
+    "an2.45",
+    "sf217#26.71-#26.74",
+  ]
+},
+{
+  "pli": "Katamā ca ariyā parisā? Idha, yassaṃ parisāyaṃ bhikkhū ‘idaṃ dukkhan’ti yathābhūtaṃ pajānanti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānanti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānanti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānanti. Ayaṃ vuccati ariyā parisā.",
+  "skt": "āryā parṣat katamā | yeyaṃ parṣad idaṃ duḥkham āryasatyam iti yathābhūtaṃ prajānāty ayaṃ duḥkhasamudayo ’yaṃ duḥkhanirodha iyaṃ duḥkhanirodhagāminī pratipad āryasatyam iti yathābhūtaṃ prajānāti | iyam ucyate āryā parṣat |",
+  "matches": [
+    "an2.45",
+    "sf217#26.71-#26.74",
+  ]
+},
+{
+  "pli": "Parisākasaṭo ca parisāmaṇḍo ca. Katamo ca parisākasaṭo? Ayaṃ vuccati, parisākasaṭo.",
+  "skt": "parṣat kaṣāyaṃ ca vo bhikṣavo deśayiṣyāmi parṣanmaṇḍaṃ ca | parṣatkaṣāyaḥ katamaḥ | ayam ucyate parṣat kaṣāyaḥ |",
+  "matches": [
+    "an2.46",
+    "sf217#26.11-#26.14",
+  ]
+},
+{
+  "pli": "Katamo ca parisāmaṇḍo? Ayaṃ vuccati, parisāmaṇḍo. ",
+  "skt": "parṣanmaṇḍaḥ katamaḥ | ayam ucyate parṣanmaṇḍaḥ | ",
+  "matches": [
+    "an2.46",
+    "sf217#26.11-#26.14",
+  ]
+},
+{
+  "pli": "Dvemā, bhikkhave, parisā. Katamā dve? Āmisagaru parisā no saddhammagaru, saddhammagaru parisā no āmisagaru. Katamā ca, bhikkhave, āmisagaru parisā no saddhammagaru? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū gihīnaṃ odātavasanānaṃ sammukhā aññamaññassa vaṇṇaṃ bhāsanti: ‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti. Te tena lābhaṃ labhanti. Te taṃ lābhaṃ labhitvā gathitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti. Ayaṃ vuccati, bhikkhave, āmisagaru parisā no saddhammagaru.",
+  "skt": "",
+  "matches": [
+    "an2.48",
+    "sf217#26.51-#26.54",
+  ]
+},
+{
+  "pli": "Katamā ca, bhikkhave, saddhammagaru parisā noāmisagaru? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū gihīnaṃ odātavasanānaṃ sammukhā aññamaññassa vaṇṇaṃ na bhāsanti: ‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti. Te tena lābhaṃ labhanti. Te taṃ lābhaṃ labhitvā agathitā amucchitā anajjhosannā ādīnavadassāvino nissaraṇapaññā paribhuñjanti. Ayaṃ vuccati, bhikkhave, saddhammagaru parisā noāmisagaru. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ saddhammagaru parisā noāmisagarū”ti.",
+  "skt": "",
+  "matches": [
+    "an2.48",
+    "sf217#26.51-#26.54",
+  ]
+},
+{
+  "pli": "Dvemā, bhikkhave, parisā. Katamā dve? Visamā ca parisā samā ca parisā. Katamā ca, bhikkhave, visamā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ adhammakammāni pavattanti dhammakammāni nappavattanti, avinayakammāni pavattanti vinayakammāni nappavattanti, adhammakammāni dippanti dhammakammāni na dippanti, avinayakammāni dippanti vinayakammāni na dippanti. Ayaṃ vuccati, bhikkhave, visamā parisā. ",
+  "skt": "",
+  "matches": [
+    "an2.49",
+    "sf217#26.61-#26.64",
+  ]
+},
+{
+  "pli": "Katamā ca, bhikkhave, samā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ dhammakammāni pavattanti adhammakammāni nappavattanti, vinayakammāni pavattanti avinayakammāni nappavattanti, dhammakammāni dippanti adhammakammāni na dippanti, vinayakammāni dippanti avinayakammāni na dippanti. Ayaṃ vuccati, bhikkhave, samā parisā. () Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ samā parisā”ti.",
+  "skt": "",
+  "matches": [
+    "an2.49",
+    "sf217#26.61-#26.64",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an2.60",
+    "sf225#28.61",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an4.162",
+    "arv11",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an4.180",
+    "sf245#24.1-24.52"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an4.41",
+    "arv12",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an4.9",
+    "sf199#14.91",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an5.13",
+    "arv17",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an5.195",
+    "sf245#11.12-#11.20"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an5.196",
+    "san-lo-mvu48#34-#40"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an7.62",
+    "ma138",
+    "sf210#18.61"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "avs40#40.1-#40.2",
+    "sf245#40.29-#40.30",
+    "dn16#227"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "arv1",
+    "dn33#171"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "arv14",
+    "dn33#110"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "arv15",
+    "dn33#111"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "arv2",
+    "dn33#172"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "arv3",
+    "mn115#4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "arv6",
+    "sn56.1#4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "arv9",
+    "dn33#112"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn16#192",
+    "ud8.5#20",
+    "sf225#28.Y"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn16",
+    "avs100",
+    "avs40",
+    "gf20",
+    "sf245#1.1-#33.3",
+    "sht-sutta5",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn17",
+    "ma68",
+    "sf245#34.1-#34.169",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "snp1.5",
+    "sf245#26.18-26.26"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn19",
+    "sht-sutta38",
+    "san-lo-mvu85",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn2",
+    "sht-sutta58",
+    "san-mu-kd17#866-#916",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn20",
+    "sf108",
+    "sf140",
+    "sf242",
+    "sf282",
+    "sf55",
+    "sht-sutta8",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn27",
+    "ma154",
+    "sht-sutta65",
+    "san-lo-mvu32",
+    "up3.104",
+    "sf277"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn27#11-#33",
+    "san-mu-kd17#5-#12",
+    "up3.104",
+    "sf277"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn28",
+    "sf61",
+    "sht-sutta83",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an4.8",
+    "arv23",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn145",
+    "divy2",
+    "sn35.88",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn36",
+    "divy27",
+    "lal17a",
+    "sht-sutta28",
+    "san-lo-mvu47",
+    "san-mu-kd17#134-#156",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn74",
+    "avs99",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn81",
+    "san-mu-kd17#390-#396",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn82",
+    "avs90",
+    "ma132",
+    "sht-sutta18",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf102#23-#24",
+    "san-mu-kd6#206-#208"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu103#1-#10",
+    "snp3.6",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu111",
+    "ja529"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu27",
+    "ja521"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu29",
+    "kp6",
+    "snp2.1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu37",
+    "ja535"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu38",
+    "ja325"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu42",
+    "ja447"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu43",
+    "ja181"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu50",
+    "ja318"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu54",
+    "ja359"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu55",
+    "snp3.2",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu56",
+    "ja118"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu58",
+    "ja208"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu59",
+    "ja209"
+  ]
+},
+
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu68",
+    "ja20"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu76",
+    "ja292"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu79",
+    "ja526"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu84",
+    "ja421"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu98",
+    "ja313"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu99",
+    "ja522"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn12.10",
+    "san-mu-kd17#172",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn16.11",
+    "san-lo-mvu72"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn2.22",
+    "sf210#18.333-#18.335",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn20.1",
+    "sf199#14.22"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn3.1",
+    "san-mu-kd17#253-#255"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn4.25",
+    "lal21",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn4.4",
+    "san-mu-kd17#207-#211",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn45.8",
+    "arv7",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn46.16",
+    "sf245#30.10-#30.22",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn47.24",
+    "arv13",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn47.9",
+    "dn16#104-#106",
+    "sf245#14.1-#14.26",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn55.46",
+    "arv21",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn56.11",
+    "pli-tv-kd1#68-#84",
+    "lal26",
+    "san-mu-kd17#186-#194",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sn9.4",
+    "ja403",
+    "san-lo-mvu107"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-np1",
+    "pli-tv-bi-pm-np1",
+    "san-lo-bi-vb-np14"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-np11",
+    "pli-tv-bi-pm-np11",
+    "san-lo-bi-vb-np19"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-np12",
+    "pli-tv-bi-pm-np12",
+    "san-lo-bi-vb-np20"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-np7",
+    "pli-tv-bi-pm-np7",
+    "san-lo-bi-vb-np13"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc1",
+    "pli-tv-bi-pm-pc1",
+    "san-lo-bi-vb-pc80"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc10",
+    "pli-tv-bi-pm-pc10",
+    "san-lo-bi-vb-pc124"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc11",
+    "pli-tv-bi-pm-pc11",
+    "san-lo-bi-vb-pc123"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc17",
+    "pli-tv-bi-pm-pc17",
+    "san-lo-bi-vb-pc117"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc18",
+    "pli-tv-bi-pm-pc18",
+    "san-lo-bi-vb-pc89"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc19",
+    "pli-tv-bi-pm-pc19",
+    "san-lo-bi-vb-pc87",
+    "san-sarv-bi-vb-pc93"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc20",
+    "pli-tv-bi-pm-pc20",
+    "san-lo-bi-vb-pc88"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc22",
+    "pli-tv-bi-pm-pc22",
+    "san-lo-bi-vb-pc75"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc25",
+    "pli-tv-bi-pm-pc25",
+    "san-lo-bi-vb-pc71"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc28",
+    "pli-tv-bi-pm-pc28",
+    "san-lo-bi-vb-pc72"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc35",
+    "pli-tv-bi-pm-pc35",
+    "san-lo-bi-vb-pc136"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc36",
+    "pli-tv-bi-pm-pc36",
+    "san-lo-bi-vb-pc86"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc38",
+    "pli-tv-bi-pm-pc38",
+    "san-lo-bi-vb-pc118"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc39",
+    "pli-tv-bi-pm-pc39",
+    "san-lo-bi-vb-pc134"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc40",
+    "pli-tv-bi-pm-pc40",
+    "san-lo-bi-vb-pc135"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc44",
+    "pli-tv-bi-pm-pc44",
+    "san-lo-bi-vb-pc84"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc45",
+    "pli-tv-bi-pm-pc45",
+    "san-lo-bi-vb-pc125"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc46",
+    "pli-tv-bi-pm-pc46",
+    "san-lo-bi-vb-pc81"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc51",
+    "pli-tv-bi-pm-pc51",
+    "san-lo-bi-vb-pc116"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc52",
+    "pli-tv-bi-pm-pc52",
+    "san-lo-bi-vb-pc91"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc58",
+    "pli-tv-kd20#65-#74",
+    "pli-tv-bi-pm-pc58",
+    "san-lo-bi-vb-pc131"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc59",
+    "pli-tv-bi-pm-pc59",
+    "san-lo-bi-vb-pc132"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc6",
+    "pli-tv-bi-pm-pc6",
+    "san-lo-bi-vb-pc79"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc60",
+    "pli-tv-bi-pm-pc60",
+    "san-lo-bi-vb-pc133"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc63",
+    "pli-tv-bi-pm-pc63",
+    "san-lo-bi-vb-pc98"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc64",
+    "pli-tv-bi-pm-pc64",
+    "san-lo-bi-vb-pc99",
+    "san-sarv-bi-vb-pc117"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc65",
+    "pli-tv-bi-pm-pc65",
+    "san-lo-bi-vb-pc100"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc66",
+    "pli-tv-bi-pm-pc66",
+    "san-lo-bi-vb-pc102"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc67",
+    "pli-tv-bi-pm-pc67",
+    "san-lo-bi-vb-pc103"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc69",
+    "pli-tv-bi-pm-pc69",
+    "san-lo-bi-vb-pc105"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc7",
+    "pli-tv-bi-pm-pc7",
+    "san-lo-bi-vb-pc78"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc70",
+    "pli-tv-bi-pm-pc70",
+    "san-lo-bi-vb-pc108",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc71",
+    "pli-tv-bi-pm-pc71",
+    "san-lo-bi-vb-pc96",
+    "san-sarv-bi-vb-pc116"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc72",
+    "pli-tv-bi-pm-pc72",
+    "san-lo-bi-vb-pc97"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc74",
+    "pli-tv-bi-pm-pc74",
+    "san-lo-bi-vb-pc92"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc75",
+    "pli-tv-bi-pm-pc75",
+    "san-lo-bi-vb-pc94"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc78",
+    "pli-tv-bi-pm-pc78",
+    "san-lo-bi-vb-pc110"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc82",
+    "pli-tv-bi-pm-pc82",
+    "san-lo-bi-vb-pc106"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc85",
+    "pli-tv-bi-pm-pc85",
+    "san-lo-bi-vb-pc111"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc88",
+    "pli-tv-bi-pm-pc88",
+    "san-lo-bi-vb-pc126",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc90",
+    "pli-tv-bi-pm-pc90",
+    "san-lo-bi-vb-pc127",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc91",
+    "pli-tv-bi-pm-pc91",
+    "san-lo-bi-vb-pc129",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc92",
+    "pli-tv-bi-pm-pc92",
+    "san-lo-bi-vb-pc128",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc93",
+    "pli-tv-bi-pm-pc93",
+    "san-lo-bi-vb-pc130",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pc96",
+    "pli-tv-bi-pm-pc96",
+    "san-lo-bi-vb-pc74"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd1",
+    "pli-tv-bi-pm-pd1",
+    "san-sarv-bi-pm-tf44-pd3",
+    "san-lo-bi-vb-pd1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd2",
+    "pli-tv-bi-pm-pd2",
+    "san-sarv-bi-pm-tf44-pd6",
+    "san-lo-bi-vb-pd2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd3",
+    "pli-tv-bi-pm-pd3",
+    "san-lo-bi-vb-pd3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd4",
+    "pli-tv-bi-pm-pd4",
+    "san-lo-bi-vb-pd4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd5",
+    "pli-tv-bi-pm-pd5",
+    "san-sarv-bi-pm-tf44-pd6",
+    "san-lo-bi-vb-pd7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd6",
+    "pli-tv-bi-pm-pd6",
+    "san-sarv-bi-pm-tf44-pd7",
+    "san-lo-bi-vb-pd8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd7",
+    "pli-tv-bi-pm-pd7",
+    "san-sarv-bi-pm-tf44-pd1",
+    "san-lo-bi-vb-pd5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pd8",
+    "pli-tv-bi-pm-pd8",
+    "san-sarv-bi-pm-tf44-pd2",
+    "san-lo-bi-vb-pd6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pj5",
+    "pli-tv-bi-pm-pj5",
+    "san-lo-bi-vb-pj5",
+    "san-sarv-sm#sm5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pj6",
+    "pli-tv-bi-pm-pj6",
+    "san-sarv-bi-pm-tf3215-pj7",
+    "san-sarv-bi-pm-tf44-pj7",
+    "san-lo-bi-vb-pj7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pj7",
+    "pli-tv-bi-pm-pj7",
+    "san-sarv-bi-pm-tf3215-pj8",
+    "san-sarv-bi-pm-tf44-pj8",
+    "san-lo-bi-vb-pj8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-pj8",
+    "pli-tv-bi-pm-pj8",
+    "san-sarv-bi-pm-tf3215-pj6",
+    "san-sarv-bi-pm-tf44-pj6",
+    "san-lo-bi-vb-pj6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss1",
+    "pli-tv-bi-pm-ss1",
+    "san-lo-bi-vb-ss4",
+    "san-sarv-bi-vb-ss7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss10",
+    "pli-tv-bi-pm-ss10",
+    "san-lo-bi-vb-ss19"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss11",
+    "pli-tv-bi-pm-ss11",
+    "san-lo-bi-vb-ss15"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss12",
+    "pli-tv-bi-pm-ss12",
+    "san-lo-bi-vb-ss17"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss13",
+    "pli-tv-bi-pm-ss13",
+    "san-lo-bi-vb-ss18"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss2",
+    "pli-tv-bi-pm-ss2",
+    "san-sarv-bi-pm-tf3215-ss8",
+    "san-sarv-bi-pm-tf44-ss8",
+    "san-lo-bi-vb-ss8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss4",
+    "pli-tv-bi-pm-ss4",
+    "san-lo-bi-vb-ss10"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss5",
+    "pli-tv-bi-pm-ss5",
+    "san-lo-bi-vb-ss11"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bi-vb-ss6",
+    "pli-tv-bi-pm-ss6",
+    "san-sarv-bi-pm-tf3215-ss5",
+    "san-sarv-bi-pm-tf44-ss5",
+    "san-lo-bi-vb-ss12"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-as1",
+    "pli-tv-bu-pm-as1",
+    "san-sarv-bu-pm-tf11-as1",
+    "san-sarv-bu-pm-finot-as1",
+    "san-mu-bu-pm-gbm3-as1",
+    "san-mu-bu-pm-gbm2-as1",
+    "san-mu-mpt-bu-pm-as1",
+    "san-mg-bu-pm-as1",
+    "san-lo-bu-pm-as1",
+    "pli-tv-bi-vb-as1",
+    "pli-tv-bi-pm-as1",
+    "san-lo-bi-vb-as1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-as2",
+    "pli-tv-bu-pm-as2",
+    "san-sarv-bu-pm-tf11-as2",
+    "san-sarv-bu-pm-finot-as2",
+    "san-mu-bu-pm-gbm3-as2",
+    "san-mu-bu-pm-gbm2-as2",
+    "san-mu-mpt-bu-pm-as2",
+    "san-mg-bu-pm-as2",
+    "san-lo-bu-pm-as2",
+    "pli-tv-bi-vb-as2",
+    "pli-tv-bi-pm-as2",
+    "san-lo-bi-vb-as2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-as3",
+    "pli-tv-bu-pm-as3",
+    "san-sarv-bu-pm-tf11-as3",
+    "san-sarv-bu-pm-finot-as3",
+    "san-mu-bu-pm-gbm3-as3",
+    "san-mu-bu-pm-gbm2-as3",
+    "san-mu-mpt-bu-pm-as3",
+    "san-mg-bu-pm-as3",
+    "san-lo-bu-pm-as3",
+    "pli-tv-bi-vb-as3",
+    "pli-tv-bi-pm-as3",
+    "san-lo-bi-vb-as3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-as4",
+    "pli-tv-bu-pm-as4",
+    "san-sarv-bu-pm-tf11-as4",
+    "san-sarv-bu-pm-finot-as4",
+    "san-mu-bu-pm-gbm3-as7",
+    "san-mu-bu-pm-gbm2-as7",
+    "san-mu-mpt-bu-pm-as7",
+    "san-mg-bu-pm-as4",
+    "san-lo-bu-pm-as4",
+    "pli-tv-bi-vb-as4",
+    "pli-tv-bi-pm-as4",
+    "san-lo-bi-vb-as4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-as5",
+    "pli-tv-bu-pm-as5",
+    "san-sarv-bu-pm-tf11-as6",
+    "san-sarv-bu-pm-finot-as6",
+    "san-mu-bu-pm-gbm3-as4",
+    "san-mu-bu-pm-gbm2-as4",
+    "san-mu-mpt-bu-pm-as4",
+    "san-mg-bu-pm-as6",
+    "san-lo-bu-pm-as6",
+    "pli-tv-bi-vb-as5",
+    "pli-tv-bi-pm-as5",
+    "san-lo-bi-vb-as6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-as6",
+    "pli-tv-bu-pm-as6",
+    "san-sarv-bu-pm-tf11-as5",
+    "san-sarv-bu-pm-finot-as5",
+    "san-mu-bu-pm-gbm3-as5",
+    "san-mu-bu-pm-gbm2-as5",
+    "san-mu-mpt-bu-pm-as5",
+    "san-mg-bu-pm-as5",
+    "san-lo-bu-pm-as5",
+    "pli-tv-bi-vb-as6",
+    "pli-tv-bi-pm-as6",
+    "san-lo-bi-vb-as5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-as7",
+    "pli-tv-bu-pm-as7",
+    "san-sarv-bu-pm-tf11-as7",
+    "san-sarv-bu-pm-finot-as7",
+    "san-mu-bu-pm-gbm3-as6",
+    "san-mu-bu-pm-gbm2-as6",
+    "san-mu-mpt-bu-pm-as6",
+    "san-mg-bu-pm-as7",
+    "san-lo-bu-pm-as7",
+    "pli-tv-bi-vb-as7",
+    "pli-tv-bi-pm-as7",
+    "san-lo-bi-vb-as7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ay1",
+    "pli-tv-bu-pm-ay1",
+    "san-sarv-bu-pm-tf11-ay1",
+    "san-sarv-bu-pm-finot-ay1",
+    "san-mu-bu-pm-gbm3-ay1",
+    "san-mu-mpt-bu-pm-ay1",
+    "san-mg-bu-pm-ay1",
+    "san-lo-bu-pm-ay1",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ay2",
+    "pli-tv-bu-pm-ay2",
+    "san-sarv-bu-pm-tf11-ay2",
+    "san-sarv-bu-pm-finot-ay2",
+    "san-mu-bu-pm-gbm3-ay2",
+    "san-mu-mpt-bu-pm-ay2",
+    "san-mg-bu-pm-ay2",
+    "san-lo-bu-pm-ay2",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np1",
+    "pli-tv-bu-pm-np1",
+    "san-sarv-bu-pm-tf11-np1",
+    "san-sarv-bu-pm-finot-np1",
+    "san-mu-bu-pm-gbm3-np1",
+    "san-mu-mpt-bu-pm-np1",
+    "san-mg-bu-pm-np1",
+    "san-lo-bu-pm-np1",
+    "pli-tv-bi-vb-np13",
+    "pli-tv-bi-pm-np13",
+    "san-lo-bi-vb-np1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np10",
+    "pli-tv-bu-pm-np10",
+    "san-sarv-bu-pm-tf11-np10",
+    "san-sarv-bu-pm-finot-np10",
+    "san-mu-bu-pm-gbm3-np10",
+    "san-mu-mpt-bu-pm-np10",
+    "san-mg-bu-pm-np10",
+    "san-lo-bu-pm-np10",
+    "san-bu-pm-qizil-np10",
+    "pli-tv-bi-vb-np20",
+    "pli-tv-bi-pm-np20",
+    "san-sarv-bi-pm-tf3215-np8",
+    "san-sarv-bi-pm-tf44-np8",
+    "san-lo-bi-vb-np10"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np11",
+    "pli-tv-bu-pm-np11",
+    "san-sarv-bu-pm-tf11-np11",
+    "san-sarv-bu-pm-finot-np11",
+    "san-mu-bu-pm-gbm3-np11",
+    "san-mu-mpt-bu-pm-np11",
+    "san-mg-bu-pm-np13",
+    "san-lo-bu-pm-np13",
+    "san-bu-pm-qizil-np11"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np12",
+    "pli-tv-bu-pm-np12",
+    "san-sarv-bu-pm-tf11-np12",
+    "san-sarv-bu-pm-finot-np12",
+    "san-mu-bu-pm-gbm3-np12",
+    "san-mu-mpt-bu-pm-np12",
+    "san-mg-bu-pm-np11",
+    "san-lo-bu-pm-np11",
+    "san-bu-pm-qizil-np12"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np13",
+    "pli-tv-bu-pm-np13",
+    "san-sarv-bu-pm-tf11-np13",
+    "san-sarv-bu-pm-finot-np13",
+    "san-mu-bu-pm-gbm3-np13",
+    "san-mu-mpt-bu-pm-np13",
+    "san-mg-bu-pm-np12",
+    "san-lo-bu-pm-np12",
+    "san-bu-pm-qizil-np13"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np14",
+    "pli-tv-bu-pm-np14",
+    "san-sarv-bu-pm-tf11-np14",
+    "san-sarv-bu-pm-finot-np14",
+    "san-mu-bu-pm-gbm3-np14",
+    "san-mu-mpt-bu-pm-np14",
+    "san-mg-bu-pm-np14",
+    "san-lo-bu-pm-np14",
+    "san-bu-pm-qizil-np14"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np15",
+    "pli-tv-bu-pm-np15",
+    "san-sarv-bu-pm-tf11-np15",
+    "san-sarv-bu-pm-finot-np15",
+    "san-mu-bu-pm-gbm3-np15",
+    "san-mu-mpt-bu-pm-np15",
+    "san-mg-bu-pm-np15",
+    "san-lo-bu-pm-np15",
+    "san-bu-pm-qizil-np15"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np16",
+    "pli-tv-bu-pm-np16",
+    "san-sarv-bu-pm-tf11-np16",
+    "san-sarv-bu-pm-finot-np16",
+    "san-mu-bu-pm-gbm3-np16",
+    "san-mu-mpt-bu-pm-np16",
+    "san-mg-bu-pm-np16",
+    "san-lo-bu-pm-np16",
+    "san-bu-pm-qizil-np16"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np17",
+    "pli-tv-bu-pm-np17",
+    "san-sarv-bu-pm-tf11-np17",
+    "san-sarv-bu-pm-finot-np17",
+    "san-mu-bu-pm-gbm3-np17",
+    "san-mu-mpt-bu-pm-np17",
+    "san-mg-bu-pm-np17",
+    "san-lo-bu-pm-np17",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np18",
+    "pli-tv-bu-pm-np18",
+    "san-sarv-bu-pm-tf11-np18",
+    "san-sarv-bu-pm-finot-np18",
+    "san-mu-bu-pm-gbm3-np18",
+    "san-mu-mpt-bu-pm-np18",
+    "san-mg-bu-pm-np18",
+    "san-lo-bu-pm-np18",
+    "pli-tv-bi-vb-np21",
+    "pli-tv-bi-pm-np21",
+    "san-lo-bi-vb-np4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np19",
+    "pli-tv-bu-pm-np19",
+    "san-sarv-bu-pm-tf11-np19",
+    "san-sarv-bu-pm-finot-np19",
+    "san-mu-bu-pm-gbm3-np19",
+    "san-mu-mpt-bu-pm-np19",
+    "san-mg-bu-pm-np20",
+    "san-lo-bu-pm-np20",
+    "pli-tv-bi-vb-np22",
+    "pli-tv-bi-pm-np22",
+    "san-lo-bi-vb-np25"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np2",
+    "pli-tv-bu-pm-np2",
+    "san-sarv-bu-pm-tf11-np2",
+    "san-sarv-bu-pm-finot-np2",
+    "san-mu-bu-pm-gbm3-np2",
+    "san-mu-mpt-bu-pm-np2",
+    "san-mg-bu-pm-np2",
+    "san-lo-bu-pm-np2",
+    "pli-tv-bi-vb-np14",
+    "pli-tv-bi-pm-np14",
+    "san-lo-bi-vb-np2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np20",
+    "pli-tv-bu-pm-np20",
+    "san-sarv-bu-pm-tf11-np20",
+    "san-sarv-bu-pm-finot-np20",
+    "san-mu-bu-pm-gbm3-np20",
+    "san-mu-mpt-bu-pm-np20",
+    "san-mg-bu-pm-np19",
+    "san-lo-bu-pm-np19",
+    "pli-tv-bi-vb-np23",
+    "pli-tv-bi-pm-np23",
+    "san-lo-bi-vb-np5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np21",
+    "pli-tv-bu-pm-np21",
+    "san-sarv-bu-pm-tf11-np21",
+    "san-sarv-bu-pm-finot-np21",
+    "san-mu-bu-pm-gbm3-np21",
+    "san-mu-mpt-bu-pm-np21",
+    "san-mg-bu-pm-np21",
+    "san-lo-bu-pm-np21",
+    "san-lo-bi-vb-np21"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np22",
+    "pli-tv-bu-pm-np22",
+    "san-sarv-bu-pm-tf11-np22",
+    "san-sarv-bu-pm-finot-np22",
+    "san-mu-bu-pm-gbm3-np22",
+    "san-mu-mpt-bu-pm-np22",
+    "san-mg-bu-pm-np22",
+    "san-lo-bu-pm-np22",
+    "pli-tv-bi-vb-np24",
+    "pli-tv-bi-pm-np24",
+    "san-lo-bi-vb-np22"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np23",
+    "pli-tv-kd6#43-#49",
+    "pli-tv-bu-pm-np23",
+    "san-sarv-bu-pm-tf11-np30",
+    "san-sarv-bu-pm-finot-np30",
+    "san-mu-bu-pm-gbm3-np30",
+    "san-mu-mpt-bu-pm-np30",
+    "san-mg-bu-pm-np23",
+    "san-lo-bu-pm-np23",
+    "pli-tv-bi-vb-np25",
+    "pli-tv-bi-pm-np25",
+    "san-sarv-bi-pm-tf3215-np18",
+    "san-lo-bi-vb-np23"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np24",
+    "pli-tv-bu-pm-np24",
+    "san-sarv-bu-pm-tf11-np26",
+    "san-sarv-bu-pm-finot-np26",
+    "san-mu-bu-pm-gbm3-np28",
+    "san-mu-mpt-bu-pm-np28",
+    "san-mg-bu-pm-np25",
+    "san-lo-bu-pm-np25",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np25",
+    "pli-tv-bu-pm-np25",
+    "san-sarv-bu-pm-tf11-np25",
+    "san-sarv-bu-pm-finot-np25",
+    "san-mu-bu-pm-gbm3-np25",
+    "san-mu-mpt-bu-pm-np25",
+    "san-mg-bu-pm-np24",
+    "san-lo-bu-pm-np24",
+    "pli-tv-bi-vb-np26",
+    "pli-tv-bi-pm-np26",
+    "san-sarv-bi-pm-tf3215-np15",
+    "san-lo-bi-vb-np24"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np26",
+    "pli-tv-bu-pm-np26",
+    "san-sarv-bu-pm-tf11-np23",
+    "san-sarv-bu-pm-finot-np23",
+    "san-mu-bu-pm-gbm3-np23",
+    "san-mu-mpt-bu-pm-np23",
+    "san-mg-bu-pm-np26",
+    "san-lo-bu-pm-np26",
+    "pli-tv-bi-vb-np27",
+    "pli-tv-bi-pm-np27",
+    "san-lo-bi-vb-np26"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np27",
+    "pli-tv-bu-pm-np27",
+    "san-sarv-bu-pm-tf11-np24",
+    "san-sarv-bu-pm-finot-np24",
+    "san-mu-bu-pm-gbm3-np24",
+    "san-mu-mpt-bu-pm-np24",
+    "san-mg-bu-pm-np27",
+    "san-lo-bu-pm-np27",
+    "pli-tv-bi-vb-np28",
+    "pli-tv-bi-pm-np28",
+    "san-sarv-bi-pm-tf3215-np14",
+    "san-lo-bi-vb-np27"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np28",
+    "pli-tv-bu-pm-np28",
+    "san-sarv-bu-pm-tf11-np27",
+    "san-sarv-bu-pm-finot-np28",
+    "san-mu-bu-pm-gbm3-np26",
+    "san-mu-mpt-bu-pm-np27",
+    "san-mg-bu-pm-np28",
+    "san-lo-bu-pm-np28",
+    "pli-tv-bi-vb-np29",
+    "pli-tv-bi-pm-np29",
+    "san-sarv-bi-pm-tf3215-np16",
+    "san-lo-bi-vb-np28"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np29",
+    "pli-tv-bu-pm-np29",
+    "san-sarv-bu-pm-tf11-np28",
+    "san-sarv-bu-pm-finot-np27",
+    "san-mu-bu-pm-gbm3-np27",
+    "san-mu-mpt-bu-pm-np26",
+    "san-mg-bu-pm-np29",
+    "san-lo-bu-pm-np29",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np3",
+    "pli-tv-bu-pm-np3",
+    "san-sarv-bu-pm-tf11-np3",
+    "san-sarv-bu-pm-finot-np3",
+    "san-mu-bu-pm-gbm3-np3",
+    "san-mu-mpt-bu-pm-np3",
+    "san-mg-bu-pm-np3",
+    "san-lo-bu-pm-np3",
+    "pli-tv-bi-vb-np15",
+    "pli-tv-bi-pm-np15",
+    "san-lo-bi-vb-np3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np30",
+    "pli-tv-bu-pm-np30",
+    "san-sarv-bu-pm-tf11-np29",
+    "san-sarv-bu-pm-finot-np29",
+    "san-mu-bu-pm-gbm3-np29",
+    "san-mu-mpt-bu-pm-np29",
+    "san-mg-bu-pm-np30",
+    "san-lo-bu-pm-np30",
+    "pli-tv-bi-vb-np30",
+    "pli-tv-bi-pm-np30",
+    "san-sarv-bi-pm-tf3215-np17",
+    "san-lo-bi-vb-np30"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np4",
+    "pli-tv-bu-pm-np4",
+    "san-sarv-bu-pm-tf11-np4",
+    "san-sarv-bu-pm-finot-np5",
+    "san-mu-bu-pm-gbm3-np4",
+    "san-mu-mpt-bu-pm-np4",
+    "san-mg-bu-pm-np5",
+    "san-lo-bu-pm-np5",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np5",
+    "pli-tv-bu-pm-np5",
+    "san-sarv-bu-pm-tf11-np5",
+    "san-sarv-bu-pm-finot-np4",
+    "san-mu-bu-pm-gbm3-np5",
+    "san-mu-mpt-bu-pm-np5",
+    "san-mg-bu-pm-np4",
+    "san-lo-bu-pm-np4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np6",
+    "pli-tv-bu-pm-np6",
+    "san-sarv-bu-pm-tf11-np6",
+    "san-sarv-bu-pm-finot-np6",
+    "san-mu-bu-pm-gbm3-np6",
+    "san-mu-mpt-bu-pm-np6",
+    "san-mg-bu-pm-np6",
+    "san-lo-bu-pm-np6",
+    "san-bu-pm-qizil-np6",
+    "pli-tv-bi-vb-np16",
+    "pli-tv-bi-pm-np16",
+    "san-lo-bi-vb-np6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np7",
+    "pli-tv-bu-pm-np7",
+    "san-sarv-bu-pm-tf11-np7",
+    "san-sarv-bu-pm-finot-np7",
+    "san-mu-bu-pm-gbm3-np7",
+    "san-mu-mpt-bu-pm-np7",
+    "san-mg-bu-pm-np7",
+    "san-lo-bu-pm-np7",
+    "pli-tv-bi-vb-np17",
+    "pli-tv-bi-pm-np17",
+    "san-sarv-bi-pm-tf3215-np5",
+    "san-sarv-bi-pm-tf44-np5",
+    "san-lo-bi-vb-np7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np8",
+    "pli-tv-bu-pm-np8",
+    "san-sarv-bu-pm-tf11-np8",
+    "san-sarv-bu-pm-finot-np8",
+    "san-mu-bu-pm-gbm3-np8",
+    "san-mu-mpt-bu-pm-np8",
+    "san-mg-bu-pm-np8",
+    "san-lo-bu-pm-np8",
+    "pli-tv-bi-vb-np18",
+    "pli-tv-bi-pm-np18",
+    "san-sarv-bi-pm-tf3215-np6",
+    "san-sarv-bi-pm-tf44-np6",
+    "san-lo-bi-vb-np8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-np9",
+    "pli-tv-bu-pm-np9",
+    "san-sarv-bu-pm-tf11-np9",
+    "san-sarv-bu-pm-finot-np9",
+    "san-mu-bu-pm-gbm3-np9",
+    "san-mu-mpt-bu-pm-np9",
+    "san-mg-bu-pm-np9",
+    "san-lo-bu-pm-np9",
+    "pli-tv-bi-vb-np19",
+    "pli-tv-bi-pm-np19",
+    "san-lo-bi-vb-np9"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc1",
+    "pli-tv-bu-pm-pc1",
+    "san-sarv-bu-pm-tf11-pc1",
+    "san-sarv-bu-pm-finot-pc1",
+    "san-mu-bu-pm-gbm3-pc1",
+    "san-mu-mpt-bu-pm-pc1",
+    "san-mg-bu-pm-pc1",
+    "san-lo-bu-pm-pc1",
+    "pli-tv-bi-vb-pc97",
+    "pli-tv-bi-pm-pc97",
+    "san-lo-bi-vb-pc1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc10",
+    "pli-tv-bu-pm-pc10",
+    "san-sarv-bu-pm-tf11-pc73",
+    "san-sarv-bu-pm-finot-pc73",
+    "san-mu-bu-pm-gbm3-pc73",
+    "san-mu-bu-pm-gbm2-pc73",
+    "san-mu-mpt-bu-pm-pc73",
+    "san-mg-bu-pm-pc73",
+    "san-lo-bu-pm-pc73",
+    "san-bu-pm-qizil-pc73",
+    "pli-tv-bi-vb-pc106",
+    "pli-tv-bi-pm-pc106",
+    "san-lo-bi-vb-pc53"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc11",
+    "pli-tv-bu-pm-pc11",
+    "san-sarv-bu-pm-tf11-pc11",
+    "san-sarv-bu-pm-finot-pc11",
+    "san-mu-bu-pm-gbm3-pc11",
+    "san-mu-mpt-bu-pm-pc11",
+    "san-mg-bu-pm-pc11",
+    "san-lo-bu-pm-pc11",
+    "pli-tv-bi-vb-pc107",
+    "pli-tv-bi-pm-pc107",
+    "san-lo-bi-vb-pc11"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc12",
+    "pli-tv-bu-pm-pc12",
+    "san-sarv-bu-pm-tf11-pc13",
+    "san-sarv-bu-pm-finot-pc13",
+    "san-mu-bu-pm-gbm3-pc13",
+    "san-mu-mpt-bu-pm-pc13",
+    "san-mg-bu-pm-pc12",
+    "san-lo-bu-pm-pc12",
+    "pli-tv-bi-vb-pc108",
+    "pli-tv-bi-pm-pc108",
+    "san-lo-bi-vb-pc12"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc13",
+    "pli-tv-bu-pm-pc13",
+    "san-sarv-bu-pm-tf11-pc12",
+    "san-sarv-bu-pm-finot-pc12",
+    "san-mu-bu-pm-gbm3-pc12",
+    "san-mu-mpt-bu-pm-pc12",
+    "san-mg-bu-pm-pc13",
+    "san-lo-bu-pm-pc13",
+    "pli-tv-bi-vb-pc109",
+    "pli-tv-bi-pm-pc109",
+    "san-lo-bi-vb-pc13"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc14",
+    "pli-tv-bu-pm-pc14",
+    "san-sarv-bu-pm-tf11-pc14",
+    "san-sarv-bu-pm-finot-pc14",
+    "san-mu-bu-pm-gbm3-pc14",
+    "san-mu-mpt-bu-pm-pc14",
+    "san-mg-bu-pm-pc14",
+    "san-lo-bu-pm-pc14",
+    "pli-tv-bi-vb-pc110",
+    "pli-tv-bi-pm-pc110",
+    "san-lo-bi-vb-pc14"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc15",
+    "pli-tv-bu-pm-pc15",
+    "san-sarv-bu-pm-tf11-pc15",
+    "san-sarv-bu-pm-finot-pc15",
+    "san-mu-bu-pm-gbm3-pc15",
+    "san-mu-mpt-bu-pm-pc15",
+    "san-mg-bu-pm-pc15",
+    "san-lo-bu-pm-pc15",
+    "pli-tv-bi-vb-pc111",
+    "pli-tv-bi-pm-pc111",
+    "san-lo-bi-vb-pc15"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc16",
+    "pli-tv-bu-pm-pc16",
+    "san-sarv-bu-pm-tf11-pc17",
+    "san-sarv-bu-pm-finot-pc17",
+    "san-mu-bu-pm-gbm3-pc17",
+    "san-mu-mpt-bu-pm-pc17",
+    "san-mg-bu-pm-pc17",
+    "san-lo-bu-pm-pc17",
+    "pli-tv-bi-vb-pc112",
+    "pli-tv-bi-pm-pc112",
+    "san-lo-bi-vb-pc17"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc17",
+    "pli-tv-bu-pm-pc17",
+    "san-sarv-bu-pm-tf11-pc16",
+    "san-sarv-bu-pm-finot-pc16",
+    "san-mu-bu-pm-gbm3-pc16",
+    "san-mu-mpt-bu-pm-pc16",
+    "san-mg-bu-pm-pc16",
+    "san-lo-bu-pm-pc16",
+    "pli-tv-bi-vb-pc113",
+    "pli-tv-bi-pm-pc113",
+    "san-lo-bi-vb-pc16"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc18",
+    "pli-tv-bu-pm-pc18",
+    "san-sarv-bu-pm-tf11-pc18",
+    "san-sarv-bu-pm-finot-pc18",
+    "san-mu-bu-pm-gbm3-pc18",
+    "san-mu-mpt-bu-pm-pc18",
+    "san-mg-bu-pm-pc18",
+    "san-lo-bu-pm-pc18",
+    "pli-tv-bi-vb-pc114",
+    "pli-tv-bi-pm-pc114",
+    "san-lo-bi-vb-pc18"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc19",
+    "pli-tv-bu-pm-pc19",
+    "san-sarv-bu-pm-tf11-pc20",
+    "san-sarv-bu-pm-finot-pc20",
+    "san-mu-bu-pm-gbm3-pc20",
+    "san-mu-mpt-bu-pm-pc20",
+    "san-mg-bu-pm-pc20",
+    "san-lo-bu-pm-pc20",
+    "pli-tv-bi-vb-pc115",
+    "pli-tv-bi-pm-pc115",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc2",
+    "pli-tv-bu-pm-pc2",
+    "san-sarv-bu-pm-tf11-pc2",
+    "san-sarv-bu-pm-finot-pc2",
+    "san-mu-bu-pm-gbm3-pc2",
+    "san-mu-mpt-bu-pm-pc2",
+    "san-mg-bu-pm-pc2",
+    "san-lo-bu-pm-pc2",
+    "pli-tv-bi-vb-pc98",
+    "pli-tv-bi-pm-pc98",
+    "san-lo-bi-vb-pc2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc20",
+    "pli-tv-bu-pm-pc20",
+    "san-sarv-bu-pm-tf11-pc19",
+    "san-sarv-bu-pm-finot-pc19",
+    "san-mu-bu-pm-gbm3-pc19",
+    "san-mu-mpt-bu-pm-pc19",
+    "san-mg-bu-pm-pc19",
+    "san-lo-bu-pm-pc19",
+    "pli-tv-bi-vb-pc116",
+    "pli-tv-bi-pm-pc116",
+    "san-lo-bi-vb-pc19"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc21",
+    "pli-tv-bu-pm-pc21",
+    "san-sarv-bu-pm-tf11-pc21",
+    "san-sarv-bu-pm-finot-pc21",
+    "san-mu-bu-pm-gbm3-pc21",
+    "san-mu-mpt-bu-pm-pc21",
+    "san-mg-bu-pm-pc21",
+    "san-lo-bu-pm-pc21",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc22",
+    "pli-tv-bu-pm-pc22",
+    "san-sarv-bu-pm-tf11-pc22",
+    "san-sarv-bu-pm-finot-pc22",
+    "san-mu-bu-pm-gbm3-pc22",
+    "san-mu-mpt-bu-pm-pc22",
+    "san-mg-bu-pm-pc22",
+    "san-lo-bu-pm-pc22",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc23",
+    "pli-tv-bu-pm-pc23",
+    "san-mg-bu-pm-pc23",
+    "san-lo-bu-pm-pc23",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc24",
+    "pli-tv-bu-pm-pc24",
+    "san-sarv-bu-pm-tf11-pc23",
+    "san-sarv-bu-pm-finot-pc23",
+    "san-mu-bu-pm-gbm3-pc23",
+    "san-mu-mpt-bu-pm-pc23",
+    "san-mg-bu-pm-pc24",
+    "san-lo-bu-pm-pc24",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc25",
+    "pli-tv-bu-pm-pc25",
+    "san-sarv-bu-pm-tf11-pc27",
+    "san-sarv-bu-pm-finot-pc26",
+    "san-mu-bu-pm-gbm3-pc24",
+    "san-mu-mpt-bu-pm-pc24",
+    "san-mg-bu-pm-pc28",
+    "san-lo-bu-pm-pc28",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc26",
+    "pli-tv-bu-pm-pc26",
+    "san-sarv-bu-pm-tf11-pc26",
+    "san-sarv-bu-pm-finot-pc27",
+    "san-mu-bu-pm-gbm3-pc25",
+    "san-mu-mpt-bu-pm-pc25",
+    "san-mg-bu-pm-pc29",
+    "san-lo-bu-pm-pc29",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc27",
+    "pli-tv-bu-pm-pc27",
+    "san-sarv-bu-pm-tf11-pc24",
+    "san-sarv-bu-pm-finot-pc24",
+    "san-mu-bu-pm-gbm3-pc26",
+    "san-mu-mpt-bu-pm-pc26",
+    "san-mg-bu-pm-pc26",
+    "san-lo-bu-pm-pc26",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc28",
+    "pli-tv-bu-pm-pc28",
+    "san-sarv-bu-pm-tf11-pc25",
+    "san-sarv-bu-pm-finot-pc25",
+    "san-mu-bu-pm-gbm3-pc27",
+    "san-mu-mpt-bu-pm-pc27",
+    "san-mg-bu-pm-pc27",
+    "san-lo-bu-pm-pc27",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc29",
+    "pli-tv-bu-pm-pc29",
+    "san-sarv-bu-pm-tf11-pc30",
+    "san-sarv-bu-pm-finot-pc30",
+    "san-mu-bu-pm-gbm3-pc30",
+    "san-mu-mpt-bu-pm-pc30",
+    "san-mg-bu-pm-pc30",
+    "san-lo-bu-pm-pc30",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc3",
+    "pli-tv-bu-pm-pc3",
+    "san-sarv-bu-pm-tf11-pc3",
+    "san-sarv-bu-pm-finot-pc3",
+    "san-mu-bu-pm-gbm3-pc3",
+    "san-mu-mpt-bu-pm-pc3",
+    "san-mg-bu-pm-pc3",
+    "san-lo-bu-pm-pc3",
+    "pli-tv-bi-vb-pc99",
+    "pli-tv-bi-pm-pc99",
+    "san-lo-bi-vb-pc3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc30",
+    "pli-tv-bu-pm-pc30",
+    "san-sarv-bu-pm-tf11-pc28",
+    "san-sarv-bu-pm-finot-pc28",
+    "san-mu-mpt-bu-pm-pc28",
+    "san-mg-bu-pm-pc25",
+    "san-lo-bu-pm-pc25",
+    "san-lo-bi-vb-pc120"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc31",
+    "pli-tv-bu-pm-pc31",
+    "san-sarv-bu-pm-tf11-pc32",
+    "san-sarv-bu-pm-finot-pc32",
+    "san-mu-bu-pm-gbm3-pc32",
+    "san-mu-mpt-bu-pm-pc32",
+    "san-mg-bu-pm-pc31",
+    "san-lo-bu-pm-pc31",
+    "pli-tv-bi-vb-pc117",
+    "pli-tv-bi-pm-pc117",
+    "san-lo-bi-vb-pc21"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc32",
+    "pli-tv-bu-pm-pc32",
+    "san-sarv-bu-pm-tf11-pc36",
+    "san-sarv-bu-pm-finot-pc36",
+    "san-mu-bu-pm-gbm3-pc36",
+    "san-mu-bu-pm-gbm2-pc36",
+    "san-mu-mpt-bu-pm-pc36",
+    "san-mg-bu-pm-pc40",
+    "san-lo-bu-pm-pc40",
+    "san-bu-pm-qizil-pc36",
+    "pli-tv-bi-vb-pc118",
+    "pli-tv-bi-pm-pc118",
+    "san-lo-bi-vb-pc30"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc33",
+    "pli-tv-bu-pm-pc33",
+    "san-sarv-bu-pm-tf11-pc31",
+    "san-sarv-bu-pm-finot-pc31",
+    "san-mu-bu-pm-gbm3-pc31",
+    "san-mu-mpt-bu-pm-pc31",
+    "san-mg-bu-pm-pc32",
+    "san-lo-bu-pm-pc32",
+    "san-lo-bi-vb-pc22"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc34",
+    "pli-tv-bu-pm-pc34",
+    "san-sarv-bu-pm-tf11-pc33",
+    "san-sarv-bu-pm-finot-pc33",
+    "san-mu-bu-pm-gbm3-pc33",
+    "san-mu-bu-pm-gbm2-pc33",
+    "san-mu-mpt-bu-pm-pc33",
+    "san-mg-bu-pm-pc38",
+    "san-lo-bu-pm-pc38",
+    "pli-tv-bi-vb-pc119",
+    "pli-tv-bi-pm-pc119",
+    "san-lo-bi-vb-pc28"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc35",
+    "pli-tv-bu-pm-pc35",
+    "san-sarv-bu-pm-tf11-pc34",
+    "san-sarv-bu-pm-finot-pc34",
+    "san-mu-bu-pm-gbm3-pc34",
+    "san-mu-bu-pm-gbm2-pc34",
+    "san-mu-mpt-bu-pm-pc34",
+    "san-mg-bu-pm-pc33",
+    "san-lo-bu-pm-pc33",
+    "san-bu-pm-qizil-pc34",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc36",
+    "pli-tv-bu-pm-pc36",
+    "san-sarv-bu-pm-tf11-pc35",
+    "san-sarv-bu-pm-finot-pc35",
+    "san-mu-bu-pm-gbm3-pc35",
+    "san-mu-bu-pm-gbm2-pc35",
+    "san-mu-mpt-bu-pm-pc35",
+    "san-mg-bu-pm-pc34",
+    "san-lo-bu-pm-pc34",
+    "san-bu-pm-qizil-pc35",
+    "san-lo-bi-vb-pc24"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc37",
+    "pli-tv-bu-pm-pc37",
+    "san-sarv-bu-pm-tf11-pc37",
+    "san-sarv-bu-pm-finot-pc37",
+    "san-mu-bu-pm-gbm3-pc37",
+    "san-mu-bu-pm-gbm2-pc37",
+    "san-mu-mpt-bu-pm-pc37",
+    "san-mg-bu-pm-pc36",
+    "san-lo-bu-pm-pc36",
+    "san-bu-pm-qizil-pc37",
+    "pli-tv-bi-vb-pc120",
+    "pli-tv-bi-pm-pc120",
+    "san-lo-bi-vb-pc26",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc38",
+    "pli-tv-bu-pm-pc38",
+    "san-sarv-bu-pm-tf11-pc38",
+    "san-sarv-bu-pm-finot-pc38",
+    "san-mu-bu-pm-gbm3-pc38",
+    "san-mu-bu-pm-gbm2-pc38",
+    "san-mu-mpt-bu-pm-pc38",
+    "san-mg-bu-pm-pc37",
+    "san-lo-bu-pm-pc37",
+    "san-bu-pm-qizil-pc38",
+    "pli-tv-bi-vb-pc121",
+    "pli-tv-bi-pm-pc121",
+    "san-lo-bi-vb-pc27",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc39",
+    "pli-tv-bu-pm-pc39",
+    "san-sarv-bu-pm-tf11-pc40",
+    "san-sarv-bu-pm-finot-pc40",
+    "san-mu-bu-pm-gbm3-pc40",
+    "san-mu-bu-pm-gbm2-pc40",
+    "san-mu-mpt-bu-pm-pc40",
+    "san-mg-bu-pm-pc39",
+    "san-lo-bu-pm-pc39",
+    "san-bu-pm-qizil-pc40"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc4",
+    "pli-tv-bu-pm-pc4",
+    "san-sarv-bu-pm-tf11-pc6",
+    "san-sarv-bu-pm-finot-pc6",
+    "san-mu-bu-pm-gbm3-pc6",
+    "san-mu-mpt-bu-pm-pc8",
+    "san-mg-bu-pm-pc6",
+    "san-lo-bu-pm-pc6",
+    "pli-tv-bi-vb-pc100",
+    "pli-tv-bi-pm-pc100",
+    "san-sarv-bi-pm-tf3215-pc5",
+    "san-sarv-bi-pm-tf44-pc5",
+    "san-lo-bi-vb-pc6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc40",
+    "pli-tv-bu-pm-pc40",
+    "san-sarv-bu-pm-tf11-pc39",
+    "san-sarv-bu-pm-finot-pc39",
+    "san-mu-bu-pm-gbm3-pc39",
+    "san-mu-bu-pm-gbm2-pc39",
+    "san-mu-mpt-bu-pm-pc39",
+    "san-mg-bu-pm-pc35",
+    "san-lo-bu-pm-pc35",
+    "san-bu-pm-qizil-pc39",
+    "pli-tv-bi-vb-pc122",
+    "pli-tv-bi-pm-pc122",
+    "san-lo-bi-vb-pc25"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc41",
+    "pli-tv-bu-pm-pc41",
+    "san-sarv-bu-pm-tf11-pc44",
+    "san-sarv-bu-pm-finot-pc44",
+    "san-mu-bu-pm-gbm3-pc44",
+    "san-mu-bu-pm-gbm2-pc44",
+    "san-mu-mpt-bu-pm-pc44",
+    "san-mg-bu-pm-pc52",
+    "san-lo-bu-pm-pc52",
+    "san-lo-bi-vb-pc42"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc42",
+    "pli-tv-bu-pm-pc42",
+    "san-sarv-bu-pm-tf11-pc51",
+    "san-sarv-bu-pm-finot-pc51",
+    "san-mu-bu-pm-gbm3-pc51",
+    "san-mu-bu-pm-gbm2-pc51",
+    "san-mu-mpt-bu-pm-pc51",
+    "san-mg-bu-pm-pc44",
+    "san-lo-bu-pm-pc44",
+    "pli-tv-bi-vb-pc123",
+    "pli-tv-bi-pm-pc123",
+    "san-lo-bi-vb-pc34"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc43",
+    "pli-tv-bu-pm-pc43",
+    "san-sarv-bu-pm-tf11-pc42",
+    "san-sarv-bu-pm-finot-pc42",
+    "san-mu-bu-pm-gbm3-pc42",
+    "san-mu-bu-pm-gbm2-pc42",
+    "san-mu-mpt-bu-pm-pc42",
+    "san-mg-bu-pm-pc53",
+    "san-lo-bu-pm-pc53",
+    "pli-tv-bi-vb-pc124",
+    "pli-tv-bi-pm-pc124",
+    "san-lo-bi-vb-pc43"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc44",
+    "pli-tv-bu-pm-pc44",
+    "san-sarv-bu-pm-tf11-pc43",
+    "san-sarv-bu-pm-finot-pc43",
+    "san-mu-bu-pm-gbm2-pc43",
+    "san-mg-bu-pm-pc54",
+    "san-lo-bu-pm-pc54",
+    "pli-tv-bi-vb-pc125",
+    "pli-tv-bi-pm-pc125",
+    "san-lo-bi-vb-pc44"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc45",
+    "pli-tv-bu-pm-pc45",
+    "san-sarv-bu-pm-tf11-pc29",
+    "san-sarv-bu-pm-finot-pc29",
+    "san-mu-bu-pm-gbm3-pc28",
+    "san-mg-bu-pm-pc70",
+    "san-lo-bu-pm-pc70",
+    "pli-tv-bi-vb-pc126",
+    "pli-tv-bi-pm-pc126",
+    "san-lo-bi-vb-pc121"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc46",
+    "pli-tv-bu-pm-pc46",
+    "san-sarv-bu-pm-tf11-pc81",
+    "san-sarv-bu-pm-finot-pc81",
+    "san-mu-bu-pm-gbm3-pc81",
+    "san-mu-bu-pm-gbm2-pc81",
+    "san-mu-mpt-bu-pm-pc81",
+    "san-mg-bu-pm-pc81",
+    "san-lo-bu-pm-pc81",
+    "pli-tv-bi-vb-pc127",
+    "pli-tv-bi-pm-pc127",
+    "san-lo-bi-vb-pc61"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc47",
+    "pli-tv-bu-pm-pc47",
+    "san-sarv-bu-pm-tf11-pc74",
+    "san-sarv-bu-pm-finot-pc74",
+    "san-mu-bu-pm-gbm3-pc74",
+    "san-mu-bu-pm-gbm2-pc74",
+    "san-mu-mpt-bu-pm-pc74",
+    "san-mg-bu-pm-pc74",
+    "san-lo-bu-pm-pc74",
+    "san-bu-pm-qizil-pc74",
+    "pli-tv-bi-vb-pc128",
+    "pli-tv-bi-pm-pc128",
+    "san-lo-bi-vb-pc54"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc48",
+    "pli-tv-bu-pm-pc48",
+    "san-sarv-bu-pm-tf11-pc45",
+    "san-sarv-bu-pm-finot-pc45",
+    "san-mu-bu-pm-gbm3-pc45",
+    "san-mu-bu-pm-gbm2-pc45",
+    "san-mu-mpt-bu-pm-pc45",
+    "san-mg-bu-pm-pc55",
+    "san-lo-bu-pm-pc55",
+    "pli-tv-bi-vb-pc129",
+    "pli-tv-bi-pm-pc129",
+    "san-lo-bi-vb-pc45"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc49",
+    "pli-tv-bu-pm-pc49",
+    "san-sarv-bu-pm-tf11-pc46",
+    "san-sarv-bu-pm-finot-pc46",
+    "san-mu-bu-pm-gbm3-pc46",
+    "san-mu-bu-pm-gbm2-pc46",
+    "san-mu-mpt-bu-pm-pc46",
+    "san-mg-bu-pm-pc56",
+    "san-lo-bu-pm-pc56",
+    "pli-tv-bi-vb-pc130",
+    "pli-tv-bi-pm-pc130",
+    "san-lo-bi-vb-pc46"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc5",
+    "pli-tv-bu-pm-pc5",
+    "san-sarv-bu-pm-tf11-pc53",
+    "san-sarv-bu-pm-finot-pc53",
+    "san-mu-bu-pm-gbm3-pc54",
+    "san-mu-bu-pm-gbm2-pc54",
+    "san-mu-mpt-bu-pm-pc54",
+    "san-mg-bu-pm-pc42",
+    "san-lo-bu-pm-pc42",
+    "pli-tv-bi-vb-pc101",
+    "pli-tv-bi-pm-pc101",
+    "san-lo-bi-vb-pc32"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc50",
+    "pli-tv-bu-pm-pc50",
+    "san-sarv-bu-pm-tf11-pc47",
+    "san-sarv-bu-pm-finot-pc47",
+    "san-mu-bu-pm-gbm3-pc47",
+    "san-mu-bu-pm-gbm2-pc47",
+    "san-mu-mpt-bu-pm-pc47",
+    "san-mg-bu-pm-pc57",
+    "san-lo-bu-pm-pc57",
+    "pli-tv-bi-vb-pc131",
+    "pli-tv-bi-pm-pc131",
+    "san-lo-bi-vb-pc47"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc51",
+    "pli-tv-bu-pm-pc51",
+    "san-sarv-bu-pm-tf11-pc79",
+    "san-sarv-bu-pm-finot-pc79",
+    "san-mu-bu-pm-gbm3-pc79",
+    "san-mu-bu-pm-gbm2-pc79",
+    "san-mu-mpt-bu-pm-pc79",
+    "san-mg-bu-pm-pc76",
+    "san-lo-bu-pm-pc76",
+    "pli-tv-bi-vb-pc132",
+    "pli-tv-bi-pm-pc132",
+    "san-lo-bi-vb-pc56",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc52",
+    "pli-tv-bu-pm-pc52",
+    "san-sarv-bu-pm-tf11-pc63",
+    "san-sarv-bu-pm-finot-pc63",
+    "san-mu-bu-pm-gbm3-pc63",
+    "san-mu-bu-pm-gbm2-pc63",
+    "san-mu-mpt-bu-pm-pc63",
+    "san-mg-bu-pm-pc67",
+    "san-lo-bu-pm-pc67",
+    "pli-tv-bi-vb-pc133",
+    "pli-tv-bi-pm-pc133",
+    "san-lo-bi-vb-pc51"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc53",
+    "pli-tv-bu-pm-pc53",
+    "san-sarv-bu-pm-tf11-pc64",
+    "san-sarv-bu-pm-finot-pc64",
+    "san-mu-bu-pm-gbm3-pc64",
+    "san-mu-bu-pm-gbm2-pc64",
+    "san-mu-mpt-bu-pm-pc64",
+    "san-mg-bu-pm-pc66",
+    "san-lo-bu-pm-pc66",
+    "pli-tv-bi-vb-pc134",
+    "pli-tv-bi-pm-pc134",
+    "san-lo-bi-vb-pc50"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc54",
+    "pli-tv-bu-pm-pc54",
+    "san-sarv-bu-pm-tf11-pc78",
+    "san-sarv-bu-pm-finot-pc78",
+    "san-mu-bu-pm-gbm3-pc78",
+    "san-mu-bu-pm-gbm2-pc78",
+    "san-mu-mpt-bu-pm-pc78",
+    "san-mg-bu-pm-pc77",
+    "san-lo-bu-pm-pc77",
+    "pli-tv-bi-vb-pc135",
+    "pli-tv-bi-pm-pc135",
+    "san-lo-bi-vb-pc57"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc55",
+    "pli-tv-bu-pm-pc55",
+    "san-sarv-bu-pm-tf11-pc66",
+    "san-sarv-bu-pm-finot-pc66",
+    "san-mu-bu-pm-gbm3-pc66",
+    "san-mu-bu-pm-gbm2-pc66",
+    "san-mu-mpt-bu-pm-pc66",
+    "san-mg-bu-pm-pc65",
+    "san-lo-bu-pm-pc65",
+    "san-bu-pm-qizil-pc66",
+    "pli-tv-bi-vb-pc136",
+    "pli-tv-bi-pm-pc136",
+    "san-lo-bi-vb-pc40"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc56",
+    "pli-tv-bu-pm-pc56",
+    "san-sarv-bu-pm-tf11-pc52",
+    "san-sarv-bu-pm-finot-pc52",
+    "san-mu-bu-pm-gbm3-pc52",
+    "san-mu-bu-pm-gbm2-pc52",
+    "san-mu-mpt-bu-pm-pc52",
+    "san-mg-bu-pm-pc41",
+    "san-lo-bu-pm-pc41",
+    "pli-tv-bi-vb-pc137",
+    "pli-tv-bi-pm-pc137",
+    "san-lo-bi-vb-pc31"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc57",
+    "pli-tv-bu-pm-pc57",
+    "san-sarv-bu-pm-tf11-pc60",
+    "san-sarv-bu-pm-finot-pc60",
+    "san-mu-bu-pm-gbm3-pc60",
+    "san-mu-mpt-bu-pm-pc60",
+    "san-mg-bu-pm-pc50",
+    "san-lo-bu-pm-pc50",
+    "pli-tv-bi-vb-pc138",
+    "pli-tv-bi-pm-pc138",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc58",
+    "pli-tv-bu-pm-pc58",
+    "san-sarv-bu-pm-tf11-pc59",
+    "san-sarv-bu-pm-finot-pc59",
+    "san-mu-bu-pm-gbm3-pc58",
+    "san-mu-bu-pm-gbm2-pc58",
+    "san-mu-mpt-bu-pm-pc58",
+    "san-mg-bu-pm-pc48",
+    "san-lo-bu-pm-pc48",
+    "pli-tv-bi-vb-pc139",
+    "pli-tv-bi-pm-pc139",
+    "san-lo-bi-vb-pc38"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc59",
+    "pli-tv-bu-pm-pc59",
+    "san-sarv-bu-pm-tf11-pc68",
+    "san-sarv-bu-pm-finot-pc68",
+    "san-mu-bu-pm-gbm3-pc68",
+    "san-mu-bu-pm-gbm2-pc68",
+    "san-mu-mpt-bu-pm-pc68",
+    "san-mg-bu-pm-pc63",
+    "san-lo-bu-pm-pc63",
+    "san-bu-pm-qizil-pc68",
+    "pli-tv-bi-vb-pc140",
+    "pli-tv-bi-pm-pc140",
+    "san-lo-bi-vb-pc23"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc6",
+    "pli-tv-bu-pm-pc6",
+    "san-sarv-bu-pm-tf11-pc65",
+    "san-sarv-bu-pm-finot-pc65",
+    "san-mu-bu-pm-gbm3-pc65",
+    "san-mu-bu-pm-gbm2-pc65",
+    "san-mu-mpt-bu-pm-pc65",
+    "san-mg-bu-pm-pc69",
+    "san-lo-bu-pm-pc69",
+    "san-bu-pm-qizil-pc65",
+    "pli-tv-bi-vb-pc102",
+    "pli-tv-bi-pm-pc102",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc60",
+    "pli-tv-bu-pm-pc60",
+    "san-sarv-bu-pm-tf11-pc67",
+    "san-sarv-bu-pm-finot-pc67",
+    "san-mu-bu-pm-gbm3-pc67",
+    "san-mu-bu-pm-gbm2-pc67",
+    "san-mu-mpt-bu-pm-pc67",
+    "san-mg-bu-pm-pc64",
+    "san-lo-bu-pm-pc64",
+    "san-bu-pm-qizil-pc67",
+    "pli-tv-bi-vb-pc141",
+    "pli-tv-bi-pm-pc141",
+    "san-lo-bi-vb-pc29"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc61",
+    "pli-tv-bu-pm-pc61",
+    "san-sarv-bu-pm-tf11-pc61",
+    "san-sarv-bu-pm-finot-pc61",
+    "san-mu-bu-pm-gbm3-pc61",
+    "san-mu-mpt-bu-pm-pc61",
+    "san-mg-bu-pm-pc61",
+    "san-lo-bu-pm-pc61",
+    "pli-tv-bi-vb-pc142",
+    "pli-tv-bi-pm-pc142",
+    "san-lo-bi-vb-pc5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc62",
+    "pli-tv-bu-pm-pc62",
+    "san-sarv-bu-pm-tf11-pc41",
+    "san-sarv-bu-pm-finot-pc41",
+    "san-mu-bu-pm-gbm3-pc41",
+    "san-mu-bu-pm-gbm2-pc41",
+    "san-mu-mpt-bu-pm-pc41",
+    "san-mg-bu-pm-pc51",
+    "san-lo-bu-pm-pc51",
+    "pli-tv-bi-vb-pc143",
+    "pli-tv-bi-pm-pc143",
+    "san-lo-bi-vb-pc41"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc63",
+    "pli-tv-bu-pm-pc63",
+    "san-sarv-bu-pm-tf11-pc4",
+    "san-sarv-bu-pm-finot-pc4",
+    "san-mu-bu-pm-gbm3-pc4",
+    "san-mu-mpt-bu-pm-pc4",
+    "san-mg-bu-pm-pc4",
+    "san-lo-bu-pm-pc4",
+    "pli-tv-bi-vb-pc144",
+    "pli-tv-bi-pm-pc144",
+    "san-sarv-bi-pm-tf44-pc4",
+    "san-lo-bi-vb-pc4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc64",
+    "pli-tv-bu-pm-pc64",
+    "san-sarv-bu-pm-tf11-pc50",
+    "san-sarv-bu-pm-finot-pc50",
+    "san-mu-bu-pm-gbm3-pc50",
+    "san-mu-bu-pm-gbm2-pc50",
+    "san-mu-mpt-bu-pm-pc50",
+    "san-mg-bu-pm-pc60",
+    "san-lo-bu-pm-pc60",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc65",
+    "pli-tv-bu-pm-pc65",
+    "san-sarv-bu-pm-tf11-pc72",
+    "san-sarv-bu-pm-finot-pc72",
+    "san-mu-bu-pm-gbm3-pc72",
+    "san-mu-bu-pm-gbm2-pc72",
+    "san-mu-mpt-bu-pm-pc72",
+    "san-mg-bu-pm-pc71",
+    "san-lo-bu-pm-pc71",
+    "san-bu-pm-qizil-pc72"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc66",
+    "pli-tv-bu-pm-pc66",
+    "san-sarv-bu-pm-tf11-pc71",
+    "san-sarv-bu-pm-finot-pc71",
+    "san-mu-bu-pm-gbm3-pc71",
+    "san-mu-bu-pm-gbm2-pc71",
+    "san-mu-mpt-bu-pm-pc71",
+    "san-mg-bu-pm-pc72",
+    "san-lo-bu-pm-pc72",
+    "san-bu-pm-qizil-pc71",
+    "pli-tv-bi-vb-pc145",
+    "pli-tv-bi-pm-pc145",
+    "san-lo-bi-vb-pc52"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc67",
+    "pli-tv-bu-pm-pc67",
+    "san-sarv-bu-pm-tf11-pc70",
+    "san-sarv-bu-pm-finot-pc70",
+    "san-mu-bu-pm-gbm3-pc70",
+    "san-mu-bu-pm-gbm2-pc70",
+    "san-mu-mpt-bu-pm-pc70",
+    "san-mg-bu-pm-pc68",
+    "san-lo-bu-pm-pc68",
+    "san-bu-pm-qizil-pc70",
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu evaṃ vadeyya “tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. No ce paṭinissajjeyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc68",
+    "pli-tv-bu-pm-pc68",
+    "san-sarv-bu-pm-tf11-pc55",
+    "san-sarv-bu-pm-finot-pc55",
+    "san-mu-bu-pm-gbm3-pc55",
+    "san-mu-bu-pm-gbm2-pc55",
+    "san-mu-mpt-bu-pm-pc55",
+    "san-mg-bu-pm-pc45",
+    "san-lo-bu-pm-pc45",
+    "pli-tv-bi-vb-pc146",
+    "pli-tv-bi-pm-pc146",
+    "san-lo-bi-vb-pc35"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc69",
+    "pli-tv-bu-pm-pc69",
+    "san-sarv-bu-pm-tf11-pc56",
+    "san-sarv-bu-pm-finot-pc56",
+    "san-mu-bu-pm-gbm3-pc56",
+    "san-mu-bu-pm-gbm2-pc56",
+    "san-mu-mpt-bu-pm-pc56",
+    "san-mg-bu-pm-pc46",
+    "san-lo-bu-pm-pc46",
+    "pli-tv-bi-vb-pc147",
+    "pli-tv-bi-pm-pc147",
+    "san-lo-bi-vb-pc36"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya aññatra viññunā purisaviggahena, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc7",
+    "pli-tv-bu-pm-pc7",
+    "san-sarv-bu-pm-tf11-pc5",
+    "san-sarv-bu-pm-finot-pc5",
+    "san-mu-bu-pm-gbm3-pc5",
+    "san-mu-mpt-bu-pm-pc7",
+    "san-mg-bu-pm-pc5",
+    "san-lo-bu-pm-pc5",
+    "pli-tv-bi-vb-pc103",
+    "pli-tv-bi-pm-pc103",
+  ]
+},
+{
+  "pli": "Samaṇuddesopi ce evaṃ vadeyya “tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo “māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo “ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā”ti. Yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc70",
+    "pli-tv-bu-pm-pc70",
+    "san-sarv-bu-pm-tf11-pc57",
+    "san-sarv-bu-pm-finot-pc57",
+    "san-mu-bu-pm-gbm3-pc57",
+    "san-mu-bu-pm-gbm2-pc57",
+    "san-mu-mpt-bu-pm-pc57",
+    "san-mg-bu-pm-pc47",
+    "san-lo-bu-pm-pc47",
+    "san-bu-pm-qizil-pc57",
+    "pli-tv-bi-vb-pc148",
+    "pli-tv-bi-pm-pc148",
+    "san-lo-bi-vb-pc37"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya “na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī”ti, pācittiyaṃ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc71",
+    "pli-tv-bu-pm-pc71",
+    "san-sarv-bu-pm-tf11-pc75",
+    "san-sarv-bu-pm-finot-pc75",
+    "san-mu-bu-pm-gbm3-pc75",
+    "san-mu-bu-pm-gbm2-pc75",
+    "san-mu-mpt-bu-pm-pc76",
+    "san-mg-bu-pm-pc75",
+    "san-lo-bu-pm-pc75",
+    "pli-tv-bi-vb-pc149",
+    "pli-tv-bi-pm-pc149",
+    "san-lo-bi-vb-pc55"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya “kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc72",
+    "pli-tv-bu-pm-pc72",
+    "san-sarv-bu-pm-tf11-pc10",
+    "san-sarv-bu-pm-finot-pc10",
+    "san-mu-bu-pm-gbm3-pc10",
+    "san-mu-mpt-bu-pm-pc10",
+    "san-mg-bu-pm-pc10",
+    "san-lo-bu-pm-pc10",
+    "pli-tv-bi-vb-pc150",
+    "pli-tv-bi-pm-pc150",
+    "san-lo-bi-vb-pc10"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya “idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī”ti. Tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo “tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī”ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc73",
+    "pli-tv-bu-pm-pc73",
+    "san-sarv-bu-pm-tf11-pc83",
+    "san-sarv-bu-pm-finot-pc83",
+    "san-mu-bu-pm-gbm3-pc83",
+    "san-mu-mpt-bu-pm-pc83",
+    "san-mg-bu-pm-pc92",
+    "san-lo-bu-pm-pc92",
+    "pli-tv-bi-vb-pc151",
+    "pli-tv-bi-pm-pc151",
+    "san-lo-bi-vb-pc60"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc74",
+    "pli-tv-bu-pm-pc74",
+    "san-sarv-bu-pm-tf11-pc48",
+    "san-sarv-bu-pm-finot-pc48",
+    "san-mu-bu-pm-gbm3-pc48",
+    "san-mu-bu-pm-gbm2-pc48",
+    "san-mu-mpt-bu-pm-pc48",
+    "san-mg-bu-pm-pc58",
+    "san-lo-bu-pm-pc58",
+    "pli-tv-bi-vb-pc152",
+    "pli-tv-bi-pm-pc152",
+    "san-lo-bi-vb-pc48"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc75",
+    "pli-tv-bu-pm-pc75",
+    "san-sarv-bu-pm-tf11-pc49",
+    "san-sarv-bu-pm-finot-pc49",
+    "san-mu-bu-pm-gbm3-pc49",
+    "san-mu-bu-pm-gbm2-pc49",
+    "san-mu-mpt-bu-pm-pc49",
+    "san-mg-bu-pm-pc59",
+    "san-lo-bu-pm-pc59",
+    "pli-tv-bi-vb-pc153",
+    "pli-tv-bi-pm-pc153",
+    "san-lo-bi-vb-pc49"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc76",
+    "pli-tv-bu-pm-pc76",
+    "san-sarv-bu-pm-tf11-pc69",
+    "san-sarv-bu-pm-finot-pc69",
+    "san-mu-bu-pm-gbm3-pc69",
+    "san-mu-bu-pm-gbm2-pc69",
+    "san-mu-mpt-bu-pm-pc69",
+    "san-mg-bu-pm-pc90",
+    "san-lo-bu-pm-pc90",
+    "san-bu-pm-qizil-pc69",
+    "pli-tv-bi-vb-pc154",
+    "pli-tv-bi-pm-pc154",
+    "san-lo-bi-vb-pc69"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya “itissa muhuttampi aphāsu bhavissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc77",
+    "pli-tv-bu-pm-pc77",
+    "san-sarv-bu-pm-tf11-pc62",
+    "san-sarv-bu-pm-finot-pc62",
+    "san-mu-bu-pm-gbm3-pc62",
+    "san-mu-bu-pm-gbm2-pc62",
+    "san-mu-mpt-bu-pm-pc62",
+    "san-mg-bu-pm-pc62",
+    "san-lo-bu-pm-pc62",
+    "pli-tv-bi-vb-pc155",
+    "pli-tv-bi-pm-pc155",
+    "san-lo-bi-vb-pc20"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya “yaṃ ime bhaṇissanti, taṃ sossāmī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc78",
+    "pli-tv-bu-pm-pc78",
+    "san-sarv-bu-pm-tf11-pc76",
+    "san-sarv-bu-pm-finot-pc76",
+    "san-mu-bu-pm-gbm3-pc76",
+    "san-mu-bu-pm-gbm2-pc76",
+    "san-mu-mpt-bu-pm-pc75",
+    "san-mg-bu-pm-pc78",
+    "san-lo-bu-pm-pc78",
+    "pli-tv-bi-vb-pc156",
+    "pli-tv-bi-pm-pc156",
+    "san-lo-bi-vb-pc58"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc79",
+    "pli-tv-bu-pm-pc79",
+    "san-sarv-bu-pm-tf11-pc54",
+    "san-sarv-bu-pm-finot-pc54",
+    "san-mu-bu-pm-gbm3-pc53",
+    "san-mu-bu-pm-gbm2-pc53",
+    "san-mu-mpt-bu-pm-pc53",
+    "san-mg-bu-pm-pc43",
+    "san-lo-bu-pm-pc43",
+    "pli-tv-bi-vb-pc157",
+    "pli-tv-bi-pm-pc157",
+    "san-lo-bi-vb-pc33"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya, bhūtasmiṃ pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc8",
+    "pli-tv-bu-pm-pc8",
+    "san-sarv-bu-pm-tf11-pc7",
+    "san-sarv-bu-pm-finot-pc7",
+    "san-mu-bu-pm-gbm3-pc8",
+    "san-mu-mpt-bu-pm-pc6",
+    "san-mg-bu-pm-pc7",
+    "san-lo-bu-pm-pc7",
+    "pli-tv-bi-vb-pc104",
+    "pli-tv-bi-pm-pc104",
+    "san-sarv-bi-pm-tf44-pc6",
+    "san-lo-bi-vb-pc7",
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc80",
+    "pli-tv-bu-pm-pc80",
+    "san-sarv-bu-pm-tf11-pc77",
+    "san-sarv-bu-pm-finot-pc77",
+    "san-mu-bu-pm-gbm3-pc77",
+    "san-mu-bu-pm-gbm2-pc77",
+    "san-mu-mpt-bu-pm-pc77",
+    "san-mg-bu-pm-pc79",
+    "san-lo-bu-pm-pc79",
+    "pli-tv-bi-vb-pc158",
+    "pli-tv-bi-pm-pc158",
+    "san-lo-bi-vb-pc59"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya “yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī”ti, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc81",
+    "pli-tv-bu-pm-pc81",
+    "san-sarv-bu-pm-tf11-pc9",
+    "san-sarv-bu-pm-finot-pc9",
+    "san-mu-bu-pm-gbm3-pc9",
+    "san-mu-mpt-bu-pm-pc9",
+    "san-mg-bu-pm-pc9",
+    "san-lo-bu-pm-pc9",
+    "pli-tv-bi-vb-pc159",
+    "pli-tv-bi-pm-pc159",
+    "san-lo-bi-vb-pc9"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.",
+  "skt": "yo puna bhikṣur jānan sāṃghikaṃ lābhaṃ saṃghe pariṇataṃ pudgalo pudgalasya pariṇāmeya pācattikaṃ |",
+  "matches": [
+    "pli-tv-bu-vb-pc82",
+    "pli-tv-bu-pm-pc82",
+    "san-mg-bu-pm-pc91",
+    "san-lo-bu-pm-pc91",
+    "pli-tv-bi-vb-pc160",
+    "pli-tv-bi-pm-pc160",
+    "san-lo-bi-vb-pc70"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhantarājake aniggataratanake pubbe appaṭisaṃvidito indakhīlaṃ atikkāmeyya, pācittiyaṃ.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc83",
+    "pli-tv-bu-pm-pc83",
+    "san-sarv-bu-pm-tf11-pc82",
+    "san-sarv-bu-pm-finot-pc82",
+    "san-mu-bu-pm-gbm3-pc82",
+    "san-mu-bu-pm-gbm2-pc82",
+    "san-mu-mpt-bu-pm-pc82",
+    "san-mg-bu-pm-pc82",
+    "san-lo-bu-pm-pc82",
+    "san-lo-bi-vb-pc62"
+  ]
+},
+{
+  "pli": "Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. Ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ “yassa bhavissati, so harissatī”ti, ayaṃ tattha sāmīci.",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc84",
+    "pli-tv-bu-pm-pc84",
+    "san-sarv-bu-pm-tf11-pc58",
+    "san-sarv-bu-pm-finot-pc58",
+    "san-mu-bu-pm-gbm3-pc59",
+    "san-mu-bu-pm-gbm2-pc59",
+    "san-mu-mpt-bu-pm-pc59",
+    "san-mg-bu-pm-pc49",
+    "san-lo-bu-pm-pc49",
+    "san-bu-pm-qizil-pc58",
+    "pli-tv-bi-vb-pc161",
+    "pli-tv-bi-pm-pc161",
+    "san-lo-bi-vb-pc39"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc85",
+    "pli-tv-bu-pm-pc85",
+    "san-sarv-bu-pm-tf11-pc80",
+    "san-sarv-bu-pm-finot-pc80",
+    "san-mu-bu-pm-gbm3-pc80",
+    "san-mu-bu-pm-gbm2-pc80",
+    "san-mu-mpt-bu-pm-pc80",
+    "san-mg-bu-pm-pc80",
+    "san-lo-bu-pm-pc80",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc86",
+    "pli-tv-bu-pm-pc86",
+    "san-sarv-bu-pm-tf11-pc84",
+    "san-sarv-bu-pm-finot-pc84",
+    "san-mu-bu-pm-gbm3-pc84",
+    "san-mu-mpt-bu-pm-pc84",
+    "san-mg-bu-pm-pc83",
+    "san-lo-bu-pm-pc83",
+    "pli-tv-bi-vb-pc162",
+    "pli-tv-bi-pm-pc162",
+    "san-lo-bi-vb-pc63"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc87",
+    "pli-tv-bu-pm-pc87",
+    "san-sarv-bu-pm-tf11-pc85",
+    "san-sarv-bu-pm-finot-pc85",
+    "san-mu-bu-pm-gbm3-pc85",
+    "san-mu-mpt-bu-pm-pc85",
+    "san-mg-bu-pm-pc84",
+    "san-lo-bu-pm-pc84",
+    "pli-tv-bi-vb-pc163",
+    "pli-tv-bi-pm-pc163",
+    "san-lo-bi-vb-pc64"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc88",
+    "pli-tv-bu-pm-pc88",
+    "san-sarv-bu-pm-tf11-pc86",
+    "san-sarv-bu-pm-finot-pc86",
+    "san-mu-bu-pm-gbm3-pc86",
+    "san-mu-mpt-bu-pm-pc86",
+    "pli-tv-bi-vb-pc164",
+    "pli-tv-bi-pm-pc164",
+    "san-lo-bi-vb-pc65"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc89",
+    "pli-tv-bu-pm-pc89",
+    "san-sarv-bu-pm-tf11-pc89",
+    "san-sarv-bu-pm-finot-pc89",
+    "san-mu-bu-pm-gbm3-pc87",
+    "san-mu-mpt-bu-pm-pc87",
+    "san-mg-bu-pm-pc86",
+    "san-lo-bu-pm-pc86",
+    "san-lo-bi-vb-pc66",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc9",
+    "pli-tv-bu-pm-pc9",
+    "san-sarv-bu-pm-tf11-pc8",
+    "san-sarv-bu-pm-finot-pc8",
+    "san-mu-bu-pm-gbm3-pc7",
+    "san-mu-mpt-bu-pm-pc5",
+    "san-mg-bu-pm-pc8",
+    "san-lo-bu-pm-pc8",
+    "pli-tv-bi-vb-pc105",
+    "pli-tv-bi-pm-pc105",
+    "san-sarv-bi-pm-tf44-pc7",
+    "san-lo-bi-vb-pc8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc90",
+    "pli-tv-bu-pm-pc90",
+    "san-sarv-bu-pm-tf11-pc88",
+    "san-sarv-bu-pm-finot-pc88",
+    "san-mu-bu-pm-gbm3-pc88",
+    "san-mu-mpt-bu-pm-pc89",
+    "san-mg-bu-pm-pc87",
+    "san-lo-bu-pm-pc87",
+    "pli-tv-bi-vb-pc165",
+    "pli-tv-bi-pm-pc165",
+    "san-lo-bi-vb-pc67"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc91",
+    "pli-tv-bu-pm-pc91",
+    "san-sarv-bu-pm-tf11-pc87",
+    "san-sarv-bu-pm-finot-pc87",
+    "san-mu-bu-pm-gbm3-pc89",
+    "san-mu-mpt-bu-pm-pc88",
+    "san-mg-bu-pm-pc88",
+    "san-lo-bu-pm-pc88",
+    "san-bu-pm-qizil-pc87"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pc92",
+    "pli-tv-bu-pm-pc92",
+    "san-sarv-bu-pm-tf11-pc90",
+    "san-sarv-bu-pm-finot-pc90",
+    "san-mu-bu-pm-gbm3-pc90",
+    "san-mu-mpt-bu-pm-pc90",
+    "san-mg-bu-pm-pc89",
+    "san-lo-bu-pm-pc89",
+    "pli-tv-bi-vb-pc166",
+    "pli-tv-bi-pm-pc166",
+    "san-lo-bi-vb-pc68"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pd1",
+    "pli-tv-bu-pm-pd1",
+    "san-sarv-bu-pm-tf11-pd1",
+    "san-sarv-bu-pm-finot-pd1",
+    "san-mu-bu-pm-gbm3-pd1",
+    "san-mu-mpt-bu-pm-pd1",
+    "san-mg-bu-pm-pd4",
+    "san-lo-bu-pm-pd4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pd2",
+    "pli-tv-bu-pm-pd2",
+    "san-sarv-bu-pm-tf11-pd2",
+    "san-sarv-bu-pm-finot-pd2",
+    "san-mu-bu-pm-gbm3-pd2",
+    "san-mu-mpt-bu-pm-pd2",
+    "san-mg-bu-pm-pd1",
+    "san-lo-bu-pm-pd1",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pd3",
+    "pli-tv-bu-pm-pd3",
+    "san-sarv-bu-pm-tf11-pd3",
+    "san-sarv-bu-pm-finot-pd3",
+    "san-mu-bu-pm-gbm3-pd3",
+    "san-mu-mpt-bu-pm-pd3",
+    "san-mg-bu-pm-pd2",
+    "san-lo-bu-pm-pd2",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pd4",
+    "pli-tv-bu-pm-pd4",
+    "san-sarv-bu-pm-tf11-pd4",
+    "san-sarv-bu-pm-finot-pd4",
+    "san-mu-bu-pm-gbm3-pd4",
+    "san-mu-mpt-bu-pm-pd4",
+    "san-mg-bu-pm-pd3",
+    "san-lo-bu-pm-pd3",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pj1",
+    "pli-tv-bu-pm-pj1",
+    "san-sarv-bu-pm-tf11-pj1",
+    "san-sarv-bu-pm-finot-pj1",
+    "san-mu-bu-pm-gbm3-pj1",
+    "san-mu-mpt-bu-pm-pj1",
+    "san-mg-bu-pm-pj1",
+    "san-lo-bu-pm-pj1",
+    "pli-tv-bi-vb-pj1",
+    "pli-tv-bi-pm-pj1",
+    "san-lo-bi-vb-pj1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pj2",
+    "pli-tv-bu-pm-pj2",
+    "san-sarv-bu-pm-tf11-pj2",
+    "san-sarv-bu-pm-finot-pj2",
+    "san-mu-bu-pm-gbm3-pj2",
+    "san-mu-bu-pm-gbm2-pj2",
+    "san-mu-mpt-bu-pm-pj2",
+    "san-mg-bu-pm-pj2",
+    "san-lo-bu-pm-pj2",
+    "san-bu-pm-qizil-pj2",
+    "pli-tv-bi-vb-pj2",
+    "pli-tv-bi-pm-pj2",
+    "san-lo-bi-vb-pj2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pj3",
+    "pli-tv-bu-pm-pj3",
+    "san-sarv-bu-pm-tf11-pj3",
+    "san-sarv-bu-pm-finot-pj3",
+    "san-mu-bu-pm-gbm3-pj3",
+    "san-mu-bu-pm-gbm2-pj3",
+    "san-mu-mpt-bu-pm-pj3",
+    "san-mg-bu-pm-pj3",
+    "san-lo-bu-pm-pj3",
+    "pli-tv-bi-vb-pj3",
+    "pli-tv-bi-pm-pj3",
+    "san-lo-bi-vb-pj3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-pj4",
+    "pli-tv-bu-pm-pj4",
+    "san-sarv-bu-pm-tf11-pj4",
+    "san-mu-bu-pm-gbm3-pj4",
+    "san-mu-bu-pm-gbm2-pj4",
+    "san-mu-mpt-bu-pm-pj4",
+    "san-mg-bu-pm-pj4",
+    "san-lo-bu-pm-pj4",
+    "pli-tv-bi-vb-pj4",
+    "pli-tv-bi-pm-pj4",
+    "san-lo-bi-vb-pj4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk1",
+    "pli-tv-bu-pm-sk1",
+    "san-sarv-bu-pm-tf11-sk12",
+    "san-sarv-bu-pm-finot-sk12",
+    "san-mu-bu-pm-gbm3-sk1",
+    "san-mu-bu-pm-gbm2-sk1",
+    "san-mu-mpt-bu-pm-sk1",
+    "san-mg-bu-pm-sk1",
+    "san-lo-bu-pm-sk1",
+    "pli-tv-bi-vb-sk1",
+    "pli-tv-bi-pm-sk1",
+    "san-lo-bi-vb-sk1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk10",
+    "pli-tv-bu-pm-sk10",
+    "san-sarv-bu-pm-tf11-sk36",
+    "san-mg-bu-pm-sk19",
+    "san-lo-bu-pm-sk19",
+    "pli-tv-bi-vb-sk10",
+    "pli-tv-bi-pm-sk10",
+    "san-lo-bi-vb-sk19"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk11",
+    "pli-tv-bu-pm-sk11",
+    "san-sarv-bu-pm-tf11-sk25",
+    "san-mu-mpt-bu-pm-sk22",
+    "san-mg-bu-pm-sk6",
+    "san-lo-bu-pm-sk6",
+    "pli-tv-bi-vb-sk11",
+    "pli-tv-bi-pm-sk11",
+    "san-lo-bi-vb-sk6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk12",
+    "pli-tv-bu-pm-sk12",
+    "san-sarv-bu-pm-tf11-sk26",
+    "san-mg-bu-pm-sk17",
+    "san-lo-bu-pm-sk17",
+    "pli-tv-bi-vb-sk12",
+    "pli-tv-bi-pm-sk12",
+    "san-lo-bi-vb-sk17"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk13",
+    "pli-tv-bu-pm-sk13",
+    "san-sarv-bu-pm-tf11-sk23",
+    "san-sarv-bu-pm-finot-sk27",
+    "san-mu-bu-pm-gbm3-sk13",
+    "san-mu-bu-pm-gbm2-sk13",
+    "san-mu-mpt-bu-pm-sk13",
+    "san-mg-bu-pm-sk5",
+    "san-lo-bu-pm-sk5",
+    "pli-tv-bi-vb-sk13",
+    "pli-tv-bi-pm-sk13",
+    "san-lo-bi-vb-sk5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk14",
+    "pli-tv-bu-pm-sk14",
+    "san-sarv-bu-pm-tf11-sk24",
+    "san-sarv-bu-pm-finot-sk28",
+    "san-mg-bu-pm-sk16",
+    "san-lo-bu-pm-sk16",
+    "pli-tv-bi-vb-sk14",
+    "pli-tv-bi-pm-sk14",
+    "san-lo-bi-vb-sk16"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk15",
+    "pli-tv-bu-pm-sk15",
+    "san-sarv-bu-pm-tf11-sk51",
+    "san-sarv-bu-pm-finot-sk53",
+    "san-mu-bu-pm-gbm3-sk26",
+    "san-mu-bu-pm-gbm2-sk26",
+    "san-mu-mpt-bu-pm-sk26",
+    "san-mg-bu-pm-sk11",
+    "san-lo-bu-pm-sk11",
+    "pli-tv-bi-vb-sk15",
+    "pli-tv-bi-pm-sk15",
+    "san-lo-bi-vb-sk11"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk16",
+    "pli-tv-bu-pm-sk16",
+    "san-sarv-bu-pm-tf11-sk52",
+    "san-sarv-bu-pm-finot-sk54",
+    "pli-tv-bi-vb-sk16",
+    "pli-tv-bi-pm-sk16",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk17",
+    "pli-tv-bu-pm-sk17",
+    "san-sarv-bu-pm-tf11-sk45",
+    "san-sarv-bu-pm-finot-sk47",
+    "san-mu-bu-pm-gbm3-sk27",
+    "san-mu-bu-pm-gbm2-sk27",
+    "san-mu-mpt-bu-pm-sk27",
+    "san-mg-bu-pm-sk13",
+    "san-lo-bu-pm-sk13",
+    "pli-tv-bi-vb-sk17",
+    "pli-tv-bi-pm-sk17",
+    "san-lo-bi-vb-sk13"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk18",
+    "pli-tv-bu-pm-sk18",
+    "san-sarv-bu-pm-tf11-sk46",
+    "san-sarv-bu-pm-finot-sk48",
+    "pli-tv-bi-vb-sk18",
+    "pli-tv-bi-pm-sk18",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk19",
+    "pli-tv-bu-pm-sk19",
+    "san-sarv-bu-pm-tf11-sk49",
+    "san-sarv-bu-pm-finot-sk51",
+    "san-mu-bu-pm-gbm3-sk28",
+    "san-mu-bu-pm-gbm2-sk28",
+    "san-mu-mpt-bu-pm-sk28",
+    "san-mg-bu-pm-sk12",
+    "san-lo-bu-pm-sk12",
+    "pli-tv-bi-vb-sk19",
+    "pli-tv-bi-pm-sk19",
+    "san-lo-bi-vb-sk12"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk2",
+    "pli-tv-bu-pm-sk2",
+    "san-sarv-bu-pm-tf11-sk16",
+    "san-mu-bu-pm-gbm3-sk8",
+    "san-mu-bu-pm-gbm2-sk8",
+    "san-mu-mpt-bu-pm-sk10",
+    "san-mg-bu-pm-sk2",
+    "san-lo-bu-pm-sk2",
+    "pli-tv-bi-vb-sk2",
+    "pli-tv-bi-pm-sk2",
+    "san-lo-bi-vb-sk2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk20",
+    "pli-tv-bu-pm-sk20",
+    "san-sarv-bu-pm-tf11-sk50",
+    "san-sarv-bu-pm-finot-sk52",
+    "pli-tv-bi-vb-sk20",
+    "pli-tv-bi-pm-sk20",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk21",
+    "pli-tv-bu-pm-sk21",
+    "san-sarv-bu-pm-tf11-sk33",
+    "san-sarv-bu-pm-finot-sk35",
+    "san-mu-bu-pm-gbm3-sk25",
+    "san-mu-bu-pm-gbm2-sk25",
+    "san-mu-mpt-bu-pm-sk25",
+    "san-mg-bu-pm-sk10",
+    "san-lo-bu-pm-sk10",
+    "pli-tv-bi-vb-sk21",
+    "pli-tv-bi-pm-sk21",
+    "san-lo-bi-vb-sk10"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk22",
+    "pli-tv-bu-pm-sk22",
+    "san-sarv-bu-pm-tf11-sk34",
+    "san-sarv-bu-pm-finot-sk36",
+    "san-mg-bu-pm-sk22",
+    "san-lo-bu-pm-sk22",
+    "pli-tv-bi-vb-sk22",
+    "pli-tv-bi-pm-sk22",
+    "san-lo-bi-vb-sk22"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk23",
+    "pli-tv-bu-pm-sk23",
+    "san-sarv-bu-pm-tf11-sk31",
+    "san-sarv-bu-pm-finot-sk31",
+    "san-mu-bu-pm-gbm3-sk16",
+    "san-mu-bu-pm-gbm2-sk16",
+    "san-mu-mpt-bu-pm-sk16",
+    "san-mg-bu-pm-sk7",
+    "san-lo-bu-pm-sk7",
+    "pli-tv-bi-vb-sk23",
+    "pli-tv-bi-pm-sk23",
+    "san-lo-bi-vb-sk7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk24",
+    "pli-tv-bu-pm-sk24",
+    "san-sarv-bu-pm-tf11-sk32",
+    "san-sarv-bu-pm-finot-sk32",
+    "san-mg-bu-pm-sk18",
+    "san-lo-bu-pm-sk18",
+    "pli-tv-bi-vb-sk24",
+    "pli-tv-bi-pm-sk24",
+    "san-lo-bi-vb-sk18"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk25",
+    "pli-tv-bu-pm-sk25",
+    "san-sarv-bu-pm-tf11-sk27",
+    "san-mu-bu-pm-gbm3-sk23",
+    "san-mu-bu-pm-gbm2-sk23",
+    "san-mu-mpt-bu-pm-sk24",
+    "san-mg-bu-pm-sk9",
+    "san-lo-bu-pm-sk9",
+    "pli-tv-bi-vb-sk25",
+    "pli-tv-bi-pm-sk25",
+    "san-lo-bi-vb-sk9"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk26",
+    "pli-tv-bu-pm-sk26",
+    "san-sarv-bu-pm-tf11-sk44",
+    "san-sarv-bu-pm-finot-sk40",
+    "san-mu-mpt-bu-pm-sk20",
+    "san-mg-bu-pm-sk21",
+    "san-lo-bu-pm-sk21",
+    "pli-tv-bi-vb-sk26",
+    "pli-tv-bi-pm-sk26",
+    "san-lo-bi-vb-sk21"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk3",
+    "pli-tv-bu-pm-sk3",
+    "san-sarv-bu-pm-tf11-sk19",
+    "san-sarv-bu-pm-finot-sk17",
+    "san-mu-bu-pm-gbm3-sk12",
+    "san-mu-bu-pm-gbm2-sk12",
+    "san-mu-mpt-bu-pm-sk11",
+    "pli-tv-bi-vb-sk3",
+    "pli-tv-bi-pm-sk3",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk30",
+    "pli-tv-bu-pm-sk30",
+    "san-sarv-bu-pm-tf11-sk63",
+    "san-mu-bu-pm-gbm3-sk41",
+    "san-mu-bu-pm-gbm2-sk40",
+    "san-mu-mpt-bu-pm-sk41",
+    "pli-tv-bi-vb-sk30",
+    "pli-tv-bi-pm-sk30",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk31",
+    "pli-tv-bu-pm-sk31",
+    "san-mu-bu-pm-gbm3-sk48",
+    "san-mu-mpt-bu-pm-sk47",
+    "pli-tv-bi-vb-sk31",
+    "pli-tv-bi-pm-sk31",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk32",
+    "pli-tv-bu-pm-sk32",
+    "san-sarv-bu-pm-tf11-sk86",
+    "san-sarv-bu-pm-finot-sk86",
+    "san-mu-bu-pm-gbm2-sk43",
+    "san-mu-mpt-bu-pm-sk44",
+    "san-mg-bu-pm-sk44",
+    "san-lo-bu-pm-sk44",
+    "pli-tv-bi-vb-sk32",
+    "pli-tv-bi-pm-sk32",
+    "san-lo-bi-vb-sk45",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk33",
+    "pli-tv-bu-pm-sk33",
+    "san-sarv-bu-pm-tf11-sk87",
+    "san-mu-bu-pm-gbm3-sk43",
+    "san-mu-bu-pm-gbm2-sk42",
+    "san-mu-mpt-bu-pm-sk43",
+    "pli-tv-bi-vb-sk33",
+    "pli-tv-bi-pm-sk33",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk34",
+    "pli-tv-bu-pm-sk34",
+    "san-sarv-bu-pm-tf11-sk64",
+    "san-sarv-bu-pm-finot-sk65",
+    "san-mu-bu-pm-gbm3-sk42",
+    "san-mu-bu-pm-gbm2-sk41",
+    "san-mu-mpt-bu-pm-sk42",
+    "san-mg-bu-pm-sk25",
+    "san-lo-bu-pm-sk25",
+    "san-bu-pm-qizil-sk64",
+    "pli-tv-bi-vb-sk34",
+    "pli-tv-bi-pm-sk34",
+    "san-lo-bi-vb-sk26"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk35",
+    "pli-tv-bu-pm-sk35",
+    "san-sarv-bu-pm-tf11-sk62",
+    "san-mu-bu-pm-gbm3-sk68",
+    "san-mu-mpt-bu-pm-sk67",
+    "san-mg-bu-pm-sk26",
+    "san-lo-bu-pm-sk26",
+    "pli-tv-bi-vb-sk35",
+    "pli-tv-bi-pm-sk35",
+    "san-lo-bi-vb-sk27"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk36",
+    "pli-tv-bu-pm-sk36",
+    "san-sarv-bu-pm-tf11-sk84",
+    "san-sarv-bu-pm-finot-sk83",
+    "san-mu-bu-pm-gbm3-sk45",
+    "san-mu-mpt-bu-pm-sk46",
+    "san-mg-bu-pm-sk46",
+    "san-lo-bu-pm-sk46",
+    "pli-tv-bi-vb-sk36",
+    "pli-tv-bi-pm-sk36",
+    "san-lo-bi-vb-sk47"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk37",
+    "pli-tv-bu-pm-sk37",
+    "san-sarv-bu-pm-tf11-sk83",
+    "san-mu-bu-pm-gbm3-sk46",
+    "san-mg-bu-pm-sk45",
+    "san-lo-bu-pm-sk45",
+    "san-bu-pm-qizil-sk83",
+    "pli-tv-bi-vb-sk37",
+    "pli-tv-bi-pm-sk37",
+    "san-lo-bi-vb-sk46"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk38",
+    "pli-tv-bu-pm-sk38",
+    "san-sarv-bu-pm-tf11-sk85",
+    "san-sarv-bu-pm-finot-sk85",
+    "san-mu-bu-pm-gbm3-sk69",
+    "san-mu-mpt-bu-pm-sk70",
+    "san-mg-bu-pm-sk43",
+    "san-lo-bu-pm-sk43",
+    "pli-tv-bi-vb-sk38",
+    "pli-tv-bi-pm-sk38",
+    "san-lo-bi-vb-sk44"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk39",
+    "pli-tv-bu-pm-sk39",
+    "san-sarv-bu-pm-tf11-sk67",
+    "san-sarv-bu-pm-finot-sk68",
+    "san-mu-bu-pm-gbm3-sk50",
+    "san-mu-mpt-bu-pm-sk49",
+    "san-mg-bu-pm-sk30",
+    "san-lo-bu-pm-sk30",
+    "san-bu-pm-qizil-sk67",
+    "pli-tv-bi-vb-sk39",
+    "pli-tv-bi-pm-sk39",
+    "san-lo-bi-vb-sk31",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk4",
+    "pli-tv-bu-pm-sk4",
+    "san-sarv-bu-pm-tf11-sk20",
+    "san-sarv-bu-pm-finot-sk18",
+    "pli-tv-bi-vb-sk4",
+    "pli-tv-bi-pm-sk4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk40",
+    "pli-tv-bu-pm-sk40",
+    "san-sarv-bu-pm-tf11-sk68",
+    "san-sarv-bu-pm-finot-sk69",
+    "san-mu-bu-pm-gbm3-sk51",
+    "san-mu-mpt-bu-pm-sk50",
+    "san-bu-pm-qizil-sk68",
+    "pli-tv-bi-vb-sk40",
+    "pli-tv-bi-pm-sk40",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk41",
+    "pli-tv-bu-pm-sk41",
+    "san-sarv-bu-pm-tf11-sk69",
+    "san-sarv-bu-pm-finot-sk70",
+    "san-mu-bu-pm-gbm3-sk52",
+    "san-mu-mpt-bu-pm-sk51",
+    "san-mg-bu-pm-sk31",
+    "san-lo-bu-pm-sk31",
+    "san-bu-pm-qizil-sk69",
+    "pli-tv-bi-vb-sk41",
+    "pli-tv-bi-pm-sk41",
+    "san-lo-bi-vb-sk32"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk43",
+    "pli-tv-bu-pm-sk43",
+    "san-sarv-bu-pm-tf11-sk70",
+    "san-sarv-bu-pm-finot-sk71",
+    "san-mu-bu-pm-gbm3-sk53",
+    "san-mu-mpt-bu-pm-sk52",
+    "san-mg-bu-pm-sk34",
+    "san-lo-bu-pm-sk34",
+    "san-bu-pm-qizil-sk70",
+    "pli-tv-bi-vb-sk43",
+    "pli-tv-bi-pm-sk43",
+    "san-lo-bi-vb-sk35"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk44",
+    "pli-tv-bu-pm-sk44",
+    "san-mg-bu-pm-sk32",
+    "san-lo-bu-pm-sk32",
+    "pli-tv-bi-vb-sk44",
+    "pli-tv-bi-pm-sk44",
+    "san-lo-bi-vb-sk33"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk45",
+    "pli-tv-bu-pm-sk45",
+    "san-sarv-bu-pm-tf11-sk71",
+    "san-sarv-bu-pm-finot-sk66",
+    "san-mu-bu-pm-gbm3-sk63",
+    "san-mu-mpt-bu-pm-sk61",
+    "san-mg-bu-pm-sk33",
+    "san-lo-bu-pm-sk33",
+    "san-bu-pm-qizil-sk71",
+    "pli-tv-bi-vb-sk45",
+    "pli-tv-bi-pm-sk45",
+    "san-lo-bi-vb-sk34"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk46",
+    "pli-tv-bu-pm-sk46",
+    "san-sarv-bu-pm-tf11-sk66",
+    "san-sarv-bu-pm-finot-sk67",
+    "san-mu-bu-pm-gbm3-sk61",
+    "san-mu-mpt-bu-pm-sk60",
+    "san-mg-bu-pm-sk28",
+    "san-lo-bu-pm-sk28",
+    "san-bu-pm-qizil-sk66",
+    "pli-tv-bi-vb-sk46",
+    "pli-tv-bi-pm-sk46",
+    "san-lo-bi-vb-sk29"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk47",
+    "pli-tv-bu-pm-sk47",
+    "san-sarv-bu-pm-tf11-sk80",
+    "san-sarv-bu-pm-finot-sk81",
+    "san-mu-bu-pm-gbm3-sk66",
+    "san-mu-mpt-bu-pm-sk65",
+    "san-mg-bu-pm-sk41",
+    "san-lo-bu-pm-sk41",
+    "san-bu-pm-qizil-sk80",
+    "pli-tv-bi-vb-sk47",
+    "pli-tv-bi-pm-sk47",
+    "san-lo-bi-vb-sk42"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk48",
+    "pli-tv-bu-pm-sk48",
+    "san-sarv-bu-pm-tf11-sk81",
+    "san-sarv-bu-pm-finot-sk80",
+    "san-mu-bu-pm-gbm3-sk59",
+    "san-mu-mpt-bu-pm-sk58",
+    "san-mg-bu-pm-sk42",
+    "san-lo-bu-pm-sk42",
+    "san-bu-pm-qizil-sk81",
+    "pli-tv-bi-vb-sk48",
+    "pli-tv-bi-pm-sk48",
+    "san-lo-bi-vb-sk43"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk49",
+    "pli-tv-bu-pm-sk49",
+    "san-sarv-bu-pm-tf11-sk77",
+    "san-sarv-bu-pm-finot-sk76",
+    "san-mu-bu-pm-gbm3-sk58",
+    "san-mu-mpt-bu-pm-sk57",
+    "san-mg-bu-pm-sk29",
+    "san-lo-bu-pm-sk29",
+    "san-bu-pm-qizil-sk77",
+    "pli-tv-bi-vb-sk49",
+    "pli-tv-bi-pm-sk49",
+    "san-lo-bi-vb-sk30"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk5",
+    "pli-tv-bu-pm-sk5",
+    "san-sarv-bu-pm-tf11-sk17",
+    "san-sarv-bu-pm-finot-sk19",
+    "san-mu-bu-pm-gbm3-sk11",
+    "san-mu-bu-pm-gbm2-sk11",
+    "san-mu-mpt-bu-pm-sk12",
+    "san-mg-bu-pm-sk3",
+    "san-lo-bu-pm-sk3",
+    "pli-tv-bi-vb-sk5",
+    "pli-tv-bi-pm-sk5",
+    "san-lo-bi-vb-sk3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk50",
+    "pli-tv-bu-pm-sk50",
+    "san-sarv-bu-pm-tf11-sk73",
+    "san-sarv-bu-pm-finot-sk73",
+    "san-mu-bu-pm-gbm3-sk54",
+    "san-mu-mpt-bu-pm-sk53",
+    "san-mg-bu-pm-sk38",
+    "san-lo-bu-pm-sk38",
+    "san-bu-pm-qizil-sk73",
+    "pli-tv-bi-vb-sk50",
+    "pli-tv-bi-pm-sk50",
+    "san-lo-bi-vb-sk39",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk51",
+    "pli-tv-bu-pm-sk51",
+    "san-sarv-bu-pm-tf11-sk72",
+    "san-mu-bu-pm-gbm3-sk55",
+    "san-mu-mpt-bu-pm-sk54",
+    "san-mg-bu-pm-sk39",
+    "san-lo-bu-pm-sk39",
+    "san-bu-pm-qizil-sk72",
+    "pli-tv-bi-vb-sk51",
+    "pli-tv-bi-pm-sk51",
+    "san-lo-bi-vb-sk40",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk52",
+    "pli-tv-bu-pm-sk52",
+    "san-sarv-bu-pm-tf11-sk78",
+    "san-sarv-bu-pm-finot-sk78",
+    "san-mu-bu-pm-gbm3-sk65",
+    "san-mu-mpt-bu-pm-sk63",
+    "san-mg-bu-pm-sk36",
+    "san-lo-bu-pm-sk36",
+    "san-bu-pm-qizil-sk78",
+    "pli-tv-bi-vb-sk52",
+    "pli-tv-bi-pm-sk52",
+    "san-lo-bi-vb-sk37"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk53",
+    "pli-tv-bu-pm-sk53",
+    "san-sarv-bu-pm-tf11-sk79",
+    "san-sarv-bu-pm-finot-sk79",
+    "san-mu-bu-pm-gbm3-sk64",
+    "san-mu-mpt-bu-pm-sk64",
+    "san-mg-bu-pm-sk35",
+    "san-lo-bu-pm-sk35",
+    "san-bu-pm-qizil-sk79",
+    "pli-tv-bi-vb-sk53",
+    "pli-tv-bi-pm-sk53",
+    "san-lo-bi-vb-sk38"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk55",
+    "pli-tv-bu-pm-sk55",
+    "san-sarv-bu-pm-tf11-sk82",
+    "san-sarv-bu-pm-finot-sk82",
+    "san-mu-bu-pm-gbm3-sk70",
+    "san-mu-mpt-bu-pm-sk68",
+    "san-mg-bu-pm-sk48",
+    "san-lo-bu-pm-sk48",
+    "san-bu-pm-qizil-sk82",
+    "pli-tv-bi-vb-sk55",
+    "pli-tv-bi-pm-sk55",
+    "san-lo-bi-vb-sk48"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk56",
+    "pli-tv-bu-pm-sk56",
+    "san-sarv-bu-pm-tf11-sk88",
+    "san-sarv-bu-pm-finot-sk88",
+    "san-mu-bu-pm-gbm3-sk72",
+    "san-mu-mpt-bu-pm-sk71",
+    "san-mg-bu-pm-sk47",
+    "san-lo-bu-pm-sk47",
+    "pli-tv-bi-vb-sk56",
+    "pli-tv-bi-pm-sk56",
+    "san-lo-bi-vb-sk49"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk57",
+    "pli-tv-bu-pm-sk57",
+    "san-sarv-bu-pm-tf11-sk106",
+    "san-sarv-bu-pm-finot-sk106",
+    "san-mu-bu-pm-gbm3-sk100",
+    "san-mu-mpt-bu-pm-sk97",
+    "san-mg-bu-pm-sk61",
+    "san-lo-bu-pm-sk61",
+    "pli-tv-bi-vb-sk57",
+    "pli-tv-bi-pm-sk57",
+    "san-lo-bi-vb-sk62"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk58",
+    "pli-tv-bu-pm-sk58",
+    "san-sarv-bu-pm-tf11-sk105",
+    "san-sarv-bu-pm-finot-sk105",
+    "san-mu-bu-pm-gbm3-sk99",
+    "san-mu-mpt-bu-pm-sk96",
+    "san-mg-bu-pm-sk60",
+    "san-lo-bu-pm-sk60",
+    "pli-tv-bi-vb-sk58",
+    "pli-tv-bi-pm-sk58",
+    "san-lo-bi-vb-sk61"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk59",
+    "pli-tv-bu-pm-sk59",
+    "san-sarv-bu-pm-tf11-sk107",
+    "san-sarv-bu-pm-finot-sk107",
+    "san-mu-bu-pm-gbm3-sk101",
+    "san-mu-mpt-bu-pm-sk98",
+    "san-mg-bu-pm-sk58",
+    "san-lo-bu-pm-sk58",
+    "pli-tv-bi-vb-sk59",
+    "pli-tv-bi-pm-sk59",
+    "san-lo-bi-vb-sk59"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk6",
+    "pli-tv-bu-pm-sk6",
+    "san-sarv-bu-pm-tf11-sk18",
+    "san-sarv-bu-pm-finot-sk20",
+    "san-mg-bu-pm-sk14",
+    "san-lo-bu-pm-sk14",
+    "pli-tv-bi-vb-sk6",
+    "pli-tv-bi-pm-sk6",
+    "san-lo-bi-vb-sk14"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk60",
+    "pli-tv-bu-pm-sk60",
+    "san-sarv-bu-pm-tf11-sk109",
+    "san-sarv-bu-pm-finot-sk109",
+    "san-mu-bu-pm-gbm3-sk103",
+    "san-mu-mpt-bu-pm-sk100",
+    "san-mg-bu-pm-sk59",
+    "san-lo-bu-pm-sk59",
+    "pli-tv-bi-vb-sk60",
+    "pli-tv-bi-pm-sk60",
+    "san-lo-bi-vb-sk60"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk61",
+    "pli-tv-bu-pm-sk61",
+    "san-sarv-bu-pm-tf11-sk104",
+    "san-sarv-bu-pm-finot-sk103",
+    "san-mu-bu-pm-gbm3-sk98",
+    "san-mu-mpt-bu-pm-sk95",
+    "san-mg-bu-pm-sk53",
+    "san-lo-bu-pm-sk53",
+    "pli-tv-bi-vb-sk61",
+    "pli-tv-bi-pm-sk61",
+    "san-lo-bi-vb-sk54"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk62",
+    "pli-tv-bu-pm-sk62",
+    "san-sarv-bu-pm-tf11-sk103",
+    "san-sarv-bu-pm-finot-sk104",
+    "san-mg-bu-pm-sk52",
+    "san-lo-bu-pm-sk52",
+    "pli-tv-bi-vb-sk62",
+    "pli-tv-bi-pm-sk62",
+    "san-lo-bi-vb-sk53"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk63",
+    "pli-tv-bu-pm-sk63",
+    "san-mu-bu-pm-gbm3-sk97",
+    "san-mu-mpt-bu-pm-sk94",
+    "san-mg-bu-pm-sk64",
+    "san-lo-bu-pm-sk64",
+    "pli-tv-bi-vb-sk63",
+    "pli-tv-bi-pm-sk63",
+    "san-lo-bi-vb-sk65"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk64",
+    "pli-tv-bu-pm-sk64",
+    "san-sarv-bu-pm-tf11-sk94",
+    "san-sarv-bu-pm-finot-sk94",
+    "san-mu-bu-pm-gbm3-sk80",
+    "san-mu-mpt-bu-pm-sk78",
+    "pli-tv-bi-vb-sk64",
+    "pli-tv-bi-pm-sk64",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk65",
+    "pli-tv-bu-pm-sk65",
+    "san-sarv-bu-pm-tf11-sk102",
+    "san-sarv-bu-pm-finot-sk99",
+    "san-mu-bu-pm-gbm3-sk88",
+    "san-mu-mpt-bu-pm-sk86",
+    "san-mg-bu-pm-sk57",
+    "san-lo-bu-pm-sk57",
+    "pli-tv-bi-vb-sk65",
+    "pli-tv-bi-pm-sk65",
+    "san-lo-bi-vb-sk58"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk66",
+    "pli-tv-bu-pm-sk66",
+    "san-sarv-bu-pm-tf11-sk95",
+    "san-sarv-bu-pm-finot-sk96",
+    "san-mu-bu-pm-gbm3-sk93",
+    "san-mu-mpt-bu-pm-sk90",
+    "san-mg-bu-pm-sk55",
+    "san-lo-bu-pm-sk55",
+    "pli-tv-bi-vb-sk66",
+    "pli-tv-bi-pm-sk66",
+    "san-lo-bi-vb-sk56"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk67",
+    "pli-tv-bu-pm-sk67",
+    "san-sarv-bu-pm-tf11-sk96",
+    "san-sarv-bu-pm-finot-sk95",
+    "san-mu-bu-pm-gbm3-sk84",
+    "san-mu-mpt-bu-pm-sk82",
+    "san-mg-bu-pm-sk54",
+    "san-lo-bu-pm-sk54",
+    "pli-tv-bi-vb-sk67",
+    "pli-tv-bi-pm-sk67",
+    "san-lo-bi-vb-sk55"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk69",
+    "pli-tv-bu-pm-sk69",
+    "san-sarv-bu-pm-tf11-sk93",
+    "san-sarv-bu-pm-finot-sk92",
+    "san-mu-bu-pm-gbm3-sk81",
+    "san-mu-mpt-bu-pm-sk79",
+    "san-mg-bu-pm-sk51",
+    "san-lo-bu-pm-sk51",
+    "pli-tv-bi-vb-sk69",
+    "pli-tv-bi-pm-sk69",
+    "san-lo-bi-vb-sk52"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk7",
+    "pli-tv-bu-pm-sk7",
+    "san-sarv-bu-pm-tf11-sk21",
+    "san-sarv-bu-pm-finot-sk21",
+    "san-mu-bu-pm-gbm3-sk14",
+    "san-mu-bu-pm-gbm2-sk14",
+    "san-mu-mpt-bu-pm-sk14",
+    "san-mg-bu-pm-sk4",
+    "san-lo-bu-pm-sk4",
+    "pli-tv-bi-vb-sk7",
+    "pli-tv-bi-pm-sk7",
+    "san-lo-bi-vb-sk4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk70",
+    "pli-tv-bu-pm-sk70",
+    "san-sarv-bu-pm-tf11-sk92",
+    "san-sarv-bu-pm-finot-sk93",
+    "san-mu-bu-pm-gbm3-sk79",
+    "san-mu-mpt-bu-pm-sk77",
+    "san-mg-bu-pm-sk49",
+    "san-lo-bu-pm-sk49",
+    "pli-tv-bi-vb-sk70",
+    "pli-tv-bi-pm-sk70",
+    "san-lo-bi-vb-sk50"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk71",
+    "pli-tv-bu-pm-sk71",
+    "san-sarv-bu-pm-tf11-sk90",
+    "san-sarv-bu-pm-finot-sk91",
+    "san-mu-bu-pm-gbm3-sk82",
+    "san-mu-mpt-bu-pm-sk80",
+    "san-mg-bu-pm-sk63",
+    "san-lo-bu-pm-sk63",
+    "pli-tv-bi-vb-sk71",
+    "pli-tv-bi-pm-sk71",
+    "san-lo-bi-vb-sk64"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk72",
+    "pli-tv-bu-pm-sk72",
+    "san-sarv-bu-pm-tf11-sk91",
+    "san-sarv-bu-pm-finot-sk90",
+    "san-mu-bu-pm-gbm3-sk83",
+    "san-mu-mpt-bu-pm-sk81",
+    "san-mg-bu-pm-sk62",
+    "san-lo-bu-pm-sk62",
+    "pli-tv-bi-vb-sk72",
+    "pli-tv-bi-pm-sk72",
+    "san-lo-bi-vb-sk63"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk73",
+    "pli-tv-bu-pm-sk73",
+    "san-sarv-bu-pm-tf11-sk112",
+    "san-sarv-bu-pm-finot-sk112",
+    "san-mu-bu-pm-gbm3-sk105",
+    "san-mu-mpt-bu-pm-sk102",
+    "san-mg-bu-pm-sk67",
+    "san-lo-bu-pm-sk67",
+    "pli-tv-bi-vb-sk73",
+    "pli-tv-bi-pm-sk73",
+    "san-lo-bi-vb-sk66"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk74",
+    "pli-tv-bu-pm-sk74",
+    "san-sarv-bu-pm-tf11-sk110",
+    "san-sarv-bu-pm-finot-sk110",
+    "san-mu-bu-pm-gbm3-sk107",
+    "san-mu-mpt-bu-pm-sk104",
+    "san-mg-bu-pm-sk65",
+    "san-lo-bu-pm-sk65",
+    "san-bu-pm-qizil-sk110",
+    "pli-tv-bi-vb-sk74",
+    "pli-tv-bi-pm-sk74",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk75",
+    "pli-tv-bu-pm-sk75",
+    "san-sarv-bu-pm-tf11-sk111",
+    "san-sarv-bu-pm-finot-sk111",
+    "san-mu-bu-pm-gbm3-sk106",
+    "san-mu-mpt-bu-pm-sk103",
+    "san-mg-bu-pm-sk66",
+    "san-lo-bu-pm-sk66",
+    "pli-tv-bi-vb-sk75",
+    "pli-tv-bi-pm-sk75",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk8",
+    "pli-tv-bu-pm-sk8",
+    "san-sarv-bu-pm-tf11-sk22",
+    "san-sarv-bu-pm-finot-sk22",
+    "san-mg-bu-pm-sk15",
+    "san-lo-bu-pm-sk15",
+    "pli-tv-bi-vb-sk8",
+    "pli-tv-bi-pm-sk8",
+    "san-lo-bi-vb-sk15"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-sk9",
+    "pli-tv-bu-pm-sk9",
+    "san-sarv-bu-pm-tf11-sk35",
+    "san-sarv-bu-pm-finot-sk37",
+    "san-mu-bu-pm-gbm3-sk17",
+    "san-mu-bu-pm-gbm2-sk17",
+    "san-mu-mpt-bu-pm-sk17",
+    "san-mg-bu-pm-sk8",
+    "san-lo-bu-pm-sk8",
+    "pli-tv-bi-vb-sk9",
+    "pli-tv-bi-pm-sk9",
+    "san-lo-bi-vb-sk8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss1",
+    "pli-tv-bu-pm-ss1",
+    "san-sarv-bu-pm-tf11-ss1",
+    "san-sarv-bu-pm-finot-ss1",
+    "san-mu-bu-pm-gbm3-ss1",
+    "san-mu-bu-pm-gbm2-ss1",
+    "san-mu-mpt-bu-pm-ss1",
+    "san-mg-bu-pm-ss1",
+    "san-lo-bu-pm-ss1",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss10",
+    "pli-tv-bu-pm-ss10",
+    "san-sarv-bu-pm-tf11-ss10",
+    "san-sarv-bu-pm-finot-ss10",
+    "san-mu-bu-pm-gbm3-ss10",
+    "san-mu-bu-pm-gbm2-ss10",
+    "san-mu-mpt-bu-pm-ss10",
+    "san-mg-bu-pm-ss10",
+    "san-lo-bu-pm-ss10",
+    "pli-tv-bi-vb-ss14",
+    "pli-tv-bi-pm-ss14",
+    "san-lo-bi-vb-ss13"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss11",
+    "pli-tv-bu-pm-ss11",
+    "san-sarv-bu-pm-tf11-ss11",
+    "san-sarv-bu-pm-finot-ss11",
+    "san-mu-bu-pm-gbm3-ss11",
+    "san-mu-bu-pm-gbm2-ss11",
+    "san-mu-mpt-bu-pm-ss11",
+    "san-mg-bu-pm-ss11",
+    "san-lo-bu-pm-ss11",
+    "pli-tv-bi-vb-ss15",
+    "pli-tv-bi-pm-ss15",
+    "san-sarv-bi-pm-tf3215-ss11",
+    "san-sarv-bi-pm-tf44-ss11",
+    "san-lo-bi-vb-ss14"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss12",
+    "pli-tv-bu-pm-ss12",
+    "san-sarv-bu-pm-tf11-ss13",
+    "san-sarv-bu-pm-finot-ss13",
+    "san-mu-bu-pm-gbm3-ss13",
+    "san-mu-bu-pm-gbm2-ss13",
+    "san-mu-mpt-bu-pm-ss13",
+    "san-mg-bu-pm-ss12",
+    "san-lo-bu-pm-ss12",
+    "pli-tv-bi-vb-ss16",
+    "pli-tv-bi-pm-ss16",
+    "san-sarv-bi-pm-tf3215-ss12",
+    "san-sarv-bi-pm-tf44-ss12",
+    "san-lo-bi-vb-ss16"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss13",
+    "pli-tv-bu-pm-ss13",
+    "san-sarv-bu-pm-tf11-ss12",
+    "san-sarv-bu-pm-finot-ss12",
+    "san-mu-bu-pm-gbm3-ss12",
+    "san-mu-bu-pm-gbm2-ss12",
+    "san-mu-mpt-bu-pm-ss12",
+    "san-mg-bu-pm-ss13",
+    "san-lo-bu-pm-ss13",
+    "pli-tv-bi-vb-ss17",
+    "pli-tv-bi-pm-ss17",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss2",
+    "pli-tv-bu-pm-ss2",
+    "san-sarv-bu-pm-tf11-ss2",
+    "san-sarv-bu-pm-finot-ss2",
+    "san-mu-bu-pm-gbm3-ss2",
+    "san-mu-bu-pm-gbm2-ss2",
+    "san-mu-mpt-bu-pm-ss2",
+    "san-mg-bu-pm-ss2",
+    "san-lo-bu-pm-ss2",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss3",
+    "pli-tv-bu-pm-ss3",
+    "san-sarv-bu-pm-tf11-ss3",
+    "san-sarv-bu-pm-finot-ss3",
+    "san-mu-bu-pm-gbm3-ss3",
+    "san-mu-mpt-bu-pm-ss3",
+    "san-mg-bu-pm-ss3",
+    "san-lo-bu-pm-ss3",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss4",
+    "pli-tv-bu-pm-ss4",
+    "san-sarv-bu-pm-tf11-ss4",
+    "san-sarv-bu-pm-finot-ss4",
+    "san-mu-bu-pm-gbm3-ss4",
+    "san-mu-bu-pm-gbm2-ss4",
+    "san-mu-mpt-bu-pm-ss4",
+    "san-mg-bu-pm-ss4",
+    "san-lo-bu-pm-ss4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss5",
+    "pli-tv-bu-pm-ss5",
+    "san-sarv-bu-pm-tf11-ss5",
+    "san-sarv-bu-pm-finot-ss5",
+    "san-mu-bu-pm-gbm3-ss5",
+    "san-mu-bu-pm-gbm2-ss5",
+    "san-mu-mpt-bu-pm-ss5",
+    "san-mg-bu-pm-ss5",
+    "san-lo-bu-pm-ss5",
+    "pli-tv-bi-vb-ss7",
+    "pli-tv-bi-pm-ss7",
+    "san-sarv-bi-pm-tf3215-ss1",
+    "san-sarv-bi-pm-tf44-ss1",
+    "san-lo-bi-vb-ss1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss6",
+    "pli-tv-bu-pm-ss6",
+    "san-sarv-bu-pm-tf11-ss6",
+    "san-sarv-bu-pm-finot-ss6",
+    "san-mu-bu-pm-gbm3-ss6",
+    "san-mu-bu-pm-gbm2-ss6",
+    "san-mu-mpt-bu-pm-ss6",
+    "san-mg-bu-pm-ss6",
+    "san-lo-bu-pm-ss6",
+    "san-bu-pm-qizil-ss6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss7",
+    "pli-tv-bu-pm-ss7",
+    "san-sarv-bu-pm-tf11-ss7",
+    "san-sarv-bu-pm-finot-ss7",
+    "san-mu-bu-pm-gbm3-ss7",
+    "san-mu-bu-pm-gbm2-ss7",
+    "san-mu-mpt-bu-pm-ss7",
+    "san-mg-bu-pm-ss7",
+    "san-lo-bu-pm-ss7",
+    "san-bu-pm-qizil-ss7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss8",
+    "pli-tv-bu-pm-ss8",
+    "san-sarv-bu-pm-tf11-ss8",
+    "san-sarv-bu-pm-finot-ss8",
+    "san-mu-bu-pm-gbm3-ss8",
+    "san-mu-bu-pm-gbm2-ss8",
+    "san-mu-mpt-bu-pm-ss8",
+    "san-mg-bu-pm-ss8",
+    "san-lo-bu-pm-ss8",
+    "san-bu-pm-qizil-ss8",
+    "pli-tv-bi-vb-ss8",
+    "pli-tv-bi-pm-ss8",
+    "san-sarv-bi-pm-tf3215-ss2",
+    "san-sarv-bi-pm-tf44-ss2",
+    "san-lo-bi-vb-ss2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-bu-vb-ss9",
+    "pli-tv-bu-pm-ss9",
+    "san-sarv-bu-pm-tf11-ss9",
+    "san-sarv-bu-pm-finot-ss9",
+    "san-mu-bu-pm-gbm3-ss9",
+    "san-mu-bu-pm-gbm2-ss9",
+    "san-mu-mpt-bu-pm-ss9",
+    "san-mg-bu-pm-ss9",
+    "san-lo-bu-pm-ss9",
+    "san-bu-pm-qizil-ss9",
+    "pli-tv-bi-vb-ss9",
+    "pli-tv-bi-pm-ss9",
+    "san-sarv-bi-pm-tf3215-ss3",
+    "san-sarv-bi-pm-tf44-ss3",
+    "san-lo-bi-vb-ss3"
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-bu-pm-gbm3-sk62",
+    "san-mu-mpt-bu-pm-sk62"
+  ]
+},
+
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd1",
+    "pli-tv-kd1",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd10",
+    "pli-tv-kd9",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd11",
+    "pli-tv-kd11",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd12",
+    "pli-tv-kd13",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd13",
+    "pli-tv-kd12",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd14",
+    "pli-tv-kd19",
+    "an8.20",
+    "ma37",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd15",
+    "pli-tv-kd16",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd16",
+    "pli-tv-kd14"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd17",
+    "pli-tv-kd17",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd18a",
+    "pli-tv-kd15",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd18b",
+    "pli-tv-kd20",
+    "an8.51",
+    "ma116",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd18c",
+    "pli-tv-kd18"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd2",
+    "pli-tv-kd2",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd3",
+    "pli-tv-kd4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd4",
+    "pli-tv-kd3",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd5",
+    "pli-tv-kd5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd6",
+    "pli-tv-kd6",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd7",
+    "pli-tv-kd8",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd8",
+    "pli-tv-kd7",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd9",
+    "pli-tv-kd10"
+  ]
+},
+
+
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-sarv-bi-pm-tf3215-ss6",
+    "san-sarv-bi-pm-tf44-ss6",
+  ]
+},
+
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "snp3.1",
+    "san-lo-mvu52#73-#91",
+    "san-mu-kd17#128"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "snp3.11",
+    "san-lo-mvu102#22-#55",
+    "san-mu-kd17#46-#51"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv3#3.7",
+    "sf199#14.52",
+    "iti58#3",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv3#3.8",
+    "sf199#14.53",
+    "iti58#4",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dhp360",
+    "san-lo-mvu107#39",
+  ]
+},
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dhp49",
+    "uv18#18.8",
+    "san-mu-bu-pm-gbm3#302",
+    "san-sarv-bu-pm-tf11#286",
+    "san-mg-bu-pm#286"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "divy6#050.013-#050.023",
+    "san-mu-kd6#161-#162"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dhp63",
+    "divy#431.009",
+    "uv25#25.22",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dhp70",
+    "san-lo-mvu109#15",
+    "uv24#24.20E",
+    "Isibhāsiyāiṁ 41#13",
+    "Uttarādhyayanasūtra 9#44",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu109#10",
+    "uv24#24.17",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv24#24.18",
+    "san-lo-mvu109#11",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv24#24.19",
+    "san-lo-mvu109#12",
+  ]
+},
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "divy8#060.027-#060.028",
+    "divy9#077.025-#077.026"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv1#1.22",
+    "avs92#92.1",
+    "divy8#063.016",
+    "san-lo-mvu84#3",
+    "san-mu-kd17#770",
+    "san-mu-kd17#405",
+  ]
+},
+{
+  "pli": "",
+  "skt": "śraddhayā tarati hy ogham apramādena cārṇavaṃ vīryeṇa duḥkhaṃ tyajati prajñayā pariśudhyati",
+  "matches": [
+    "snp1.10#vns186",
+    "sn10.12#5",
+    "sag#9.2",
+  ]
+},
+{
+  "pli": "",
+  "skt": "kena svid oghaṃ tarati kenottarati cārṇavaṃ duḥkhaṃ tyajati kena svit kena svit pariśudhyati",
+  "matches": [
+    "snp1.10#vns185",
+    "sag#9.1",
+    "sn10.12#4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv2#2.20",
+    "sn4.20#4",
+    "sn4.21#4",
+    "divy17#138.028-#138.030",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv17#17.8",
+    "divy3#034.014-#034.015",
+    "sf245#7.10"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv21#21.13",
+    "sf210#18.640"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv21#21.18",
+    "iti38#8",
+    "dn14#149",
+    "mn85#42",
+    "mn26#39",
+    "sn6.1#7",
+    "pli-tv-kd1#31",
+    "sf36#259"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn14#150",
+    "mn85#43",
+    "mn26#40",
+    "pli-tv-kd1#32",
+    "sn6.1#8",
+    "san-lo-mvu94#13",
+    "sn11.17#4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv21#21.2",
+    "sf259#10.6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv21#21.3",
+    "san-lo-mvu94#40",
+    "sf259#10.7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv21#21.4",
+    "san-lo-mvu94#38",
+    "lal26#26.1",
+    "sf259#10.4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv21#21.6",
+    "san-lo-mvu94#46",
+    "lal26#26.6",
+    "sf259#10.9"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv21#21.8",
+    "san-lo-mvu75#4",
+    "pli-tv-kd1#244",
+    "sn4.25#vns515",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv30#30.18-#30.19",
+    "ud2.1#5-#6",
+    "pli-tv-kd1#18-#19",
+    "san-mu-kd17#171"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-mu-kd7#73",
+    "uv30#30.35-#30.36",
+    "ud8.10#4-#5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv32#32.20",
+    "san-lo-mvu107#27"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#7.6-#7.12",
+    "san-lo-mvu17#sbvi128",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#8.13-#8.18",
+    "san-mu-kd17#177-#179"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#7.1-#7.12",
+    "san-mu-kd17#172-#174"
+  ]
+},
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn26",
+    "lal16",
+    "ma204",
+    "sht-sutta60",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn26#44-#61",
+    "mn85#47-#63",
+    "pli-tv-kd1#53-#68",
+    "san-lo-mvu94#29-#56",
+    "san-mu-kd17#175-#186",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn14#136-#153",
+    "sn6.1",
+    "mn26#34-#43",
+    "mn85#36-#46",
+    "san-lo-mvu94#6-#28",
+    "san-mu-kd17#155-#157"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#6.1-#6.6",
+    "san-mu-kd17#172-#173"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#5.1-#5.3",
+    "san-mu-kd17#169"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#4.1-#4.7",
+    "san-mu-kd17#168"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#2.1-#3.14",
+    "san-mu-kd17#165-#167"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#1.1-#1.12",
+    "san-mu-kd17#161-#164"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#8.1-#8.12",
+    "san-mu-kd17#175-#176"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#17.1-#17.26",
+    "san-mu-kd17#197-#199"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#10.1-#10.11",
+    "san-mu-kd17#183-#185",
+    "uv21#21.1-#21.7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#9.1-#9.11",
+    "san-mu-kd17#180"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#11.1-#11.18",
+    "san-mu-kd17#186-#187"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#12.1-#12.13",
+    "san-mu-kd17#188-#189"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#13.1-#13.13",
+    "san-mu-kd17#190-#191"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#14.1-#14.12",
+    "san-mu-kd17#192-#193"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#15.1-#15.19",
+    "san-mu-kd17#193-#194"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#16.1-#16.16",
+    "san-mu-kd17#195-#196"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#18.1-#18.10",
+    "san-mu-kd17#200"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#19.1-#19.8",
+    "san-mu-kd17#205"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#20.1-#20.8",
+    "san-mu-kd17#206"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "sf259#21.1-#21.8",
+    "san-mu-kd17#207-#212"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv33#33.76",
+    "sf259#7.7",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv33#33.80",
+    "sf259#7.10",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv33#33.78",
+    "sf259#7.9",
+    "san-lo-mvu64#485",
+    "ud1.2#4",
+    "pli-tv-kd1#9"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv33#33.81",
+    "sf259#7.11",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv33#33.83",
+    "sf259#7.12",
+    "ud1.3#5",
+    "pli-tv-kd1#12"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv4#4.7",
+    "thag1.68#vns68",
+    "ud4.7#4",
+    "pli-tv-bu-vb-pc22#2",
+    "san-sarv-bu-pm-tf11#288",
+    "san-mu-bu-pm-gbm3#304",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an4.9#2",
+    "iti105#3",
+    "iti15#3",
+    "snp3.12#vns746",
+    "sf199#14.92"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "an4.9#3",
+    "iti105#4",
+    "iti15#4",
+    "snp3.12#vns747",
+    "sf199#14.93",
+    "ja493#22"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "iti15",
+    "sf199#14.91-#14.93"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn14#152",
+    "mn26#42",
+    "mn85#45",
+    "sn6.1#10",
+    "pli-tv-kd1#50",
+    "san-lo-mvu94#25"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "dn33#118",
+    "arv10"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "ja224#1",
+    "san-lo-mvu69",
+    "ja57"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn85#41",
+    "mn26#38",
+    "pli-tv-kd1#30",
+    "sn6.1#6",
+    "san-lo-mvu94#23"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn85#6-#35",
+    "mn36#11-#34",
+    "san-lo-mvu47",
+    "san-mu-kd17#131-#142"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn85#56",
+    "mn26#53",
+    "pli-tv-kd1#62",
+    "uv21#21.5",
+    "san-lo-mvu94#42",
+    "lal26#26.3",
+    "sf259#10.8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-kd1#240",
+    "pli-tv-kd1#242",
+    "san-lo-mvu75#2",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "mn92#39-#40",
+    "pli-tv-kd6#160-#161",
+    "snp3.7#vns574-#vns575",
+    "san-lo-mvu108#3-#4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "pli-tv-kd1#230",
+    "pli-tv-kd1#224",
+    "san-lo-mvu73#23-#24",
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "uv33#33.77",
+    "sf259#7.6",
+    "san-lo-mvu64#483",
+    "pli-tv-kd1#6",
+    "ud1.1#4"
+  ]
+},
+
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "san-lo-mvu51",
+    "ja506"
+  ]
+},
+{
+  "pli": "",
+  "skt": "ka etam oghaṃ tarati rātriṃdivam atandritaḥ anālambe ’pratiṣṭhe ca ko gaṃbhīre na sīdati",
+  "matches": [
+    "snp1.9#vns175",
+    "sag#10.1",
+    "sn2.15#2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "sarvataḥ śīlasaṃpannaḥ prajñāvān susamāhitaḥ adhyātmacintī smṛtimāṃs taratīmaṃ sudustaraṃ",
+  "matches": [
+    "snp1.9#vns176",
+    "sag#10.2",
+    "sn2.15#3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "viraktaḥ kāmasaṃjñābhyo rūpasaṃyojanātigaḥ anālambe ’pratiṣṭhe ca sa gaṃbhīre na sīdati",
+  "matches": [
+    "snp1.9#vns177",
+    "sag#10.3",
+    "sn2.15#4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "rāgadveṣau bhagavan kinnidānāv aratiratī romaharṣaḥ kuto ’yam kutaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante",
+  "matches": [
+    "sag#11.1",
+    "sn10.3#3",
+    "snp2.5#vns273"
+  ]
+},
+{
+  "pli": "",
+  "skt": "snehajā ātmasaṃbhūtā nyagrodhaskandhakā yathā pṛthagviṣaktāḥ kāmeṣu mālutā vā latā vane",
+  "matches": [
+    "sag#11.2",
+    "sn10.3#5",
+    "snp2.5#vns275"
+  ]
+},
+{
+  "pli": "",
+  "skt": "rāgaś ca dveṣaś ca itonidānāv aratiratī romaharṣaḥ ito ’yaṃ itaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante",
+  "matches": [
+    "sag#11.3",
+    "sn10.3#4",
+    "snp2.5#vns274"
+  ]
+},
+{
+  "pli": "",
+  "skt": "ye tān prajānanti yatonidānāṃs te tāṃ janā yakṣa vinodayanti ta arṇavaṃ saṃpratarantīhaugham atīrṇapūrvam apunarbhavāya",
+  "matches": [
+    "sag#11.4",
+    "sn10.3#6",
+    "snp2.5#vns276"
+  ]
+},
+{
+  "pli": "",
+  "skt": "kathaṃ smṛtasya carato vijñānam uparudhyate ācakṣva pṛṣṭa etan me yathātatham asaṃśayaḥ",
+  "matches": [
+    "snp5.14#vns1117",
+    "sag#39.7"
+  ]
+},
+{
+  "pli": "",
+  "skt": "adhyātaṃ ca bahirdhā ca vedanāṃ nābhinandataḥ evaṃ smṛtasya carato vijñānam uparudhyate",
+  "matches": [
+    "snp5.14#vns1118",
+    "sag#39.8"
+  ]
+},
+{
+  "pli": "",
+  "skt": "kenāyaṃ nivṛto lokaḥ kenāyaṃ na prakāśate kiṃ cābhilepanaṃ brūṣe kiṃ ca tasya mahad bhayam",
+  "matches": [
+    "snp5.2#vns1039",
+    "sag#39.1"
+  ]
+},
+{
+  "pli": "",
+  "skt": "avidyānivṛto lokaḥ pramādān na prakāśate jalpābhilepanaṃ brūmi duḥkhaṃ tasya mahad bhayaṃ",
+  "matches": [
+    "snp5.2#vns1040",
+    "sag#39.2"
+  ]
+},
+{
+  "pli": "",
+  "skt": "sravanti sarvataḥ srotāḥ srotasāṃ kiṃ nivāraṇaṃ srotasāṃ saṃvaraṃ brūhi kena srotaḥ pidhīyate",
+  "matches": [
+    "snp5.2#vns1041",
+    "sag#39.3"
+  ]
+},
+{
+  "pli": "",
+  "skt": "yāni srotāṃsi lokasya smṛtiḥ teṣāṃ nivāraṇaṃ srotasāṃ saṃvaraṃ brūmi prajñayā hi pidhīyate",
+  "matches": [
+    "snp5.2#vns1042",
+    "sag#39.4"
+  ]
+},
+{
+  "pli": "",
+  "skt": "prajñāyāś ca smṛteś caiva nāmarūpasya sarvaśaḥ ācakṣva pṛṣṭa etan me kutraitad uparudhyate",
+  "matches": [
+    "snp5.2#vns1043",
+    "sag#39.5"
+  ]
+},
+{
+  "pli": "",
+  "skt": "prajñā caiva smṛtiś caiva nāmarūpaṃ ca sarvaśaḥ vijñānasya nirodhād dhi atraitad uparudhyate",
+  "matches": [
+    "snp5.2#vns1044",
+    "sag#39.6"
+  ]
+},
+{
+  "pli": "",
+  "skt": "ye ca saṃkhyātadharmāṇo ye ca śaikṣāḥ pṛthagvidhāḥ teṣāṃ me nipakasyeryāṃ pṛṣṭaḥ prabrūhi mārṣa",
+  "matches": [
+    "snp5.2#vns1045",
+    "sag#39.9"
+  ]
+},
+{
+  "pli": "",
+  "skt": "kāmeṣu nābhigṛdhyeta manasānāvilo bhavet kuśalaḥ sarvadharmeṣu smṛto bhikṣuḥ parivrajet",
+  "matches": [
+    "snp5.2#vns1046",
+    "sag#39.10"
+  ]
+},
+{
+  "pli": "",
+  "skt": "",
+  "matches": [
+    "ud3.10",
+    "san-lo-mvu64#496",
+    "uv32#32.33-#32.39",
+  ]
+},
+
+]

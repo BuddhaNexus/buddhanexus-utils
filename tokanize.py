@@ -9235,7 +9235,7 @@ path_output = os.environ['HOME']+'/Desktop/convertbilara/cutsegments/'
 for root, dirs, files in os.walk(path):
     for name in files:
         filetext = open(root+"/"+name).read()
-        print(root+"/"+name)
+        # print(root+"/"+name)
         newobjectitem = {}
         jsonobject = json.loads(filetext)
         filepath_Out = open(path_output+name[:-17]+'.json','w', encoding='utf8')
@@ -9263,7 +9263,7 @@ for root, dirs, files in os.walk(path):
                                 newobjectitem[item[0]+'_'+str(newnumber)] = itempart.strip()
                                 newnumber = newnumber+1
                 else:
-                        newobjectitem[item[0]] = item[1]
+                        newobjectitem[item[0]+'_0'] = item[1]
                         
         filepath_Out.write(json.dumps(newobjectitem, ensure_ascii=False, indent=2))                
 

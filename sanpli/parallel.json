@@ -1,0 +1,1407 @@
+[
+{
+  "pli": "appamādo amatapadaṃ, pamādo maccuno padaṃ; appamattā na mīyanti, ye pamattā yathā matā.",
+  "skt": "apramādo hy amṛtapadaṁ pramādo mṛtyunaḥ padam ।apramattā na mriyante ye pramattāḥ sadā mṛtāḥ ।।"
+},
+{
+  "pli": "vitakkamathitassa jantuno, tibbarāgassa subhānupassino; bhiyyo taṇhā pavaḍḍhati, esa kho daḷhaṃ karoti bandhanaṃ.",
+  "skt": "vitarkapramathitasya jantunas tīvrarāgasya śubhānudarśinaḥ । bhūyas tṛṣṇā pravardhate gāḍhaṁ hy eṣa karoti bandhanam ।।"
+},
+{
+  "pli": "pathavisamo no virujjhati, indakhilupamo tādi subbato; rahadova apetakaddamo, saṃsārā na bhavanti tādino.",
+  "skt": "pṛthivīsadṛśo na lipyate tāyī kīlavad aprakampayaḥ । hrada iva hi vinītakardamo niṣkaluṣā hi bhavanti paṇḍitāḥ ।।"
+},
+{
+  "pli": "aṭṭhīnaṃ nagaraṃ kataṃ, maṃsalohitalepanaṃ; yattha jarā ca maccu ca, māno makkho ca ohito.",
+  "skt": "nagaraṁ hy asthiprākāraṁ māṁsaśoṇitalepanam । yatra rāgaś ca dveṣaś ca māno mrakṣaś ca bādhyate ।।"
+},
+{
+  "pli": "natthi rāgasamo aggi, natthi dosasamo gaho; natthi mohasamaṃ jālaṃ, natthi taṇhāsamā nadī.",
+  "skt": "nāsti kāmasamo hy ogho nāsti doṣasamo grahaḥ । nāsti mohasamaṁ jālaṁ nāsti tṛṣṇāsamā nadī"
+},
+{
+  "pli": "sabbapāpassa akaraṇaṃ, kusalassa upasampadā; sacittapariyodapanaṃ, etaṃ buddhāna sāsanaṃ.",
+  "skt": "sarvapāpasyākaraṇaṁ kuśalasyopasaṁpadaḥ ।svacittaparyavadanam etad buddhasya śāsanam ।।"
+},
+{
+  "pli": "dunniggahassa lahuno, yatthakāmanipātino; cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ.",
+  "skt": "durnigrahasya laghuno yatrakāmanipātinaḥ । cittasya damanaṁ sādhu cittaṁ dāntaṁ sukhāvaham ।।"
+},
+{
+  "pli": "yassa cetaṃ samucchinnaṃ, mūlaghaccaṃ samūhataṃ; sa ve divā vā rattiṃ vā, samādhimadhigacchati.",
+  "skt": "yasya tv ete samucchinnās tālamastakavad dhatāḥ । sa vai divā ca rātrau ca samādhim adhigacchati ।।"
+},
+{
+  "pli": "yo cetaṃ sahate jammiṃ, taṇhaṃ loke duraccayaṃ; sokā tamhā papatanti, udabinduva pokkharā.",
+  "skt": "yas tv etāṁ tyajate grāmyāṁ tṛṣṇāṁ loke sudustyajām । śokās tasya nivartante udabindur iva puṣkarāt ।।"
+},
+{
+  "pli": "manopubbaṅgamā dhammā, manoseṭṭhā manomayā; manasā ce paduṭṭhena, bhāsati vā karoti vā; tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.",
+  "skt": "manaḥpūrvaṅgamā dharmā manaḥśreṣṭhā manojavāḥ । manasā hi praduṣṭena bhāṣate vā karoti vā । tatas taṁ duḥkham anveti cakraṁ vā vahataḥ padam ।।"
+},
+{
+  "pli": "yo ca vantakasāvassa, sīlesu susamāhito; upeto damasaccena, sa ve kāsāvamarahati.",
+  "skt": "yas tu vāntakaṣāyaḥ syāc chīleṣu susamāhitaḥ । upetadamasauratyaḥ sa vai kāṣāyam arhati ।।"
+},
+{
+  "pli": "sahassamapi ce vācā, anatthapadasaṃhitā; ekaṃ atthapadaṃ seyyo, yaṃ sutvā upasammati.",
+  "skt": "yac ca gāthāśataṁ bhāṣed anarthapadasaṁhitam । ekam arthapadaṁ śreyo yac chrutvā hy upaśāmyati ।।"
+},
+{
+  "pli": "yo ca gāthā sataṃ bhāse, anatthapadasaṃhitā; ekaṃ dhammapadaṃ seyyo, yaṃ sutvā upasammati.",
+  "skt": "yac ca gāthāśataṁ bhāṣed adharmapadasaṁhitam । ekaṁ dharmapadaṁ śreyo yac chrutvā hy upaśāmyati ।।"
+},
+{
+  "pli": "yo sahassaṃ sahassena, saṅgāme mānuse jine; ekañca jeyyamattānaṃ, sa ve saṅgāmajuttamo.",
+  "skt": "yaḥ sahasraṁ sahasrāṇāṁ saṁgrāme dviṣatāṁ jayet । yaś cātmānaṁ jayed ekaṁ saṁgrāmo durjayaḥ sa vai ।।"
+},
+{
+  "pli": "attā have jitaṃ seyyo, yā cāyaṃ itarā pajā; attadantassa posassa, niccaṃ saññatacārino.",
+  "skt": "ātmā hy asya jitaḥ śreyāṁ yac ceyam itarāḥ prajāḥ । ātmadāntasya puruṣasya nityaṁ saṁvṛtacāriṇaḥ ।।"
+},
+{
+  "pli": "neva devo na gandhabbo, na māro saha brahmunā; jitaṃ apajitaṃ kayirā, tathārūpassa jantuno.",
+  "skt": "na devā nāpi gandharvā na māro brāhmaṇā saha । jitasyāpajitaṁ kuryus tathā prājñasya bhikṣuṇaḥ ।।"
+},
+{
+  "pli": "māse māse sahassena, yo yajetha sataṃ samaṃ; ekañca bhāvitattānaṃ, muhuttamapi pūjaye; sāyeva pūjanā seyyo, yañce vassasataṃ hutaṃ.",
+  "skt": "māse māse sahasreṇa yo yajeta samāśatam । na tat svākhyātadharmasya kalām arghati ṣoḍaśīm ।।"
+},
+{
+  "pli": "yo ca vassasataṃ jantu, aggiṃ paricare vane; ekañca bhāvitattānaṃ, muhuttamapi pūjaye; sāyeva pūjanā seyyo, yañce vassasataṃ hutaṃ.",
+  "skt": "yac ca varṣaśataṁ pūrṇam agniṁ paricared vane । yac caikaṁ bhāvitātmānaṁ muhūrtam api pūjayet । sā tasya pūjanā śreṣṭhā na tad varṣaśataṁ hutam ।।"
+},
+{
+  "pli": "yaṃ kiñci yiṭṭhaṃ va hutaṃ va loke, saṃvaccharaṃ yajetha puññapekkho; sabbampi taṃ na catubhāgameti, abhivādanā ujjugatesu seyyo.",
+  "skt": "yat kiṁ cid iṣṭaṁ ca hutaṁ ca loke saṁvatsaraṁ yajati puṇyaprekṣī । sarvaṁ pi taṁ na caturbhāgam eti abhivādanaṁ tv ṛjjugateṣu śreyaḥ ।।"
+},
+{
+  "pli": "asāre sāramatino, sāre cāsāradassino; te sāraṃ nādhigacchanti, micchāsaṅkappagocarā.",
+  "skt": "asāre sāramatayaḥ sāre cāsārasaṁjñinaḥ । te sāraṁ nādhigacchanti mithyāsaṁkalpagocarāḥ ।।"
+},
+{
+  "pli": "yo ca vassasataṃ jīve, dussīlo asamāhito; ekāhaṃ jīvitaṃ seyyo, sīlavantassa jhāyino.",
+  "skt": "yac ca varṣaśataṁ jīved duḥśīlo hy asamāhitaḥ । ekāhaṁ jīvitaṁ śreyaḥ sadā śīlavataḥ śuceḥ ।।"
+},
+{
+  "pli": "yo ca vassasataṃ jīve, duppañño asamāhito; ekāhaṃ jīvitaṃ seyyo, paññavantassa jhāyino.",
+  "skt": "yac ca varṣaśataṁ jīved duṣprajño hy asamāhitaḥ । ekāhaṁ jīvitaṁ śreyaḥ prājñasya dhyāyinaḥ sadā ।।"
+},
+{
+  "pli": "yo ca vassasataṃ jīve, kusīto hīnavīriyo; ekāhaṃ jīvitaṃ seyyo, vīriyamārabhato daḷhaṃ.",
+  "skt": "yac ca varṣaśataṁ jīvet kusīdo hīnavīryavān । ekāhaṁ jīvitaṁ śreyo vīryam ārabhato dṛḍham ।।"
+},
+{
+  "pli": "yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ; ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.",
+  "skt": "yac ca varṣaśataṁ jīved apaśyann udayavyayam । ekāhaṁ jīvitaṁ śreyaḥ paśyato hy udayavyayam ।।"
+},
+{
+  "pli": "yo ca vassasataṃ jīve, apassaṃ amataṃ padaṃ; ekāhaṃ jīvitaṃ seyyo, passato amataṃ padaṃ.",
+  "skt": "yac ca varṣaśataṁ jīved apaśyann amṛtaṁ padam । ekāhaṁ jīvitaṁ śreyaḥ paśyato hy amṛtaṁ padam ।।"
+},
+{
+  "pli": "yo ca vassasataṃ jīve, apassaṃ dhammamuttamaṃ; ekāhaṃ jīvitaṃ seyyo, passato dhammamuttamaṃ.",
+  "skt": "yac ca varṣaśataṁ jīved apaśyann uttamaṁ padam । ekāhaṁ jīvitaṁ śreyaḥ paśyato hy uttamaṁ padam ।।"
+},
+{
+  "pli": "abhittharetha kalyāṇe, pāpā cittaṃ nivāraye; dandhañhi karoto puññaṃ, pāpasmiṃ ramatī mano.",
+  "skt": "abhitvareta kalyāṇe pāpāc cittaṁ nivārayet । dhandhaṁ hi kurvataḥ puṇyaṁ pāpeṣu ramate manaḥ ।।"
+},
+{
+  "pli": "pāpañce puriso kayirā, na naṃ kayirā punappunaṃ; na tamhi chandaṃ kayirātha, dukkho pāpassa uccayo.",
+  "skt": "kuryāc cet puruṣaḥ pāpaṁ nainaṁ kuryāt punaḥ punaḥ ।na tatra cchandraṁ kurvīta duḥkhaṁ pāpasya saṁcayaḥ ।।"
+},
+{
+  "pli": "puññañce puriso kayirā, kayirā naṃ punappunaṃ; tamhi chandaṃ kayirātha, sukho puññassa uccayo.",
+  "skt": "kuryāc cet puruṣaḥ puṇyaṁ kuryāc cainaṁ punaḥ punaḥ । tatra cchandraṁ ca kurvīta sukhaṁ puṇyasya saṁcayaḥ ।।"
+},
+{
+  "pli": "pāpopi passati bhadraṃ, yāva pāpaṃ na paccati; yadā ca paccati pāpaṃ, atha pāpo pāpāni passati.",
+  "skt": "pāpo 'pi paśyate bhadraṁ yāvat pāpaṁ na pacyate । yadā tu pacyate pāpam atha pāpāni paśyati ।।"
+},
+{
+  "pli": "sārañca sārato ñatvā, asārañca asārato; te sāraṃ adhigacchanti, sammāsaṅkappagocarā.",
+  "skt": "sāraṁ tu sārato jñātvā hy asāraṁ cāpy asārataḥ । te sāram adhigacchanti samyaksaṁkalpagocarāḥ ।।"
+},
+{
+  "pli": "bhadropi passati pāpaṃ, yāva bhadraṃ na paccati; yadā ca paccati bhadraṃ, atha bhadro bhadrāni passati.",
+  "skt": "bhadro 'pi paśyate pāpaṁ yāvad bhadraṁ na pacyate । yadā tu pacyate bhadram atha bhadrāṇi paśyati ।।"
+},
+{
+  "pli": "māvamaññetha pāpassa, na mantaṃ āgamissati; udabindunipātena, udakumbhopi pūrati; bālo pūrati pāpassa, thokaṃ thokampi ācinaṃ.",
+  "skt": "nālpaṁ manyeta pāpasya naitaṁ mām āgamiṣyati । udabindunipātena mahākumbho 'pi pūryate ।pūryanti bālāḥ pāpair hi stokastokaṁ kṛtair api ।।"
+},
+{
+  "pli": "māvamaññetha puññassa, na mandaṃ āgamissati; udabindunipātena, udakumbhopi pūrati; dhīro pūrati puññassa, thokaṃ thokampi ācinaṃ.",
+  "skt": "nālpaṁ manyeta puṇyasya naitaṁ mām āgamiṣyati । udabindunipātena mahākumbho 'pi pūryate ।pūryanti dhīrāḥ puṇyair hi stokastokaṁ kṛtair api ।।"
+},
+{
+  "pli": "vāṇijova bhayaṃ maggaṃ, appasattho mahaddhano; visaṃ jīvitukāmova, pāpāni parivajjaye.",
+  "skt": "vaṇig vā sabhayaṁ mārgam alpaśāstro mahādhano । viṣaṁ jīvitakāmo vā pāpāni parivarjayet ।।"
+},
+{
+  "pli": "pāṇimhi ce vaṇo nāssa, hareyya pāṇinā visaṃ; nābbaṇaṃ visamanveti, natthi pāpaṃ akubbato.",
+  "skt": "pāṇau cāsya vraṇo na syād dhārayet pāṇinā viṣam ।nāvraṇe krāmati viṣaṁ nāsti pāpam akurvataḥ ।।"
+},
+{
+  "pli": "yo appaduṭṭhassa narassa dussati, suddhassa posassa anaṅgaṇassa; tameva bālaṃ pacceti pāpaṃ, sukhumo rajo paṭivātaṃva khitto.",
+  "skt": "yo hy apraduṣṭasya narasya duṣyate śuddhasya nityaṁ vigatāṅgaṇasya । tam eva bālaṁ pratiyāti pāpaṁ kṣiptaṁ rajaḥ prativātaṁ yathaiva ।।"
+},
+{
+  "pli": "na antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa; na vijjatī so jagatippadeso, yatthaṭṭhito mucceyya pāpakammā.",
+  "skt": "naivāntarīkṣe na samudramadhye na parvatānāṁ vivaraṁ praviśya । na vidyate 'sau pṛthivīpradeśo yatra sthitaṁ na prasaheta karma ।।"
+},
+{
+  "pli": "na antalikkhe na samuddamajjhe, na pabbatānaṃ vivaraṃ pavissa; na vijjatī so jagatippadeso, yatthaṭṭhitaṃ nappasaheyya maccu.",
+  "skt": "naivāntarīkṣe na samudramadhye na parvatānāṁ vivaraṁ praviśya । na vidyate 'sau pṛthivīpradeśo yatra sthitaṁ na prasaheta mṛtyuḥ ।।"
+},
+{
+  "pli": "sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno; attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+  "skt": "sarve daṇḍasya bibhyanti sarveṣāṁ jīvitaṁ priyam । ātmānam upamāṁ kṛtvā naiva hanyān na ghātayet ।।"
+},
+{
+  "pli": "sukhakāmāni bhūtāni, yo daṇḍena vihiṃsati; attano sukhamesāno, pecca so na labhate sukhaṃ.",
+  "skt": "sukhakāmāni bhūtāni yo daṇḍena vihiṁsati । ātmanaḥ sukham eṣāṇaḥ sa vai na labhate sukham ।।"
+},
+{
+  "pli": "sukhakāmāni bhūtāni, yo daṇḍena na hiṃsati; attano sukhamesāno, pecca so labhate sukhaṃ.",
+  "skt": "sukhakāmāni bhūtāni yo daṇḍena na hiṁsati । ātmanaḥ sukham eṣānaḥ sa pretya labhate sukham ।।"
+},
+{
+  "pli": "māvoca pharusaṃ kañci, vuttā paṭivadeyyu taṃ; dukkhā hi sārambhakathā, paṭidaṇḍā phuseyyu taṃ.",
+  "skt": "mā kaṁ cit paruṣaṁ brūthaḥ proktāḥ prativadanti tam ।duḥkhā hi saṁrambhakathāḥ pratidaṇḍaṁ spṛśanti hi ।।"
+},
+{
+  "pli": "sace neresi attānaṃ, kaṃso upahato yathā; esa pattosi nibbānaṃ, sārambho te na vijjati.",
+  "skt": "na tv īrayasi hātmānaṁ kaṁsir nopahatā yathā । eṣa prāpto 'si nirvāṇaṁ saṁrambhas te na vidyate ।।"
+},
+{
+  "pli": "yathā daṇḍena gopālo, gāvo pājeti gocaraṃ; evaṃ jarā ca maccu ca, āyuṃ pājenti pāṇinaṃ.",
+  "skt": "yathā daṇḍena gopālo gāḥ prāpayati gocaram । evaṁ rogair jarāmṛtyuḥ āyuḥ prāpayate nṛṇām ।।"
+},
+{
+  "pli": "atha pāpāni kammāni, karaṃ bālo na bujjhati; sehi kammehi dummedho, aggidaḍḍhova tappati.",
+  "skt": "sa cet pāpāni karmāṇi kurvaṁ bālo na budhyate । karmabhiḥ svais tu durmedhā hy agnidagdhaiva tapyate ।।"
+},
+{
+  "pli": "yo daṇḍena adaṇḍesu, appaduṭṭhesu dussati; dasannamaññataraṃ ṭhānaṃ, khippameva nigacchati.",
+  "skt": "adaṇḍeṣu hi daṇḍena yo 'praduṣṭeṣu duṣyate ।daśānām anyatamaṁ sthānaṁ kṣipram eva nigacchati ।।"
+},
+{
+  "pli": "vedanaṃ pharusaṃ jāniṃ, sarīrassa va bhedanaṃ; garukaṃ vāpi ābādhaṃ, cittakkhepaṃ va pāpuṇe.",
+  "skt": "vedanāṁ kaṭukāṁ vāpi śarīrasya ca bhedanam ।ābādhaṁ vāpi paruṣaṁ cittakṣepam athāpi vā ।।"
+},
+{
+  "pli": "rājato vā upasaggaṃ, abbhakkhānaṃ va dāruṇaṃ; parikkhayaṃ va ñātīnaṃ, bhogānaṃ va pabhaṅguraṃ.",
+  "skt": "jñātīnāṁ vā vinābhāvaṁ bhogānāṁ vā parikṣayam । rājato hy upasargaṁ vāpy abhyākhyānaṁ ca dāruṇam ।।"
+},
+{
+  "pli": "yathā agāraṃ ducchannaṃ, vuṭṭhī samativijjhati; evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.",
+  "skt": "yathā hy agāraṁ ducchannaṁ vṛṣṭiḥ samatibhindati । evaṁ hy abhāvitaṁ cittaṁ rāgaḥ samatibhindati ।।"
+},
+{
+  "pli": "yathā agāraṃ suchannaṃ, vuṭṭhī na samativijjhati; evaṃ subhāvitaṃ cittaṃ, rāgo na samativijjhati.",
+  "skt": "yathā hy agāraṁ succhannaṁ vṛṣṭir na vyatibhindati । evaṁ subhāvitaṁ cittaṁ rāgo na vyatibhindati ।।"
+},
+{
+  "pli": "atha vāssa agārāni, aggi ḍahati pāvako; kāyassa bhedā duppañño, nirayaṃ sopapajjati.",
+  "skt": "atha vāsyāpy agārāṇi hy agnir dahati sarvathā । bhedāt kāyasya cāprājño daśamāṁ durgatiṁ vrajet ।।"
+},
+{
+  "pli": "na naggacariyā na jaṭā na paṅkā, nānāsakā thaṇḍilasāyikā vā; rajojallaṃ ukkuṭikappadhānaṃ, sodhenti maccaṃ avitiṇṇakaṅkhaṃ.",
+  "skt": "na nagnacaryā na jaṭā na paṅkā no 'nāśanaṁ sthaṇḍilaśāyikā vā । na rajomalaṁ notkuṭukaprahāṇaṁ śodheta martyaṁ hy avitīrṇakāṅkṣam ।।"
+},
+{
+  "pli": "alaṅkato cepi samaṃ careyya, santo danto niyato brahmacārī; sabbesu bhūtesu nidhāya daṇḍaṃ, so brāhmaṇo so samaṇo sa bhikkhu.",
+  "skt": "alaṁkṛtaś cāpi careta dharmaṁ kṣānto dāṇṭo niyato brahmacārī । sarveṣu bhūteṣu nidhāya daṇḍaṁ sa brahmaṇaḥ sa śramaṇaḥ sa bhikṣuḥ ।।"
+},
+{
+  "pli": "ko nu hāso kimānando, niccaṃ pajjalite sati; andhakārena onaddhā, padīpaṃ na gavesatha.",
+  "skt": "ko nu harṣaḥ ka ānanda evaṁ prajvalite sati । andhakāraṁ praviṣṭāḥ stha pradīpaṁ na gaveṣatha ।।"
+},
+{
+  "pli": "passa cittakataṃ bimbaṃ, arukāyaṃ samussitaṃ; āturaṃ bahusaṅkappaṃ, yassa natthi dhuvaṃ ṭhiti.",
+  "skt": "paśya citrakṛtaṁ bimbam arukaṁ kāyasaṁjñitam । āturaṁ moṣasaṁkalpaṁ yasya nāsti dhruvasthitiḥ ।।"
+},
+{
+  "pli": "parijiṇṇamidaṃ rūpaṃ, roganīḷaṃ pabhaṅguraṃ; bhijjati pūtisandeho, maraṇantañhi jīvitaṃ.",
+  "skt": "parijīrṇam idaṁ rūpaṁ roganīḍaṁ prabhaṅguram । bhetsyate pūty asaṁdehaṁ maraṇāntaṁ hi jīvitam ।।"
+},
+{
+  "pli": "yānimāni apatthāni, alābūneva sārade; kāpotakāni aṭṭhīni, tāni disvāna kā rati.",
+  "skt": "yānīmāny apaviddhāni vikṣiptāni diśo diśam ।kāpotavarṇāny asthīni tāni dṛṣṭveha kā ratiḥ ।।"
+},
+{
+  "pli": "idha socati pecca socati, pāpakārī ubhayattha socati; so socati so vihaññati, disvā kammakiliṭṭhamattano.",
+  "skt": "iha śocati pretya śocati pāpakarmā hy ubhayatra śocati । sa hi śocati sa praśocati dṛṣṭvā karma hi kliṣṭam ātmanaḥ ।।"
+},
+{
+  "pli": "jīranti ve rājarathā sucittā, atho sarīrampi jaraṃ upeti; satañca dhammo na jaraṃ upeti, santo have sabbhi pavedayanti.",
+  "skt": "jīryanti vai rājarathāḥ sucitrā hy atho śarīram api jarām upaiti । satāṁ tu dharmo na jarām upaiti santo hi taṁ satsu nivedayanti ।।"
+},
+{
+  "pli": "anekajātisaṃsāraṃ, sandhāvissaṃ anibbisaṃ; gahakāraṃ gavesanto, dukkhā jāti punappunaṃ.",
+  "skt": "anekaṁ jātisaṁsāraṁ saṁdhāvitvā punaḥ punaḥ । gṛhakārakaiṣamāṇas tvaṁ duḥkhā jātiḥ punah punaḥ ।।"
+},
+{
+  "pli": "gahakāraka diṭṭhosi, puna gehaṃ na kāhasi; sabbā te phāsukā bhaggā, gahakūṭaṃ visaṅkhataṃ; visaṅkhāragataṃ cittaṃ, taṇhānaṃ khayamajjhagā.",
+  "skt": "gṛhakāraka dṛṣṭo 'si na punar gehaṁ kariṣyasi । sarve te pārśukā bhagnā gṛhakūṭaṁ visaṁskṛtam । visaṁskāragate citte ihaiva kṣayam adhyagāḥ ।।"
+},
+{
+  "pli": "acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ; jiṇṇakoñcāva jhāyanti, khīṇamaccheva pallale.",
+  "skt": "acaritvā brahmacaryam alabdhvā yauvane dhanam । jīrṇakrauñcaivă dhyāyante 'lpamatsya iva palvale ।।"
+},
+{
+  "pli": "acaritvā brahmacariyaṃ, aladdhā yobbane dhanaṃ; senti cāpātikhīṇāva, purāṇāni anutthunaṃ.",
+  "skt": "acaritvā brahmacaryam alabdhvā yauvane dhanam । śenti cāpātikīrṇā vā paurāṇāny anucintitāḥ ।।"
+},
+{
+  "pli": "attānañce piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ; tiṇṇaṃ aññataraṃ yāmaṃ, paṭijaggeyya paṇḍito.",
+  "skt": "ātmānaṁ cet priyaṁ vidyād rakṣed enaṁ surakṣitam ।yathā pratyantanagaraṁ gambhīraparikhaṁ dṛḍham ।trayāṇām anyatamaṁ yāmaṁ pratijāgreta paṇḍitaḥ ।।"
+},
+{
+  "pli": "attānameva paṭhamaṃ, patirūpe nivesaye; athaññamanusāseyya, na kilisseyya paṇḍito.",
+  "skt": "ātmānam eva prathamaṁ pratirūpe niveśayet । tato 'nyam anuśāsīta na kliśyeta hi paṇḍitaḥ ।।"
+},
+{
+  "pli": "idha modati pecca modati, katapuñño ubhayattha modati; so modati so pamodati, disvā kammavisuddhimattano.",
+  "skt": "iha nandati pretya nandati kṛtapuṇyo hy ubhayatra nandati । sa hi nandati sa pramodate dṛṣṭvā karma hi viśuddham ātmanaḥ ।।"
+},
+{
+  "pli": "attā hi attano nātho, ko hi nātho paro siyā; attanā hi sudantena, nāthaṃ labhati dullabhaṃ.",
+  "skt": "ātmā tv ihātmano nāthaḥ ko nu nāthaḥ paro bhavet । ātmanā hi sudāntena nāthaṁ labhati paṇḍitaḥ ।।"
+},
+{
+  "pli": "yassa accantadussilyaṃ, māluvā sālamivotthataṃ; karoti so tathattānaṃ, yathā naṃ icchatī diso.",
+  "skt": "yo 'sāv atyantaduḥśīlaḥ sālavāṁ mālutā yathā । karoty asau tathāṭmānaṁ yathainaṁ dviṣa-d-icchati ।।"
+},
+{
+  "pli": "sukarāni asādhūni, attano ahitāni ca; yaṃ ve hitañca sādhuñca, taṃ ve paramadukkaraṃ.",
+  "skt": "sukarāṇi hy asādhūni svātmano hy ahitāni ca । yad vai hitaṁ ca pathyaṁ ca tad vai paramaduṣkaram ।।"
+},
+{
+  "pli": "yo sāsanaṃ arahataṃ, ariyānaṃ dhammajīvinaṃ; paṭikkosati dummedho, diṭṭhiṃ nissāya pāpikaṃ; phalāni kaṭṭhakasseva, attaghātāya phallati.",
+  "skt": "yaḥ śāsanaṁ hy arhatām āryāṇāṁ dharmajīvinām । pratikrośati durmedhā dṛṣṭiṁ niḥśritya pāpikām । phalaṁ kaṇṭakaveṇur vā phalaty ātmavadhāya saḥ ।।"
+},
+{
+  "pli": "attadatthaṃ paratthena, bahunāpi na hāpaye; attadatthamabhiññāya, sadatthapasuto siyā.",
+  "skt": "ātmano 'rthaṁ parārthena bahunāpi na hāpayet । ātmārthaṁ paramaṁ jñātvā svakārthaparamo bhavet ।।"
+},
+{
+  "pli": "hīnaṃ dhammaṃ na seveyya, pamādena na saṃvase; micchādiṭṭhiṃ na seveyya, na siyā lokavaḍḍhano.",
+  "skt": "hīnāṁ dharmāṁ na seveta pramādena na saṁvaset । mithyādṛṣṭiṁ na roceta na bhavel lokavardhanaḥ ।।"
+},
+{
+  "pli": "uttiṭṭhe nappamajjeyya, dhammaṃ sucaritaṃ care; dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.",
+  "skt": "apramādaratā bhavata suśīlā bhavata bhikṣavaḥ । susamāhitasaṁkalpāḥ svacittam anurakṣata ।।"
+},
+{
+  "pli": "dhammaṃ care sucaritaṃ, na naṃ duccaritaṃ care; dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.",
+  "skt": "dharmaṁ caret sucaritaṁ nainaṁ duścaritaṁ caret । dharmacārī sukhaṁ śete hy asmiṁ loke paratra ca ।।"
+},
+{
+  "pli": "yathā pubbuḷakaṃ passe, yathā passe marīcikaṃ; evaṃ lokaṃ avekkhantaṃ, maccurājā na passati.",
+  "skt": "yathā budbudikāṁ paśyed yathā paśyen marīcikām । evaṁ lokam avekṣaṁ vai mṛtyurājaṁ na paśyati ।।"
+},
+{
+  "pli": "etha passathimaṃ lokaṃ, cittaṃ rājarathūpamaṃ; yattha bālā visīdanti, natthi saṅgo vijānataṃ.",
+  "skt": "paśyatemaṁ sadā kāyaṁ citraṁ rājarathopamam । yatra bālāḥ pramuhyante saṅgo nāsti prajānatām ।।"
+},
+{
+  "pli": "andhabhūto ayaṃ loko, tanukettha vipassati; sakuṇo jālamuttova, appo saggāya gacchati.",
+  "skt": "andhabhūto hy ayaṁ lokas tanuko 'tra vipaśyakaḥ । śakunto jālamuktaiva hy alpaṁ svargeṣu modate ।।"
+},
+{
+  "pli": "haṃsādiccapathe yanti, ākāse yanti iddhiyā; nīyanti dhīrā lokamhā, jetvā māraṃ savāhiniṃ.",
+  "skt": "haṁsādityapathe yānti ākāśe jīvitendriyāḥ ।niryānti dhīrā lokān mārasainyaṁ pramathya te ।।"
+},
+{
+  "pli": "ekaṃ dhammaṃ atītassa, musāvādissa jantuno; vitiṇṇaparalokassa, natthi pāpaṃ akāriyaṃ.",
+  "skt": "ekadharmam atītasya mṛṣāvādasya jantunaḥ । vitīrṇaparalokasya nākāryaṁ pāpam asti yat ।।"
+},
+{
+  "pli": "na ve kadariyā devalokaṃ vajanti, bālā have nappasaṃsanti dānaṃ; dhīro ca dānaṃ anumodamāno, teneva so hoti sukhī parattha.",
+  "skt": "na vai kadaryā devalokaṁ vrajanti bālā hi te na praśaṁsanti dānam । śrāddhas tu dānaṁ hy anumodamāno 'py evaṁ hy asau bhavati sukhī paratra ।।"
+},
+{
+  "pli": "yassa jitaṃ nāvajīyati, jitaṃ yassa noyāti koci loke; taṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha.",
+  "skt": "yasya jitaṁ nopajīyate jitam anveti na kaṁ cid eva loke । taṁ buddham anantagocaraṁ hy apadaṁ kena padena neṣyasi ।।"
+},
+{
+  "pli": "yassa jālinī visattikā, taṇhā natthi kuhiñci netave; taṃ buddhamanantagocaraṃ, apadaṃ kena padena nessatha.",
+  "skt": "yasya jālinī viṣaktikā tṛṣṇā nāsti hi lokanāyinī । taṁ buddham anantagocaraṁ hy apadaṁ kena padena neṣyasi ।।"
+},
+{
+  "pli": "ye jhānapasutā dhīrā, nekkhammūpasame ratā; devāpi tesaṃ pihayanti, sambuddhānaṃ satīmataṃ.",
+  "skt": "ye dhyānaprasṛtā dhīrā naiṣkramyopaśame ratāḥ । devāpi spṛhayanty eṣāṁ buddhānāṁ śrīmatāṁ sadā ।।"
+},
+{
+  "pli": "khantī paramaṃ tapo titikkhā, nibbānaṃ paramaṃ vadanti buddhā; na hi pabbajito parūpaghātī, na samaṇo hoti paraṃ viheṭhayanto.",
+  "skt": "kṣāntiḥ paramaṁ tapas titīkṣā nirvāṇaṁ paramaṁ vadanti buddhāḥ । na hi pravrajitaḥ paropatāpī śramaṇo bhavati paraṁ viheṭhayaṁ vai ।।"
+},
+{
+  "pli": "anūpavādo anūpaghāto, pātimokkhe ca saṃvaro; mattaññutā ca bhattasmiṃ, pantañca sayanāsanaṃ; adhicitte ca āyogo, etaṃ buddhāna sāsanaṃ.",
+  "skt": "nopavādī nopaghātī prātimokṣe ca saṁvaraḥ । mātrajñatā ca bhakteṣu prāntaṁ ca śayanāsanam । adhicitte samāyoga etad buddhasya śāsanam ।।"
+},
+{
+  "pli": "na kahāpaṇavassena, titti kāmesu vijjati; appassādā dukhā kāmā, iti viññāya paṇḍito.",
+  "skt": "na karṣāpaṇavarṣeṇa tṛptiḥ kāmair hi vidyate । alpāsvādasukhāḥ kāṁā iti vijñāya paṇḍitaḥ ।।"
+},
+{
+  "pli": "api dibbesu kāmesu, ratiṃ so nādhigacchati; taṇhakkhayarato hoti, sammāsambuddhasāvako.",
+  "skt": "api divyeṣu kāmeṣu sa ratiṁ nādhigacchati । tṛṣṇākṣayarato bhavati buddhānāṁ śrāvakaḥ sadā ।।"
+},
+{
+  "pli": "bahuṃ ve saraṇaṃ yanti, pabbatāni vanāni ca; ārāmarukkhacetyāni, manussā bhayatajjitā.",
+  "skt": "bahavaḥ śaraṇaṁ yānti parvatāṁś ca vanāni ca । ārāmāṁ vṛkṣacaityāṁś ca manuṣyā bhayatarjitāḥ ।।"
+},
+{
+  "pli": "netaṃ kho saraṇaṃ khemaṃ, netaṃ saraṇamuttamaṃ; netaṃ saraṇamāgamma, sabbadukkhā pamuccati.",
+  "skt": "naitad dhi śaraṇaṁ kṣemaṁ naitac charaṇam uttamam । naitac charaṇam āgamya sarvaduḥkhāt pramucyate ।।"
+},
+{
+  "pli": "bahumpi ce saṃhita bhāsamāno, na takkaro hoti naro pamatto; gopova gāvo gaṇayaṃ paresaṃ, na bhāgavā sāmaññassa hoti.",
+  "skt": "subahv apīha sahitaṁ bhāṣamāṇo na tatkaro bhavati naraḥ pramattaḥ । gopaiva gāḥ saṁgaṇayaṁ pareṣāṁ na bhāgavāṁ cchrāmaṇyārthasya bhavati ।।"
+},
+{
+  "pli": "yo ca buddhañca dhammañca, saṅghañca saraṇaṃ gato; cattāri ariyasaccāni, sammappaññāya passati.",
+  "skt": "yas tu buddhaṁ ca dharmaṁ ca saṁghaṁ ca śaraṇaṁ gataḥ । catvāri cāryasatyāni prajñayā paśyate yadā ।।"
+},
+{
+  "pli": "dukkhaṃ dukkhasamuppādaṃ, dukkhassa ca atikkamaṃ; ariyaṃ caṭṭhaṅgikaṃ maggaṃ, dukkhūpasamagāminaṃ.",
+  "skt": "duḥkhaṁ duḥkhasamutpādaṁ duḥkhasya samatikramam । āryaṁ cāṣṭāṅgikaṁ mārgaṁ duḥkhopaśamagāminam ।।"
+},
+{
+  "pli": "etaṃ kho saraṇaṃ khemaṃ, etaṃ saraṇamuttamaṃ; etaṃ saraṇamāgamma, sabbadukkhā pamuccati.",
+  "skt": "etad dhi śaraṇaṁ kṣemam etac charaṇam uttamam । etac charaṇam āgamya sarvaduḥkhāt pramucyate ।।"
+},
+{
+  "pli": "dullabho purisājañño, na so sabbattha jāyati; yattha so jāyati dhīro, taṃ kulaṃ sukhamedhati.",
+  "skt": "durlabhaḥ puruṣo jātyo nāsau sarvatra jāyate । yatrāsau jāyate vīras tat kulaṁ sukham edhate ।।"
+},
+{
+  "pli": "sukho buddhānamuppādo, sukhā saddhammadesanā; sukhā saṅghassa sāmaggī, samaggānaṃ tapo sukho.",
+  "skt": "sukhaṁ buddhasya cotpādaḥ sukhaṁ dharmasya deśanā । sukhaṁ saṁghasya sāmagrī samagrāṇāṁ tapaḥ sukham ।।"
+},
+{
+  "pli": "susukhaṃ vata jīvāma, verinesu averino; verinesu manussesu, viharāma averino.",
+  "skt": "susukhaṁ bata jīvāmo vairikeṣu tv avairikāḥ । vairikeṣu manuṣyeṣu viharāmo hy avairikāḥ ।।"
+},
+{
+  "pli": "susukhaṃ vata jīvāma, āturesu anāturā; āturesu manussesu, viharāma anāturā.",
+  "skt": "susukhaṁ bata jīvāmo hy ātureṣu tv anāturāḥ । ātureṣu manuṣyeṣu viharāmo hy anāturāḥ ।।"
+},
+{
+  "pli": "susukhaṃ vata jīvāma, ussukesu anussukā; ussukesu manussesu, viharāma anussukā.",
+  "skt": "susukhaṁ bata jīvāmo hy utsukeṣu tv anutsukāḥ । utsukeṣu manuṣyeṣu viharāmo hy anutsukāḥ ।।"
+},
+{
+  "pli": "manopubbaṅgamā dhammā, manoseṭṭhā manomayā; manasā ce pasannena, bhāsati vā karoti vā; tato naṃ sukhamanveti, chāyāva anapāyinī.",
+  "skt": "manaḥpūrvaṅgamā dharmā manaḥśreṣṭhā manojavāḥ । manasā hi prasannena bhāṣate vā karoti vā । tatas taṁ sukham anveti cchāyā vā hy anugāminī ।।"
+},
+{
+  "pli": "appampi ce saṃhita bhāsamāno, dhammassa hoti anudhammacārī; rāgañca dosañca pahāya mohaṃ, sammappajāno suvimuttacitto; anupādiyāno idha vā huraṃ vā, sa bhāgavā sāmaññassa hoti.",
+  "skt": "alpam api cet sahitaṁ bhāṣamāṇo dharmasya bhavati hy anudharmacārī । rāgaṁ ca doṣaṁ ca tathaiva mohaṁ prahāya bhāgī śrāmaṇyārthasya bhavati ।।"
+},
+{
+  "pli": "jayaṃ veraṃ pasavati, dukkhaṃ seti parājito; upasanto sukhaṃ seti, hitvā jayaparājayaṃ.",
+  "skt": "jayād vairaṁ prasavate duḥkhaṁ śete parājitaḥ । upaśāntaḥ sukhaṁ śete hitvā jayaparājayau ।।"
+},
+{
+  "pli": "jighacchāparamā rogā, saṅkhāraparamā dukhā; etaṃ ñatvā yathābhūtaṃ, nibbānaṃ paramaṃ sukhaṃ.",
+  "skt": "kṣudhā parama rogāṇāṁ saṁskārā duḥkham eva tu । etaj jñātvā yathābhūtaṁ nirvāṇaparamo bhavet ।।"
+},
+{
+  "pli": "ārogyaparamā lābhā, santuṭṭhiparamaṃ dhanaṃ; vissāsaparamā ñāti, nibbānaṃ paramaṃ sukhaṃ.",
+  "skt": "ārogyaparamā lābhā saṁtuṣṭiparamaṁ dhanam । viśvāsaparamaṁ mitraṁ nirvāṇaparamaṁ sukham ।।"
+},
+{
+  "pli": "pavivekarasaṃ pitvā, rasaṃ upasamassa ca; niddaro hoti nippāpo, dhammapītirasaṃ pivaṃ.",
+  "skt": "pravivekarasaṁ jñātvā rasaṁ copaśamasya vai । nirjvaro bhavati niṣpāpo dharmaprītirasaṁ piban ।।"
+},
+{
+  "pli": "sāhu dassanamariyānaṃ, sannivāso sadā sukho; adassanena bālānaṃ, niccameva sukhī siyā.",
+  "skt": "sukhaṁ darśanam āryāṇāṁ saṁvāso 'pi sadā sukham । adarśanena bālānāṁ nityam eva sukhī bhavet ।।"
+},
+{
+  "pli": "bālasaṅgatacārī hi, dīghamaddhāna socati; dukkho bālehi saṃvāso, amitteneva sabbadā; dhīro ca sukhasaṃvāso, ñātīnaṃva samāgamo.",
+  "skt": "bālaṁ na paśyec chṛṇuyān na ca no tena saṁvaset । duḥkho bālair hi saṁvāso hy amitreṇaiva sarvaśaḥ । dhīrais tu sukhasaṁvāso jñātīnām iva saṁgramaḥ ।।"
+},
+{
+  "pli": "ayoge yuñjamattānaṃ, yogasmiñca ayojayaṃ; atthaṃ hitvā piyaggāhī, pihetattānuyoginaṃ.",
+  "skt": "ayoge yujya cātmānaṁ yoge cāyujya sarvadā । arthaṁ hitvā priyagrāhī spṛhayaty arthayogine ।।"
+},
+{
+  "pli": "mā piyehi samāgañchi, appiyehi kudācanaṃ; piyānaṃ adassanaṃ dukkhaṃ, appiyānañca dassanaṃ.",
+  "skt": "mā priyaiḥ saṁgamo jātu mā ca syād apriyaiḥ sadā ।priyāṇām adarśanaṁ duḥkham apriyāṇāṁ ca darśanam ।।"
+},
+{
+  "pli": "tasmā piyaṃ na kayirātha, piyāpāyo hi pāpako; ganthā tesaṃ na vijjanti, yesaṃ natthi piyāppiyaṃ.",
+  "skt": "tasmāt priyaṁ na kurvīta priyabhāvo hi pāpakaḥ । granthās teṣāṁ na vidyante yeṣāṁ nāsti priyāpriyam ।।"
+},
+{
+  "pli": "piyato jāyatī soko, piyato jāyatī bhayaṃ; piyato vippamuttassa, natthi soko kuto bhayaṃ.",
+  "skt": "priyebhyo jāyate śokaḥ priyebhyo jāyate bhayam । priyebhyo vipramuktānāṁ nāsti śokaḥ kuto bhayam ।।"
+},
+{
+  "pli": "ratiyā jāyatī soko, ratiyā jāyatī bhayaṃ; ratiyā vippamuttassa, natthi soko kuto bhayaṃ.",
+  "skt": "ratibhyo jāyate śoko ratibhyo jāyate bhayam । ratibhyo vipramuktānāṁ nāsti śokaḥ kuto bhayam ।।"
+},
+{
+  "pli": "kāmato jāyatī soko, kāmato jāyatī bhayaṃ; kāmato vippamuttassa, natthi soko kuto bhayaṃ.",
+  "skt": "kāmebhyo jāyate śokaḥ kāmebhyo jāyate bhayam । kāmebhyo vipramuktānāṁ nāsti śokaḥ kuto bhayam ।।"
+},
+{
+  "pli": "chandajāto anakkhāte, manasā ca phuṭo siyā; kāmesu ca appaṭibaddhacitto, uddhaṃsototi vuccati.",
+  "skt": "chandajāto hy avasrāvī manasānāvilo bhavet । kāmeṣu tv apratibaddhacitta ūrdvasroto nirucyate ।।"
+},
+{
+  "pli": "cirappavāsiṃ purisaṃ, dūrato sotthimāgataṃ; ñātimittā suhajjā ca, abhinandanti āgataṃ.",
+  "skt": "cirapravāsinaṁ yadvad dūrataḥ svastināgatam । jñātayaḥ suhṛdo mitrāś cābhinandanti āgatam ।।"
+},
+{
+  "pli": "evaṃ visesato ñatvā, appamādamhi paṇḍitā; appamāde pamodanti, ariyānaṃ gocare ratā.",
+  "skt": "etāṁ viśeṣatāṁ jñātvā hy apramādasya paṇḍitaḥ । apramādaṁ pramudyeta nityam āryaḥ svagocaram ।।"
+},
+{
+  "pli": "tatheva katapuññampi, asmā lokā paraṃ gataṃ; puññāni paṭigaṇhanti, piyaṃ ñātīva āgataṃ.",
+  "skt": "kṛtapuṇyaṁ tathā martyam asmāl lokāt paraṁ gatam । puṇyāny evābhinandanti priyaṁ jñātim ivāgatam ।।"
+},
+{
+  "pli": "yo ve uppatitaṃ kodhaṃ, rathaṃ bhantaṃva vāraye; tamahaṃ sārathiṃ brūmi, rasmiggāho itaro jano.",
+  "skt": "yas tv ihotpatitaṁ krodhaṁ rathaṁ bhrāntam iva dhārayet । vadāmi sārathiṁ taṁ tu raśmigrāho 'yam anyathā ।।"
+},
+{
+  "pli": "akkodhena jine kodhaṃ, asādhuṃ sādhunā jine; jine kadariyaṃ dānena, saccenālikavādinaṃ.",
+  "skt": "akrodhena jayet krodham asādhuṁ sādhunā jayet ।jayet kadaryaṁ dānena satyena tv anṛtaṁ jayet ।।"
+},
+{
+  "pli": "saccaṃ bhaṇe na kujjheyya, dajjā appampi yācito; etehi tīhi ṭhānehi, gacche devāna santike.",
+  "skt": "satyaṁ vaden na ca krudhyed dadyād alpād api svayam । sthānair ebhis tribhir yukto devānām antikaṁ vrajet ।।"
+},
+{
+  "pli": "ahiṃsakā ye munayo, niccaṃ kāyena saṃvutā; te yanti accutaṃ ṭhānaṃ, yattha gantvā na socare.",
+  "skt": "ahiṁsakā vai munayo nityaṁ kāyena saṁvṛtāḥ । te yānti hy acyutaṁ sthānaṁ yatra gatvā na śocati ।।"
+},
+{
+  "pli": "sadā jāgaramānānaṃ, ahorattānusikkhinaṃ; nibbānaṃ adhimuttānaṃ, atthaṃ gacchanti āsavā.",
+  "skt": "jāgaryam anuyuktānām ahorātrānuśikṣiṇām । amṛtaṁ cādhimuktānām astaṁ gacchanti āsravāḥ ।।"
+},
+{
+  "pli": "porāṇametaṃ atula, netaṃ ajjatanāmiva; nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ; mitabhāṇimpi nindanti, natthi loke anindito.",
+  "skt": "pṛthakchabdāḥ samutpannās taṁ ca śreṣṭham iti manyathā । saṁghe hi bhidyamāne 'smiṁ śreṣṭham ity abhimanyathā ।।"
+},
+{
+  "pli": "te jhāyino sātatikā, niccaṃ daḷhaparakkamā; phusanti dhīrā nibbānaṃ, yogakkhemaṃ anuttaraṃ.",
+  "skt": "apramattāḥ sātatikā nityaṁ dṛḍhaparākramāḥ ।spṛśanti dhīrā nirvāṇaṁ yogakṣemam anuttaram ।।"
+},
+{
+  "pli": "nikkhaṃ jambonadasseva, ko taṃ ninditumarahati; devāpi naṃ pasaṃsanti, brahmunāpi pasaṃsito.",
+  "skt": "bahuśrutaṁ dharmadharaṁ prājñaṁ nityaṁ samāhitam । niṣkaṁ jāmbunadasyaiva kas taṁ ninditum arhati ।।"
+},
+{
+  "pli": "kāyappakopaṃ rakkheyya, kāyena saṃvuto siyā; kāyaduccaritaṃ hitvā, kāyena sucaritaṃ care.",
+  "skt": "kāyapradoṣaṁ rakṣeta syāt kāyena susaṁvṛtaḥ । kāyaduścaritaṁ hitvā kāyena sukṛtaṁ caret ।।"
+},
+{
+  "pli": "vacīpakopaṃ rakkheyya, vācāya saṃvuto siyā; vacīduccaritaṃ hitvā, vācāya sucaritaṃ care.",
+  "skt": "vācaḥ pradoṣaṁ rakṣeta vacasā saṁvṛto bhavet । vāco duścaritaṁ hitvā vācā sucaritaṁ caret ।।"
+},
+{
+  "pli": "manopakopaṃ rakkheyya, manasā saṃvuto siyā; manoduccaritaṃ hitvā, manasā sucaritaṃ care.",
+  "skt": "manaḥpradoṣaṁ rakṣeta manasā saṁvṛto bhavet । manoduścaritaṁ hitvā manaḥsucaritaṁ caret ।।"
+},
+{
+  "pli": "kāyena saṃvutā dhīrā, atho vācāya saṃvutā; manasā saṃvutā dhīrā, te ve suparisaṃvutā.",
+  "skt": "kāyena saṁvṛtā dhīrā dhīrā vācā susaṁvṛtāḥ । manasā saṁvṛtā dhīrā dhīrāḥ sarvatra saṁvṛtāḥ । te yānti hy acyutaṁ sthānaṁ yatra gatvā na śocati ।।"
+},
+{
+  "pli": "anupubbena medhāvī, thokaṃ thokaṃ khaṇe khaṇe; kammāro rajatasseva, niddhame malamattano.",
+  "skt": "anupūrveṇa medhāvī stokaṁ stokaṁ kṣaṇe kṣaṇe । karmāro rajatasyaiva nirdhamen malam ātmanaḥ ।।"
+},
+{
+  "pli": "uṭṭhānavato satīmato, sucikammassa nisammakārino; saññatassa dhammajīvino, appamattassa yasobhivaḍḍhati.",
+  "skt": "utthānavataḥ smṛtātmanaḥ śubhacittasya niśāmyacāriṇaḥ । saṁyatasya hi dharmajīvino hy apramattasya yaśo 'bhivardhate ।।"
+},
+{
+  "pli": "ayasāva malaṃ samuṭṭhitaṃ, tatuṭṭhāya tameva khādati; evaṃ atidhonacārinaṃ, sāni kammāni nayanti duggatiṃ.",
+  "skt": "ayaso hi malaḥ samutthitaḥ sa tadutthāya tam eva khādati । evaṁ hy aniśāmyacāriṇaṁ svāni karmāṇi nayanti durgatim ।।"
+},
+{
+  "pli": "sujīvaṃ ahirikena, kākasūrena dhaṃsinā; pakkhandinā pagabbhena, saṅkiliṭṭhena jīvitaṃ.",
+  "skt": "ahrīkena sujīvaṁ syāt kākaśūreṇa dhvāṅkṣiṇā । praskandinā pragalbhena saṁkliṣṭaṁ tv iha jīvate ।।"
+},
+{
+  "pli": "hirīmatā ca dujjīvaṃ, niccaṃ sucigavesinā; alīnenāppagabbhena, suddhājīvena passatā.",
+  "skt": "hrīmatā tv iha durjīvaṁ nityaṁ śucigaveṣiṇā । sulīnenāpragalbhena śuddhājīvena paśyatā ।।"
+},
+{
+  "pli": "dadāti ve yathāsaddhaṃ, yathāpasādanaṃ jano; tattha yo ca maṅku bhavati, paresaṃ pānabhojane; na so divā vā rattiṃ vā, samādhimadhigacchati.",
+  "skt": "dadanty eke yathā śraddhā yathāvibhavato janāḥ । tatra yo durmanā bhavati pareṣāṁ pānabhojane । nāsau divā ca rātrau ca samādhim adhigacchati ।।"
+},
+{
+  "pli": "uṭṭhānenappamādena, saṃyamena damena ca; dīpaṃ kayirātha medhāvī, yaṃ ogho nābhikīrati.",
+  "skt": "utthānenāpramādena saṁyamena damena ca । dvīpaṁ karoti medhāvī tam ogho nābhimardati ।।"
+},
+{
+  "pli": "sudassaṃ vajjamaññesaṃ, attano pana duddasaṃ; paresaṃ hi so vajjāni, opunāti yathā bhusaṃ; attano pana chādeti, kaliṃva kitavā saṭho.",
+  "skt": "supaśyaṁ paravadyaṁ syād ātmavadyaṁ tu durdṛśam । paraḥ parasya vadyāni tūtpunāti busaṁ yathā । ātmanaś chādayaty eṣa kṛtvā yadvat kaliṁ śaṭhaḥ ।।"
+},
+{
+  "pli": "na tāvatā dhammadharo, yāvatā bahu bhāsati; yo ca appampi sutvāna, dhammaṃ kāyena passati; sa ve dhammadharo hoti, yo dhammaṃ nappamajjati.",
+  "skt": "na tāvatā dharmadharo yāvatā bahu bhāṣate । yas tv ihālpam api śrutvā dharmaṁ kāyena vai spṛśet । sa vai dharmadharo bhavati yo dharme na pramādyate ।।"
+},
+{
+  "pli": "pamādamanuyuñjanti, bālā dummedhino janā; appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.",
+  "skt": "pramādam anuvartante bālā durmedhaso janāḥ । apramādaṁ tu medhāvī dhanaṁ śreṣṭhīva rakṣati ।।"
+},
+{
+  "pli": "na tena thero so hoti, yenassa palitaṃ siro; paripakko vayo tassa, “ moghajiṇṇo”ti vuccati.",
+  "skt": "sthaviro na tāvatā bhavati yāvatā palitaṁ śiraḥ । paripakvaṁ vayas tasya mohajīrṇaḥ sa ucyate ।।"
+},
+{
+  "pli": "na vākkaraṇamattena, vaṇṇapokkharatāya vā; sādhurūpo naro hoti, issukī maccharī saṭho.",
+  "skt": "na nāmarūpamātreṇa varṇapuṣkalayā na ca । sādhurūpo naro bhavati māyāvī matsarī śaṭhaḥ ।।"
+},
+{
+  "pli": "yassa cetaṃ samucchinnaṃ, mūlaghaccaṃ samūhataṃ; sa vantadoso medhāvī, “ sādhurūpo”ti vuccati.",
+  "skt": "yasya doṣāḥ samucchinnās tālamastakavad dhatāḥ ।sa vāntadoṣo medhāvī sādhurūpo nirucyate ।।"
+},
+{
+  "pli": "na muṇḍakena samaṇo, abbato alikaṃ bhaṇaṃ; icchālobhasamāpanno, samaṇo kiṃ bhavissati.",
+  "skt": "na muṇḍabhāvāc chramaṇo hy avṛtas tv anṛtaṁ vadan । icchālobhasamāpannaḥ śramaṇaḥ kiṁ bhaviṣyati ।।"
+},
+{
+  "pli": "yo ca sameti pāpāni, aṇuṃthūlāni sabbaso; samitattā hi pāpānaṃ, “ samaṇo”ti pavuccati.",
+  "skt": "na jaṭābhir na gotreṇa na jātyā brāhmaṇaḥ smṛtaḥ । yas tu vāhayate pāpāny aṇusthūlāni sarvaśaḥ । vāhitatvāt tu pāpānāṁ brāhmaṇo vai nirucyate ।।"
+},
+{
+  "pli": "na tena bhikkhu so hoti, yāvatā bhikkhate pare; vissaṃ dhammaṃ samādāya, bhikkhu hoti na tāvatā.",
+  "skt": "bhikṣur na tāvatā bhavati yāvatā bhikṣate parān । veśmāṁ dharmāṁ samādāya bhikṣur bhavati na tāvatā ।।"
+},
+{
+  "pli": "yodha puññañca pāpañca, bāhetvā brahmacariyavā; saṅkhāya loke carati, sa ve “bhikkhū”ti vuccati.",
+  "skt": "yas tu puṇyaṁ ca pāpaṁ ca prahāya brahmacaryavān ।viśreṇayitvā carati sa vai sthavira ucyate ।।"
+},
+{
+  "pli": "mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ; appamatto hi jhāyanto, pappoti vipulaṃ sukhaṃ.",
+  "skt": "pramādaṁ nānuyujyeta na kāmaratisaṁstavam । apramattaḥ sadā dhyāyī prāpnute hy acalaṁ sukham ।।"
+},
+{
+  "pli": "na sīlabbatamattena, bāhusaccena vā pana; atha vā samādhilābhena, vivittasayanena vā.",
+  "skt": "na śīlavratamātreṇa bahuśrutyena vā punaḥ । tathā samādhilābhena viviktaśayanena vā ।।"
+},
+{
+  "pli": "phusāmi nekkhammasukhaṃ, aputhujjanasevitaṃ; bhikkhu vissāsamāpādi, appatto āsavakkhayaṃ.",
+  "skt": "bhikṣur viśvāsam āpadyed aprāpte hy āsravakṣaye । spṛśet tu saṁbodhisukham akāpuruṣasevitam ।।"
+},
+{
+  "pli": "maggānaṭṭhaṅgiko seṭṭho, saccānaṃ caturo padā; virāgo seṭṭho dhammānaṃ, dvipadānañca cakkhumā.",
+  "skt": "mārgeṣv aṣṭāṅgikaḥ śreṣṭhaś catvāry āryāṇi satyataḥ ।śreṣṭho virāgo dharmāṇāṁ cakṣuṣmāṁ dvipadeṣu ca ।।"
+},
+{
+  "pli": "eseva maggo natthañño, dassanassa visuddhiyā; etañhi tumhe paṭipajjatha, mārassetaṃ pamohanaṃ.",
+  "skt": "eṣo hi mārgo nāsty anyo darśanasya viśuddhaye । pratipannakāḥ prahāsyanti dhyāyino mārabandhanam ।।"
+},
+{
+  "pli": "tumhehi kiccamātappaṃ, akkhātāro tathāgatā; paṭipannā pamokkhanti, jhāyino mārabandhanā.",
+  "skt": "ākhyāto vo mayā mārgas tv ajñāyai śalyakṛntanaḥ । yuṣmābhir eva karaṇīyam ākhyātāras tathāgatāḥ ।।"
+},
+{
+  "pli": "“sabbe saṅkhārā aniccā”ti, yadā paññāya passati; atha nibbindati dukkhe, esa maggo visuddhiyā.",
+  "skt": "anityāṁ sarvasaṁskārāṁ prajñayā paśyate yadā । atha nirvidyate duḥkhād eṣa mārgo viśuddhaye ।।"
+},
+{
+  "pli": "“sabbe saṅkhārā dukkhā”ti, yadā paññāya passati; atha nibbindati dukkhe, esa maggo visuddhiyā.",
+  "skt": "duḥkhaṁ hi sarvasaṁskārāṁ prajñayā paśyate yadā । atha nirvidyate duḥkhād eṣa mārgo viśuddhaye ।।"
+},
+{
+  "pli": "“sabbe dhammā anattā”ti, yadā paññāya passati; atha nibbindati dukkhe, esa maggo visuddhiyā.",
+  "skt": "sarvadharmā anātmānaḥ prajñayā paśyate yadā । atha nirvidyate duḥkhād eṣa mārgo viśuddhaye ।।"
+},
+{
+  "pli": "pamādaṃ appamādena, yadā nudati paṇḍito; paññāpāsādamāruyha, asoko sokiniṃ pajaṃ; pabbataṭṭhova bhūmaṭṭhe, dhīro bāle avekkhati.",
+  "skt": "pramādam apramādena yadā nudati paṇḍitaḥ । prajñāprāsādam āruhya tv aśokaḥ śokinīṁ prajām । parvatasthaiva bhūmisthāṁ dhīro bālān avekṣate ।।"
+},
+{
+  "pli": "uṭṭhānakālamhi anuṭṭhahāno, yuvā balī ālasiyaṃ upeto; saṃsannasaṅkappamano kusīto, paññāya maggaṃ alaso na vindati.",
+  "skt": "utthānakāleṣu nihīnavīryo vācā balī tv ālasiko nirāśaḥ । sadaiva saṁkalpahataḥ kusīdo jñānasya mārgaṁ satataṁ na vetti ।।"
+},
+{
+  "pli": "vācānurakkhī manasā susaṃvuto, kāyena ca nākusalaṃ kayirā; ete tayo kammapathe visodhaye, ārādhaye maggamisippaveditaṃ.",
+  "skt": "vācānurakṣī manasā susaṁvṛtaḥ kāyena caivākuśalaṁ na kuryāt ।etāṁ śubhāṁ karmapathāṁ viśodhayann ārādhayen mārgam ṛṣipraveditam ।।"
+},
+{
+  "pli": "yogā ve jāyatī bhūri, ayogā bhūrisaṅkhayo; etaṃ dvedhāpathaṃ ñatvā, bhavāya vibhavāya ca; tathāttānaṃ niveseyya, yathā bhūri pavaḍḍhati.",
+  "skt": "yogād bhavaḥ prabhavati viyogād bhavasaṁkṣayaḥ । etad dvaidhāpathaṁ jñātvā bhavāya vibhavāya ca । tatra śikṣeta medhāvī yatra yogān atikramet ।।"
+},
+{
+  "pli": "vanaṃ chindatha mā rukkhaṃ, vanato jāyate bhayaṃ; chetvā vanañca vanathañca, nibbanā hotha bhikkhavo.",
+  "skt": "vanaṁ chindata mā vṛkṣaṁ vanād vai jāyate bhayam । chitvā vanaṁ samūlaṁ tu nirvaṇā bhavata bhikṣavaḥ ।।"
+},
+{
+  "pli": "yāva hi vanatho na chijjati, aṇumattopi narassa nārisu; paṭibaddhamanova tāva so, vaccho khīrapakova mātari.",
+  "skt": "na chidyate yāvatā vanaṁ hy anumātram api narasya bandhuṣu । pratibaddhamanāḥ sa tatra vai vatsaḥ kṣīrapaka iva mātaram ।।"
+},
+{
+  "pli": "ucchinda sinehamattano, kumudaṃ sāradikaṃva pāṇinā; santimaggameva brūhaya, nibbānaṃ sugatena desitaṃ.",
+  "skt": "ucchindi hi sneham ātmanaḥ padmaṁ śāradakaṁ yathodakāt । śāntimārgam eva bṛṁhayen nirvāṇaṁ sugatena deśitam ।।"
+},
+{
+  "pli": "idha vassaṃ vasissāmi, idha hemantagimhisu; iti bālo vicinteti, antarāyaṃ na bujjhati.",
+  "skt": "iha varṣaṁ kariṣyāmi hemantaṁ grīṣmam eva ca । bālo vicintayaty evam antarāyaṁ na paśyati ।।"
+},
+{
+  "pli": "taṃ puttapasusammattaṃ, byāsattamanasaṃ naraṃ; suttaṃ gāmaṃ mahoghova, maccu ādāya gacchati.",
+  "skt": "taṁ putrapaśusaṁmattaṁ vyāsaktamanasaṁ naram । suptaṁ grāmaṁ mahaughaiva mṛtyur ādāya gacchati ।।"
+},
+{
+  "pli": "na santi puttā tāṇāya, na pitā nāpi bandhavā; antakenādhipannassa, natthi ñātīsu tāṇatā.",
+  "skt": "na santi putrās trāṇāya na pitā nāpi bāndhavāḥ । antakenābhibhūtasya na hi trāṇā bhavanti te ।।"
+},
+{
+  "pli": "etamatthavasaṃ ñatvā, paṇḍito sīlasaṃvuto; nibbānagamanaṃ maggaṃ, khippameva visodhaye.",
+  "skt": "etad dhi dṛṣṭvā śikṣeta sadā śīleṣu paṇḍitaḥ । nirvāṇagamanaṁ mārgaṁ kṣipram eva viśodhayet ।।"
+},
+{
+  "pli": "appamatto pamattesu, suttesu bahujāgaro; abalassaṃva sīghasso, hitvā yāti sumedhaso.",
+  "skt": "apramattaḥ pramatteṣu supteṣu bahujāgaraḥ । abalāśva iva bhadrāśvaṁ hitvā yāti sumedhasam ।।"
+},
+{
+  "pli": "mattāsukhapariccāgā, passe ce vipulaṃ sukhaṃ; caje mattāsukhaṃ dhīro, sampassaṃ vipulaṃ sukhaṃ.",
+  "skt": "mātrāsukhaparityāgād yaḥ paśyed vipulaṁ sukham । tyajen mātrāsukhaṁ dhīraḥ saṁpaśyaṁ vipulaṁ sukham ।।"
+},
+{
+  "pli": "paradukkhūpadhānena, attano sukhamicchati; verasaṃsaggasaṃsaṭṭho, verā so na parimuccati.",
+  "skt": "paraduḥkhopadhānena ya icchet sukham ātmanaḥ । vairasaṁsargasaṁsakto duḥkhān na parimucyate ।।"
+},
+{
+  "pli": "yañhi kiccaṃ apaviddhaṃ, akiccaṃ pana karīyati; unnaḷānaṃ pamattānaṃ, tesaṃ vaḍḍhanti āsavā.",
+  "skt": "yat kṛtyaṁ tad apaviddham akṛtyaṁ kriyate punaḥ । uddhatānāṁ pramattānāṁ teṣāṁ vardhanti āsravāḥ । āsravās teṣu vardhante ārāt te hy āsravakṣayāt ।।"
+},
+{
+  "pli": "yesañca susamāraddhā, niccaṃ kāyagatā sati; akiccaṃ te na sevanti, kicce sātaccakārino; satānaṃ sampajānānaṃ, atthaṃ gacchanti āsavā.",
+  "skt": "yeṣāṁ tu susamārabdhā nityaṁ kāyagatā smṛtiḥ । akṛtyaṁ te na kurvanti kṛtye sātatyakāriṇaḥ । smṛtānāṁ saṁprajānānām astaṁ gacchanti āsravāḥ ।।"
+},
+{
+  "pli": "mātaraṃ pitaraṃ hantvā, rājāno dve ca khattiye; raṭṭhaṃ sānucaraṃ hantvā, anīgho yāti brāhmaṇo.",
+  "skt": "mātaraṁ pitaraṁ hatvā rājānaṁ dvau ca śrotriyau । rāṣṭraṁ sānucaraṁ hatvā anigho yāti brāhmaṇaḥ ।।"
+},
+{
+  "pli": "suppabuddhaṃ pabujjhanti, sadā gotamasāvakā; yesaṃ divā ca ratto ca, niccaṃ buddhagatā sati.",
+  "skt": "suprabuddhaṁ prabudhyante ime gautamaśrāvakāḥ । yeṣāṁ divā ca rātrau ca nityaṁ buddhagatā smṛtiḥ ।।"
+},
+{
+  "pli": "suppabuddhaṃ pabujjhanti, sadā gotamasāvakā; yesaṃ divā ca ratto ca, niccaṃ dhammagatā sati.",
+  "skt": "suprabuddhaṁ prabudhyante ime gautamaśrāvakāḥ । yeṣāṁ divā ca rātrau ca nityaṁ dharmagatā smṛtiḥ ।।"
+},
+{
+  "pli": "suppabuddhaṃ pabujjhanti, sadā gotamasāvakā; yesaṃ divā ca ratto ca, niccaṃ saṅghagatā sati.",
+  "skt": "suprabuddhaṁ prabudhyante ime gautamaśrāvakāḥ । yeṣāṁ divā ca rātrau ca nityaṁ saṁghagatā smṛtiḥ ।।"
+},
+{
+  "pli": "suppabuddhaṃ pabujjhanti, sadā gotamasāvakā; yesaṃ divā ca ratto ca, niccaṃ kāyagatā sati.",
+  "skt": "suprabuddhaṁ prabudhyante ime gautamaśrāvakāḥ । yeṣāṁ divā ca rātrau ca nityaṁ kāyagatā smṛtiḥ ।।"
+},
+{
+  "pli": "akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.",
+  "skt": "ākrośan mām avocan mām ajayan mām ajāpayet । atra ye hy upanahyanti vairaṁ teṣāṁ na śāmyati ।।"
+},
+{
+  "pli": "appamādena maghavā, devānaṃ seṭṭhataṃ gato; appamādaṃ pasaṃsanti, pamādo garahito sadā.",
+  "skt": "apramādaṁ praśaṁsanti pramādo garhitaḥ sadā । apramādena maghavāṁ devānāṁ śreṣṭhatāṁ gataḥ ।।"
+},
+{
+  "pli": "suppabuddhaṃ pabujjhanti, sadā gotamasāvakā; yesaṃ divā ca ratto ca, ahiṃsāya rato mano.",
+  "skt": "suprabuddhaṁ prabudhyante ime gautamaśrāvakāḥ । yeṣāṁ divā ca rātrau caivāhiṁsāyāṁ rataṁ manaḥ ।।"
+},
+{
+  "pli": "suppabuddhaṃ pabujjhanti, sadā gotamasāvakā; yesaṃ divā ca ratto ca, bhāvanāya rato mano.",
+  "skt": "suprabuddhaṁ prabudhyante ime gautamaśrāvakāḥ । yeṣāṁ divā ca rātrau ca bhāvanāyāṁ rataṁ manaḥ ।।"
+},
+{
+  "pli": "duppabbajjaṃ durabhiramaṃ, durāvāsā gharā dukhā; dukkhosamānasaṃvāso, dukkhānupatitaddhagū; tasmā na caddhagū siyā, na ca dukkhānupatito siyā.",
+  "skt": "duṣpravrajyaṁ durabhiramaṁ duradhyāvasitā gṛhāḥ । duḥkhāsamānasaṁvāsā duḥkāś copacitā bhavāḥ ।।"
+},
+{
+  "pli": "saddho sīlena sampanno, yasobhogasamappito; yaṃ yaṃ padesaṃ bhajati, tattha tattheva pūjito.",
+  "skt": "śrāddhāḥ śīlena saṁpannas tyāgavāṁ vītamatsaraḥ । vrajate yatra yatraiva tatra tatraiva pūjyate ।।"
+},
+{
+  "pli": "dūre santo pakāsenti, himavantova pabbato; asantettha na dissanti, rattiṃ khittā yathā sarā.",
+  "skt": "dūrāt santaḥ prakāśyante himavān iva parvataḥ । asanto na prakāśyante rātrikṣiptāḥ śarā yathā ।।"
+},
+{
+  "pli": "ekāsanaṃ ekaseyyaṃ, eko caramatandito; eko damayamattānaṃ, vanante ramito siyā.",
+  "skt": "ekāsanaṁ tv ekaśayyām ekacaryām atandritaḥ । ramayec caikam ātmānaṁ vaneṣv ekaḥ sadā vaset ।।"
+},
+{
+  "pli": "abhūtavādī nirayaṃ upeti, yo vāpi katvā na karomi cāha; ubhopi te pecca samā bhavanti, nihīnakammā manujā parattha.",
+  "skt": "abhūtavādī narakān upaiti yaś cānyad apy ācaratīha karma । ubhau hi tau pretya samau niruktau nihīnadharmau manujau paratra ।।"
+},
+{
+  "pli": "kāsāvakaṇṭhā bahavo, pāpadhammā asaññatā; pāpā pāpehi kammehi, nirayaṃ te upapajjare.",
+  "skt": "kāṣāyakaṇṭhā bahavaḥ pāpadharmā hy asaṁyatāḥ । pāpā hi karmabhiḥ pāpair ito gacchanti durgatim ।।"
+},
+{
+  "pli": "seyyo ayoguḷo bhutto, tatto aggisikhūpamo; yañce bhuñjeyya dussīlo, raṭṭhapiṇḍamasaññato.",
+  "skt": "śreyo hy ayoguḍā bhuktās taptā hy agniśikhopamāḥ । na tu bhuñjīta duḥśīlo rāṣṭrapiṇḍam asaṁyataḥ ।।"
+},
+{
+  "pli": "cattāri ṭhānāni naro pamatto, āpajjati paradārūpasevī; apuññalābhaṃ na nikāmaseyyaṃ, nindaṃ tatīyaṃ nirayaṃ catutthaṃ.",
+  "skt": "sthānāni catvāri naraḥ pramatta āpadyate yaḥ paradārasevī । apuṇyalābhaṁ hy anikāmaśayyāṁ nindāṁ tṛtīyaṁ narakaṁ caturtham ।।"
+},
+{
+  "pli": "appamādarato bhikkhu, pamāde bhayadassi vā; saṃyojanaṃ aṇuṃ thūlaṃ, ḍahaṃ aggīva gacchati.",
+  "skt": "apramādarato bhikṣuḥ pramāde bhayadarśakaḥ । saṁyojanam aṇusthūlaṁ dahann agnir iva gacchati ।।"
+},
+{
+  "pli": "apuññalābho ca gatī ca pāpikā, bhītassa bhītāya ratī ca thokikā; rājā ca daṇḍaṃ garukaṃ paṇeti, tasmā naro paradāraṃ na seve.",
+  "skt": "apuṇyalābhaṁ ca gatiṁ ca pāpikāṁ bhītasya bhītābhir athālpikāṁ ratim ।nindāṁ ca paśyaṁ nṛpateś ca daṇḍaṁ parasya dārāṇi vivarjayeta ।। [i] apuṇyalābhaś ca gatiś ca pāpikā bhītasya bhītābhir athālpikā ratiḥ ।rājā ca daṇḍaṁ gurukaṁ dadāti kāyasya bhedād narakeṣu pacyate ।। [ii]"
+},
+{
+  "pli": "kuso yathā duggahito, hatthamevānukantati; sāmaññaṃ dupparāmaṭṭhaṃ, nirayāyupakaḍḍhati.",
+  "skt": "śaro yathā durgṛhīto hastam evāpakṛntati । śrāmaṇyaṁ duṣparāmṛṣṭaṁ narakān upakarṣati ।।"
+},
+{
+  "pli": "yaṃ kiñci sithilaṃ kammaṃ, saṅkiliṭṭhañca yaṃ vataṃ; saṅkassaraṃ brahmacariyaṃ, na taṃ hoti mahapphalaṃ.",
+  "skt": "yat kiṁ cic chitilaṁ karma saṁkliṣṭaṁ vāpi yat tapaḥ ।apariśuddhaṁ brahmacaryaṁ na tad bhavati mahāphalam ।।"
+},
+{
+  "pli": "kayirā ce kayirāthenaṃ, daḷhamenaṃ parakkame; sithilo hi paribbājo, bhiyyo ākirate rajaṃ.",
+  "skt": "kurvāṇo hi sadā prājño dṛḍham eva parākramet । śithilā khalu pravrajyā hy ādadāti puno rajaḥ ।।"
+},
+{
+  "pli": "appamādarato bhikkhu, pamāde bhayadassi vā; abhabbo parihānāya, nibbānasseva santike.",
+  "skt": "apramādarato bhikṣuḥ pramāde bhayadarśakaḥ । abhavyaḥ parihāṇāya nirvāṇasyaiva so 'ntike ।।"
+},
+{
+  "pli": "ahaṃ nāgova saṅgāme, cāpato patitaṃ saraṃ; ativākyaṃ titikkhissaṃ, dussīlo hi bahujjano.",
+  "skt": "ahaṁ nāga iva saṁgrāme cāpād utpatitāṁ śarān । ativākyaṁ titīkṣāmi duḥśīlo hi mahājanaḥ ।।"
+},
+{
+  "pli": "dantaṃ nayanti samitiṃ, dantaṃ rājābhirūhati; danto seṭṭho manussesu, yotivākyaṃ titikkhati.",
+  "skt": "dānto vai samitiṁ yāti dāntaṁ rājādhirohati । dāntaḥ śreṣṭho manuṣyāṇāṁ yo 'tivākyaṁ titīkṣati ।।"
+},
+{
+  "pli": "varamassatarā dantā, ājānīyā ca sindhavā; kuñjarā ca mahānāgā, attadanto tato varaṃ.",
+  "skt": "yo hy aśvaṁ damayej jānyam ājāneyaṁ ca saindhavam । kuñjaraṁ vā mahānāgam ātmā dāntas tato varam ।। [i] yac cehāśvataraṁ damayed ājanyaṁ vāpi saindhavam । kuñjaraṁ vā mahānāgam ātmadāntas tato varam ।। [ii]"
+},
+{
+  "pli": "na hi etehi yānehi, gaccheyya agataṃ disaṃ; yathāttanā sudantena, danto dantena gacchati.",
+  "skt": "na hy asau tena yānena tāṁ bhūmim adhigacchati । ātmanā hi sudāntena kṣipraṁ śāntiṁ nigacchati ।। [i] na hi tena sa yānena tāṁ bhūmim abhisaṁbhavet । yām ātmanā sudāntena dānto dāntena gacchati ।। [ii]"
+},
+{
+  "pli": "middhī yadā hoti mahagghaso ca, niddāyitā samparivattasāyī; mahāvarāhova nivāpapuṭṭho, punappunaṃ gabbhamupeti mando.",
+  "skt": "middhī ca yo bhavati mahāgrasaś ca rātriṁ divaṁ saṁparivartaśāyī । mahāvarāhaiva nivāpapuṣṭaḥ punaḥ punar mandam upaiti garbham ।।"
+},
+{
+  "pli": "idaṃ pure cittamacāri cārikaṃ, yenicchakaṃ yatthakāmaṃ yathāsukhaṃ; tadajjahaṃ niggahessāmi yoniso, hatthippabhinnaṃ viya aṅkusaggaho.",
+  "skt": "idaṁ purā cittam acāri cārikāṁ yenecchakaṁ yena kāmaṁ yatheṣṭam ।tat saṁnigṛhṇāmi hi yoniśas tv idaṁ nāgaṁ prabhinnaṁ hi yathāṅkuśena ।।"
+},
+{
+  "pli": "appamādaratā hotha, sacittamanurakkhatha; duggā uddharathattānaṃ, paṅke sannova kuñjaro.",
+  "skt": "apramādarato bhikṣuḥ pramāde bhayadarśakaḥ । durgād uddharate tmānaṁ paṅkasannaiva kuñjaraḥ ।।"
+},
+{
+  "pli": "sace labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ; abhibhuyya sabbāni parissayāni, careyya tenattamano satīmā.",
+  "skt": "sa cel labhed vai nipakaṁ sahāyaṁ loke caraṁ sādhu hi nityam eva । abhibhūya sarvāṇi parisravāṇi careta tenāptamanā smṛtātmā ।।"
+},
+{
+  "pli": "no ce labhetha nipakaṃ sahāyaṃ, saddhiṃ caraṃ sādhuvihāridhīraṃ; rājāva raṭṭhaṃ vijitaṃ pahāya, eko care mātaṅgaraññeva nāgo.",
+  "skt": "sa cel labhed vai nipakaṁ sahāyaṁ loke caraṁ sādhu hi nityam eva । rājeva rāṣṭraṁ vipulaṁ prahāya ekaś caren na ca pāpāni kuryāt ।।"
+},
+{
+  "pli": "phandanaṃ capalaṃ cittaṃ, dūrakkhaṃ dunnivārayaṃ; ujuṃ karoti medhāvī, usukārova tejanaṃ.",
+  "skt": "spandanaṁ capalaṁ cittaṁ durakṣyaṁ durnivāraṇam । ṛjuṁ karoti medhāvī iṣukāra iva tejasā ।।"
+},
+{
+  "pli": "ekassa caritaṃ seyyo, natthi bāle sahāyatā; eko care na ca pāpāni kayirā, appossukko mātaṅgaraññeva nāgo.",
+  "skt": "ekasya caritaṁ śreyo na tu bālaḥ sahāyakaḥ ।. ekaś caren na ca pāpāni kuryād alpotsuko 'raṇyagataiva nāgaḥ ।। [i] ekasya caritaṁ ṣreyo na tu bālasahāyatā । alposukaś cared eko mātaṅgāraṇye nāgavat ।। [ii]"
+},
+{
+  "pli": "atthamhi jātamhi sukhā sahāyā, tuṭṭhī sukhā yā itarītarena; puññaṃ sukhaṃ jīvitasaṅkhayamhi, sabbassa dukkhassa sukhaṃ pahānaṃ.",
+  "skt": "artheṣu jāteṣu sukhaṁ sahāyāḥ puṇyaṁ sukhaṁ jīvitasaṁkṣayeṣu । tuṣṭiḥ sukhā yā tv itaretareṇa sarvasya duḥkhasya sukho nirodhaḥ ।।"
+},
+{
+  "pli": "sukhā matteyyatā loke, atho petteyyatā sukhā; sukhā sāmaññatā loke, atho brahmaññatā sukhā.",
+  "skt": "sukhaṁ mātṛvyatā loke sukhaṁ caiva pitṛvyatā । sukhaṁ śrāmaṇyatā loke tathā brāhmaṇyatā sukhaṁ ।।"
+},
+{
+  "pli": "yaṃ esā sahate jammī, taṇhā loke visattikā; sokā tassa pavaḍḍhanti, abhivaṭṭhaṃva bīraṇaṃ.",
+  "skt": "ya etāṁ sahate grāmyāṁ tṛṣṇāṁ loke sudustyajām । śokās tasya nivardhante hy avavṛṣṭā bīraṇā yathā ।।"
+},
+{
+  "pli": "taṃ vo vadāmi bhaddaṃ vo, yāvantettha samāgatā; taṇhāya mūlaṃ khaṇatha, usīratthova bīraṇaṃ; mā vo naḷaṃva sotova, māro bhañji punappunaṃ.",
+  "skt": "tad vai vadāmi bhadraṁ vo yāvantaḥ stha samāgatāḥ ।tṛṣṇāṁ samūlāṁ khanata uśīrārthīva bīraṇām । tṛṣṇāyāḥ khātamūlāyā nāsti śokaḥ kuto bhayam ।।"
+},
+{
+  "pli": "yathāpi mūle anupaddave daḷhe, chinnopi rukkho punareva rūhati; evampi taṇhānusaye anūhate, nibbattatī dukkhamidaṃ punappunaṃ.",
+  "skt": "yathāpi mūlair anupadrutaiḥ sadā chinno 'pi vṛkṣaḥ punar eva jāyate । evaṁ hi tṛṣṇānuśayair anuddhṛtair nivartate duḥkham idaṁ punaḥ punaḥ ।।"
+},
+{
+  "pli": "yassa chattiṃsati sotā, manāpasavanā bhusā; mahāvahanti duddiṭṭhiṃ, saṅkappā rāganissitā.",
+  "skt": "srotāṁsi yasya ṣaṭtiṁśan manaḥprasravaṇāni hi । vahanti nityaṁ durdṛṣṭeḥ saṁkalpair gredhaniḥśritaiḥ ।।"
+},
+{
+  "pli": "vārijova thale khitto, okamokataubbhato; pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.",
+  "skt": "vārijo vā sthale kṣipta okād oghāt samuddhṛtaḥ । parispandati vai cittaṁ māradheyaṁ prahātavai ।।"
+},
+{
+  "pli": "saritāni sinehitāni ca, somanassāni bhavanti jantuno; te sātasitā sukhesino, te ve jātijarūpagā narā.",
+  "skt": "saritāni vai snehitāni vai saumanasyāni bhavanti jantunaḥ । ye sātasitāḥ sukhaiṣiṇas te vai jātijaropagā narāḥ ।।"
+},
+{
+  "pli": "yo nibbanatho vanādhimutto, vanamutto vanameva dhāvati; taṃ puggalametha passatha, mutto bandhanameva dhāvati.",
+  "skt": "yo nirvanagair vimokṣitaḥ saṁvanamukto vanam eva dhāvati । taṁ paśyatha pudgalaṁ tv imaṁ mukto bandhanam eva dhāvati ।।"
+},
+{
+  "pli": "na taṃ daḷhaṃ bandhanamāhu dhīrā, yadāyasaṃ dārujapabbajañca; sārattarattā maṇikuṇḍalesu, puttesu dāresu ca yā apekkhā.",
+  "skt": "na tad dṛḍhaṁ bandhanam āhur āryā yad āyasaṁ dāravaṁ balbajaṁ vā । saṁraktacittasya hi mandabuddheḥ putreṣu dāreṣu ca yā avekṣā ।।"
+},
+{
+  "pli": "etaṃ daḷhaṃ bandhanamāhu dhīrā, ohārinaṃ sithilaṃ duppamuñcaṃ; etampi chetvāna paribbajanti, anapekkhino kāmasukhaṃ pahāya.",
+  "skt": "etad dṛḍhaṁ bandhanam āhur āryāḥ samantataḥ susthiraṁ duṣpramokṣam । etad api cchitvā tu parivrajanti hy anapekṣiṇaḥ kāmasukhaṁ prahāya ।।"
+},
+{
+  "pli": "ye rāgarattānupatanti sotaṃ, sayaṅkataṃ makkaṭakova jālaṃ; etampi chetvāna vajanti dhīrā, anapekkhino sabbadukkhaṃ pahāya.",
+  "skt": "yathāpi tantre vitate yad yad utaṁ samupyate । alpaṁ bhavati vātavyam evaṁ martyasya jīvitam ।।"
+},
+{
+  "pli": "muñca pure muñca pacchato, majjhe muñca bhavassa pāragū; sabbattha vimuttamānaso, na punaṃ jātijaraṃ upehisi.",
+  "skt": "muñca purato muñca paścato madhye muñca bhavasya pāragaḥ । sarvatra vimuktamānaso na punar jātijarām upeṣyasi ।।"
+},
+{
+  "pli": "niṭṭhaṅgato asantāsī, vītataṇho anaṅgaṇo; acchindi bhavasallāni, antimoyaṃ samussayo.",
+  "skt": "niṣṭhāgato hy asaṁtrāsī na vikanthī na kaukṛtiḥ । ācchettā bhavaśalyānām antimo 'sya samucchrayaḥ ।।"
+},
+{
+  "pli": "sabbābhibhū sabbavidūhamasmi, sabbesu dhammesu anūpalitto; sabbañjaho taṇhakkhaye vimutto, sayaṃ abhiññāya kamuddiseyyaṃ.",
+  "skt": "sarvābhibhūḥ sarvavid eva cāsmi sarvaiś ca dharmaiḥ satataṁ na liptaḥ । sarvaṁjahaḥ sarvabhayād vimuktaḥ svayaṁ hy abhijñāya kam uddiśeyam ।।"
+},
+{
+  "pli": "sabbadānaṃ dhammadānaṃ jināti, sabbarasaṃ dhammaraso jināti; sabbaratiṃ dhammarati jināti, taṇhakkhayo sabbadukkhaṃ jināti.",
+  "skt": "jayate dānaṁ dharmadānaṁ ca sarvaṁ jayate ratiṁ dharmaratiṁś ca sarvām । jayate balaṁ kṣāntibalaṁ ca sarvaṁ jayate sukhaṁ sarvaṭṛṣānirodhaḥ ।। [i] sarvaṁ dānaṁ dharmadānaṁ jināti sarvāṁ ratiṁ dharmaratiṁ jināti । sarvaṁ balaṁ kṣāntibalaṁ jināti tṛṣṇākṣayaḥ sarvasukhaṁ jināti ।। [ii]"
+},
+{
+  "pli": "hananti bhogā dummedhaṃ, no ca pāragavesino; bhogataṇhāya dummedho, hanti aññeva attanaṃ.",
+  "skt": "durmedhasaṁ hanti bhogo na tv ihātmagaveṣiṇam । durmedhā bhogatṛṣnābhir hanty ātmānam atho parān ।।"
+},
+{
+  "pli": "tiṇadosāni khettāni, rāgadosā ayaṃ pajā; tasmā hi vītarāgesu, dinnaṃ hoti mahapphalaṃ.",
+  "skt": "kṣetrāṇi tṛṇadoṣāṇi rāgadoṣā tv iyaṁ prajā । tasmād vigatarāgebhyo dattaṁ bhavati mahāphalam ।।"
+},
+{
+  "pli": "tiṇadosāni khettāni, dosadosā ayaṃ pajā; tasmā hi vītadosesu, dinnaṃ hoti mahapphalaṃ.",
+  "skt": "kṣetrāṇi tṛṇadoṣāṇi dveṣadoṣā tv iyaṁ prajā । tasmād vigatadveṣebhyo dattaṁ bhavati mahāphalam ।।"
+},
+{
+  "pli": "tiṇadosāni khettāni, mohadosā ayaṃ pajā; tasmā hi vītamohesu, dinnaṃ hoti mahapphalaṃ.",
+  "skt": "kṣetrāṇi tṛṇadoṣāṇi mohadoṣā tv iyaṁ prajā । tasmād vigatamohebhyo dattaṁ bhavati mahāphalam ।।"
+},
+{
+  "pli": "tiṇadosāni khettāni, icchādosā ayaṃ pajā; tasmā hi vigaticchesu, dinnaṃ hoti mahapphalaṃ.",
+  "skt": "kṣetrāṇi tṛṇadoṣāṇi tṛṣṇādoṣā tv iyaṁ prajā । tasmād vigatatṛṣṇebhyo dattaṁ bhavati mahāphalam ।।"
+},
+{
+  "pli": "kāyena saṃvaro sādhu, sādhu vācāya saṃvaro; manasā saṃvaro sādhu, sādhu sabbattha saṃvaro; sabbattha saṃvuto bhikkhu, sabbadukkhā pamuccati.",
+  "skt": "kāyena saṁvaraḥ sādhu sādhu vācā ca saṁvaraḥ । manasā saṁvaraḥ sādhu sādhu sarvatra saṁvaraḥ । sarvatra saṁvṛto bhikṣuḥ sarvaduḥkhāt pramucyate ।।"
+},
+{
+  "pli": "hatthasaṃyato pādasaṃyato, vācāsaṃyato saṃyatuttamo; ajjhattarato samāhito, eko santusito tamāhu bhikkhuṃ.",
+  "skt": "hastasaṁyataḥ pādasaṁyato vācāsaṁyataḥ sarvasaṁyataḥ । ādhyātmarataḥ samāhito hy ekaḥ saṁtuṣito hi yaḥ sa bhikṣuḥ ।।"
+},
+{
+  "pli": "yo mukhasaṃyato bhikkhu, mantabhāṇī anuddhato; atthaṃ dhammañca dīpeti, madhuraṃ tassa bhāsitaṃ.",
+  "skt": "mukhena saṁyato bhikṣur mandabhāṣī hy anuddhataḥ । arthaṁ dharmaṁ ca deśayati madhuraṁ tasya bhāṣitam ।।"
+},
+{
+  "pli": "dhammārāmo dhammarato, dhammaṃ anuvicintayaṃ; dhammaṃ anussaraṃ bhikkhu, saddhammā na parihāyati.",
+  "skt": "dharmārāmo dharmarato dharmam evānucintayan । dharmaṁ cānusmaraṁ bhikṣur dharmān na parihīyate ।।"
+},
+{
+  "pli": "salābhaṃ nātimaññeyya, nāññesaṃ pihayaṃ care; aññesaṃ pihayaṃ bhikkhu, samādhiṃ nādhigacchati.",
+  "skt": "svalābhaṁ nāvamanyeta nānyeṣāṁ spṛhako bhavet । anyeṣāṁ spṛhako bhikṣuḥ samādhiṁ nādhigacchati ।।"
+},
+{
+  "pli": "sabbaso nāmarūpasmiṃ, yassa natthi mamāyitaṃ; asatā ca na socati, sa ve “bhikkhū”ti vuccati.",
+  "skt": "yasya saṁnicayo nāsti yasya nāsti mamāyitam । asantaṁ śocate naiva sa vai bhikṣur nirucyate ।।"
+},
+{
+  "pli": "mettāvihārī yo bhikkhu, pasanno buddhasāsane; adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.",
+  "skt": "yathāpi parvataḥ śailo vāyunā na prakampate । evaṁ tṛṣṇākṣayād bhikṣuḥ śailavan na prakampate ।।"
+},
+{
+  "pli": "siñca bhikkhu imaṃ nāvaṃ, sittā te lahumessati; chetvā rāgañca dosañca, tato nibbānamehisi.",
+  "skt": "siñca bhikṣor imāṁ nāvaṁ siktā laghvī bhaviṣyati । hitvā rāgaṁ ca doṣaṁ ca tato nirvāṇam eṣyasi ।।"
+},
+{
+  "pli": "dūraṅgamaṃ ekacaraṃ, asarīraṃ guhāsayaṃ; ye cittaṃ saṃyamissanti, mokkhanti mārabandhanā.",
+  "skt": "dūraṁgamam ekacaram aśarīraṁ guhāśayam । ye cittaṁ damayiṣyanti vimokṣyante mahābhayāt ।।"
+},
+{
+  "pli": "natthi jhānaṃ apaññassa, paññā natthi ajhāyato; yamhi jhānañca paññā ca, sa ve nibbānasantike.",
+  "skt": "nāsty aprajñasya vai dhyānaṁ prajñā nādhyāyato 'sti ca । yasya dhyānaṁ tathā prajñā sa vai nirvāṇasāntike ।।"
+},
+{
+  "pli": "suññāgāraṃ paviṭṭhassa, santacittassa bhikkhuno; amānusī rati hoti, sammā dhammaṃ vipassato.",
+  "skt": "śunyāgāraṁ praviṣṭasya prahitātmasya bhikṣuṇaḥ । amānuṣā ratir bhavati samyag dharmāṁ vipaśyataḥ ।।"
+},
+{
+  "pli": "yato yato sammasati, khandhānaṃ udayabbayaṃ; labhatī pītipāmojjaṃ, amataṃ taṃ vijānataṃ.",
+  "skt": "yato yataḥ saṁpṛśati skandhānām udayavyayam । prāmodyaṁ labhate tatra prītyā sukham analpakam ।tataḥ prāmodyabahulaḥ smṛto bhikṣuḥ parivrajet ।।"
+},
+{
+  "pli": "tatrāyamādi bhavati, idha paññassa bhikkhuno; indriyagutti santuṭṭhi, pātimokkhe ca saṃvaro.",
+  "skt": "tasmād dhyānaṁ tathā prajñām anuyujyeta paṇḍitaḥ । tasyāyam ādir bhavati tathā prājñasya bhikṣuṇaḥ ।।"
+},
+{
+  "pli": "mitte bhajassu kalyāṇe, suddhājīve atandite; paṭisanthāravutyassa, ācārakusalo siyā; tato pāmojjabahulo, dukkhassantaṃ karissati.",
+  "skt": "mātraṁ bhajeta pratirūpaṁ śuddhājīvo bhavet sadā । pratisaṁstāravṛttiḥ syād ācārakuśalo bhavet ।tataḥ prāmodyabahulaḥ smṛto bhikṣuḥ parivrajet ।।"
+},
+{
+  "pli": "vassikā viya pupphāni, maddavāni pamuñcati; evaṃ rāgañca dosañca, vippamuñcetha bhikkhavo.",
+  "skt": "varṣāsu hi yathā puṣpaṁ vaguro vipramuñcati । evaṁ rāgaṁ ca doṣaṁ ca vipramuñcata bhikṣavaḥ ।।"
+},
+{
+  "pli": "santakāyo santavāco, santavā susamāhito; vantalokāmiso bhikkhu, “ upasanto”ti vuccati.",
+  "skt": "yasya kāyena vācā ca manasā ca na duṣkṛtam । kalyāṇaśīlam āhus taṁ hrīmantaṁ bhikṣum uttamam ।।"
+},
+{
+  "pli": "anavaṭṭhitacittassa, saddhammaṃ avijānato; pariplavapasādassa, paññā na paripūrati.",
+  "skt": "anavasthitacittasya saddharmam avijānataḥ । pāriplavaprasādasya prajñā na paripūryate ।।"
+},
+{
+  "pli": "attā hi attano nātho, ko hi nātho paro siyā; attā hi attano gati, tasmā saṃyamamattānaṃ; assaṃ bhadraṃva vāṇijo.",
+  "skt": "ātmaiva hy ātmano nāthaḥ ātmā śaraṇam ātmanaḥ । tasmāt saṁyamayātmānaṁ bhadrāśvam iva sārathiḥ ।।"
+},
+{
+  "pli": "yo have daharo bhikkhu, yuñjati buddhasāsane; somaṃ lokaṃ pabhāseti, abbhā muttova candimā.",
+  "skt": "daharo 'pi cet pravrajate yujyate buddhaśāsane । sa imaṁ bhāsate lokam abhramuktaiva candramāḥ ।।"
+},
+{
+  "pli": "chinda sotaṃ parakkamma, kāme panuda brāhmaṇa; saṅkhārānaṃ khayaṃ ñatvā, akataññūsi brāhmaṇa.",
+  "skt": "chindi srotaḥ parākramya kāmāṁ praṇuda brāhmaṇa । saṁskārāṇāṁ kṣayaṁ jñātvā hy akṛtajño bhaviṣyasi ।। [i] chindi srotaḥ parākramya kāmāṁ sarvāṁ praṇuda ca । saṁskārāṇāṁ kṣayaṁ jñātvā brāhmaṇo yāti hānighaḥ ।। [ii]"
+},
+{
+  "pli": "yadā dvayesu dhammesu, pāragū hoti brāhmaṇo; athassa sabbe saṃyogā, atthaṃ gacchanti jānato.",
+  "skt": "yadā hi sveṣu dharmeṣu brāhmaṇaḥ pārago bhavet । athāsya sarvasaṁyogā astaṁ gacchanti paśyataḥ ।।"
+},
+{
+  "pli": "yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati; vītaddaraṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "yasya pāram apāraṁ ca pārāpāraṁ na vidyate । pāragaṁ sarvadharmāṇāṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "jhāyiṃ virajamāsīnaṃ, katakiccamanāsavaṃ; uttamatthamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "dhyāyinaṁ vītarajasaṁ kṛtakṛtyam anāsravam । kṣīṇāsravaṁ visaṁyuktaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "divā tapati ādicco, rattimābhāti candimā; sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo; atha sabbamahorattiṃ, buddho tapati tejasā.",
+  "skt": "divā tapati hādityo rātrāv ābhāti candramāḥ ।saṁnaddhaḥ kṣatriyas tapati dhyāyī tapati brāhmaṇaḥ । atha nityam ahorātraṁ buddhas tapati tejasā ।।"
+},
+{
+  "pli": "bāhitapāpoti brāhmaṇo, samacariyā samaṇoti vuccati; pabbājayamattano malaṃ, tasmā “pabbajito”ti vuccati.",
+  "skt": "brāhmaṇo vāhitaiḥ pāpaiḥ śramaṇaḥ śamitāśubhaḥ ।pravrājayitvā tu malān uktaḥ pravrajitas tv iha ।।"
+},
+{
+  "pli": "na brāhmaṇassa pahareyya, nāssa muñcetha brāhmaṇo; dhī brāhmaṇassa hantāraṃ, tato dhī yassa muñcati.",
+  "skt": "na brāhmaṇasya praharen na ca muñceta brāhmaṇaḥ । dhig brāhmaṇasya hantāraṁ dhik taṁ yaś ca pramuñcati ।।"
+},
+{
+  "pli": "anavassutacittassa, ananvāhatacetaso; puññapāpapahīnassa, natthi jāgarato bhayaṃ.",
+  "skt": "anavasrutacittasya tv anunnahanacetasaḥ । puṇyapāpaprahīṇasya nāsti durgatito bhayam ।।"
+},
+{
+  "pli": "na brāhmaṇassetadakiñci seyyo, yadā nisedho manaso piyehi; yato yato hiṃsamano nivattati, tato tato sammatimeva dukkhaṃ.",
+  "skt": "na brāhmaṇasyedṛśam asti kiṁ cid yathā priyebhyo manaso niṣedhaḥ ।yathā yathā hy asya mano nivartate tathā tathā saṁvṛtam eti duḥkham ।।"
+},
+{
+  "pli": "yassa kāyena vācāya, manasā natthi dukkaṭaṃ; saṃvutaṃ tīhi ṭhānehi, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "yasya kāyena vācā ca manasā ca na duṣkṛtam । susaṁvṛtaṁ tṛbhiḥ sthānair bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "na jaṭāhi na gottena, na jaccā hoti brāhmaṇo; yamhi saccañca dhammo ca, so sucī so ca brāhmaṇo.",
+  "skt": "na jaṭābhir na gotreṇa na jātyā brāhmaṇaḥ smṛtaḥ । yasya satyaṁ ca dharmaṁ ca sa śucir brāhmaṇaḥ sa ca ।।"
+},
+{
+  "pli": "kiṃ te jaṭāhi dummedha, kiṃ te ajinasāṭiyā; abbhantaraṃ te gahanaṃ, bāhiraṃ parimajjasi.",
+  "skt": "kiṁ te jaṭābhir durbuddhe kiṁ cāpy ajinaśāṭibhiḥ ।abhyantaraṁ te gahanaṁ bāhyakaṁ parimārjasi ।।"
+},
+{
+  "pli": "na cāhaṃ brāhmaṇaṃ brūmi, yonijaṃ mattisambhavaṃ; bhovādi nāma so hoti, sace hoti sakiñcano; akiñcanaṃ anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "bravīmi brāhmaṇaṁ nāhaṁ yonijaṁ mātṛsaṁbhavam । bhovādī nāma sa bhavati sa ced bhavati sakiñcanaḥ । akiñcanam anādānaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "sabbasaṃyojanaṃ chetvā, yo ve na paritassati; saṅgātigaṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "sarvasaṁyojanātīto yo vai na paritasyate । asaktaḥ sugato buddho bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "chetvā naddhiṃ varattañca, sandānaṃ sahanukkamaṃ; ukkhittapalighaṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "chitvā naddhrīṁ varatrāṁ ca saṁtānaṁ duratikramam । utkṣiptaparikhaṁ buddhaṁ bravīmi brāhmaṇaṁ hi tam ।। [i] chitvā naddhrīṁ varatrāṁ ye saṁtānaṁ duratikramam । utkṣiptaparikhā buddhās te loke brāhmaṇā iha ।। [ii]"
+},
+{
+  "pli": "akkosaṃ vadhabandhañca, aduṭṭho yo titikkhati; khantībalaṃ balānīkaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "ākrośāṁ vadhabandhāṁś ca yo 'praduṣṭas titīkṣate । kṣāntivratabalopetaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; ye ca taṃ nupanayhanti, veraṃ tesūpasammati.",
+  "skt": "ākrośan mām avocan mām ajayan mām ajāpayet । atra ye nopanahyanti vairaṁ teṣāṁ praśāmyati ।।"
+},
+{
+  "pli": "kumbhūpamaṃ kāyamimaṃ viditvā, nagarūpamaṃ cittamidaṃ ṭhapetvā; yodhetha māraṃ paññāvudhena, jitañca rakkhe anivesano siyā.",
+  "skt": "kumbhopamaṁ kāyam imaṁ viditvā nagaropamaṁ cittam adhiṣṭhitaṁ ca । yudhyeta māraṁ prajñāyudhena jitaṁ ca rakṣed aniveśanaḥ syāt ।।"
+},
+{
+  "pli": "akkodhanaṃ vatavantaṃ, sīlavantaṃ anussadaṃ; dantaṃ antimasārīraṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "akrodhanaṁ vratavantaṁ śīlavantaṁ bahuśrutam । dāntam antimaśārīraṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "vāri pokkharapatteva, āraggeriva sāsapo; yo na limpati kāmesu, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "vāri puṣkarapatreṇevārāgreṇeva sarṣapaḥ ।na lipyate yo hi kāmair bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yo dukkhassa pajānāti, idheva khayamattano; pannabhāraṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "ihaiva yaḥ prajānāti duḥkhasya kṣayam ātmanaḥ । vītarāgaṁ visaṁyuktaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "gambhīrapaññaṃ medhāviṃ, maggāmaggassa kovidaṃ; uttamatthamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "gambhīrabuddhiṁ medhāḍhyam mārgāmārgeṣu kovidam । uttamārtham anuprāptaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "asaṃsaṭṭhaṃ gahaṭṭhehi, anāgārehi cūbhayaṃ; anokasārimappicchaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "asaṁsṛṣṭaṁ gṛhasthebhir anagārais tathobhayam । anokasāriṇaṁ tuṣṭaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "nidhāya daṇḍaṃ bhūtesu, tasesu thāvaresu ca; yo na hanti na ghāteti, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "nikṣiptadaṇḍaṁ bhūteṣu traseṣu sthāvareṣu ca । yo na hanti hi bhūtāni bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "aviruddhaṃ viruddhesu, attadaṇḍesu nibbutaṃ; sādānesu anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "aviruddho viruddheṣu tv āttadaṇḍeṣu nirvṛtaḥ ।hitānukampī bhūteṣu bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yassa rāgo ca doso ca, māno makkho ca pātito; sāsaporiva āraggā, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "yasya rāgaś ca doṣaś ca māno mrakṣaś ca śātitaḥ ।na lipyate yaś ca doṣair bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "akakkasaṃ viññāpaniṃ, giraṃ saccamudīraye; yāya nābhisaje kañci, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "yo 'karkaśāṁ vijñapanīṁ giraṁ nityaṁ prabhāṣate । yayā nābhiṣajet kaś cid bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yodha dīghaṃ va rassaṃ vā, aṇuṃ thūlaṃ subhāsubhaṃ; loke adinnaṃ nādiyati, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "yas tu dīrghaṁ tathā hrasvam aṇusthūlaṁ śubhāśubham । loke na kiṁ cid ādatte bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "aciraṃ vatayaṃ kāyo, pathaviṃ adhisessati; chuddho apetaviññāṇo, niratthaṃva kaliṅgaraṃ.",
+  "skt": "aciraṁ bata kāyo 'yaṁ pṛthivīm adhiśeṣyate । śunyo vyapetavijñāno nirastaṁ vā kaḍaṅgaram ।।"
+},
+{
+  "pli": "āsā yassa na vijjanti, asmiṃ loke paramhi ca; nirāsāsaṃ visaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "na vidyate yasya cāśā hy asmiṁ loke pare 'pi ca । nirāśiṣaṁ visaṁyuktaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yassālayā na vijjanti, aññāya akathaṅkathī; amatogadhamanuppattaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "yasyālayo nāsti sadā yo jñātā niṣkathaṁkathaḥ । amṛtaṁ caiva yaḥ prāpto bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yodha puññañca pāpañca, ubho saṅgamupaccagā; asokaṃ virajaṃ suddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "āgataṁ nābhinandanti prakramantaṁ na śocati । aśokaṁ virajaṁ śāntaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "candaṃva vimalaṃ suddhaṃ, vippasannamanāvilaṃ; nandībhavaparikkhīṇaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "candro vā vimalaḥ śuddho viprasanno hy anāvilaḥ । nandībhavaparikṣīṇaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yomaṃ palipathaṃ duggaṃ, saṃsāraṃ mohamaccagā; tiṇṇo pāraṅgato jhāyī, anejo akathaṃkathī; anupādāya nibbuto, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "ya imāṁ parikhāṁ durgāṁ saṁsāraugham upatyagāt । tīrṇaḥ pāragato dhyāyī hy aneyo niṣkathaṁkathaḥ । nirvṛtaś cānupādāya bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yodha kāme pahantvāna, anāgāro paribbaje; kāmabhavaparikkhīṇaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "sarvakāmāṁ viprahāya yo 'nagāraḥ parivrajet । kāmāsravavisaṁyuktaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "hitvā mānusakaṃ yogaṃ, dibbaṃ yogaṃ upaccagā; sabbayogavisaṃyuttaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "hitvā mānuṣyakāṁ kāmāṁ divyāṁ kāmān upatyagāt । sarvalokavisaṁyuktaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "hitvā ratiñca aratiñca, sītibhūtaṃ nirūpadhiṃ; sabbalokābhibhuṃ vīraṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "hitvā ratiṁ cāratiṁ ca śītībhūto niraupadhiḥ । sarvalokābhibhūr dhīro bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "cutiṃ yo vedi sattānaṃ, upapattiñca sabbaso; asattaṃ sugataṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "cyutiṁ yo vetti satvānām upapattiṁ ca sarvaśaḥ । asaktaḥ sugato buddho bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yassa gatiṃ na jānanti, devā gandhabbamānusā; khīṇāsavaṃ arahantaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "gatiṁ yasya na jānanti devagandharvamānuṣāḥ । anantajñānasaṁyuktaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "yassa pure ca pacchā ca, majjhe ca natthi kiñcanaṃ; akiñcanaṃ anādānaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "yasya paścāt pure cāpi madhye cāpi na vidyate । virajaṁ bandhanān muktaṁ bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "usabhaṃ pavaraṃ vīraṃ, mahesiṃ vijitāvinaṃ; anejaṃ nhātakaṃ buddhaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "ṛṣabhaṁ pravaraṁ nāgaṁ maharṣiṁ vijitāvinam । aneyaṁ snātakaṁ buddhaṁ bravīmi brāhmaṇaṁ hi tam ।। [i] ṛṣabhaḥ pravaro nāgo maharṣir vijitāvinaḥ । yo 'neyaḥ snātako buddho brāhmaṇaṁ taṁ bravīmy aham ।। [ii]"
+},
+{
+  "pli": "pubbenivāsaṃ yo vedi, saggāpāyañca passati; atho jātikkhayaṃ patto, abhiññāvosito muni; sabbavositavosānaṃ, tamahaṃ brūmi brāhmaṇaṃ.",
+  "skt": "pūrvenivāsaṁ yo vetti svargāpāyāṁś ca paśyati । atha jātikṣayaṁ prāpto hy abhijñāvyavasito muniḥ । duḥkhasyāntaṁ prajānāti bravīmi brāhmaṇaṁ hi tam ।।"
+},
+{
+  "pli": "na taṃ mātā pitā kayirā, aññe vāpi ca ñātakā; sammāpaṇihitaṃ cittaṃ, seyyaso naṃ tato kare.",
+  "skt": "na taṁ mātā pitā vāpi kuryāj jñātis tathāparaḥ । samyakpraṇihitaṁ cittaṁ yat kuryād dhitam ātmanaḥ ।।"
+},
+{
+  "pli": "ko imaṃ pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ; ko dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.",
+  "skt": "ka imāṁ pṛthivīṁ vijeṣyate yamalokaṁ ca tathā sadevakam । ko dharmapadaṁ sudeśitaṁ kuśalaḥ puṣpam iva praceṣyate ।।"
+},
+{
+  "pli": "sekho pathaviṃ vicessati, yamalokañca imaṃ sadevakaṃ; sekho dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.",
+  "skt": "śaikṣaḥ pṛthivīṁ vijeṣyate yamalokaṁ ca tathā sadevakam । sa hi dharmapadaṁ sudeśitaṁ kuśalaḥ puṣpam iva praceṣyate ।।"
+},
+{
+  "pli": "pheṇūpamaṃ kāyamimaṃ viditvā, marīcidhammaṃ abhisambudhāno; chetvāna mārassa papupphakāni, adassanaṃ maccurājassa gacche.",
+  "skt": "phenopamaṁ kāyam imaṁ viditvā marīcidharmaṁ paribudhya caiva । chitveha mārasya tu puṣpakāṇi tv adarśanaṁ mṛtyurājasya gacchet ।।"
+},
+{
+  "pli": "pupphāni heva pacinantaṃ, byāsattamanasaṃ naraṃ; suttaṃ gāmaṃ mahoghova, maccu ādāya gacchati.",
+  "skt": "puṣpāṇy eva pracinvantaṁ vyāsaktamanasaṁ naram । suptaṁ grāmaṁ mahaughaiva mṛtyur ādāya gacchati ।।"
+},
+{
+  "pli": "pupphāni heva pacinantaṃ, byāsattamanasaṃ naraṃ; atittaññeva kāmesu, antako kurute vasaṃ.",
+  "skt": "puṣpāṇy eva pracinvantaṁ vyāsaktamanasaṁ naram । atṛptam eva kāmeṣu tv antakaḥ kurute vaśam ।।"
+},
+{
+  "pli": "yathāpi bhamaro pupphaṃ, vaṇṇagandhamaheṭhayaṃ; paleti rasamādāya, evaṃ gāme munī care.",
+  "skt": "yathāpi bhramaraḥ puṣpād varṇagandhāv aheṭhayan । paraiti rasam ādāya tathā grāmāṁ muniś caret ।।"
+},
+{
+  "pli": "na hi verena verāni, sammantīdha kudācanaṃ; averena ca sammanti, esa dhammo sanantano.",
+  "skt": "na hi vaireṇa vairāṇi śāmyantīha kadā cana । kṣāntyā vairāṇi śāmyanti eṣa dharmaḥ sanātanaḥ ।।"
+},
+{
+  "pli": "na paresaṃ vilomāni, na paresaṃ katākataṃ; attanova avekkheyya, katāni akatāni ca.",
+  "skt": "na pareṣāṁ vilomāni na pareṣāṁ kṛtākṛtam । ātmanas tu samīkṣeta samāni viṣamāni ca ।।"
+},
+{
+  "pli": "yathāpi ruciraṃ pupphaṃ, vaṇṇavantaṃ agandhakaṃ; evaṃ subhāsitā vācā, aphalā hoti akubbato.",
+  "skt": "yathāpi ruciraṁ puṣpaṁ varṇavat syād agandhavat । evaṁ subhāṣitā vācā niṣphalāsāv akurvataḥ ।।"
+},
+{
+  "pli": "yathāpi ruciraṃ pupphaṃ, vaṇṇavantaṃ sagandhakaṃ; evaṃ subhāsitā vācā, saphalā hoti kubbato.",
+  "skt": "yathāpi ruciraṁ puṣpaṁ varṇavat syād sugandhavat । evaṁ subhāṣitā vācā saphalā bhavati kurvataḥ ।।"
+},
+{
+  "pli": "yathāpi puppharāsimhā, kayirā mālāguṇe bahū; evaṃ jātena maccena, kattabbaṃ kusalaṃ bahuṃ.",
+  "skt": "yathāpi puṣparāśibhyaḥ kuryān mālāguṇāṁ bahūn । evaṁ jātena martyena kartavyaṁ kuśalaṁ bahu ।।"
+},
+{
+  "pli": "na pupphagandho paṭivātameti, na candanaṃ tagaramallikā vā; satañca gandho paṭivātameti, sabbā disā sappuriso pavāyati.",
+  "skt": "na puṣpagandhaḥ prativātam eti na vāhnijāt tagarac candanād vā । satāṁ tu gandhaḥ prativātam eti sarvā diśaḥ satpuruṣaḥ pravāti ।।"
+},
+{
+  "pli": "candanaṃ tagaraṃ vāpi, uppalaṃ atha vassikī; etesaṃ gandhajātānaṃ, sīlagandho anuttaro.",
+  "skt": "tagarāc candanāc cāpi vārṣikāyās tathotpalāt । etebhyo gandhajātebhyaḥ śīlagandhas tv anuttaraḥ ।।"
+},
+{
+  "pli": "appamatto ayaṃ gandho, yāyaṃ tagaracandanī; yo ca sīlavataṃ gandho, vāti devesu uttamo.",
+  "skt": "alpamātro hy ayaṁ gandho yo 'yaṁ tagaracandanāt । yas tu śīlavatāṁ gandho vāti deveṣv apīha saḥ ।।"
+},
+{
+  "pli": "tesaṃ sampannasīlānaṃ, appamādavihārinaṃ; sammadaññāvimuttānaṃ, māro maggaṃ na vindati.",
+  "skt": "teṣāṁ viśuddhaśīlānām apramādavihāriṇām । samyagājñāvimuktānāṁ māro mārgaṁ na vindati ।।"
+},
+{
+  "pli": "yathā saṅkāradhānasmiṃ, ujjhitasmiṃ mahāpathe; padumaṃ tattha jāyetha, sucigandhaṃ manoramaṃ.",
+  "skt": "yathā saṁkārukūṭe tu vyujjhite hi mahāpathe । padmaṁ tatra tu jāyeta śucigandhi manoramam ।।"
+},
+{
+  "pli": "evaṃ saṅkārabhūtesu, andhabhūte puthujjane; atirocati paññāya, sammāsambuddhasāvako.",
+  "skt": "evaṁ saṁkārabhūte 'sminn andhabhūte pṛthagjane । prajñayā vyatirocante samyaksaṁbuddhaśrāvakāḥ ।।"
+},
+{
+  "pli": "pare ca na vijānanti, mayamettha yamāmase; ye ca tattha vijānanti, tato sammanti medhagā.",
+  "skt": "pare hi na vijānanti vayam atrodyamāmahe । atra ye tu vijānanti teṣāṁ śāmyanti methakāḥ ।।"
+},
+{
+  "pli": "dīghā jāgarato ratti, dīghaṃ santassa yojanaṃ; dīgho bālāna saṃsāro, saddhammaṃ avijānataṃ.",
+  "skt": "dīrghā jāgarato rātrir dīrghaṁ śrāntasya yojanam । dīrgho bālasya saṁsāraḥ saddharmam avijānataḥ ।।"
+},
+{
+  "pli": "carañce nādhigaccheyya, seyyaṃ sadisamattano; ekacariyaṃ daḷhaṃ kayirā, natthi bāle sahāyatā.",
+  "skt": "caraṁś ca nādhigaccheta sahāyaṁ tulyam ātmanaḥ । ekacaryāṁ dṛḍhaṁ kuryān nāsti bāle sahāyatā ।।"
+},
+{
+  "pli": "puttā matthi dhanaṃ matthi, iti bālo vihaññati; attā hi attano natthi, kuto puttā kuto dhanaṃ.",
+  "skt": "putro me 'sti dhanaṁ me 'stīty evaṁ bālo vihanyate । ātmaiva hy ātmano nāsti kasya putraḥ kuto dhanam ।।"
+},
+{
+  "pli": "yo bālo maññati bālyaṃ, paṇḍito vāpi tena so; bālo ca paṇḍitamānī, sa ve “bālo”ti vuccati.",
+  "skt": "yo jānīyād ahaṁ bāla iti bālaḥ sa paṇḍitaḥ । bālaḥ paṇḍitamānī tu bāla eva nirucyate ।।"
+},
+{
+  "pli": "yāvajīvampi ce bālo, paṇḍitaṃ payirupāsati; na so dhammaṃ vijānāti, dabbī sūparasaṃ yathā.",
+  "skt": "yāvajjīvaṁ pi ced bālaḥ paṇḍitāṁ paryupāsate । na sa dharmaṁ vijānāti darvī sūparasān iva ।।"
+},
+{
+  "pli": "muhuttamapi ce viññū, paṇḍitaṃ payirupāsati; khippaṃ dhammaṃ vijānāti, jivhā sūparasaṃ yathā.",
+  "skt": "muhūrtam api saprajñaḥ paṇḍitāṁ paryupāsate । sa vai dharmaṁ vijānāti jihvā sūparasān iva ।।"
+},
+{
+  "pli": "caranti bālā dummedhā, amitteneva attanā; karontā pāpakaṃ kammaṃ, yaṃ hoti kaṭukapphalaṃ.",
+  "skt": "caranti bālā duṣprajñā hy amitrair iva cātmabhiḥ । kurvantaḥ pāpakaṁ karma yad bhavati kaṭukaṁ phalaṁ ।।"
+},
+{
+  "pli": "na taṃ kammaṃ kataṃ sādhu, yaṃ katvā anutappati; yassa assumukho rodaṃ, vipākaṃ paṭisevati.",
+  "skt": "na tat karma kṛtaṁ sādhu yat kṛtvā hy anutapyate । rudann aśrumukho yasya vipākaṁ pratiṣevate ।।"
+},
+{
+  "pli": "tañca kammaṃ kataṃ sādhu, yaṃ katvā nānutappati; yassa patīto sumano, vipākaṃ paṭisevati.",
+  "skt": "tat tu karma kṛtaṁ sādhu yat kṛtvā nānutapyate । yasya pratītaḥ sumanā vipākaṁ pratiṣevate ।।"
+},
+{
+  "pli": "madhuṃvā maññati bālo, yāva pāpaṃ na paccati; yadā ca paccati pāpaṃ, atha dukkhaṃ nigacchati.",
+  "skt": "madhuvad manyate bālo yāvat pāpaṁ na pacyate । yadā tu pacyate pāpam atha duḥkhaṁ nigacchati ।।"
+},
+{
+  "pli": "subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ; bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ; taṃ ve pasahati māro, vāto rukkhaṃva dubbalaṃ.",
+  "skt": "śubhānudarśinaṁ nityam indriyaiś cāpy asaṁvṛtam । bhojane cāpy amātrajñaṁ hīnaṁ jāgarikāsu ca । taṁ vai prasahate rāgo vāto vṛkṣam ivābalam ।। [i] śubhānupaśyī viharann indriyair hi asaṁvṛtaḥ । bhojane cāpy amātrajñaḥ kusīdo hīnavīryavān । taṁ vai prasahate rāgo vāto vṛkṣam ivābalam ।। [ii]"
+},
+{
+  "pli": "māse māse kusaggena, bālo bhuñjeyya bhojanaṃ; na so saṅkhātadhammānaṃ, kalaṃ agghati soḷasiṃ.",
+  "skt": "māse māse kuśāgreṇa yo hi bhuñjīta bhojanam । na tat svākhyātadharmasya kalām arghati ṣoḍaśīm ।।"
+},
+{
+  "pli": "na hi pāpaṃ kataṃ kammaṃ, sajjukhīraṃva muccati; ḍahantaṃ bālamanveti, bhasmacchannova pāvako.",
+  "skt": "na hi pāpakṛtaṁ karma sadyaḥ kṣīram iva mūrchati । dahantad bālam anveti bhasmācchanna ivānalaḥ ।।"
+},
+{
+  "pli": "asantaṃ bhāvanamiccheyya, purekkhārañca bhikkhusu; āvāsesu ca issariyaṃ, pūjaṃ parakulesu ca.",
+  "skt": "asanto lābham icchanti satkāraṁ caiva bhikṣuṣu । āvāseṣu ca mātsaryaṁ pūjāṁ parakuleṣu ca ।।"
+},
+{
+  "pli": "nidhīnaṃva pavattāraṃ, yaṃ passe vajjadassinaṃ; niggayhavādiṃ medhāviṃ, tādisaṃ paṇḍitaṃ bhaje; tādisaṃ bhajamānassa, seyyo hoti na pāpiyo.",
+  "skt": "niṣeddhāraṁ pravaktāraṁ yaj jāned vadyadarśinam । nigṛhyavādinaṁ dhīraṁ tādṛśaṁ satataṁ bhajet । tādṛśaṁ bhajamānasya śreyo bhavati na pāpakam ।।"
+},
+{
+  "pli": "ovadeyyānusāseyya, asabbhā ca nivāraye; satañhi so piyo hoti, asataṃ hoti appiyo.",
+  "skt": "avavadetānuśāsīta cāsabhyāc ca nivārayet । asatāṁ na priyo bhavati satāṁ bhavati tu priyaḥ ।।"
+},
+{
+  "pli": "na bhaje pāpake mitte, na bhaje purisādhame; bhajetha mitte kalyāṇe, bhajetha purisuttame.",
+  "skt": "na bhajet pāpakaṁ mitraṁ na bhajet puruṣādhamam ।bhajeta mitraṁ kalyāṇaṁ bhajed uttamapūruṣam ।।"
+},
+{
+  "pli": "dhammapīti sukhaṃ seti, vippasannena cetasā; ariyappavedite dhamme, sadā ramati paṇḍito.",
+  "skt": "dharmaprītiḥ sukhaṁ śete viprasannena cetasā । āryapravedite dharme ramate paṇḍitaḥ smṛtaḥ ।।"
+},
+{
+  "pli": "asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ; bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ; taṃ ve nappasahati māro, vāto selaṃva pabbataṃ.",
+  "skt": "aśubhānudarśinaṁ nityam indriyaiś ca susaṁvṛtam । bhojane cāpi mātrajñaṁ yuktaṁ jāgarikāsu ca । taṁ na prasahate rāgo vātaḥ śailam iva sthiram ।। [i] aśubhānupaśyī viharann indriyair hi susaṁvṛtaḥ । bhojane cāpi mātrajñaḥ śrāddha ārabdhavīryavān । taṁ na prasahate rāgo vātaḥ śailam iva parvatam ।। [ii]"
+},
+{
+  "pli": "selo yathā ekaghano, vātena na samīrati; evaṃ nindāpasaṃsāsu, na samiñjanti paṇḍitā.",
+  "skt": "śailo yathāpy ekaghano vāyunā na prakampyate । evaṁ nindāpraśaṁsābhir na kampyante hi paṇḍitāḥ ।।"
+},
+{
+  "pli": "yathāpi rahado gambhīro, vippasanno anāvilo; evaṃ dhammāni sutvāna, vippasīdanti paṇḍitā.",
+  "skt": "yathā hradaḥ sugambhīro viprasanno hy anāvilaḥ । evaṁ śrutvā hi saddharmaṁ viprasīdanti paṇḍitāḥ ।।"
+},
+{
+  "pli": "sabbattha ve sappurisā cajanti, na kāmakāmā lapayanti santo; sukhena phuṭṭhā atha vā dukhena, na uccāvacaṃ paṇḍitā dassayanti.",
+  "skt": "sāpatrapāḥ satpuruṣā bhavanti na kāmahetor lapayanti santaḥ । spṛṣṭā hi duḥkena tathā sukhena noccāvacāḥ satpuruṣā bhavanti ।।"
+},
+{
+  "pli": "appakā te manussesu, ye janā pāragāmino; athāyaṃ itarā pajā, tīramevānudhāvati.",
+  "skt": "alpakās te manuṣyeṣu ye janāḥ pāragāminaḥ ।atheyam itarāḥ prajās tīram evānudhāvati ।।"
+},
+{
+  "pli": "ye ca kho sammadakkhāte, dhamme dhammānuvattino; te janā pāramessanti, maccudheyyaṃ suduttaraṃ.",
+  "skt": "ye tarhi samyag ākhyāte dharme dharmānudarśinaḥ । te janāḥ pāram eṣyanti mṛtyudheyasya sarvaśaḥ ।।"
+},
+{
+  "pli": "kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāvetha paṇḍito; okā anokamāgamma, viveke yattha dūramaṃ.",
+  "skt": "kṛṣnāṁ dharmāṁ viprahāya śuklāṁ bhāvayata bhikṣavaḥ । okād anokam āgamya vivekam anubṛṁhayet । tatra cābhirametāryo hitvā kāmān akiñcanaḥ ।।"
+},
+{
+  "pli": "yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ; ādānapaṭinissagge, anupādāya ye ratā; khīṇāsavā jutimanto, te loke parinibbutā.",
+  "skt": "saṁbodhyaṅgeṣu yeṣāṁs tu samyak cittaṁ subhāvitam । ādānaṁ pratiniḥsṛjya cānupādāyam āśritāḥ ।kṣīṇāsravā vāntadoṣās te loke parinirvṛtāḥ ।।"
+},
+{
+  "pli": "anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati; apeto damasaccena, na so kāsāvamarahati.",
+  "skt": "aniṣkaṣāyaḥ kāṣāyaṁ yo vastraṁ paridhāsyati । apetadamasauratyo nāsau kāṣāyam arhati ।।"
+},
+{
+  "pli": "gataddhino visokassa, vippamuttassa sabbadhi; sabbaganthappahīnassa, pariḷāho na vijjati.",
+  "skt": "gatādhvano viśokasya vipramuktasya tāyinaḥ । sarvagranthaprahīṇasya paridāgho na vidyate ।।"
+},
+{
+  "pli": "uyyuñjanti satīmanto, na nikete ramanti te; haṃsāva pallalaṃ hitvā, okamokaṃ jahanti te.",
+  "skt": "smṛtimantaḥ prayujyante na nikete ramanti te । haṁsavat palvalaṁ hitvā hy okam oghaṁ jahantĕ te ।।"
+},
+{
+  "pli": "yassāsavā parikkhīṇā, āhāre ca anissito; suññato animitto ca, vimokkho yassa gocaro; ākāseva sakuntānaṃ, padaṃ tassa durannayaṃ.",
+  "skt": "yeṣāṁ bhavaḥ parikṣīno hy aparāntaṁ ca nāśritāḥ । śunyatā cānimittaṁ ca vivekaś caiva gocaraḥ । ākāśaiva śakuntānāṁ padaṁ teṣāṁ duranvayam ।।"
+},
+{
+  "pli": "yassindriyāni samathaṅgatāni, assā yathā sārathinā sudantā; pahīnamānassa anāsavassa, devāpi tassa pihayanti tādino.",
+  "skt": "yasyendriyāṇi samatāṁ gatāni aśvo yathā sārathinā sudāntaḥ । prahīṇadoṣāya nirāsravāya devāpi tasmai spṛhayanti nityam ।।"
+},
+{
+  "pli": "santaṃ tassa manaṃ hoti, santā vācā ca kamma ca; sammadaññāvimuttassa, upasantassa tādino.",
+  "skt": "śāntam asya mano bhavati śāntā vāk kāyakarma ca । samyagājñāvimuktasya hy upaśāntasya bhikṣuṇaḥ ।।"
+},
+{
+  "pli": "assaddho akataññū ca, sandhicchedo ca yo naro; hatāvakāso vantāso, sa ve uttamaporiso.",
+  "skt": "aśraddhaś cākṛtajñaś ca saṁdhicchettā ca yo naraḥ ।hatāvakāśo vāntāśaḥ sa vai tūttamapūruṣaḥ ।।"
+},
+{
+  "pli": "gāme vā yadi vāraññe, ninne vā yadi vā thale; yattha arahanto viharanti, taṃ bhūmirāmaṇeyyakaṃ.",
+  "skt": "grāme vā yadi vāraṇye nimne vā yadi vā sthale । yatrārhanto viharanti te deśā ramaṇīyakāḥ ।।"
+},
+{
+  "pli": "ramaṇīyāni araññāni, yattha na ramatī jano; vītarāgā ramissanti, na te kāmagavesino.",
+  "skt": "ramaṇīyāny araṇyāni na cātra ramate janaḥ । vītarāgātra raṁsyante na tu kāmagaveṣiṇaḥ ।।"
+},
+{
+  "pli": "savanti sabbadhi sotā, latā uppajja tiṭṭhati; tañca disvā lataṃ jātaṃ, mūlaṃ paññāya chindatha.",
+  "skt": "tṛṣṇā hi hetuḥ saritā viṣaktikā gaṇḍasya nityaṁ visṛteha jālinī । latāṁ pipāsām apanīya sarvaśo nivartate duḥkham idaṁ punaḥ punaḥ ।।"
+},
+{
+  "pli": "gabbhameke uppajjanti, nirayaṃ pāpakammino; saggaṃ sugatino yanti, parinibbanti anāsavā.",
+  "skt": "narakaṁ pāpakarmāṇaḥ kṛtapuṇyās tu sadgatim ।anye tu mārgaṁ bhāvyeha nirvāsyanti nirāsravāḥ ।।"
+},
+{
+  "pli": "yāvadeva anatthāya, ñattaṃ bālassa jāyati; hanti bālassa sukkaṃsaṃ, muddhamassa vipātayaṃ.",
+  "skt": "yāvad eva hy anarthāya jñāto bhavati bāliśaḥ । hanti bālasya śuklāṁśaṁ mūrdhānaṁ cāsya pātayet ।।"
+},
+{
+  "pli": "yo ca pubbe pamajjitvā, pacchā so nappamajjati; somaṃ lokaṃ pabhāseti, abbhā muttova candimā.",
+  "skt": "yas tu pūrvaṁ pramādyeha paścād vai na pramādyate । sa imaṁ bhāsate lokam abhramuktaiva candramāḥ ।।"
+},
+{
+  "pli": "yassa pāpaṃ kataṃ kammaṃ, kusalena pidhīyati; somaṃ lokaṃ pabhāseti, abbhā muttova candimā.",
+  "skt": "yasya pāpakṛtaṁ karma kuśalena pithīyate । sa imaṁ bhāsate lokam abhramuktaiva candramāḥ ।।"
+},
+{
+  "pli": "na cāhu na ca bhavissati, na cetarahi vijjati; ekantaṃ nindito poso, ekantaṃ vā pasaṃsito.",
+  "skt": "ekāntaninditaḥ puruṣaḥ ekāntaṁ vā praśaṁsitaḥ ।nābhūd bhaviṣyati ca no na cāpy etarhi vidyate ।।"
+},
+{
+  "pli": "manujassa pamattacārino, taṇhā vaḍḍhati māluvā viya; so plavatī hurā huraṃ, phalamicchaṃva vanasmi vānaro.",
+  "skt": "manujasya pramattacāriṇas tṛṣṇā vardhati māluteva hi । sa hi saṁsarate punaḥ punaḥ phalam icchann iva vānaro vane ।।"
+},
+{
+  "pli": "tasiṇāya purakkhatā pajā, parisappanti sasova bandhito; saṃyojanasaṅgasattakā, dukkhamupenti punappunaṃ cirāya.",
+  "skt": "tṛṣṇābhir upaskṛtāḥ prajāḥ paridhāvanti śaśā va vāgurām ।saṁyojanaiḥ saṅgasaktā duḥkhaṁ yānti punaḥ punaś cirarātram ।।"
+},
+{
+  "pli": "sukhaṃ yāva jarā sīlaṃ, sukhā saddhā patiṭṭhitā; sukho paññāya paṭilābho, pāpānaṃ akaraṇaṃ sukhaṃ.",
+  "skt": "sukhaṁ yāvaj jarā śīlaṁ sukhaṁ śraddhā pratiṣṭhitā । sukhaṁ cārtharatā vācā pāpasyākaraṇaṁ sukham ।।"
+},
+{
+  "pli": "yamhā dhammaṃ vijāneyya, sammāsambuddhadesitaṃ; sakkaccaṃ taṃ namasseyya, aggihuttaṃva brāhmaṇo.",
+  "skt": "yasya dharmaṁ vijānīyāt samyaksaṁbuddhadeśitam । satkṛtyainaṁ namasyeta hy agnihotram iva dvijaḥ ।।"
+},
+
+]
