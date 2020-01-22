@@ -36,6 +36,850 @@
   "skt": "yas tv etāṁ tyajate grāmyāṁ tṛṣṇāṁ loke sudustyajām । śokās tasya nivartante udabindur iva puṣkarāt ।।"
 },
 {
+  "pli": "adhikaraṇasamatha 1sammukhāvinayo dātabbo.",
+  "skt": "adhikaraṇaśamatha 1:saṃmukhavinayo śamatho |"
+},
+{
+  "pli": "adhikaraṇasamatha 2sativinayo dātabbo.",
+  "skt": "adhikaraṇaśamatha 2:smṛtivinayo śamatho |"
+},
+{
+  "pli": "adhikaraṇasamatha 3amūḷhavinayo dātabbo.",
+  "skt": "adhikaraṇaśamatha 3:amūḍhavinayo śamatho |"
+},
+{
+  "pli": "adhikaraṇasamatha 4paṭiññāya kāretabbaṃ.",
+  "skt": "adhikaraṇaśamatha 4:pratijñākārako śamatho |"
+},
+{
+  "pli": "adhikaraṇasamatha 5yebhuyyasikā.",
+  "skt": "adhikaraṇaśamatha 6:yo bhūyasiko śamatho |"
+},
+{
+  "pli": "adhikaraṇasamatha 6tassapāpiyasikā.",
+  "skt": "adhikaraṇaśamatha 5:tasya pāpeyasiko śamatho |"
+},
+{
+  "pli": "adhikaraṇasamatha 7tiṇavatthārakoti.",
+  "skt": "adhikaraṇaśamatha 7:tṛṇaprastārako ca śamatho saptamo |"
+},
+{
+  "pli": "aniyata 1. paṭhamaaniyatayo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya, tamenaṃ saddheyyavacasā upāsikā disvā tiṇṇaṃ dhammānaṃ aññatarena vadeyya pārājikena vā saṅghādisesena vā pācittiyena vā, nisajjaṃ bhikkhu paṭijānamāno tiṇṇaṃ dhammānaṃ aññatarena kāretabbo pārājikena vā saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayaṃ dhammo aniyato.",
+  "skt": "aniyata 1: praticchannāsanaṃ yo puna bhikṣu mātṛgrāmeṇa sārdhaṃ praticchannāsane alaṃkarmaṇīye eko ekāya raho niṣadyāṃ kalpeya, tam enaṃ śraddheyavacasā upāsikā dṛṣṭvā trayāṇāṃ dharmāṇām anyatarānyatareṇa dharmeṇa vadeya pārājikena vā saṃghātiśeṣeṇa vā pācattikena vā | niṣadyāṃ bhikṣuḥ pratijānamāno trayāṇāṃ dharmāṇām anyatarānyatareṇa dharmeṇa kārāpayitavyo pārājikena vā saṃghātiśeṣeṇa vā pācattikena vā yena yena vā punar asya śraddheyavacasā upāsikā dṛṣṭvā dharmeṇa vadeya, tena so bhikṣu dharmeṇa kārāpayitavyo | ayaṃ dharmo aniyato |"
+},
+{
+  "pli": "aniyata 2. dutiyaaniyatana heva kho pana paṭicchannaṃ āsanaṃ hoti nālaṃkammaniyaṃ, alañca kho hoti mātugāmaṃ duṭṭhullāhi vācāhi obhāsituṃ, yo pana bhikkhu tathārūpe āsane mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, tamenaṃ saddheyyavacasā upāsikā disvā dvinnaṃ dhammānaṃ aññatarena vadeyya saṅghādisesena vā pācittiyena vā, nisajjaṃ bhikkhu paṭijānamāno dvinnaṃ dhammānaṃ aññatarena kāretabbo saṅghādisesena vā pācittiyena vā, yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo, ayampi dhammo aniyato.",
+  "skt": "aniyata 2: rahoniṣadyā na haiva kho punaḥ praticchannāsanaṃ bhavati, nālaṃ karmaṇīyaṃ, alaṃ kho puna mātṛgrāmaṃ duṣṭhullāya vācāya obhāṣituṃ pāpikāya maithunopasaṃhitāya | tathārūpe ca bhikṣu āsane mātṛgrāmeṇa sārdham eko ekāya raho niṣadyāṃ kalpeya, tam enaṃ śraddheyavacasā upāsikā dṛṣṭvā dvinnāṃ dharmāṇām anyatarānyatareṇa dharmeṇa vadeya saṃghātiśeṣeṇa vā pācattikena vā | niṣadyāṃ bhikṣuḥ pratijānamāno dvinnāṃ dharmāṇām anyatarāntareṇa dharmeṇa kārāpayitavyo saṃghātiśeṣeṇa vā pācattikena vā, yena yena vā punar asya śraddheyavacasā upāsikā dṛṣṭvā dharmeṇa vadeya, tena tena so bhikṣu dharmeṇa kārāpayitavyo | ayaṃ pi dharmo aniyato |"
+},
+{
+  "pli": "nissaggiya pācittiya 1. kathinaniṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine dasāhaparamaṃ atirekacīvaraṃ dhāretabbaṃ, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 1: daśāhaṃ kṛtacīvarehi bhikṣūhi uddhṛtasmin kaṭhine daśāhaparamaṃ bhikṣuṇā atirekacīvaraṃ dhārayitavyaṃ | taduttariṃ dhāreya, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 10. rājabhikkhuṃ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṃ pahiṇeyya “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādehī”ti. so ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “idaṃ kho, bhante, āyasmantaṃ uddissa cīvaracetāpannaṃ ābhataṃ, paṭiggaṇhātu āyasmā cīvaracetāpanna”nti. tena bhikkhunā so dūto evamassa vacanīyo “na kho mayaṃ, āvuso, cīvaracetāpannaṃ paṭiggaṇhāma, cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiya”nti. so ce dūto taṃ bhikkhuṃ evaṃ vadeyya “atthi panāyasmato koci veyyāvaccakaro”ti. cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā “eso kho, āvuso, bhikkhūnaṃ veyyāvaccakaro”ti. so ce dūto taṃ veyyāvaccakaraṃ saññāpetvā taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya “yaṃ kho, bhante, āyasmā veyyāvaccakaraṃ niddisi, saññatto so mayā, upasaṅkamatāyasmā kālena, cīvarena taṃ acchādessatī”ti. cīvaratthikena, bhikkhave, bhikkhunā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṃ codetabbo sāretabbo “attho me, āvuso, cīvarenā”ti, dvattikkhattuṃ codayamāno sārayamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, no ce abhinipphādeyya, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūtena uddissa ṭhātabbaṃ, catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ tuṇhībhūto uddissa tiṭṭhamāno taṃ cīvaraṃ abhinipphādeyya, iccetaṃ kusalaṃ, tato ce uttari vāyamamāno taṃ cīvaraṃ abhinipphādeyya, nissaggiyaṃ pācittiyaṃ. no ce abhinipphādeyya, yatassa cīvaracetāpannaṃ ābhataṃ, tattha sāmaṃ vā gantabbaṃ, dūto vā pāhetabbo “yaṃ kho tumhe āyasmanto bhikkhuṃ uddissa cīvaracetāpannaṃ pahiṇittha, na taṃ tassa bhikkhuno kiñci atthaṃ anubhoti, yuñjantāyasmanto sakaṃ, mā vo sakaṃ vinassā”ti, ayaṃ tattha sāmīci.",
+  "skt": "nissargikapācattika 10: rājā bhikṣuṃ kho punar uddiśya anyataro rājā vā rājabhogyo vā dūtena cīvaracetāpanāni preṣeya | so bhikṣus tenopasaṃkramitvā taṃ bhikṣum evaṃ vadeya ☸ imāni khalv āryam uddiśya itthaṃnāmena rājñā ca rājabhogyena vā dūtena cīvaracetāpanāni preṣitāni, tāni āryo pratigṛhṇātu | tena bhikṣuṇā so dūto evam asya vacanīyo ☸ na kho punar āyuṣman kṣamate bhikṣusya cīvaracetāpanāni pratigṛhṇituṃ | cīvaraṃ tu vayaṃ pratigṛhṇāmaḥ kālena samayena kalpikaṃ dīyamānaṃ | evam ukte so dūto taṃ bhikṣum evaṃ vadeya santi punar ārya kecid bhikṣūṇāṃ vaiyāpṛtyakarāti | ākāṃkṣamāṇena bhikṣuṇā santā vaiyāpṛtyakarā vyapadiśitavyāḥ ārāmikā vā | ete āyuṣman bhikṣūṇāṃ vaiyāpṛtyakarā ye bhikṣūṇāṃ vaiyāpṛtyaṃ karonti | evam ukte so dūto yena vaiyāpṛtyakarās tenopasaṃkramitvā tān vaiyāpṛtyakarān evaṃ vadeya ☸ sādhu kho puna yūyam āyuṣmanto vaiyāpṛtyakarā imehi cīvaracetāpanehi cīvaraṃ cetāpayitvā itthaṃnāma bhikṣuṃ cīvareṇācchādetha kālena samayena kalpikenānavadyena | so ca dūto tān vaiyāpṛtyakarān saṃjñapayitvā yena so bhikṣus tenopasaṃkramitvā na bhikṣum eva vadeya ye khu te āryeṇa vaiyāpṛtyakarā vyapadiṣṭās te mayā saṃjñaptās tān upasaṃkrameyāmi | ācchādayiṣyanti te cīvareṇa kālena samayena kalpikenānavadyena | ākāṃkṣamāṇena bhikṣuṇā cīvarārthikena yena te vaiyāpṛtyakarās tenopasaṃkramitvā te vaiyāpṛtyakarāḥ sakṛt dvikkhutto trikkhutto codayitavyā vijñāpayitavyāḥ ☸ artho āyuṣmanto bhikṣusya cīvareṇeti | sakṛt dvikkhutto trikkhutto codayanto vijñāpayanto taṃ cīvaram abhiniṣpādeya ity etat kuśalaṃ, no ced abhiniṣpādeya catukkhutto pañcakhutto ṣaṭkhuttoparamaṃ tena bhikṣuṇā tūṣṇībhūtena uddeśe sthātavyaṃ | catukkhutto pañcakkhutto ṣaṭkkhuttoparamaṃ tūṣṇībhūto uddeśe tiṣṭhanto taṃ cīvaram abhiniṣpādeya, ity etat kuśalaṃ, no ced abhiniṣpādeya tad uttapanto vā vyāyamanto vā taṃ cīvaram abhiniṣpādeya, abhiniṣpanne cīvare nissargikapācattikaṃ | no ced abhiniṣpādeya yena se tāni rājñā vā rājabhogyena vā dūtena cīvaracetāpanāni preṣitāni tatra tena bhikṣuṇā svayaṃ vā gantavyaṃ, dūto vā pratirūpo preṣayitavyo, yāni khu āyuṣmantehi itthaṃnāmaṃ bhikṣum uddiśya dūtena cīvaracetāpanāni preṣitāni na khu tāni tasya bhikṣusya kiñcid arthaṃ spharanti, pratyanveṣatha, na svakaṃ dharmo | vo vipraṇaśiṣyatīti iyam atra sāmīcī |"
+},
+{
+  "pli": "nissaggiya pācittiya 11. kosiyayo pana bhikkhu kosiyamissakaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 13: kauśeyamiśra yo puna bhikṣuḥ kauśeyamiśrāṇām eḍakalomānāṃ navaṃ santhataṃ kārāpeya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 12. suddhakāḷakayo pana bhikkhu suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 11: śuddhakālakānāṃ yo puna bhikṣuḥ śuddhakālakānām eḍakalomānāṃ navaṃ santhataṃ kārāpeya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 13. dvebhāganavaṃ pana bhikkhunā santhataṃ kārayamānena dve bhāgā suddhakāḷakānaṃ eḷakalomānaṃ ādātabbā, tatiyaṃ odātānaṃ, catutthaṃ gocariyānaṃ. anādā ce bhikkhu dve bhāge suddhakāḷakānaṃ eḷakalomānaṃ, tatiyaṃ odātānaṃ, catutthaṃ gocariyānaṃ, navaṃ santhataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 12: dve bhāgā navaṃ santhataṃ bhikṣuṇā kārāpayamāṇena śuddhakālakānām eḍakalomānāṃ dve bhāgā ādayitavyās tṛtīyo odātikānāṃ caturtho gocarikāṇāṃ | taduttarim ādiyeya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 14. chabbassanavaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ, orena ce channaṃ vassānaṃ taṃ santhataṃ vissajjetvā vā avissajjetvā vā aññaṃ navaṃ santhataṃ kārāpeyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 14: ṣaḍvarṣāṇi navaṃ santhataṃ bhikṣuṇā kārāpayamāṇena akāmaṃ ṣaḍvarṣāṇi dhārayitavyaṃ | tato ca bhikṣuḥ pratyoreṇa taṃ purāṇaṃ santhataṃ visarjayitvā vā avisarjayitvā vā anyaṃ navaṃ santhataṃ kārāpeya kalyāṇakāmatām upādāya, anyatra namatasaṃmutīye nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 15. nisīdanasanthatanisīdanasanthataṃ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya. anādā ce bhikkhu purāṇasantha tassa sāmantā sugatavidatthiṃ, navaṃ nisīdanasanthataṃ kārāpeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 15: niṣīdanaṃ navaṃ santhataniṣīdanaṃ bhikṣuṇā kārāpayamāṇena tato purāṇasanthatāto samantāt sugatavitastinā bhāgo ādayitavyo navasya durvaṇṇīkaraṇārthaṃ | tato ca bhikṣur anādāya navasanthataṃ niṣīdanaṃ kārāpeya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 16. eḷakalomabhikkhuno paneva addhānamaggappaṭipannassa eḷakalomāni uppajjeyyuṃ, ākaṅkhamānena bhikkhunā paṭiggahetabbāni, paṭiggahetvā tiyojanaparamaṃ sahatthā haritabbāni asante hārake. tato ce uttari hareyya, asantepi hārake, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 16: adhvānamārgo bhikṣusya kho punar adhvānamārge pratipannasya utpadyeṃsu eḍakalomāni | ākāṃkṣamāṇena bhikṣuṇā pratigṛhṇitavyaṃ | pratigṛhṇitvā sāmaṃ triyojanaparamaṃ hartavyam asante anyasmin hārake taduttariṃ hāreya sante vā asante vā anyasmin hārake, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 17. eḷakalomadhovāpanayo pana bhikkhu aññātikāya bhikkhuniyā eḷakalomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 17: vivaṭā vā yo puna bhikṣur anyātikāye bhikṣuṇīye eḍakalomādi dhovāpeya vā raṃjāpeya vā vivaṭāpaye vā, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 18. rūpiyayo pana bhikkhu jātarūparajataṃ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṃ vā sādiyeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 18: svahastaṃ yo puna bhikṣuḥ svahastaṃ jātarūparajatam udgṛhṇeya vā udgṛhṇāpeya vā antamasato iha nikṣipehīti vā vadeya, upanikṣiptaṃ vā sādiyeya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 19. rūpiyasaṃvohārayo pana bhikkhu nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 20: vikṛtivyavahāra yo puna bhikṣur anekavidhaṃ jātarūparajatavikṛtivyavahāraṃ samāpadyeya nissargikapācattikam ||"
+},
+{
+  "pli": "nissaggiya pācittiya 2. udositaniṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine ekarattampi ce bhikkhu ticīvarena vippavaseyya, aññatra bhikkhusammutiyā nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 2: vipravāso kṛtacīvarehi bhikṣūhi uddhṛtasmin kaṭhine ekarātraṃ pi ced bhikṣuḥ trayāṇāṃ cīvarāṇām anyatarānyatareṇa vipravaseya anyatra saṃghasaṃmutīye, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 20. kayavikkayayo pana bhikkhu nānappakārakaṃ kayavikkayaṃ samāpajjeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 19: krayavikraya yo puna bhikṣur anekavidhaṃ krayavikrayavyavahāraṃ samāpadyeya saṃyyathīdaṃ imaṃ kriṇa ito kriṇa ettakamettakena krīṇāhīti vā vadeya, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 21. pattadasāhaparamaṃ atirekapatto dhāretabbo, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 21: pātra daśāhaparamaṃ bhikṣuṇā atirekapātraṃ dhārayitavyaṃ | taduttariṃ dhāreya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 22. ūnapañcabandhanayo pana bhikkhu ūnapañcabandhanena pattena aññaṃ navaṃ pattaṃ cetāpeyya, nissaggiyaṃ pācittiyaṃ. tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo, yo ca tassā bhikkhuparisāya pattapariyanto, so tassa bhikkhuno padātabbo “ayaṃ te bhikkhu patto yāva bhedanāya dhāretabbo”ti, ayaṃ tattha sāmīci.",
+  "skt": "nissargikapācattika 22: bandhanaṃ yo puna bhikṣu ūnapañcabandhanabaddhena pātreṇa anyaṃ navaṃ pātraṃ paryeṣeya kāmātām upādāya, tena bhikṣuṇā taṃ pātraṃ bhikṣuparṣāye nissaritavyaṃ | yo tahi bhikṣuparṣāye pātraparyanto bhavati so tasya bhikṣusya anupradātavyo ☸ evaṃ te āyuṣman pātro dhārayitavyo yāvad bhedanaṃ, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 23. bhesajjayāni kho pana tāni gilānānaṃ bhikkhūnaṃ paṭisāyanīyāni bhesajjāni, seyyathidaṃ—sappi navanītaṃ telaṃ madhu phāṇitaṃ, tāni paṭiggahetvā sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni, taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 23: bhaiṣajyam yāni kho punar imāni gilānapratiṣevaṇīyāni bhaiṣajyāni bhavanti sayyathīdaṃ sarpistailamadhuphāṇitaṃ ☸ evaṃrūpāṇi gilānena bhikṣuṇā satkṛtyābhigṛhītāni, kṣamate saptāhaṃ sannidhikāraṃ paribhuñjituṃ, santaṃ śeṣaṃ nissaritavyaṃ tad uttaritavyaṃ | taduttariṃ khādeya vā bhuṃjeya vā santaṃ vā śeṣabhūtaṃ nissareya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 24. vassikasāṭika“māso seso gimhāna”nti bhikkhunā vassikasāṭikacīvaraṃ pariyesitabbaṃ, “addhamāso seso gimhāna”nti katvā nivāsetabbaṃ. orena ce “māso seso gimhāna”nti vassikasāṭikacīvaraṃ pariyeseyya, orena“ddhamāso seso gimhāna”nti katvā nivāseyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 25: varṣāśāṭikā māso śeṣo grīṣmāṇām iti bhikṣuṇā varṣāsāṭikācīvaraṃ paryeṣitavyaṃ | ardhamāso avaśiṣṭo ti kṛtvā snapitavyam | tato ca bhikṣuḥ pratyoreṇa varṣāsāṭikācīvaraṃ paryeṣeya, kṛtvā vā snāpeya, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 25. cīvaraacchindanayo pana bhikkhu bhikkhussa sāmaṃ cīvaraṃ datvā kupito anattamano acchindeyya vā acchindāpeyya vā, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 24: ācchedo yo puna bhikṣu bhikṣusya cīvaraṃ datvā yathā duṣṭo doṣāt kupito anāttamāno ācchindeya vā ācchindāpayeya vā ☸ āhara bhikṣu cīvaraṃ, na te ’haṃ demīti vā vadeya, nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 26. suttaviññattiyo pana bhikkhu sāmaṃ suttaṃ viññāpetvā tantavāyehi cīvaraṃ vāyāpeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 26: tantuvāyena (1) yo puna bhikṣuḥ svayaṃyācikāya sūtraṃ tantuvāyena cīvaraṃ vunāpeya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 27. mahāpesakārabhikkhuṃ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṃ vāyāpeyya, tatra ce so bhikkhu pubbe appavārito tantavāye upasaṅkamitvā cīvare vikappaṃ āpajjeyya “idaṃ kho, āvuso, cīvaraṃ maṃ uddissa viyyati, āyatañca karotha, vitthatañca, appitañca, suvītañca, suppavāyitañca, suvilekhitañca, suvitacchitañca karotha, appeva nāma mayampi āyasmantānaṃ kiñcimattaṃ anupadajjeyyāmā”ti. evañca so bhikkhu vatvā kiñcimattaṃ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 27: tantuvāyena (2) bhikṣuṃ kho punar uddiśya anyataro gṛhapatir vā gṛhapatiputro vā tantuvāyena cīvaraṃ vunāpeya, tena ca bhikṣuḥ pūrvaṃ apravārito upasaṃkramitvā vikalpam āpadyeya ☸ sādhu kho punas tvam āyuṣmann imaṃ cīvaram āyataṃ ca karohi, vistṛtaṃ ca karohi, suvutaṃ ca karohi, sutacchitaṃ ca karohi, suvilikhitaṃ ca karohi | apy eva nāma vayaṃ pi tava kiñcid eva mātrām upasaṃharema, māṣakaṃ vā māṣakārhaṃ vā piṇḍapātaṃ vā piṇḍapātārhaṃ vā | tatra ca so bhikṣur evaṃ vaditvā na kiñcid eva mātrām upasaṃhareya māṣakaṃ vā māṣakārhaṃ vā piṇḍapātaṃ vā piṇḍapātārhaṃ vā, abhiniṣpanne cīvare nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 28. accekacīvaradasāhānāgataṃ kattikatemāsikapuṇṇamaṃ bhikkhuno paneva accekacīvaraṃ uppajjeyya, accekaṃ maññamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā yāva cīvarakālasamayaṃ nikkhipitabbaṃ. tato ce uttari nikkhipeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 28: daśāhānāgatam daśāhānāgataṃ kho puna tremāsaṃ kārttikī paurṇamāsī utpadyeya bhikṣusya ātyāyikaṃ cīvaram ātyāyikaṃ manyamāno na bhikṣuṇā pratigṛhṇitavyaṃ | pratigṛhṇitvā yāvac cīvaradānakālasamayaṃ nikṣipitavyaṃ | taduttariṃ nikṣipeya nissargikapācattikam |"
+},
+{
+  "pli": "nissaggiya pācittiya 29. sāsaṅkaupavassaṃ kho pana kattikapuṇṇamaṃ yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, tathārūpesu bhikkhu senāsanesu viharanto ākaṅkhamāno tiṇṇaṃ cīvarānaṃ aññataraṃ cīvaraṃ antaraghare nikkhipeyya, siyā ca tassa bhikkhuno kocideva paccayo tena cīvarena vippavāsāya, chārattaparamaṃ tena bhikkhunā tena cīvarena vippavasitabbaṃ. tato ce uttari vippavaseyya aññatra bhikkhusammutiyā, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 29: upavarṣaṃ upavarṣaṃ kho punaḥ tremāsaṃ kārttikī paurṇamāsī bhikṣu cāraṇyake śayanāsane viharanti samaye sapratibhaye sāśaṃkasaṃmate | ākāṃkṣamāṇena bhikṣuṇā trayāṇāṃ cīvarāṇām anyatarānyataraṃ cīvaram antaragṛhe nikṣipitavyaṃ, syāt tasya bhikṣusya kocid eva pratyayo tasmāc cīvarād vipravāsāya, ṣaḍāhaparamaṃ tena bhikṣuṇā tasmāc cīvarād vipravasitavyaṃ | taduttariṃ vipravaseya anyatra bhikṣu saṃmutīye nissargikapācattikam |"
+},
+{
+  "pli": "nissaggiya pācittiya 3. akālacīvaraniṭṭhitacīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine bhikkhuno paneva akālacīvaraṃ uppajjeyya, ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ, paṭiggahetvā khippameva kāretabbaṃ, no cassa pāripūri, māsaparamaṃ tena bhikkhunā taṃ cīvaraṃ nikkhipitabbaṃ ūnassa pāripūriyā satiyā paccāsāya. tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 3: akāle kṛtacīvarehi bhikṣūhi uddhṛtasmin kaṭhine utpadyeya bhikṣusya akālacīvaram ākāṃkṣamāṇena bhikṣuṇā pratigṛhṇitavyaṃ | pratigṛhṇitvā kṣipram eva taṃ cīvaraṃ kārāpayitavyaṃ | kārāpayato ca tasya bhikṣusya taṃ cīvaraṃ na paripūreya, māsaparamaṃ tena bhikṣuṇā taṃ cīvaraṃ nikṣipitavyaṃ ūnasya pāripūrīye santīye pratyāśāye | taduttariṃ nikṣipeya santīye vā asantīye vā pratyāśāye nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 30. pariṇatayo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 30: pariṇāmana yo puna bhikṣur jānan sāṃghikāṃ lābhaṃ saṃghe pariṇatam ātmano pariṇāmeya nissargikapācattikam ||"
+},
+{
+  "pli": "nissaggiya pācittiya 4. purāṇacīvarayo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 5: dhovanā yo puna bhikṣur anyātikāye bhikṣuṇīye purāṇacīvaraṃ dhovāpeya vā rañjāpeya vā ākoṭāpeya vā nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 5. cīvarapaṭiggahaṇayo pana bhikkhu aññātikāya bhikkhuniyā hatthato cīvaraṃ paṭiggaṇheyya aññatra pārivattakā, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 4: pratigraho yo puna bhikṣur anyātikāye bhikṣuṇīye cīvaraṃ pratigṛhṇeya anyatra pallaṭṭhakena nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 6. aññātakaviññattiyo pana bhikkhu aññātakaṃ gahapatiṃ vā gahapatāniṃ vā cīvaraṃ viññāpeyya aññatra samayā, nissaggiyaṃ pācittiyaṃ. tatthāyaṃ samayo, acchinnacīvaro vā hoti bhikkhu, naṭṭhacīvaro vā, ayaṃ tattha samayo.",
+  "skt": "nissargikapācattika 6: yācanā yo puna bhikṣur anyātakaṃ gṛhapatiṃ vā gṛhapatiputraṃ vā cīvaraṃ yāceya anyatra samaye nissargikapācattikaṃ | tatrāyaṃ samayo ☸ ācchinnacīvaro bhikṣur bhavati | ayam atra samayo |"
+},
+{
+  "pli": "nissaggiya pācittiya 7. tatuttaritañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya, santaruttaraparamaṃ tena bhikkhunā tato cīvaraṃ sāditabbaṃ. tato ce uttari sādiyeyya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 7: sāntarottaraṃ ācchinnacīvareṇa bhikṣuṇā kṣamate anyātakaṃ gṛhapatiṃ vā gṛhapatiputrīṃ vā cīvaraṃ yācituṃ | tam enam abhihṛṣṭo samāno saṃbahulehi cīvarehi pravāreya, tathāpravāritena bhikṣuṇā sāntarottaraparamaṃ cīvaraṃ sādayitavyaṃ | taduttariṃ sādiyeya nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 8. paṭhamaupakkhaṭabhikkhuṃ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṃ upakkhaṭaṃ hoti “iminā cīvaracetāpannena cīvaraṃ cetāpetvā itthannāmaṃ bhikkhuṃ cīvarena acchādessāmī”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmā iminā cīvaracetāpannena evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādehī”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 8: vikalpena (1) bhikṣuṃ kho punar uddiśya anyatareṣāṃ dvinnāṃ gṛhapatikānāṃ cīvaracetāpanāny abhisaṃskṛtāni bhavanti abhisaṃcetayitāni ☸ imehi vayaṃ cīvaracetāpanehi civaraṃ cetāpayitvā itthanāmaṃ bhikṣuṃ cīvareṇācchadayiṣyāmaḥ | tatra ca bhikṣuḥ pūrvaṃ apravārito upasaṃkramitvā vikalpam āpadyeya ☸ sādhu kho puna yūyam āyuṣmanto imehi cīvaracetāpanehi cīvaraṃ cetāpayitvā itthaṃnāmaṃ bhikṣuṃ cīvareṇācchādetha | evaṃrūpeṇa vā evaṃrūpeṇa vā ubhau pi sahitau ekena kalyāṇakāmatām upādāya | abhiniṣpanne cīvare nissargikapācattikaṃ |"
+},
+{
+  "pli": "nissaggiya pācittiya 9. dutiyaupakkhaṭabhikkhuṃ paneva uddissa ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā paccekacīvaracetāpannāni upakkhaṭāni honti “imehi mayaṃ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā”ti, tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṃ āpajjeyya “sādhu vata maṃ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṃ vā evarūpaṃ vā cīvaraṃ cetāpetvā acchādetha ubhova santā ekenā”ti kalyāṇakamyataṃ upādāya, nissaggiyaṃ pācittiyaṃ.",
+  "skt": "nissargikapācattika 9: vikalpena (2) bhikṣuṃ kho punar uddiśya anyatareṣāṃ dvinnāṃ gṛhapatikasya gṛhapatinīye ca pratyekacīvaracetāpanāni abhisaṃskṛtāni bhavanti, abhisaṃcetayitāni ☸ imehi vayaṃ pratyekacīvaracetāpanehi pratyekaṃ pratyekaṃ cīvaraṃ cetāpayitvā itthaṃnāmaṃ bhikṣuṃ pratyekaṃ pratyekaṃ cīvareṇācchadayiṣyāmaḥ | tatra ca bhikṣuḥ pūrvaṃ apravārito upasaṃkramitvā vikalpam āpadyeya ☸ sādhu kho punas tvam āyuṣman, tvaṃ ca bhagini, imehi pratyekacīvaracetāpanehi pratyekaṃ cīvaraṃ cetāpayitvā itthaṃnāmaṃ bhikṣuṃ pratyekaṃ cīvareṇācchādetha evaṃrūpeṇa vā evaṃrūpeṇa vā ubhau pi sahitau ekena kalyāṇakāmatām upādāya | abhiniṣpanne cīvare nissargikapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 1. musāvādasampajānamusāvāde pācittiyaṃ.",
+  "skt": "pācattika 1: mṛṣāsaṃprajānamṛṣāvāde pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 10. pathavīkhaṇanayo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ.",
+  "skt": "pācattika 73: pṛthivī yo puna bhikṣuḥ svahastaṃ pṛthivīṃ khaneya vā khanāpeya vā antamaśato iha khanehīti vā vadeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 11. bhūtagāmabhūtagāmapātabyatāya pācittiyaṃ.",
+  "skt": "pācattika 11: bījambījagrāmabhūtagrāmapātāpanake pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 12. aññavādakaaññavādake, vihesake pācittiyaṃ.",
+  "skt": "pācattika 12: anyavādaṃanyavādavihiṃsanake pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 13. ujjhāpanakaujjhāpanake, khiyyanake pācittiyaṃ.",
+  "skt": "pācattika 13: odhyāyanaṃodhyāyanakṣīyanake pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 14. paṭhamasenāsanayo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.",
+  "skt": "pācattika 14: mañca yo puna bhikṣuḥ sāṃghike bhikṣuvihāre abhyavakāśe mañcaṃ vā pīṭhaṃ vā viśikaṃ vā caturaśrakaṃ vā kurcaṃ vā bimbohanaṃ vā prajñāpetvā vā prajñāpayitvā vā tato prakramanto na uddhareya vā, na uddharāpeya vā, anāmantrayitvā vā prakrameya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 15. dutiyasenāsanayo pana bhikkhu saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya, na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiyaṃ.",
+  "skt": "pācattika 15: śayyā yo punar bhikṣuḥ sāṃghike bhikṣuvihāre antośayyāṃ prajñāpetvā prajñāpayitvā vā tato prakramanto na uddhareya vā, na uddharāpeya vā, anāmantrayitvā vā prakrameya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 16. anupakhajjayo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya “yassa sambādho bhavissati, so pakkamissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.",
+  "skt": "pācattika 17: pūrvopagataṃ yo puna bhikṣu sāṃghike bhikṣuvihāre jānan bhikṣūṇāṃ pūrvaprajñaptāhi śayyāhi paścād āgatvā madhyeśayyāṃ prajñāpeya yasyodvahiṣyati so prakramiṣyatīti | etad eva pratyayaṃ kṛtvā, ananyam imaṃ tasya bhikṣusya udvāhanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 17. nikkaḍḍhanayo pana bhikkhu bhikkhuṃ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.",
+  "skt": "pācattika 16: nikaḍḍhanaṃ yo punar bhikṣu bhikṣusya duṣṭo doṣāt kupito anāttamano sāṃghikād bhikṣuvihārād bhikṣuṃ nikaḍḍheya vā nikaḍḍhāpeya vā antamasato neha bhikṣū ti vā vadeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 18. vehāsakuṭiyo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.",
+  "skt": "pācattika 18: vaihāyasaṃ yo puna bhikṣuḥ sāṃghike bhikṣuvihāre upari vaihāyasakuṭikāye āhatya pādake mañce vā pīṭhe vā abhiniṣīdeya vā abhinipadyeya vā pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 19. mahallakavihāramahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ, tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya, pācittiyaṃ.",
+  "skt": "pācattika 20: chādana mahallakaṃ bhikṣuṇā vihāraṃ chādāpayamānena yāvad dvārakoṣārgalapratiṣṭhānam ālokasandhiparikarmam upādāya dve vā trayo vā cchādanaparyāyā adhiṣṭhihitavyāḥ alpaharite sthitena | taduttariṃ adhiṣṭhiheya alpaharite sthito pi pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 2. omasavādaomasavāde pācittiyaṃ.",
+  "skt": "pācattika 2: omṛṣyaomṛṣyavāde pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 20. sappāṇakayo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.",
+  "skt": "pācattika 19: udaka yo puna bhikṣur jānan saprāṇakenodakena tṛṇaṃ vā mṛttikāṃ vā siñceya vā siñcāpeya vā pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 21. ovādayo pana bhikkhu asammato bhikkhuniyo ovadeyya, pācittiyaṃ.",
+  "skt": "pācattika 21: asaṃmato yo puna bhikṣu asaṃmato bhikṣuṇīm ovadeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 22. atthaṅgatasammatopi ce bhikkhu atthaṅgate sūriye bhikkhuniyo ovadeyya, pācittiyaṃ.",
+  "skt": "pācattika 22: saṃmato saṃmato vāpi bhikṣuḥ bhikṣūṇīm ovadeya vikāle, astaṃgate sūrye, anūhate aruṇe pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 23. bhikkhunupassayayo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya aññatra samayā, pācittiyaṃ. tatthāyaṃ samayo, gilānā hoti bhikkhunī, ayaṃ tattha samayo.",
+  "skt": "pācattika 23: ovādo yo puna bhikṣu ovādaprekṣo bhikṣuṇīupāśrayam upasaṃkrameya santaṃ bhikṣum anāmantrayitvā, anyatra samaye pācattikaṃ | tatrāyaṃ samayo ☸ gilānā bhikṣuṇī ovaditavyā anuśāsitavyā bhavati | ayam atra samayo |"
+},
+{
+  "pli": "pācittiya 24. āmisayo pana bhikkhu evaṃ vadeyya “āmisahetu therā bhikkhū bhikkhuniyo ovadantī”ti, pācittiyaṃ.",
+  "skt": "pācattika 24: āmiṣaṃ yo puna bhikṣu bhikṣum evaṃ vadeya ☸ āmiṣahetor āyuṣman bhikṣu bhikṣuṇīṃ te ovadatīti pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 25. cīvaradānayo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya aññatra pārivattakā, pācittiyaṃ.",
+  "skt": "pācattika 28: deti yo puna bhikṣu anyātikāye bhikṣuṇīye cīvaraṃ dadyād anyatra pallaṭṭhakena pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 26. cīvarasibbanayo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ sibbeyya vā sibbāpeyya vā, pācittiyaṃ.",
+  "skt": "pācattika 29: sīveti yo puna bhikṣur anyātikāye bhikṣuṇīye cīvaraṃ sīveya vā sīvāpeya vā pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 27. saṃvidhānayo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi aññatra samayā, pācittiyaṃ. tatthāyaṃ samayo, satthagamanīyo hoti maggo, sāsaṅkasammato, sappaṭibhayo, ayaṃ tattha samayo.",
+  "skt": "pācattika 26: adhvānamārgo yo puna bhikṣu bhikṣuṇīya sārdhaṃ saṃvidhāya adhvānamārgaṃ pratipadyeya antamasato grāmāntaraṃ pi, anyatra samaye, pācattikaṃ | tatrāyaṃ samayo ☸ mārgo bhavati sabhayo sapratibhayo sāśaṃkasaṃmato | ayam atra samayo |"
+},
+{
+  "pli": "pācittiya 28. nāvābhiruhanayo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhiruheyya uddhaṃgāminiṃ vā adhogāminiṃ vā aññatra tiriyaṃ taraṇāya, pācittiyaṃ.",
+  "skt": "pācattika 27: nāvā yo puna bhikṣu bhikṣuṇīya sārdhaṃ saṃvidhāya ekanāvāṃ abhiruheya ūrdhvagāminīṃ vā adhogāminīṃ vā, anyatra tiryottaraṇāya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 29. paripācitayo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya aññatra pubbe gihisamārambhā, pācittiyaṃ.",
+  "skt": "pācattika 30: paripācana yo puna bhikṣur jānan bhikṣuṇīparipācitaṃ pinḍapātaṃ paribhuñjeya, anyatra pūrve gṛhīsamārambhe pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 3. pesuññabhikkhupesuññe pācittiyaṃ.",
+  "skt": "pācattika 3: paiśunyabhikṣupaiśunye pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 30. rahonisajjayo pana bhikkhu bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 25: niṣadyā yo puna bhikṣu bhikṣuṇīya sārdham eko ekāya raho niṣadyāṃ kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 31. āvasathapiṇḍaagilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. tato ce uttari bhuñjeyya, pācittiyaṃ.",
+  "skt": "pācattika 31: āvasatho ekāhaparamaṃ bhikṣuṇā agilānena āvasathapiṇḍapāto paribhuñjitavyo, taduttariṃ paribhuṃjeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 32. gaṇabhojanagaṇabhojane aññatra samayā pācittiyaṃ. tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṃ tattha samayo.",
+  "skt": "pācattika 40: gaṇabhojana gaṇabhojane anyatra samaye pācattikaṃ | tatrāyaṃ samayo ☸ gilānasamayo cīvaradānakālasamayo adhvānagamanasamayo nāvābhirohaṇasamayo mahāsamayo śravaṇabhaktaṃ | ayam atra samayo |"
+},
+{
+  "pli": "pācittiya 33. paramparabhojanaparamparabhojane aññatra samayā pācittiyaṃ. tatthāyaṃ samayo, gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.",
+  "skt": "pācattika 32: parampara paramparābhojane anyatra samaye pācattikaṃ | tatrāyaṃ samayo gilānasamayo cīvaradānakālasamayo | ayam atra samayo |"
+},
+{
+  "pli": "pācittiya 34. kāṇamātubhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā. tato ce uttari paṭiggaṇheyya, pācittiyaṃ. dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ, ayaṃ tattha sāmīci.",
+  "skt": "pācattika 38: manthā bhikṣuṃ kho punaḥ kulehi upasaṃkrāntaṃ pravāreṃsu pūpehi vā manthehi vā | tathāpravāritena bhikṣuṇā yāvattripātrapūraparamaṃ tato pratigṛhṇitavyaṃ | pratigṛhṇitvā bahirdhā nīharitavyaṃ | bahirdhā nīharitvā agilānakehi bhikṣūhi sārdhaṃ saṃvibhajitvā khāditavyaṃ bhuṃjitavyaṃ | taduttariṃ pratigṛhṇitvā bahirdhā nīharitvā agilānakehi bhikṣūhi sārdhaṃ saṃvibhajitvā vā asaṃvibhajitvā vā khādeya vā bhuṃjeya vā pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 35. paṭhamapavāraṇāyo pana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.",
+  "skt": "pācattika 33: pravāraṇā yo puna bhikṣur bhuṃjāvī pravārito utthito āsanāto, anatiriktaṃ kṛtaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeya vā bhuṃjeya vā pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 36. dutiyapavāraṇāyo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya “handa bhikkhu khāda vā bhuñja vā”ti jānaṃ āsādanāpekkho, bhuttasmiṃ pācittiyaṃ.",
+  "skt": "pācattika 34: āsādanā yo puna bhikṣur jānan bhikṣu bhuktāvī pravāritam utthitam āsanāto āsādanāprekṣo anatiriktakṛtena khādanīyena vā bhojanīyena vā upanimantreya, ehi bhikṣu khādāhi bhuṃjāhīti vā vadeya bhuktasmiṃ pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 37. vikālabhojanayo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.",
+  "skt": "pācattika 36: vikālaṃvikālābhojane pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 38. sannidhikārakayo pana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiyaṃ.",
+  "skt": "pācattika 37: sannidhiṃsannidhikārabhojane pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 39. paṇītabhojanayāni kho pana tāni paṇītabhojanāni, seyyathidaṃ—sappi, navanītaṃ, telaṃ, madhu, phāṇitaṃ, maccho, maṃsaṃ, khīraṃ, dadhi. yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiyaṃ.",
+  "skt": "pācattika 39: vijñaptiḥ yāni kho punar imāni praṇītasaṃmatāni bhojanāni bhavanti saṃyyathīdaṃ sarpistailaṃ madhu phāṇitaṃ dugdhaṃ dadhi matsyaṃ māṃsaṃ yo puna bhikṣur evaṃrūpāṇi praṇītasaṃmatāni bhojanāni ātmārthāya agilāno kulehi vijñapetvā vā vijñāpāyetvā vā khādeya vā bhuṃjeya vā pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 4. padasodhammayo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya, pācittiyaṃ.",
+  "skt": "pācattika 6: padaśo yo puna bhikṣur anupasaṃpannaṃ pudgalaṃ padaśo dharmaṃ vāceya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 40. dantaponayo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya aññatra udakadantaponā, pācittiyaṃ.",
+  "skt": "pācattika 35: adinnaṃ yo puna bhikṣur adinnam apratigrāhitaṃ mukhadvārikam āhāram āhāreya anyatrodakadantapoṇe pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 41. acelakayo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.",
+  "skt": "pācattika 52: saprāṇakam yo puna bhikṣu acelakasya vā acelikāya vā parivrājakasya vā parivrājakāye vā svahastaṃ khādanīyaṃ vā bhojanīyaṃ vā dadyāt pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 42. uyyojanayo pana bhikkhu bhikkhuṃ “ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā”ti tassa dāpetvā vā adāpetvā vā uyyojeyya “gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.",
+  "skt": "pācattika 44: udyojanā yo puna bhikṣu bhikṣum evaṃ vadeya ☸ ehi tvam āyuṣman grāmaṃ pinḍāya praviśiṣyāmaḥ | ahaṃ ca te tatra kiṃcid dāpayiṣyaṃ | so tatra tasya kiñcid dāpayitvā vā adāpayitvā vā paścād udyojanaprekṣo evaṃ vadeya ☸ gaccha tvam āyuṣman na me tvayā sārdhaṃ phāsu bhavati kathāya vā niṣadyāya vā, ekasyaiva mama phāsu bhavati kathāya vā niṣadyāya vā | etad eva pratyayaṃ kṛtvā ananyam, imaṃ tasya bhikṣusya udyojanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 43. sabhojanayo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 53: anupakhajjaṃ yo puna bhikṣur jānan saṃbhojanīye kule anupakhajjāsane niṣadyāṃ kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 44. rahopaṭicchannayo pana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 54: praticchannāsanaṃ yo puna bhikṣur jānan saṃbhojanīye kule praticchannāsane niṣadyāṃ kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 45. rahonisajjayo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 70: niṣadyā yo puna bhikṣu mātṛgrāmeṇa sārdhaṃ eko ekāya raho niṣadyāṃ kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 46. cārittayo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya aññatra samayā, pācittiyaṃ. tatthāyaṃ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṃ tattha samayo.",
+  "skt": "pācattika 81: sabhakto yo puna bhikṣu sabhakto samāno purebhaktaṃ paścādbhaktaṃ vā kuleṣu cāritram āpadyeya santaṃ bhikṣum anāmantrayitvā, anyatra samaye pācattikaṃ | tatrāyam samayo ☸ cīvaradānakālasamayo | ayam atra samayaḥ |"
+},
+{
+  "pli": "pācittiya 47. mahānāmaagilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. tato ce uttari sādiyeyya, pācittiyaṃ.",
+  "skt": "pācattika 74: pravāraṇā cāturmāsikā bhikṣuṇā pratyekapravāraṇā sādayitavyā | taduttariṃ sādiyeya, anyatra punaḥ pravāraṇe, anyatra yāvajjīvikāye pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 48. uyyuttasenāyo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṃ.",
+  "skt": "pācattika 55: senāṃ (1) yo puna bhikṣur udyuktāṃ senāṃ darśanāya gaccheya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 49. senāvāsasiyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ. tato ce uttari vaseyya, pācittiyaṃ.",
+  "skt": "pācattika 56: senāṃ (2) syāt tasya bhikṣusya kocid eva pratyayo senāyāṃ gamanāya, dvirātraṃ vā trirātraṃ vā tena bhikṣuṇā senāyāṃ vasitavyaṃ | taduttariṃ vaseya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 5. paṭhamasahaseyyayo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 42: sahagāra yo puna bhikṣur anupasaṃpannena pudgalena sārdhaṃ uttari dvirātraṃ trirātraṃ vā sahagāraśayyāṃ kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 50. uyyodhikadirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiyaṃ.",
+  "skt": "pācattika 57: senāṃ (3) tatrāpi ca bhikṣu dvirātraṃ vā trirātraṃ vā senāyāṃ vasamāno āyūhikaṃ vā niyūddhikaṃ vā anekavyūhaṃ vā saṃgrāmaśīrṣaṃ vā darśanāya gaccheya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 51. surāpānasurāmerayapāne pācittiyaṃ.",
+  "skt": "pācattika 76: madyapānamsurāmaireyamadyapānaṃ pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 52. aṅgulipatodakaaṅgulipatodake pācittiyaṃ.",
+  "skt": "pācattika 67: aṅguliaṅgulipratodanake pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 53. hasadhammaudake hasadhamme pācittiyaṃ.",
+  "skt": "pācattika 66: udakaudakahastasaṃmardanāt pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 54. anādariyaanādariye pācittiyaṃ.",
+  "skt": "pācattika 77: anādaryambhikṣunādarye pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 55. bhiṃsāpanayo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiyaṃ.",
+  "skt": "pācattika 65: bhīṣeyayo puna bhikṣur bhikṣuṃ bhīṣeya pācattikam |"
+},
+{
+  "pli": "pācittiya 56. jotiyo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṃ.",
+  "skt": "pācattika 41: jyotiḥ yo puna bhikṣur ātmārthāya agilāno jyotismiṃ vitāpanāprekṣo tṛṇaṃ vā kāṣṭhaṃ vā gomayaṃ vā sakalikāṃ vā tuṣaṃ vā saṃkāraṃ vā ādaheya vā ādahāpeya vā anyatra samaye pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 57. nahānayo pana bhikkhu orenaddhamāsaṃ nahāyeyya aññatra samayā, pācittiyaṃ. tatthāyaṃ samayo “diyaḍḍho māso seso gimhāna”nti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṃ tattha samayo.",
+  "skt": "pācattika 50: snāna anvardhamāsaṃ snānam uktaṃ bhagavatā | anyatra samaye pācattikaṃ | tatrāyaṃ samayo ☸ dvyardho māso śeṣo grīṣmāṇāṃ, varṣāṇāṃ ca purimo māso ity ete aḍḍhātīyamāsāḥ, paridāhakālasamayo, adhvānagamanakālasamayo, gilānasamayo, karmasamayo, vātasamayo, vṛṣṭisamayo | ayam atra samayo |"
+},
+{
+  "pli": "pācittiya 58. dubbaṇṇakaraṇanavaṃ pana bhikkhunā cīvaralābhena tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā. anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ navaṃ cīvaraṃ paribhuñjeyya, pācittiyaṃ.",
+  "skt": "pācattika 48: akṛtakalpaṃ navacīvaralābhinā bhikṣuṇā trayāṇāṃ durvarṇīkaraṇānām anyatarānyataraṃ durvaṇīkaraṇam ādayitavyaṃ ☸ nīlaṃ vā kardamaṃ vā kālaśyāmaṃ vā | tato ca bhikṣur anādāya navaṃ cīvaraṃ paribhuṃjeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 59. vikappanayo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃ paribhuñjeyya, pācittiyaṃ.",
+  "skt": "pācattika 63: apratyuddharitvā yo puna bhikṣu bhikṣusya vā bhikṣuṇīye vā śrāmaṇerasya vā śrāmaṇerīye vā śikṣamāṇāye vā cīvaraṃ datvā apratyuddhareya paribhuṃjeya, apratyuddhāraparibhoge pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 6. dutiyasahaseyyayo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 69: sahagāra yo puna bhikṣu mātṛgrāmeṇa sārdhaṃ sahagāraśayyāṃ kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 60. apanidhānayo pana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhopi, pācittiyaṃ.",
+  "skt": "pācattika 64: apaniheya yo puna bhikṣu bhikṣusya pātraṃ vā cīvaraṃ vā niṣīdanaṃ vā sūcīvigrahaṃ vā apaniheya vā apanihāpeya vā antamaśato hāsyārthaṃ pi pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 61. sañciccayo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiyaṃ.",
+  "skt": "pācattika 61: saṃcintya yo puna bhikṣuḥ saṃcintya tiryagyonigataṃ prāṇinaṃ jīvitād vyaparopeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 62. sappāṇakayo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiyaṃ.",
+  "skt": "pācattika 51: saprāṇakam yo puna bhikṣur jānan saprāṇakam udakaṃ paribhuñjeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 63. ukkoṭanayo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiyaṃ.",
+  "skt": "pācattika 4: utkhoṭana yo puna bhikṣur jānaṃ saṃghasyādhikaraṇāni dharmeṇa vinayena vihitāni vyupaśāntāni punaḥ karmāya utkhoṭeya ☸ idaṃ punaḥ karma kartavyaṃ bhaviṣyatīti ☸ etad eva pratyayaṃ kṛtvā ananyam imaṃ tasya bhikṣusya utkhoṭanaṃ pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 64. duṭṭhullayo pana bhikkhu bhikkhussa jānaṃ duṭṭhullaṃ āpattiṃ paṭicchādeyya, pācittiyaṃ.",
+  "skt": "pācattika 60: praticchādana yo puna bhikṣur jānan bhikṣusya duṣṭhullām āpattiṃ kṛtām adhyācīrṇāṃ cchādeya, so na pareṣām āroceya kiṃ ti se mā pare jānantū ti | avadya praticchādane pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 65. ūnavīsativassayo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno, te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiyaṃ.",
+  "skt": "pācattika 71: ūnaviṃśati yo puna bhikṣur jānan ūnaviṃśativarṣapudgalaṃ bhikṣubhāvāya upasaṃpādeya, so ca pudgalo anupasaṃpanno, te ca bhikṣū gārhyāṃ, imaṃ teṣāṃ bhikṣūṇāṃ garhaṇapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 66. theyyasatthayo pana bhikkhu jānaṃ theyyasatthena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.",
+  "skt": "pācattika 72: stainyasārtho yo puna bhikṣur jānan stainyasārthena sārdhaṃ saṃvidhāya adhvānamārgaṃ pratipadyeya antamaśato grāmāntaraṃ pi pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 67. saṃvidhānayo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya antamaso gāmantarampi, pācittiyaṃ.",
+  "skt": "pācattika 68: saṃvidhāya yo puna bhikṣu mātṛgrāmeṇa sārdhaṃ saṃvidhāya adhvānamārgaṃ pratipadyeya antamaśato grāmāntaraṃ pi pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 68. ariṭṭhayo pana bhikkhu evaṃ vadeyya “tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. no ce paṭinissajjeyya, pācittiyaṃ.",
+  "skt": "pācattika 45: antarāyikā (1) yo puna bhikṣu bhikṣūn evaṃ vadeya | tathāham āyuṣmanto bhagavatā dharmaṃ deśitam ājānāmi yathā ye ime antarāyikā dharmā uktā bhagavatā tān pratisevato nālam antarāyāya | so bhikṣu bhikṣūhi evam asya vacanīyo ☸ mā āyuṣmann evaṃ vada, mā bhagavantam abhyācakṣa asatā durgṛhītena | antarāyikā evāyuṣman dharmāḥ samānā antarāyikā dharmā uktā bhagavatā, alaṃ ca punas tān pratiṣevato antarāyāya | evaṃ ca so bhikṣu bhikṣūhi vucyamāno taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ | no ca pratinissareya so bhikṣu bhikṣūhi yāvantṛtīyakaṃ samanugrāhitavyo samanubhāṣitavyo tasya vastusya pratinissargāya | yāvantṛtīyakaṃ samanugrāhiyamāṇo vā samanubhāṣiyamāṇo vā taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ | no ca pratinissareya so bhikṣuḥ samagreṇa saṃghena utkṣipitavyo | imaṃ tasya bhikṣusya utkṣepaṇapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 69. ukkhittasambhogayo pana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā, saṃvaseyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 46: antarāyikā (2) yo puna bhikṣur jānan bhikṣuṃ tathā utkṣiptaṃ samagreṇa saṃghena dharmeṇa vinayena yathāvādiṃ tathākāriṃ tāṃ pāpikāṃ dṛṣṭiṃ apratinissarantaṃ akṛtānudharmaṃ saṃbhuñjeya vā saṃvaseya vā sahagāraśayyāṃ vā kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 7. dhammadesanāyo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya aññatra viññunā purisaviggahena, pācittiyaṃ.",
+  "skt": "pācattika 5: dharmadeśanā yo puna bhikṣur akalpiyakāro mātṛgrāmasya dharmaṃ deśeya uttari cchahi pañcahi vācāhi anyatra vijñapuruṣapudgalena pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 70. kaṇṭakasamaṇuddesopi ce evaṃ vadeyya “tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā”ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo “māvuso, samaṇuddesa evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, samaṇuddesa antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti, evañca so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo “ajjatagge te, āvuso, samaṇuddesa na ceva so bhagavā satthā apadisitabbo, yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ, sāpi te natthi, cara pire, vinassā”ti. yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṃ kappeyya, pācittiyaṃ.",
+  "skt": "pācattika 47: antarāyikā (3) śramaṇuddeso pi ced evaṃ vadeya tathāham āyuṣmanto bhagavatā dharmaṃ deśitam ājānāmi yathā ye ime antarāyikā kāmā uktā bhagavatā tān pratisevato nālam antarāyāya | so śramaṇuddeśo bhikṣūhi evam asya vacanīyo ☸ mā āyuṣman cchramaṇuddeśa evaṃ vada, mā bhagavantam abhyācakṣa asattā durgṛhītena | antarāyikā evāyuṣman cchramaṇuddeśa kāmāḥ samānā antarāyikāḥ kāmā uktā bhagavatā | alaṃ ca punas tān pratisevato antarāyāya | evaṃ ca so śramaṇuddeśo bhikṣūhi vucyamāno taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ | no ca pratinissareya so śramaṇuddeśo bhikṣūhi yāvantṛtīyakaṃ samanugrāhitavyo samanubhāṣitavyo tasya vastusya pratinissargāya yāvantṛtīyakaṃ samanugrāhiyamāṇo vā samanubhāṣiyamāṇo vā taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ, no ca pratinissareya so śramaṇuddeśo bhikṣūhi nāśayitavyo ☸ adyadagreṇa te āyuṣman śramaṇuddeśa na caiva so bhagavāṃs tathāgato ’rhan samyaksaṃbuddho śāstā vyapadiśitavyo | yaṃ pi ca dāni labhasi bhikṣūhi sārdhaṃ dvirātraṃ vā trirātraṃ vā sahagāraśayyāṃ sāpi te adyadagreṇa nāsti | gaccha naśya cala prapalāhi | yo puna bhikṣur jānan tathānāśitaṃ śramaṇuddeśaṃ yathāvādīṃ tathākāriṃ tāṃ pāpikāṃ dṛṣṭim apratinissarantaṃ akṛtānudharmaṃ upasthāpeya vā upalāpeya vā saṃbhuṃjeya vā saṃvaseya vā sahagāraśayyāṃ vā kalpeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 71. sahadhammikayo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya “na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi, yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī”ti, pācittiyaṃ. sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ, ayaṃ tattha sāmīci.",
+  "skt": "pācattika 75: na śikṣiṣyaṃ yo puna bhikṣu bhikṣūhi evaṃ vucyamāno ☸ imehi te āyuṣman pañcahi āpattikāyehi anadhyāvācāya śikṣā karaṇīyeti, so bhikṣu tān bhikṣūn evaṃ vadeya ☸ na yāvad aham āyuṣmantānāṃ vacanena śikṣiṣyaṃ yāvad ahaṃ na drakṣyāmi sthavirān bhikṣūn sūtradharān vinayadharān mātṛkādharān madhyamān bhikṣūn sūtradharān vinayadharān mātṛkādharān, navakān bhikṣūn sūtradharān vinayadharān mātṛkādharān | tāṃs tāvad aham upasaṃkramya paripṛcchiṣyaṃ paripraśnīkariṣyaṃ ti, pācattikaṃ | śikṣākāmena bhikṣuṇā ājñātavyam upalakṣayitavyaṃ upadhārayitavyaṃ ||"
+},
+{
+  "pli": "pācittiya 72. vilekhanayo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya “kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṃ.",
+  "skt": "pācattika 10: vigarhaṇa yo puna bhikṣur anvardhamāsaṃ sūtre prātimokṣe uddiśyamāne evaṃ vadeya ☸ kiṃ punar āyuṣmanto imehi kṣudrānukṣūdrehi śikṣāpadehi uddiṣṭehi yāvad eva bhikṣūṇāṃ kaukṛtyāya vighātāya vilekhāya saṃvartantīti, śikṣāvigarhaṇe pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 73. mohanayo pana bhikkhu anvaddhamāsaṃ pātimokkhe uddissamāne evaṃ vadeyya “idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī”ti. tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno, tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo “tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamānena sādhukaṃ aṭṭhiṃ katvā manasi karosī”ti, idaṃ tasmiṃ mohanake pācittiyaṃ.",
+  "skt": "pācattika 92: ajñānaka yo puna bhikṣur anvardhamāsaṃ sūtre prātimokṣe uddiśyamāne evaṃ vadeya ☸ adya punar ahaṃ jānāmi, idānīṃ punar ahaṃ jānāmi ☸ ayaṃ pi dharmo sūtrāgato sūtraparyāpanno anvardhamāsaṃ sūtre prātimokṣe uddeśam āgacchati | yāvad ahaṃ na jānāmi tāvan nāstītthaṃ mahyam āpattir jāneṃsu ca te bhikṣu taṃ bhikṣuṃ sakṛd dvikkhuto trikkhuto āgatapūrvaṃ pi sanniṣaṇṇapūrvaṃ pi, kaḥ punar vādo bahuśo | nāsti kho punas tasya bhikṣusya ajñānena muktiḥ | atha khu yāṃ pi ca so bhikṣur āpattim āpanno tāṃ kṣipram eva yathādharmmaṃ yathāvinayaṃ kārāpayitavyo, uttariṃ ca saṃmoham āpādayitavyo | tasya te āyuṣman lābhā durlabdhā yas tvaṃ anvardhamāsaṃ sūtre prātimokṣe uddiśyamāne nāsthīkṛtvā na manasikṛtvā na sarvacetasā samanvāhṛtya avahitaśroto satkṛtya dharmaṃ śṛṇoṣīti | imaṃ tasya bhikṣusya saṃmohapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 74. pahārayo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya, pācittiyaṃ.",
+  "skt": "pācattika 58: praharatiyo puna bhikṣu bhikṣuṃ prahareya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 75. talasattikayo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya, pācittiyaṃ.",
+  "skt": "pācattika 59: talaśaktikā yo puna bhikṣu bhikṣusya talaśaktikām āvarjeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 76. amūlakayo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiyaṃ.",
+  "skt": "pācattika 90: abhyākhyānaṃ yo puna bhikṣu bhikṣusya duṣṭo doṣāt kupito anāttamano amūlakena saṃghātiśeṣeṇa dharmeṇānudhvaṃseya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 77. sañciccayo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya “itissa muhuttampi aphāsu bhavissatī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.",
+  "skt": "pācattika 62: kaukṛtyam yo puna bhikṣu bhikṣusya saṃcintya kaukṛtyam upasaṃhareya kiṃ ti se muhūrtaṃ pi aphāsu bhavatū ti pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 78. upassutiyo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya “yaṃ ime bhaṇissanti, taṃ sossāmī”ti etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.",
+  "skt": "pācattika 78: upaśrotra yo puna bhikṣu bhikṣūhi kalahajātehi bhaṇḍanajātehi vigrahavivādāpannehi viharantehi upaśrotrasthāne tiṣṭheya ☸ yaṃ ete vadiṣyanti taṃ paścād upasaṃhariṣyāmīti | etad eva pratyayaṃ kṛtvā, ananyam, imaṃ tasya bhikṣusya upaśrotrasthāne pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 79. kammappaṭibāhanayo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiyaṃ.",
+  "skt": "pācattika 43: chandam yo puna bhikṣu bhikṣūṇāṃ karmaṇā cchandaṃ datvā paścād duṣṭo doṣāt kupito anāttamano evaṃ vadeya ☸ adinno me chando, durdinno me chando, akṛtāny etāni karmāṇi duṣkṛtāny etāni karmāṇi, nāham eteṣāṃ karmaṇāṃ cchandaṃ demīti vadeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 8. bhūtārocanayo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya, bhūtasmiṃ pācittiyaṃ.",
+  "skt": "pācattika 7: viśeṣaṇam yo puna bhikṣur anupasaṃpannasya pudgalasya santike ātmopanāyikam uttarimanuṣyadharmam alamāryajñānadarśanaṃ viśeṣādhigamaṃ pratijāneya ☸ iti jānāmi iti paśyāmīti bhūtasmiṃ pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 80. chandaṃadatvāgamanayo pana bhikkhu saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṃ.",
+  "skt": "pācattika 79: viniścaya yo puna bhikṣuḥ saṃghe viniścayakathāhi vartamānāhi utthāyāsanāt prakrameya santaṃ bhikṣum anāmantrayitvā, anyatra tathārūpe atyāyike karaṇīye pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 81. dubbalayo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya “yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī”ti, pācittiyaṃ.",
+  "skt": "pācattika 9: yathāsaṃstuta yo puna bhikṣur jānan sāṃghike lābhe bhājīyamāne pūrve samanujño bhūtvā paścāt kṣiyādharmam āpadyeya ☸ yathāsaṃstutam evāyuṣmanto, jānan sāṃghikaṃ lābhaṃ saṃghe pariṇataṃ pudgalo pudgalasya pariṇāmayatīti pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 82. pariṇāmanayo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiyaṃ.",
+  "skt": "pācattika 91: pariṇāmanam yo puna bhikṣur jānan sāṃghikaṃ lābhaṃ saṃghe pariṇataṃ pudgalo pudgalasya pariṇāmeya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 83. antepurayo pana bhikkhu rañño khattiyassa muddhābhisittassa anikkhantarājake aniggataratanake pubbe appaṭisaṃvidito indakhīlaṃ atikkāmeyya, pācittiyaṃ.",
+  "skt": "pācattika 82: rājño yo puna bhikṣu rājñaḥ kṣatriyasya mūrdhābhiṣiktasya janapadasthāmavīryaprāptasya antaḥpuraṃ praviśeyāniṣkrānte rājāne, aniṣkrānte antaḥpure, anirgatehi ratanehi antamaśato indrakīlaṃ pi atikrameya pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 84. ratanayo pana bhikkhu ratanaṃ vā ratanasammataṃ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ “yassa bhavissati, so harissatī”ti, ayaṃ tattha sāmīci.",
+  "skt": "pācattika 49: ratanaṃ yo puna bhikṣur anyatra adhyārāme vā adhyāvasathe vā ratanaṃ vā ratanasaṃmataṃ vā udgṛhṇeya vā udgṛhṇāpeya vā, pācattikaṃ | ākāṃkṣamāṇena bhikṣuṇā ratanaṃ vā ratanasaṃmataṃ vā adhyārāme vā adhyāvasathe vā udgṛhṇitavyaṃ vā udgṛhṇāpayitavyaṃ vā ☸ yasya bhaviṣyati so hariṣyatīti | etad eva pratyayaṃ kṛtvā, ananyam | iyam atra sāmīcī |"
+},
+{
+  "pli": "pācittiya 85. vikālagāmappavesanayo pana bhikkhu santaṃ bhikkhuṃ anāpucchāvikāle gāmaṃ paviseyya aññatra tathārūpā accāyikā karaṇīyā, pācittiyaṃ.",
+  "skt": "pācattika 80: āraṇyaka yo puna bhikṣu āraṇyake śayyāsane viharanto vikāle grāmaṃ praviśeya santaṃ bhikṣum anāmantrayitvā, anyatra tathārūpe atyāyike karaṇīye pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 86. sūcigharayo pana bhikkhu aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya, bhedanakaṃ pācittiyaṃ.",
+  "skt": "pācattika 83: sūcī gṛhaṃ yo puna bhikṣu dantamayaṃ vā asthimayaṃ vā śṛṅgamayaṃ vā suvarṇamayaṃ vā rūpyamayaṃ vā ratanamayaṃ vā sūcīvigrahaṃ kārāpeya bhedanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 87. mañcapīṭhanavaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena aññatra heṭṭhimāya aṭaniyā. taṃ atikkāmayato chedanakaṃ pācittiyaṃ.",
+  "skt": "pācattika 84: mañca mañcaṃ vā pīṭhaṃ vā bhikṣuṇā kārāpayamāṇena sugatāṣṭāṅgulapramāṇāḥ pādakāḥ kārāpayitavyāḥ anyatrāṭṭanīye, taduttariṃ kārāpeya cchedanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 88. tūlonaddhayo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ.",
+  "skt": "pācattika 85: tūla yo puna bhikṣuḥ tūlasaṃstṛte mañce vā pīṭhe vā abhiniṣīdeya vā abhinipadyeya vā uddālanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 89. nisīdananisīdanaṃ pana bhikkhunā kārayamānena pamāṇikaṃ kāretabbaṃ, tatridaṃ pamāṇaṃ, dīghaso dve vidatthiyo sugatavidatthiyā, tiriyaṃ diyaḍḍhaṃ, dasā vidatthi. taṃ atikkāmayato chedanakaṃ pācittiyaṃ.",
+  "skt": "pācattika 86: niṣīdanaṃ niṣīdanaṃ bhikṣuṇā kārāpayamāṇena prāmāṇikaṃ kārāpayitavyaṃ | tatredaṃ pramāṇaṃ ☸ dīrghaśo dve vitastīyo sugatavitastinā tiryag dvyardham anyatra daśavitastikaṃ | taduttariṃ kārāpeya cchedanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 9. duṭṭhullārocanayo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya aññatra bhikkhusammutiyā, pācittiyaṃ.",
+  "skt": "pācattika 8: ārocanā yo puna bhikṣur jānan bhikṣusya duṣṭhullām āpattim anupasaṃpannasya pudgalasya santike āroceya anyatra kṛtāye prakāśanāsaṃmutīye pācattikaṃ |"
+},
+{
+  "pli": "pācittiya 90. kaṇḍuppaṭicchādikaṇḍuppaṭicchādiṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo. taṃ atikkāmayato chedanakaṃ pācittiyaṃ.",
+  "skt": "pācattika 87: kaṇḍū kaṇḍūpraticchādanaṃ bhikṣuṇā kārāpayamāṇena prāmāṇikaṃ kārāpayitavyaṃ | tatredaṃ pramāṇaṃ ☸ dīrghaśo catvāri vitastīyo sugatavitastinā, tiryag dve | taduttariṃ kārāpeya cchedanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 91. vassikasāṭikavassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso cha vidatthiyo sugatavidatthiyā, tiriyaṃ aḍḍhateyyā. taṃ atikkāmayato chedanakaṃ pācittiyaṃ.",
+  "skt": "pācattika 88: varṣāśāṭikā varṣāśāṭikā bhikṣuṇā kārāpayamāṇena prāmāṇikā kārāpayitavyā | tatredaṃ pramāṇaṃ ☸ dīrghaśo ṣaḍvitastīyo sugatavitastinā, tiryag aḍḍhatīyaṃ | taduttariṃ kārāpeya cchedanapācattikaṃ |"
+},
+{
+  "pli": "pācittiya 92. nandayo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya, atirekaṃ vā, chedanakaṃ pācittiyaṃ. tatridaṃ sugatassa sugatacīvarappamāṇaṃ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṃ cha vidatthiyo, idaṃ sugatassa sugatacīvarappamāṇanti.",
+  "skt": "pācattika 89: sugatacīvaram yo puna bhikṣuḥ sugatacīvarapramāṇaṃ cīvaraṃ kārāpeya ☸ kiñca tasya bhagavato tathāgatasyārhataḥ samyaksaṃbuddhasya sugatasya sugatacīvarapramāṇaṃ? dirghaśo nava vitastīyo sugatavitastinā, tiryak ṣaṭ | idaṃ tasya bhagavato tathāgatasyārhataḥ samyaksaṃbuddhasya sugatasya sugatacīvarapramāṇaṃ | tato vā punar uttariṃ kārāpeya cchedanapācattikaṃ |"
+},
+{
+  "pli": "pāṭidesanīya 1. paṭhamapāṭidesanīyayo pana bhikkhu aññātikāya bhikkhuniyā antaragharaṃ paviṭṭhāya hatthato khādanīyaṃ vā bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.",
+  "skt": "prātideśanika 4: yāni kho punar imāni śaikṣasaṃmatāni kulāni bhavanti tatra ca bhikṣuḥ pūrve apravārito upasaṃkramitvā svahastaṃ khādanīyaṃ vā bhojanīyaṃ vā pratigṛhṇitvā khādeya vā bhuñjeya vā bhuktāvinā tena bhikṣuṇā pratideśayitavyaṃ ☸ asaṃpreyaṃ me āyuṣman gārhyaṃ prātideśanikaṃ dharmam āpanno | taṃ dharmaṃ pratideśayāmi | ayaṃ pi dharmo prātideśaniko ||"
+},
+{
+  "pli": "pāṭidesanīya 2. dutiyapāṭidesanīyabhikkhū paneva kulesu nimantitā bhuñjanti, tatra ce sā bhikkhunī vosāsamānarūpā ṭhitā hoti “idha sūpaṃ detha, idha odanaṃ dethā”ti. tehi bhikkhūhi sā bhikkhunī apasādetabbā “apasakka tāva bhagini, yāva bhikkhū bhuñjantī”ti. ekassapi ce bhikkhuno na paṭibhāseyya taṃ bhikkhuniṃ apasādetuṃ “apasakka tāva bhagini, yāva bhikkhū bhuñjantī”ti, paṭidesetabbaṃ tehi bhikkhūhi “gārayhaṃ, āvuso, dhammaṃ āpajjimhā asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemā”ti.",
+  "skt": "prātideśanika 1: yo puna bhikṣu āraṇyake śayanāsane viharanto pūrve apratisaṃveditaṃ bahirdhā apratigṛhītaṃ, antovāsavastusminn agilāno svahastaṃ khādanīyaṃ vā bhojanīyaṃ vā pratigṛhṇitvā khādeya vā bhuñjeya vā bhuktāvinā tena bhikṣuṇā pratideśayitavyaṃ ☸ asaṃpreyaṃ me āyuṣman gārhyaṃ prātideśanikaṃ dharmam āpanno | taṃ dharmaṃ pratideśayāmi | ayaṃ dharmo prātideśaniko ||"
+},
+{
+  "pli": "pāṭidesanīya 3. tatiyapāṭidesanīyayāni kho pana tāni sekkhasammatāni kulāni, yo pana bhikkhu tathārūpesu sekkhasammatesu kulesu pubbe animantito agilāno khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.",
+  "skt": "prātideśanika 2: yo puna bhikṣur anyātikāye bhikṣuṇīye antaragṛhaṃ praviṣṭāye agilāno svahastaṃ khādanīyaṃ vā bhojanīyaṃ vā pratigṛhṇitvā khādeya vā bhuṃjeya vā bhuktāvinā tena bhikṣuṇā pratideśayitavyaṃ ☸ asaṃpreyaṃ me āyuṣman gārhyaṃ prātideśanikaṃ dharmam āpanno | taṃ dharmmaṃ pratideśayāmi | ayaṃ pi dharmo prātideśaniko |"
+},
+{
+  "pli": "pāṭidesanīya 4. catutthapāṭidesanīyayāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṃviditaṃ khādanīyaṃ vā, bhojanīyaṃ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā, bhuñjeyya vā, paṭidesetabbaṃ tena bhikkhunā “gārayhaṃ, āvuso, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.",
+  "skt": "prātideśanika 3: bhikṣu kho punar antaragṛhe nimantritakā bhuñjanti | tatra ca bhikṣuṇī viśvāsamānarūpā sthitā bhavati | sā evam āha ☸ iha odanaṃ dehi, iha sūpaṃ dehi, iha vyañjanaṃ dehīti vā vadeya | sarvehi tehi bhikṣuhi sā bhikṣuṇī evam asya vacanīyā ☸ āgamaya tāva tvaṃ bhagini yāvad bhikṣū bhuñjantīti | ekabhikṣū pi ca tāṃ bhikṣuṇīṃ neva vadeya ☸ āgamaya tāva tvaṃ bhagini yāvad bhikṣū bhuñjantīti, bhuktāvīhi tehi bhikṣūhi pratideśayitavyaṃ ☸ asaṃpreyaṃ me āyuṣman gārhyaṃ prātideśanikaṃ dharmam āpanno | taṃ dharmaṃ pratideśayāmi | ayaṃ pi dharmo prātideśaniko ||"
+},
+{
+  "pli": "pārājika 1. methunadhammayo pana bhikkhu bhikkhūnaṃ sikkhāsājīvasamāpanno sikkhaṃ appaccakkhāya dubbalyaṃ anāvikatvā methunaṃ dhammaṃ paṭiseveyya, antamaso tiracchānagatāyapi, pārājiko hoti asaṃvāso.",
+  "skt": "pārājika 1: maithunam yo puna bhikṣu bhikṣūṇāṃ śikṣāsāmīcīsamāpanno śikṣām apratyākhyāya daurbalyam anāviṣkṛtvā maithunaṃ grāmyadharmaṃ pratiṣeveya antamaśato tiryagyonigatāyam api sādham ayaṃ bhikṣuḥ pārājiko bhavaty asaṃvāsyo, na labhate bhikṣūhi sārdhasaṃvāsaṃ |"
+},
+{
+  "pli": "pārājika 2. adinnādānayo pana bhikkhu gāmā vā araññā vā adinnaṃ theyyasaṅkhātaṃ ādiyeyya, yathārūpe adinnādāne rājāno coraṃ gahetvā haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā corosi bālosi mūḷhosi thenosīti, tathārūpaṃ bhikkhu adinnaṃ ādiyamāno ayampi pārājiko hoti asaṃvāso.",
+  "skt": "pārājika 2: adinnādānaṃ yo puna bhikṣu grāmād vā araṇyād vā adinnam anyātakaṃ stainasaṃskāram ādiyeya yathārūpeṇādinnādānena rājāno gṛhītvā haneṃsu vā bandheṃsu vā pravrājeṃsu vā hambho puruṣa coro ’si bālo ’si mūḍho ’si stainyo ’sīti vā vadeṃsu, tathārūpaṃ bhikṣur adinnam ādiyamāno ayam pi bhikṣuḥ pārājiko bhavaty asaṃvāsyo, na labhate bhikṣūhi sārdhasaṃvāsaṃ |"
+},
+{
+  "pli": "pārājika 3. manussaviggahayo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya, satthahārakaṃ vāssa pariyeseyya, maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya “ambho purisa kiṃ tuyhiminā pāpakena dujjīvitena, mataṃ te jīvitā seyyo”ti, iti cittamano cittasaṅkappo anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya, maraṇāya vā samādapeyya, ayampi pārājiko hoti asaṃvāso.",
+  "skt": "pārājika 3: vadho manuṣyavigrahasya yo puna bhikṣuḥ svahastaṃ manuṣyavigrahaṃ jīvitād vyaparopeya śastrahārakaṃ vāsya paryeṣeya, maraṇāya cainaṃ samādāpeya, maraṇavarṇaṃ vāsya saṃvarṇeya ☸ hambho puruṣa kiṃ te iminā pāpakena durjīvitena dhigjīvitena, mṛtaṃ te jīvitāc chreyo ☸ iti cittam alaṃ cittasaṃkalpam anekaparyāyeṇa maraṇāya vainaṃ samādāpeya maraṇavarṇaṃ vāsya saṃvarṇeya, so ca puruṣo tenopakrameṇa kālaṃ kuryān nānyena, ayaṃ pi bhikṣuḥ pārājiko bhavaty asaṃvāsyo, na labhate bhikṣūhi sārdhasaṃvāsaṃ |"
+},
+{
+  "pli": "pārājika 4. uttarimanussadhammayo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ attupanāyikaṃ alamariyañāṇadassanaṃ samudācareyya “iti jānāmi, iti passāmī”ti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā āpanno visuddhāpekkho evaṃ vadeyya “ajānamevaṃ āvuso avacaṃ jānāmi, apassaṃ passāmi, tucchaṃ musā vilapi”nti, aññatra adhimānā, ayampi pārājiko hoti asaṃvāso.",
+  "skt": "pārājika 4: abhūtena cottarimanuṣyadharmaṃ pratijānāti yo puna bhikṣur anabhijānann aparijānann ātmopanāyikam uttarimanuṣyadharmam alamāryajñānadarśanaṃ viśeṣādhigamaṃ prātajāneya ita jānāmi ita paśyāmīti | so tad apareṇa samayena samanugrāhiyamāṇo vā asamanugrāhiyamāṇo vā āpanno viśuddhiprekṣo evam avaci ☸ ajānann evāham āyuṣmanto avaci jānāmi, apaśyan paśyāmīti | iti tucchaṃ mṛṣā vilāpam anyatrābhimānāt ayaṃ pi bhikṣuḥ pārājiko bhavaty asaṃvāsyo na labhate bhikṣūhi sārdhasaṃvāsaṃ |"
+},
+{
+  "pli": "sekhiya 1. parimaṇḍalaparimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 1: parimaṇḍalaṃ nivasanaṃ nivāsayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 10.na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 19: na utkṣiptikāya antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 11. ujjagghikana ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 6: na uccagghikāya antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 12.na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 17: na uccagghikāya antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 13. uccasaddaappasaddo antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 5: alpaśabdo antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 14.appasaddo antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 16: alpaśabdo antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 15. kāyappacālakana kāyappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 11: na kāyapracālakam antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 17. bāhuppacālakana bāhuppacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 13: na bāhuvikṣepakam antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 19. sīsappacālakana sīsappacālakaṃ antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 12: na śīrṣapracālakam antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 2.parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 2: parimaṇḍalaṃ cīvaraṃ prāvariṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 21. khambhakatana khambhakato antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 10: na khambhakṛto antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 22.na khambhakato antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 22: na khambhakṛto antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 23. oguṇṭhitana oguṇṭhito antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 7: na oguṇṭhikāya antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 24.na oguṇṭhito antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 18: na oguṇṭhikāya antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 25. ukkuṭikana ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 9: na utkuṭukāya antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 26. pallatthikana pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 21: na pallatthikāya antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 32. pattasaññībhuñjanapattasaññī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 44: na pātrasaṃjñī piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 34. samasūpakasamasūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 25: samasūpaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 35. nathūpakatana thūpakato omadditvā piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 26: na stūpakārakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 36. odanappaṭicchādanana sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi bhiyyokamyataṃ upādāyāti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 46: na dinnadinnāni vyaṃjanāni odanena pracchādayiṣyāmi bhūyo āgamanakarmatām upādāyeti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 37. sūpodanaviññattina sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 45: na agilāno odanaṃ vā sūpaṃ vā vyañjanaṃ vā ātmārthāya kulehi vijñāpetvā vā vijñāpāyetvā vā piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 38. ujjhānasaññīna ujjhānasaññī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 43: nātivelaṃ parasya pātraṃ nidhyāyiṣyāmi odhyāyanakarmatām upādāyeti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 39. kabaḷanātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 30: nātimahantehi kavaḍehi piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 41. anāhaṭana anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 31: nānāgate kavaḍe mukhadvāraṃ vivariṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 43. sakabaḷana sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 34: na sakavaḍena mukhena vācaṃ bhāṣiṣyamīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 44. piṇḍukkhepakana piṇḍukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 32: na kavaḍotkṣepakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 45. kabaḷāvacchedakana kabaḷāvacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 33: na kavaḍacchedakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 46. avagaṇḍakārakana avagaṇḍakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 28: nāvagaṇḍakārakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 47. hatthaniddhunakana hatthaniddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 41: na hastanirdhūnakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 48. sitthāvakārakana sitthāvakārakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 42: na sitthāpakārakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 49. jivhānicchārakana jivhānicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 29: na jihvānicārakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 5. susaṃvutasusaṃvuto antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 3: susaṃvṛto antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 50. capucapukārakana capucapukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 38: na cuccukāraṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 51. surusurukārakana surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 39: na surusurukāraṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 52. hatthanillehakana hatthanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 36: na hastanirlehakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 53. pattanillehakana pattanillehakaṃ bhuñjissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 35: na pātranirlehakaṃ piṇḍapātaṃ paribhuṃjiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 55. sāmisana sāmisena hatthena pānīyathālakaṃ paṭiggahessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 48: na sasitthena pāṇinā pānīyasthālakaṃ pratigṛhṇiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 56. sasitthakana sasitthakaṃ pattadhovanaṃ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 47: na sasitthaṃ pātrodakaṃ pṛthivyāṃ niṣiñciṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 57. chattapāṇina chattapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 61: na cchatrapāṇisya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 58. daṇḍapāṇina daṇḍapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 60: na daṇḍapāṇisya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 59. satthapāṇina satthapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 58: na śastrapāṇisya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 6.susaṃvuto antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 14: susaṃvṛto antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 60. āvudhapāṇina āvudhapāṇissa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 59: nāyudhapāṇisya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 61. pādukana pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 53: na pādukārūḍhasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 62. upāhanana upāhanāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 52: na upānahārūḍhasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 63. yānana yānagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 64: na pādena gacchanto yānena gacchantasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 65. pallatthikana pallatthikāya nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 57: na pallatthikāya niṣaṇṇasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 66. veṭhitana veṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 55: na saṃmukhāveṣṭitasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 67. oguṇṭhitana oguṇṭhitasīsassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 54: na oguṇṭhikākṛtasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 69. nīcāsanana nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 51: na nīcāsane niṣaṇṇo uccāsane niṣaṇṇasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 7. okkhittacakkhuokkhittacakkhu antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 4: na utkṣiptacakṣur antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 70. ṭhitana ṭhito nisinnassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 49: na sthito niṣaṇṇasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 71. pacchatogamanana pacchato gacchanto purato gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 63: na pṛṣṭhato gacchanto purato gacchantasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 72. uppathenagamanana uppathena gacchanto pathena gacchantassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 62: na utpathena gacchanto pathena gacchantasya agilānasya dharmaṃ deśayiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 73. ṭhitouccārana ṭhito agilāno uccāraṃ vā passāvaṃ vā karissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 67: na sthito uccāraṃ vā prasrāvaṃ vā agilāno kariṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 74. hariteuccārana harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 65: na harite tṛṇe uccāraṃ vā prasrāvaṃ vā kheṭaṃ vā siṃhāṇaṃ vā agilāno kariṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 75. udakeuccārana udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā karissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 66: na udake uccāraṃ vā prasrāvaṃ vā kheṭaṃ vā siṃhāṇakaṃ vā agilāno kariṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 8.okkhittacakkhu antaraghare nisīdissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 15: na utkṣiptacakṣu antaragṛhe niṣīdiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "sekhiya 9. ukkhittakana ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.",
+  "skt": "śaikṣa 8: na utkṣiptikāya antaragṛham upasaṃkramiṣyāmīti śikṣā karaṇīyā |"
+},
+{
+  "pli": "saṅghādisesa 1. sukkavissaṭṭhisañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 1: saṃcetanikā saṃcetanikāye śukrasya visṛṣṭīye anyatra svapnāntare saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 10. saṅghabhedayo pana bhikkhu samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha tiṭṭheyya, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā samaggassa saṅghassa bhedāya parakkami, bhedanasaṃvattanikaṃ vā adhikaraṇaṃ samādāya paggayha aṭṭhāsi, sametāyasmā saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 10: saṃghasya ca bhedāyopakrāmati yo puna bhikṣuḥ samagrasya saṃghasya bhedāya parākrameya bhedanasaṃvartanīyaṃ vādhikaraṇaṃ samādāya pragṛhya tiṣṭheya, so bhikṣu bhikṣūhi evam asya vacanīyo ☸ mā āyuṣman samagrasya saṃghasya bhedāya parākramehi, bhedanasaṃvartanīyaṃ vā adhikaraṇaṃ samādāya pragṛhya tiṣṭhāhi | sametu āyuṣmān sārdhaṃ saṃghena, samagro hi saṃgho sahito sammodamāno avivadamāno ekuddeśo kṣīrodakībhūto śāstuḥ śāsanaṃ dīpayamāno sukhaṃ ca phāsuṃ ca viharati | evaṃ ca so bhikṣu bhikṣūhi vucyamāno taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ | no ca pratinissareya, so bhikṣu bhikṣūhi yāvantṛtīyakaṃ samanugrāhitavyo samanubhāṣitavyo tasya vastusya pratinissargāya | yāvantṛtīyakaṃ samanugrāhiyamāṇo vā samanubhāṣiyamāṇo vā taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ | no ca pratinissareya tam eva vastuṃ samādāya pragṛhya tiṣṭheya saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 11. bhedānuvattakatasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā, te evaṃ vadeyyuṃ “māyasmanto etaṃ bhikkhuṃ kiñci avacuttha, dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu, amhākañceso bhikkhu chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṃ khamatī”ti, te bhikkhū bhikkhūhi evamassu vacanīyā “māyasmanto evaṃ avacuttha, na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī, māyasmantānampi saṅghabhedo ruccittha, sametāyasmantānaṃ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 11: tasya cānuvartakāḥ tasya kho puna bhikṣusya bhikṣū sahāyakā bhonti eko vā, dvau vā trayo vā saṃbahulā vā, vargavādakā anuvartakāḥ samanujñāḥ saṃghabhedāya | te bhikṣū tān bhikṣūn evaṃ vadeṃsu ☸ mā āyuṣmanto etaṃ bhikṣuṃ kiñcid vadatha kalyāṇaṃ vā pāpakaṃ vā | dharmavādī caiṣo bhikṣur vinayavādī caiṣo bhikṣu, asmākaṃ caiṣo bhikṣu cchandaṃ ca ruciṃ ca samādāya pragṛhya vyavaharati | yaṃ caitasya bhikṣusya kṣamate ca rocate ca asmākam api taṃ kṣamate ca rocate ca | jānan caiṣo bhikṣu bhāṣate no ajānan | te bhikṣu bhikṣūhi evam asya vacanīyā ☸ mā āyuṣmanto evaṃ vadatha, na eṣo bhikṣur dharmavādī, na eṣo bhikṣur vinayavādī, adharmavādī caiṣo bhikṣu, avinayavādī caiṣo bhikṣu, ajānan caiṣo bhikṣu bhāṣate no jānan | mā āyuṣmanto saṃghabhedaṃ rocentu, saṃghasāmagrīm evāyuṣmanto rocentu | samentu āyuṣmanto sārdhaṃ saṃghena | samagro hi sahito sammodamāno avivadamāno ekuddeśo kṣīrodakībhūto śāstuḥ śāsanaṃ dīpayamāno sukhaṃ ca phāsuṃ ca viharati | evaṃ ca te bhikṣū bhikṣūhi vucyamānās taṃ vastuṃ pratinissareṃsu ity etaṃ kuśalaṃ, no ca pratinissareṃsu te bhikṣū bhikṣūhi yāvantṛtīyakaṃ samanugrāhitavyāḥ samanubhāṣitavyāḥ tasya vastusya pratinissargāya | yāvantṛtīyakaṃ samanugrāhiyamāṇā vā samanubhāṣiyamāṇā vā taṃ vastuṃ pratinissareṃsu ity etaṃ kuśalaṃ, no ca pratinissareṃsu tam eva ca vastuṃ samādāya pragṛhya tiṣṭheṃsu saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 12. dubbacabhikkhu paneva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti “mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahampāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyasmanto mama vacanāyā”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā attānaṃ avacanīyaṃ akāsi, vacanīyamevāyasmā attānaṃ karotu, āyasmāpi bhikkhū vadatu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena, evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 12: durvacako bhikṣuḥ kho puna durvacakajātīyo bhoti | so uddeśaparyāpannehi śikṣāpadehi bhikṣūhi śikṣāyāṃ saha dharmeṇa saha vinayena vucyamāno ātmānam avacanīyaṃ karoti | so evam āha ☸ mā me āyuṣmanto kiñcid vadatha kalyāṇaṃ vā pāpakaṃ vā | aham apy āyuṣmantānāṃ na kiñcid vakṣyāmi kalyāṇaṃ vā pāpakaṃ vā | viramathāyuṣmanto mama vacanāya | so bhikṣu bhikṣūhi evam asya vacanīyo ☸ mā āyuṣmann uddeśaparyāpannehi śikṣāpadehi bhikṣūhi śikṣāyāṃ saha dharmeṇa saha vinayena vucyamāno ātmānam avacanīyaṃ karohi | avacanīyam evāyuṣmān ātmānaṃ karotu | bhikṣū pi āyuṣmantaṃ vakṣyanti śikṣāyāṃ saha dharmeṇa saha vinayena | āyuṣmān api bhikṣūn vadatu śikṣāyāṃ saha dharmeṇa saha vinayena | evaṃ saṃbaddhā kho punas tasya bhagavato tathāgatasyārhataḥ samyaksambuddhasya parṣā yad idam anyamanyasya vacanīyā, anyonyāpatti vyutthāpanīyā | evaṃ ca so bhikṣū bhikṣūhi vucyamāno taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ, no ca pratinissareya so bhikṣu bhikṣūhi yāvantṛtīyakaṃ samanugrāhitavyo samanubhāṣitavyo tasya vastusya pratinissargāya | yāvantṛtīyakaṃ samanugrāhiyamāṇo vā taṃ vastuṃ pratinissareya ity etaṃ kuśalaṃ, no ca pratinissareya tam eva vastuṃ samādāya pragṛhya tiṣṭheya saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 13. kuladūsakabhikkhu paneva aññataraṃ gāmaṃ vā nigamaṃ vā upanissāya viharati kuladūsako pāpasamācāro, tassa kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tena duṭṭhāni dissanti ceva suyyanti ca, so bhikkhu bhikkhūhi evamassa vacanīyo “āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyasmā imamhā āvāsā, alaṃ te idha vāsenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno te bhikkhū evaṃ vadeyya “chandagāmino ca bhikkhū, dosagāmino ca bhikkhū, mohagāmino ca bhikkhū, bhayagāmino ca bhikkhū tādisikāya āpattiyā ekaccaṃ pabbājenti, ekaccaṃ na pabbājentī”ti, so bhikkhu bhikkhūhi evamassa vacanīyo “māyasmā evaṃ avaca, na ca bhikkhū chandagāmino, na ca bhikkhū dosagāmino, na ca bhikkhū mohagāmino, na ca bhikkhū bhayagāmino, āyasmā kho kuladūsako pāpasamācāro, āyasmato kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyasmatā duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyasmā imamhā āvāsā, alaṃ te idha vāsenā”ti, evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 13: kuladūṣakāś saṃbahulā bhikṣū kho punar anyataraṃ grāmam vā nagaraṃ vā nigamaṃ vā upaniśrāya viharanti kuladūṣakāḥ pāpasamācārāḥ | teṣāṃ te pāpakāḥ samācārā dṛśyante ca śrūyante ca | kulāny api duṣṭāni dṛśyante ca śrūyante ca | kuladūṣakāś ca punar bhavanti pāpasamācārāḥ | te bhikṣū bhikṣūhi evam asya vacanīyāḥ ☸ āyuṣmantānāṃ khalu pāpakāḥ samācārāḥ dṛśyante ca śrūyante ca | kulāny api duṣṭāni dṛśyante ca śrūyante ca | kuladūṣakāś ca punar āyuṣmantaḥ pāpasamācārāḥ | prakramathāyuṣmanto imasmād āvāsād alaṃ vo iha vustena | evaṃ ca te bhikṣū bhikṣūhi vucyamānās te bhikṣū tān bhikṣūn evaṃ vadeṃsu ☸ cchandagāmī cāyuṣmanto doṣagāmī cāyuṣmanto saṃgho, mohagāmī cāyuṣmanto saṃgho, bhayagāmī cāyuṣmanto saṃgho, saṃgho ca tāhi tādṛśikāhi āpattīhi ekatyān bhikṣūn pravrājeti ekatyān bhikṣūn na pravrājeti | te bhikṣū bhikṣūhi evam asya vacanīyāḥ ☸ mā āyuṣmanto evaṃ vadatha | na saṃgho cchandagāmī, na saṃgho doṣagāmī, na saṃgho mohagāmī, na saṃgho bhayagāmī | na ca saṃgho tāhi tādṛśikāhi āpattīhi ekatyān bhikṣūn pravrājeti, ekatyān bhikṣūn na pravrājeti | āyuṣmantānām eva khalu pāpakāḥ samācārāḥ dṛśyante ca śrūyante ca | kulāny api duṣṭāni dṛśyante ca śrūyante ca | kuladūṣakāś ca punar āyuṣmantaḥ pāpasamācārāḥ | prakramathāyuṣmanto imasmād āvāsād alaṃ vo iha vustena | evaṃ ca te bhikṣū bhikṣūhi vucyamānā taṃ vastuṃ pratinissareṃsu ity etaṃ kuśalaṃ | no ca pratinissareṃsu te bhikṣū bhikṣūhi yāvantṛtīyakaṃ samanugrāhitavyā samanubhāṣitavyās tasya vastusya pratinissargāya | yāvantṛtīyakaṃ samanugrāhiyamāṇā vā samanubhāṣiyamāṇā vā taṃ vastuṃ pratinissareṃsu ity etaṃ kuśalaṃ | no ca pratinissareṃsu tam eva vastuṃ samādāya pragṛhya tiṣṭheṃsu saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 2. kāyasaṃsaggayo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṃ kāyasaṃsaggaṃ samāpajjeyya hatthaggāhaṃ vā veṇiggāhaṃ vā aññatarassa vā aññatarassa vā aṅgassa parāmasanaṃ, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 2: hastagraho yo puna bhikṣu otīrṇo vipariṇatena cittena mātṛgrāmeṇa sārdhaṃ kāyasaṃsargaṃ samāpadyeya saṃyathīdaṃ hastagrahaṇaṃ vā veṇīgrahaṇaṃ vā anyatarānyatarasya vā punar aṅgajātasya āmoṣaṇaparāmoṣaṇaṃ sādiyeya saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 3. duṭṭhullavācāyo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya yathā taṃ yuvā yuvatiṃ methunupasaṃhitāhi, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 3: obhāṣo yo puna bhikṣu otīrṇo vipariṇatena cittena mātṛgrāmaṃ duṣṭhullāya vācāya obhāṣeya pāpikāya maithunopasaṃhitāya saṃyathīdaṃ yuvāṃ yuvatīti saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 4. attakāmapāricariyayo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṃ bhāseyya “etadaggaṃ bhagini pāricariyānaṃ yā mādisaṃ sīlavantaṃ kalyāṇadhammaṃ brahmacāriṃ etena dhammena paricareyyā”ti methunupasaṃhitena, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 4: paricaryā yo puna bhikṣu otīrṇo vipariṇatena cittena mātṛgrāmasya antike ātmikāye paricaryāye varṇaṃ bhāṣeya ☸ etad agraṃ bhagini paricaryāṇāṃ yā mādṛśaṃ śramaṇaṃ śīlavantaṃ kalyāṇadharmaṃ brahmacāriṃ etena dharmeṇa upasthiheya paricareya yaduta maithunopasaṃhiteneti saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 5. sañcarittayo pana bhikkhu sañcarittaṃ samāpajjeyya itthiyā vā purisamatiṃ purisassa vā itthimatiṃ, jāyattane vā jārattane vā, antamaso taṅkhaṇikāyapi, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 5: saṃcaritraṃ yo puna bhikṣuḥ saṃcaritraṃ samāpadyeya istriyāye mataṃ puruṣasyopasaṃhareya puruṣasya vā mataṃ istriyāye upasaṃhareya jāyattanena vā jārtanena vā antamaśato tatkṣaṇikāyām api saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 6. kuṭikārasaññācikāya pana bhikkhunā kuṭiṃ kārayamānena assāmikaṃ attuddesaṃ pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ, dīghaso dvādasa vidatthiyo sugatavidatthiyā, tiriyaṃ sattantarā, bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ. sārambhe ce bhikkhu vatthusmiṃ aparikkamane saññācikāya kuṭiṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, pamāṇaṃ vā atikkāmeyya, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 6: kuṭīṃ svayaṃ yācikāya bhikṣuṇā kuṭī kārayamāṇena asvāmikātmoddeśikā kuṭī kārāpayitavyā | tatredaṃ pramāṇaṃ ☸ dīrghaśo dvādaśa vitastīyo sugatavitastinā | tiryak saptāntaraṃ | bhikṣū cānenābhinetavyā vastudeśanāya | tehi bhikṣuhi vastu deśayitavyaṃ | anāraṃbhaṃ saparikramaṇaṃ | sāraṃbhe ced bhikṣu vastusminn aparikramaṇe svayaṃyācikāya kuṭīṃ kārāpeya asvāmikām ātmoddeśikāṃ bhikṣūn vā nābhineya vastudesanāya, pramāṇaṃ vā atikrameya, adeśite vastusminn aparikramaṇe saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 7. vihārakāramahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ bhikkhū abhinetabbā vatthudesanāya, tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ. sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya, bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 7: vihāro mahālakaṃ bhikṣuṇā vihāraṃ kārāpayamāṇena sasvāmikam ātmoddeśikaṃ bhikṣū cānenābhinetavyā vastudeśanāya | tehi bhikṣūhi vastu deśayitavyaṃ | anāraṃbhaṃ saparikramaṇaṃ | sāraṃbhe ced bhikṣu vastusminn aparikramaṇe mahallakaṃ vihāraṃ kārāpeya sasvāmikam ātmoddeśikaṃ bhikṣūn vā nābhineya vastudeśanāya, adeśite vastusminn aparikramaṇe saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 8. duṭṭhadosayo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto amūlakena pārājikena dhammena anuddhaṃseyya “appeva nāma naṃ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā amūlakañceva taṃ adhikaraṇaṃ hoti, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 8: abhūtena (1) yo puna bhikṣu bhikṣusya duṣṭo, doṣāt kupito, anāttamano śuddhaṃ bhikṣum anāpattikam amūlakena pārājikena dharmeṇa anudhvaṃseya apy evaṃ nāma imaṃ bhikṣuṃ brahmacaryāto cyāveyaṃ ti, so tad apareṇa samayena samanugrāhiyamāṇo vā asamanugrāhiyamāṇo vā amūlakam eva tam adhikaraṇaṃ bhavati | amūlakasya ca adhikaraṇasya ca adharmo upādinno bhavati, bhikṣu ca doṣe pratiṣṭhihati doṣād avacāmīti saṃghātiśeṣo |"
+},
+{
+  "pli": "saṅghādisesa 9. aññabhāgiyayo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto aññabhāgiyassa adhikaraṇassa kiñcidesaṃ lesamattaṃ upādāya pārājikena dhammena anuddhaṃseyya “appeva nāma naṃ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamāno vā asamanuggāhīyamāno vā aññabhāgiyañceva taṃ adhikaraṇaṃ hoti kocideso lesamatto upādinno, bhikkhu ca dosaṃ patiṭṭhāti, saṅghādiseso.",
+  "skt": "saṃghātiśeṣa 9: abhūtena (2) yo puna bhikṣu bhikṣusya duṣṭo, doṣāt kupito, anāttamano anyabhāgīyasyādhikaraṇasya kiñcid eva leśamātrakaṃ dharmam upādāya aparājikaṃ bhikṣuṃ pārājikena dharmeṇa anudhvaṃseya apy eva nāma imaṃ bhikṣuṃ brahmacaryāto cyāveyaṃ ti, so tad apareṇa samayena samanugrāhiyamāṇo vā asamanugrāhiyamāṇo vā anyabhāgīyam eva tam adhikaraṇaṃ bhavati, anyabhāgīyasya cādhikaraṇasya kocid eva leśamātrako dharmo upādinno bhavati, bhikṣu ca doṣe pratiṣṭhihati doṣād avacāmīti saṃghātiśeṣo |"
+},
+{
   "pli": "manopubbaṅgamā dhammā, manoseṭṭhā manomayā; manasā ce paduṭṭhena, bhāsati vā karoti vā; tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.",
   "skt": "manaḥpūrvaṅgamā dharmā manaḥśreṣṭhā manojavāḥ । manasā hi praduṣṭena bhāṣate vā karoti vā । tatas taṁ duḥkham anveti cakraṁ vā vahataḥ padam ।।"
 },
