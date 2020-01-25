@@ -1,4 +1,3 @@
-// Do vinaya pm automatically
 [
 {
   "pli": "Pāpaṃ na kayirā vacasā manasā, Kāyena vā kiñcana sabbaloke; Kāme pahāya satimā sampajāno, Dukkhaṃ na sevetha anatthasaṃhitan'ti",
@@ -547,96 +546,354 @@
   ]
 },
 {
-  "pli": "Dvemā, bhikkhave, parisā. Katamā dve? Āmisagaru parisā no saddhammagaru, saddhammagaru parisā no āmisagaru. Katamā ca, bhikkhave, āmisagaru parisā no saddhammagaru? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū gihīnaṃ odātavasanānaṃ sammukhā aññamaññassa vaṇṇaṃ bhāsanti: ‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti. Te tena lābhaṃ labhanti. Te taṃ lābhaṃ labhitvā gathitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti. Ayaṃ vuccati, bhikkhave, āmisagaru parisā no saddhammagaru.",
-  "skt": "",
-  "matches": [
-    "an2.48",
-    "sf217#26.51-#26.54",
-  ]
-},
-{
-  "pli": "Katamā ca, bhikkhave, saddhammagaru parisā noāmisagaru? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū gihīnaṃ odātavasanānaṃ sammukhā aññamaññassa vaṇṇaṃ na bhāsanti: ‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti. Te tena lābhaṃ labhanti. Te taṃ lābhaṃ labhitvā agathitā amucchitā anajjhosannā ādīnavadassāvino nissaraṇapaññā paribhuñjanti. Ayaṃ vuccati, bhikkhave, saddhammagaru parisā noāmisagaru. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ saddhammagaru parisā noāmisagarū”ti.",
-  "skt": "",
-  "matches": [
-    "an2.48",
-    "sf217#26.51-#26.54",
-  ]
-},
-{
-  "pli": "Dvemā, bhikkhave, parisā. Katamā dve? Visamā ca parisā samā ca parisā. Katamā ca, bhikkhave, visamā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ adhammakammāni pavattanti dhammakammāni nappavattanti, avinayakammāni pavattanti vinayakammāni nappavattanti, adhammakammāni dippanti dhammakammāni na dippanti, avinayakammāni dippanti vinayakammāni na dippanti. Ayaṃ vuccati, bhikkhave, visamā parisā. ",
-  "skt": "",
+  "pli": "Visamā ca parisā samā ca parisā. Katamā ca visamā parisā? Ayaṃ vuccati visamā parisā. ",
+  "skt": "viṣamāṃ ca vaḥ parṣadaṃ deśayiṣyāmi samāṃ ca | viṣamā parṣat katamā | iyam ucyate viṣamā parṣat |",
   "matches": [
     "an2.49",
     "sf217#26.61-#26.64",
   ]
 },
 {
-  "pli": "Katamā ca, bhikkhave, samā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ dhammakammāni pavattanti adhammakammāni nappavattanti, vinayakammāni pavattanti avinayakammāni nappavattanti, dhammakammāni dippanti adhammakammāni na dippanti, vinayakammāni dippanti avinayakammāni na dippanti. Ayaṃ vuccati, bhikkhave, samā parisā. () Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ samā parisā”ti.",
-  "skt": "",
+  "pli": "Katamā ca, samā parisā? Ayaṃ vuccati, samā parisā.",
+  "skt": "samā parṣat katamā | iyam ucyate samā parṣat |",
   "matches": [
     "an2.49",
     "sf217#26.61-#26.64",
   ]
 },
 {
-  "pli": "",
-  "skt": "",
+  "pli": "Dveme, atthavase sampassamānā kiṃpurisā mānusiṃ vācaṃ na bhāsanti. Mā ca musā bhaṇimhā, mā ca paraṃ abhūtena abbhācikkhimhāti.",
+  "skt": "dvāv arthavaśau saṃpaśyan kiṃpuruṣaḥ kiṃpuruṣīṃ vācaṃ na bhāṣate | mā ca mṛṣāvādaṃ kariṣyāmi mā ca pareṣām asatāṃ duḥkhadaurmanasyam utpādayiṣyāmi |",
   "matches": [
     "an2.60",
     "sf225#28.61",
   ]
 },
 {
-  "pli": "",
-  "skt": "",
+  "pli": "Catasso imā, bhikkhave, paṭipadā.",
+  "skt": "Tatra bhikṣavaḥ katamāś-catasraḥ pratipadaḥ?"
+},
+{
+  "pli": "Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.",
+  "skt": "Asti bhikṣavo duḥkhā pratipad dhandhābhijñā | asti duḥkhā pratipat kṣiprābhijñā | asti sukhā pratipad dhandhābhijñā | asti sukhā pratipat kṣiprābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, dukkhā paṭipadā dandhābhiññā?",
+  "skt": "Tatra katamā duḥkhā pratipad dhandhābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaiva tīvra-rāgo bhavati | tīvra-dveṣo bhavati, tīvra-moho bhavati | so ’bhīkṣṇaṁ tīvra-rāgatayā rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-dveṣatayā dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-mohatayā mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni mudūni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi dhandhāni bhavanti |"
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa evaṁ pañcānāṁ lokottarāṇam-indriyāṇāṁ mṛdutvād-aśīghra-vāhitvāc-ca dhandham evānantaryaṁ samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā dandhābhiññā.",
+  "skt": "Iyaṁ duḥkhā pratipad dhandhābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, dukkhā paṭipadā khippābhiññā?",
+  "skt": "Tatra katamā duḥkhā pratipat kṣiprābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaiva tīvra-rāgo bhavati | tīvra-dveṣo [bhavati], tīvra-moho [bhavati] | so ’bhīkṣṇaṁ tīvra-rāgatayā rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-dveṣatayā dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-mohatayā mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni adhimattāni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi adhimātrāṇi bhavanti | "
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa eṣāṁ pañcānāṁ lokottarāṇām-indriyāṇām-adhimātratvāt (tīkṣṇatvāt) śīghra-vāhitvāc-ca kṣipram evānantaryaṁ samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā khippābhiññā.",
+  "skt": "Iyaṁ duḥkhā pratipat kṣiprābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, sukhā paṭipadā dandhābhiññā?",
+  "skt": "Tatra katamā sukhā pratipad dhandhābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaivālparāgo bhavati | alpadveṣo bhavati, alpamoho bhavati | so ’lparāgatayā nābhīkṣṇaṁ rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpadveṣatayā nābhīkṣṇaṁ dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpamohatayā nābhīkṣṇaṁ mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni mudūni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi dhandhāni bhavanti | "
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa eṣāṁ pañcānāṁ lokottarāṇām-indriyāṇāṁ dhandhatvād-atīkṣṇātvān-mṛdutvād-aśīghra-vāhitvāc-ca dhandham evānantarya-samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, sukhā paṭipadā dandhābhiññā.",
+  "skt": "Iyaṁ sukhā pratipad dhandhābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, sukhā paṭipadā khippābhiññā?",
+  "skt": "Tatra katamā sukhā pratipat kṣiprābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaivālparāgo bhavati | alpadveṣaḥ, alpamohaḥ | so ’lparāgatayā nābhīkṣṇaṁ rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpadveṣatayā nābhīkṣṇaṁ dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpamohatayā nābhīkṣṇaṁ mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni adhimattāni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi adhimātrāṇi bhavanti | "
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa eṣāṁ pañcānāṁ lokottarāṇām-indriyāṇāṁ-adhimātratvāt tīkṣṇatvāt śīghra-vāhitvāc-ca kṣipram evānantaryaṁ samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, sukhā paṭipadā khippābhiññā.",
+  "skt": "Iyam-ucyate sukhā pratipat kṣiprābhijñā ||"
+},
+{
+  "pli": "Imā kho, bhikkhave, catasso paṭipadā”ti.",
+  "skt": "Imā bhikṣavaḥ catasraḥ pratipadaḥ ||",
   "matches": [
     "an4.162",
     "arv11",
   ]
 },
 {
-  "pli": "",
-  "skt": "",
+  "pli": "Tatra kho bhagavā bhikkhū āmantesi:",
+  "skt": "tatra bhagavān āyuṣmantam ānandam āmantrayate ||"
+},
+{
+  "pli": "Idha, bhikkhave, bhikkhu evaṃ vadeyya",
+  "skt": "ihānanda bhikṣur āgacchet sa evaṃ vadet ||"
+},
+{
+  "pli": "‘sammukhā metaṃ, āvuso, bhagavato sutaṃ sammukhā paṭiggahitaṃ—ayaṃ dhammo, ayaṃ vinayo, idaṃ satthusāsanan’ti.",
+  "skt": "saṃmukhaṃ me bhagavato ’ntikāc chrutaṃ saṃmukham udgṛhītam ayaṃ dharmo ’yaṃ vinaya idaṃ śāstuḥ śāsanam ||"
+},
+{
+  "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṃ neva abhinanditabbaṃ nappaṭikkositabbaṃ.",
+  "skt": "tasya bhikṣavas tan notsāhayitavyaṃ nāvasādayitavyam || "
+},
+{
+  "pli": "Anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā sutte otāretabbāni, vinaye sandassetabbāni.",
+  "skt": "anutsāhayitvānavasādayitvā śrotram avadhāya tāni padavyaṃjanāny udgṛhya sūtre ’vatārayitavyaṃ vinaye saṃdarśayitavyaṃ || "
+},
+{
+  "pli": "Tāni ce sutte otāriyamānāni vinaye sandassiyamānāni na ceva sutte otaranti na vinaye sandissanti",
+  "skt": "yadi sūtre ’vatāryamāṇā vinaye saṃdarśyamānāḥ sūtre nāvataranti vinaye na saṃdṛśyante ||"
+},
+{
+  "pli": "‘sammukhā metaṃ, āvuso, bhagavato sutaṃ sammukhā paṭiggahitaṃ—ayaṃ dhammo, ayaṃ vinayo, idaṃ satthusāsanan’ti.",
+  "skt": "saṃmukhaṃ me tasya mahato bhikṣusaṃghasyāntikāc chrutaṃ saṃmukham udgṛhītam ayaṃ dharmo ’yaṃ vinaya idaṃ śāstuḥ śāsanaṃ ||"
+},
+{
+  "pli": "Tassa, bhikkhave, bhikkhuno bhāsitaṃ neva abhinanditabbaṃ nappaṭikkositabbaṃ.",
+  "skt": "tasya bhikṣavas tan notsāhayitavyaṃ nāvasādayitavyam || "
+},
+{
+  "pli": "Anabhinanditvā appaṭikkositvā tāni padabyañjanāni sādhukaṃ uggahetvā sutte otāretabbāni, vinaye sandassetabbāni.",
+  "skt": "anutsāhayitvānavasādayitvā śrotram avadhāya tāni padavyaṃjanāny udgṛhya sūtre ’vatārayitavyaṃ vinaye saṃdarśayitavyaṃ || "
+},
+{
+  "pli": "Tāni ce sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti",
+  "skt": "yadi sūtre ’vatāryamāṇā vinaye saṃdarśyamānāḥ sūtre nāvataranti vinaye na saṃdṛśyante ||"
+},
+{
+  "pli": "‘sammukhā metaṃ, āvuso, bhagavato sutaṃ sammukhā paṭiggahitaṃ—ayaṃ dhammo, ayaṃ vinayo, idaṃ satthusāsanan’ti.",
+  "skt": "saṃmukhaṃ me teṣāṃ saṃbahulānāṃ bhikṣūṇām antikāc chrutaṃ saṃmukham udgṛhītam ayaṃ dharmo ’yaṃ vinaya idaṃ śāstuḥ śāsanaṃ",
   "matches": [
     "an4.180",
     "sf245#24.1-24.52"
   ]
 },
 {
-  "pli": "",
-  "skt": "",
+  "pli": "“Catasso imā, bhikkhave, samādhibhāvanā.",
+  "skt": "Tatra bhikṣavaḥ katamāś-catastraḥ samādhi-bhāvanāḥ?"
+},
+{
+  "pli": "Atthi, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṃvattati;",
+  "skt": "Asti bhikṣavaḥ samādhi-bhāvanā āsevitā bhāvitā bahulīkṛtā | dṛṣṭi-dharma-sukha-vihārāya saṁvartate ||"
+},
+{
+  "pli": "atthi, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanappaṭilābhāya saṃvattati;",
+  "skt": "Asti bhikṣavaḥ samādhi-bhāvanā āsevitā bhāvitā bahulīkṛtā | jñāna-darśana-pratilambhāya saṁvartate ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṃvattati?",
+  "skt": "Tatra bhikṣavaḥ katamā samādhi-bhāvanā āsevitā bhāvitā bahulīkṛtā dṛṣṭa-dharma-sukha-vihārāya saṁvartate?"
+},
+{
+  "pli": "bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā",
+  "skt": "bhikṣur-aranya-gato vā, vṛkṣa-mūla-gato vā, śūnyāgāra-gato vā | "
+},
+{
+  "pli": "Ayaṃ, samādhibhāvanā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya saṃvattati.",
+  "skt": "Iyaṁ samādhi-bhāvanā āsevitā bhāvitā bahulīkṛtā dṛṣṭa-dharma-sukha-vihārāya saṁvartate ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanappaṭilābhāya saṃvattati?",
+  "skt": "Tatra bhikṣavaḥ katamā samādhi-bhāvanā āsevitā | bhāvitā bahulīkṛtā jñāna-darśana-pratilambhāya saṁvartate?"
+},
+{
+  "pli": "Idha, bhikkhave, bhikkhu ālokasaññaṃ manasi karoti, divāsaññaṃ adhiṭṭhāti—",
+  "skt": "Iha bhikṣavo bhikṣuṇā ālokasaṁjñā sādhu ca suṣṭhu ca sugṛhītā bhavati | "
+},
+{
+  "pli": "yathā divā tathā rattiṃ, yathā rattiṃ tathā divā.",
+  "skt": "yathā divā tathā rātrau, yathā rātrau tathā divā;  ||"
+},
+{
+  "pli": "Iti vivaṭena cetasā apariyonaddhena sappabhāsaṃ cittaṃ bhāveti.",
+  "skt": "Iti vivṛtena cetasā ’paryavanaddhena | divasa-saṁjñādhiṣṭhitena samaprabhāsaṁ cittaṁ bhāvayati ||"
+},
+{
+  "pli": "Ayaṃ, samādhibhāvanā bhāvitā bahulīkatā ñāṇadassanappaṭilābhāya saṃvattati.",
+  "skt": "Iyaṁ samādhi-bhāvanā āsevitā bhāvitā bahulīkṛtā jñāna-darśana-pratilambhāya saṁvartate ||"
+},
+{
+  "pli": "Imā kho, bhikkhave, catasso samādhibhāvanā.",
+  "skt": "Imāś-catasraḥ samādhi-bhāvanāḥ ||",
   "matches": [
     "an4.41",
     "arv12",
   ]
 },
 {
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "an4.9",
-    "sf199#14.91",
-  ]
+  "pli": "Pañcimāni, bhikkhave, balāni.",
+  "skt": "Tatra bhikṣavaḥ katamāni pañca balāni?"
 },
 {
-  "pli": "",
-  "skt": "",
+  "pli": "Saddhābalaṃ,",
+  "skt": "Śraddhā-balam |"
+},
+{
+  "pli": "vīriyabalaṃ,",
+  "skt": "vīrya-balam |"
+},
+{
+  "pli": "satibalaṃ,",
+  "skt": "smṛti-balam |"
+},
+{
+  "pli": "samādhibalaṃ,",
+  "skt": "samādhi-balam |"
+},
+{
+  "pli": "paññābalaṃ",
+  "skt": "prajñā-balam ||"
+},
+{
+  "pli": "imāni kho, bhikkhave, pañca balānī”ti.",
+  "skt": "Imāni bhikṣavaḥ pañca balāni ||",
   "matches": [
     "an5.13",
     "arv17",
   ]
 },
 {
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "an5.195",
-    "sf245#11.12-#11.20"
-  ]
 },
 {
-  "pli": "",
-  "skt": "",
+  "pli": "bodhisattasseva sato pañca mahāsupinā pāturahesuṃ",
+  "skt": "bodhisatvo pi paṃca mahāsupināṃ paśyati |"
+},
+{
+  "pli": "Katame pañca?",
+  "skt": "katamāni paṃca ||"
+},
+{
+  "pli": "Tathāgatassa, bhikkhave, pubbeva sambodhā anabhisambuddhassa sato ayaṃ mahāpathavī mahāsayanaṃ ahosi",
+  "skt": "tathāgatasya bhikṣavaḥ pūrve sambodhim anabhisaṃbuddhasya iyaṃ mahāpṛthivī uccaśayanamahāśayanam abhūṣi |"
+},
+{
+  "pli": "himavā pabbatarājā bibbohanaṃ ahosi",
+  "skt": "sumeru parvatarājā bimbopadhānam abhūṣi |"
+},
+{
+  "pli": "puratthime samudde vāmo hattho ohito ahosi, pacchime samudde dakkhiṇo hattho ohito ahosi,",
+  "skt": "purastime mahāsamudre vāmā bāhā ohitā abhūṣi paścime ca mahāsamudre dakṣiṇā bāhā ohitā abhūṣi |"
+},
+{
+  "pli": " dakkhiṇe samudde ubho pādā ohitā ahesuṃ.",
+  "skt": "dakṣiṇe pi mahāsamudre ubhau pādatalāni ohitāni abhūnsuḥ |"
+},
+{
+  "pli": "Tathāgatassa, bhikkhave, pubbeva sambodhā anabhisambuddhassa sato ayaṃ paṭhamo mahāsupino pāturahosi.",
+  "skt": "tathāgato bhikṣavaḥ pūrve saṃbodhim anabhisaṃbuddho imaṃ prathamaṃ mahāsupinam adrākṣīt ||"
+},
+{
+  "pli": "tathāgatassa pubbeva sambodhā anabhisambuddhassa sato tiriyā nāma tiṇajāti nābhiyā uggantvā nabhaṃ āhacca ṭhitā ahosi.",
+  "skt": "tathāgatasya bhikṣavaḥ pūrve saṃbodhim anabhisaṃbuddhasya kṣīrikā nāma tṛṇajāti nābhimaṇḍalād abhyugdamya yāvan nabham āsadya asthāsi ||"
+},
+{
+  "pli": "Tathāgatassa, bhikkhave, pubbeva sambodhā anabhisambuddhassa sato ayaṃ dutiyo mahāsupino pāturahosi.",
+  "skt": "tathāgato bhikṣavaḥ pūrve saṃbodhim anabhisaṃbuddho imaṃ dvitīyaṃ mahāsupinam adrākṣīt ||"
+},
+{
+  "pli": "Tathāgatassa, bhikkhave, pubbeva sambodhā anabhisambuddhassa sato ayaṃ tatiyo mahāsupino pāturahosi.",
+  "skt": "tathāgato bhikṣavaḥ pūrve sambodhim anabhisaṃbuddho imaṃ tṛtīyaṃ mahāsvapnam adrākṣīt ||"
+},
+{
+  "pli": "tathāgatassa pubbeva sambodhā anabhisambuddhassa sato cattāro sakuṇā nānāvaṇṇā catūhi disāhi āgantvā pādamūle nipatitvā sabbasetā sampajjiṃsu.",
+  "skt": "tathāgatasya bhikṣavaḥ pūrve saṃbodhim anabhisaṃbuddhasya catvāri nānāvarṇāṃ anekavarṇā ca caturhi diśāhi vaihāyasaṃ gatvā tathāgatasya pādatalāni upajighritvā sarvaśvetā apavidhyinsuḥ |"
+},
+{
+  "pli": "Tathāgatassa, bhikkhave, pubbeva sambodhā anabhisambuddhassa sato ayaṃ catuttho mahāsupino pāturahosi.",
+  "skt": "tathāgato bhikṣavaḥ pūrve saṃbodhim anabhisaṃbuddho imaṃ caturthaṃ mahāsupinam adrakṣīt ||"
+},
+{
+  "pli": "tathāgato pubbeva sambodhā anabhisambuddho samāno mahato mīḷhapabbatassa uparūpari caṅkamati alippamāno mīḷhena.",
+  "skt": "tathāgato bhikṣavaḥ pūrve saṃbodhim anabhisaṃbuddho mahato mīḍhaparvatasya uparim anupalipyamāno caṃkramaṃ caṃkrame |"
+},
+{
+  "pli": "Tathāgatassa, bhikkhave, pubbeva sambodhā anabhisambuddhassa sato ayaṃ pañcamo mahāsupino pāturahosi.",
+  "skt": "tathāgato bhikṣavaḥ pūrve saṃbidhim anabhisaṃbuddho imaṃ paṃcamaṃ mahāsupinam adrākṣīt ||"
+},
+{
+  "pli": " tathāgatassa pubbeva sambodhā anabhisambuddhassa sato ayaṃ mahāpathavī mahāsayanaṃ ahosi,",
+  "skt": "tathāgatasya bhikṣavo pūrve saṃbodhim anabhisaṃbuddhasya iyaṃ mahāpṛthivī uccaśayanamahāśayanam abhūṣi |"
+},
+{
+  "pli": "himavā pabbatarājā bibbohanaṃ ahosi,",
+  "skt": "sumeru parvatarājā bimbopadhānam abhūṣi |"
+},
+{
+  "pli": "puratthime samudde vāmo hattho ohito ahosi, pacchime samudde dakkhiṇo hattho ohito ahosi, dakkhiṇe samudde ubho pādā ohitā ahesuṃ;",
+  "skt": "purastime mahāsamudre vāmā bāhā ohitā abhūṣi paścime mahāsamudre dakṣiṇā bāhā ohitā abhūṣi dakṣiṇe mahāsamudre ubhau pādatalāni ohitāni abhūṣi |"
+},
+{
+  "pli": "tathāgatena, bhikkhave, anuttarā sammāsambodhi abhisambuddhā.",
+  "skt": "yaṃ pi bhikṣavaḥ tathāgato anuttarāṃ samyaksaṃbodhim anabhisaṃbuddho"
+},
+{
+  "pli": "Yampi, bhikkhave, tathāgatassa pubbeva sambodhā anabhisambuddhassa sato tiriyā nāma tiṇajāti nābhiyā uggantvā nabhaṃ āhacca ṭhitā ahosi;",
+  "skt": "yaṃ bhikṣavaḥ tathāgatasya pūrve saṃbodhima nabhisaṃbuddhasya kṣīrikā nāma tṛṇajāti nābhimaṇḍalād abhyudgamya yāvan nabham āsadya asthāsi |"
+},
+{
+  "pli": "lābhī cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṃ.",
+  "skt": "lābhī cīvarapiṇḍapātraśayanāsanaglānapratyayabhaiṣajyapariṣkārāṇāṃ",
   "matches": [
     "an5.196",
     "san-lo-mvu48#34-#40"
@@ -1157,44 +1414,8 @@
   ]
 },
 {
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-np1",
-    "pli-tv-bi-pm-np1",
-    "san-lo-bi-vb-np14"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-np11",
-    "pli-tv-bi-pm-np11",
-    "san-lo-bi-vb-np19"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-np12",
-    "pli-tv-bi-pm-np12",
-    "san-lo-bi-vb-np20"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-np7",
-    "pli-tv-bi-pm-np7",
-    "san-lo-bi-vb-np13"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
+  "pli": "lasuṇasikkhāpadaṃyā pana bhikkhunī lasuṇaṃ khādeyya pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī laśunaṁ khādeya pācattikaṁ",
   "matches": [
     "pli-tv-bi-vb-pc1",
     "pli-tv-bi-pm-pc1",
@@ -1202,35 +1423,8 @@
   ]
 },
 {
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc10",
-    "pli-tv-bi-pm-pc10",
-    "san-lo-bi-vb-pc124"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc11",
-    "pli-tv-bi-pm-pc11",
-    "san-lo-bi-vb-pc123"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc17",
-    "pli-tv-bi-pm-pc17",
-    "san-lo-bi-vb-pc117"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
+  "pli": "duggahitena dūpadhāritena pācittiyaṃ.",
+  "skt": "duḥ-śrutena dur-avadhāritena pācattikaṁ",
   "matches": [
     "pli-tv-bi-vb-pc18",
     "pli-tv-bi-pm-pc18",
@@ -1238,18 +1432,8 @@
   ]
 },
 {
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc19",
-    "pli-tv-bi-pm-pc19",
-    "san-lo-bi-vb-pc87",
-    "san-sarv-bi-vb-pc93"
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
+  "pli": "rodanasikkhāpadaṃyā pana bhikkhunī attānaṃ vadhitvā rodeyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī ātmānaṁ hanitvā rodeya pācattikaṁ",
   "matches": [
     "pli-tv-bi-vb-pc20",
     "pli-tv-bi-pm-pc20",
@@ -1257,8 +1441,8 @@
   ]
 },
 {
-  "pli": "",
-  "skt": "",
+  "pli": "udakasāṭikasikkhāpadaṃudakasāṭikaṃ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṃ pamāṇaṃ , dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṃ dve vidatthiyo. taṃ atikkāmentiyā chedanakaṃ pācittiyaṃ.",
+  "skt": "daka-śāṭikāṁ bhikṣuṇīya kārāpayantīya prāmāṇikā kārāpayitavyā | tatredaṁ pramāṇaṁ | dīrghaśo catvāri vitastiyo | sugata-vitastinā | tiryag dve | tad uttarim kārāpaye cchedana-pācattikaṁ",
   "matches": [
     "pli-tv-bi-vb-pc22",
     "pli-tv-bi-pm-pc22",
@@ -1266,7 +1450,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 25. cīvarasaṅkamanīyasikkhāpadaṃyā pana bhikkhunī cīvarasaṅkamanīyaṃ dhāreyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc25",
@@ -1275,7 +1459,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 28. cīvaradānasikkhāpadaṃyā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṃ dadeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc28",
@@ -1284,7 +1468,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 35. nikkaḍḍhanasikkhāpadaṃyā pana bhikkhunī bhikkhuniyā upassayaṃ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc35",
@@ -1293,7 +1477,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 36. saṃsaṭṭhasikkhāpadaṃyā pana bhikkhunī saṃsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, saṃsaṭṭhā vihari gahapatināpi gahapatiputtenāpi, viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”ti. evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. no ce paṭinissajjeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc36",
@@ -1302,7 +1486,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 38. tiroraṭṭhasikkhāpadaṃyā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc38",
@@ -1311,7 +1495,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 39. antovassasikkhāpadaṃyā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc39",
@@ -1320,7 +1504,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 40. cārikanapakkamanasikkhāpadaṃyā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc40",
@@ -1329,7 +1513,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 44. gihiveyyāvaccasikkhāpadaṃyā pana bhikkhunī gihiveyyāvaccaṃ kareyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc44",
@@ -1338,7 +1522,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 45. adhikaraṇasikkhāpadaṃyā pana bhikkhunī bhikkhuniyā: “ehāyye, imaṃ adhikaraṇaṃ vūpasamehī”ti vuccamānā: “sādhū”ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya, na vūpasamāya ussukkaṃ kareyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc45",
@@ -1347,7 +1531,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 46. bhojanadānasikkhāpadaṃyā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc46",
@@ -1356,7 +1540,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 51. ārāmapavisanasikkhāpadaṃyā pana bhikkhunī jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā paviseyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc51",
@@ -1365,7 +1549,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 52. bhikkhuakkosanasikkhāpadaṃyā pana bhikkhunī bhikkhuṃ akkoseyya vā paribhāseyya vā, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc52",
@@ -1374,7 +1558,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 58. ovādasikkhāpadaṃyā pana bhikkhunī ovādāya vā saṃvāsāya vā na gaccheyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc58",
@@ -1384,7 +1568,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 59. ovādūpasaṅkamanasikkhāpadaṃanvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca. taṃ atikkāmentiyā pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc59",
@@ -1393,7 +1577,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 6. upatiṭṭhanasikkhāpadaṃyā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc6",
@@ -1402,7 +1586,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 60. pasākhejātasikkhāpadaṃyā pana bhikkhunī pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ ekenekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc60",
@@ -1411,7 +1595,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 63. paṭhamasikkhamānasikkhāpadaṃyā pana bhikkhunī dve vassāni chasu dhammesu asikkhitasikkhaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc63",
@@ -1420,7 +1604,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 64. dutiyasikkhamānasikkhāpadaṃyā pana bhikkhunī dve vassāni chasu dhammesu sikkhitasikkhaṃ sikkhamānaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc64",
@@ -1430,7 +1614,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 65. paṭhamagihigatasikkhāpadaṃyā pana bhikkhunī ūnadvādasavassaṃ gihigataṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc65",
@@ -1439,7 +1623,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 66. dutiyagihigatasikkhāpadaṃyā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc66",
@@ -1448,7 +1632,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 67. tatiyagihigatasikkhāpadaṃyā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc67",
@@ -1457,7 +1641,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 69. pavattinīnānubandhanasikkhāpadaṃyā pana bhikkhunī vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandheyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc69",
@@ -1466,7 +1650,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 7. āmakadhaññasikkhāpadaṃyā pana bhikkhunī āmakadhaññaṃ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc7",
@@ -1475,7 +1659,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 70. dutiyasahajīvinīsikkhāpadaṃyā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc70",
@@ -1484,7 +1668,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 71. paṭhamakumāribhūtasikkhāpadaṃyā pana bhikkhunī ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc71",
@@ -1494,7 +1678,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 72. dutiyakumāribhūtasikkhāpadaṃyā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc72",
@@ -1503,7 +1687,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 74. ūnadvādasavassasikkhāpadaṃyā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc74",
@@ -1512,7 +1696,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 75. paripuṇṇadvādasavassasikkhāpadaṃyā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc75",
@@ -1521,7 +1705,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 78. dutiyasikkhamānanavuṭṭhāpanasikkhāpadaṃyā pana bhikkhunī sikkhamānaṃ, “sace maṃ tvaṃ, ayye, dve vassāni anubandhissasi, evāhaṃ taṃ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc78",
@@ -1530,7 +1714,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 82. anuvassasikkhāpadaṃyā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc82",
@@ -1539,7 +1723,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 85. yānasikkhāpadaṃyā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc85",
@@ -1548,7 +1732,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 88. gandhavaṇṇakasikkhāpadaṃyā pana bhikkhunī gandhavaṇṇakena nahāyeyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc88",
@@ -1557,7 +1741,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 90. bhikkhuniummaddāpanasikkhāpadaṃyā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc90",
@@ -1566,7 +1750,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 91. sikkhamānaummaddāpanasikkhāpadaṃyā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc91",
@@ -1575,7 +1759,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 92. sāmaṇerīummaddāpanasikkhāpadaṃyā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc92",
@@ -1584,7 +1768,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 93. gihiniummaddāpanasikkhāpadaṃyā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc93",
@@ -1593,7 +1777,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 96. asaṃkaccikasikkhāpadaṃyā pana bhikkhunī asaṃkaccikā gāmaṃ paviseyya, pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pc96",
@@ -1602,7 +1786,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 1. sappiviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā: “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd1",
@@ -1612,7 +1796,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 2. telaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd2",
@@ -1622,7 +1806,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 3. madhuviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd3",
@@ -1631,7 +1815,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 4. phāṇitaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd4",
@@ -1640,7 +1824,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 5. macchaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd5",
@@ -1650,7 +1834,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 6. maṃsaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd6",
@@ -1660,7 +1844,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 7. khīraviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd7",
@@ -1670,7 +1854,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pāṭidesanīya 8. dadhiviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā: “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pd8",
@@ -1680,7 +1864,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pārājika 5. ubbhajāṇumaṇḍalikāsikkhāpadaṃyā pana bhikkhunī avassutā avassutassa purisapuggalassa, adhakkhakaṃ ubbhajāṇumaṇḍalaṃ āmasanaṃ vā parāmasanaṃ vā gahaṇaṃ vā chupanaṃ vā paṭipīḷanaṃ vā sādiyeyya, ayampi pārājikā hoti asaṃvāsā ubbhajāṇumaṇḍalikā.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pj5",
@@ -1690,7 +1874,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pārājika 6. vajjappaṭicchādikāsikkhāpadaṃyā pana bhikkhunī jānaṃ pārājikaṃ dhammaṃ ajjhāpannaṃ bhikkhuniṃ nevattanā paṭicodeyya, na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṃ vadeyya: “pubbevāhaṃ, ayye, aññāsiṃ etaṃ bhikkhuniṃ ‘evarūpā ca evarūpā ca sā bhaginī’ti, no ca kho attanā paṭicodessaṃ, na gaṇassa ārocessa”nti, ayampi pārājikā hoti asaṃvāsā vajjappaṭicchādikā.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pj6",
@@ -1701,7 +1885,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pārājika 7. ukkhittānuvattikāsikkhāpadaṃyā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuṃ dhammena vinayena satthusāsanena anādaraṃ appaṭikāraṃ akatasahāyaṃ tamanuvatteyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “eso kho, ayye, bhikkhu samaggena saṅghena ukkhitto, dhammena vinayena satthusāsanena anādaro appaṭikāro akatasahāyo, māyye, etaṃ bhikkhuṃ anuvattī”ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyaṃ ce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi pārājikā hoti asaṃvāsā ukkhittānuvattikā.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pj7",
@@ -1712,7 +1896,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pārājika 8. aṭṭhavatthukāsikkhāpadaṃyā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṃ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṃ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṃ vā gaccheyya, purisassa vā abbhāgamanaṃ sādiyeyya, channaṃ vā anupaviseyya, kāyaṃ vā tadatthāya upasaṃhareyya etassa asaddhammassa paṭisevanatthāya, ayampi pārājikā hoti asaṃvāsā aṭṭhavatthukā.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-pj8",
@@ -1723,7 +1907,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 1. ussayavādikāsikkhāpadaṃyā pana bhikkhunī ussayavādikā vihareyya gahapatinā vā gahapatiputtena vā dāsena vā kammakārena vā antamaso samaṇaparibbājakenāpi, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss1",
@@ -1733,7 +1917,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 10. sikkhaṃpaccācikkhaṇasikkhāpadaṃyā pana bhikkhunī kupitā anattamanā evaṃ vadeyya: “buddhaṃ paccācikkhāmi dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī”ti. sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye kupitā anattamanā evaṃ avaca ‘buddhaṃ paccācikkhāmi, dhammaṃ paccācikkhāmi, saṅghaṃ paccācikkhāmi, sikkhaṃ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṃ santike brahmacariyaṃ carissāmī’ti, abhiramāyye, svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakiriyāyā”ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss10",
@@ -1742,7 +1926,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 11. adhikaraṇakupitasikkhāpadaṃyā pana bhikkhunī kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṃ vadeyya: “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṃ avaca ‘chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo’ti, ayyā kho chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyya, bhayāpi gaccheyyā”ti. evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss11",
@@ -1751,7 +1935,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 12. pāpasamācārapaṭhamasikkhāpadaṃbhikkhuniyo paneva saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā: “bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”ti, evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṃ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, imāpi bhikkhuniyo yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss12",
@@ -1760,7 +1944,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 13. pāpasamācāradutiyasikkhāpadaṃyā pana bhikkhunī evaṃ vadeyya: “saṃsaṭṭhāva, ayye, tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha: ‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, evaṃ avaca, saṃsaṭṭhāva ayye tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṃsaddā evaṃsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha, tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha: ‘bhaginiyo kho saṃsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṃ saṅgho vaṇṇetī”’ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss13",
@@ -1769,7 +1953,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 2. corīvuṭṭhāpikāsikkhāpadaṃyā pana bhikkhunī jānaṃ coriṃ vajjhaṃ viditaṃ anapaloketvā rājānaṃ vā saṅghaṃ vā gaṇaṃ vā pūgaṃ vā seṇiṃ vā, aññatra kappā vuṭṭhāpeyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss2",
@@ -1780,7 +1964,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 4. ukkhittakaosāraṇasikkhāpadaṃyā pana bhikkhunī samaggena saṅghena ukkhittaṃ bhikkhuniṃ dhammena vinayena satthusāsanena anapaloketvā kārakasaṅghaṃ, anaññāya gaṇassa chandaṃ osāreyya, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss4",
@@ -1789,7 +1973,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 5. bhojanapaṭiggahaṇapaṭhamasikkhāpadaṃyā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṃ vā, bhojanīyaṃ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss5",
@@ -1798,7 +1982,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "saṅghādisesa 6. bhojanapaṭiggahaṇadutiyasikkhāpadaṃyā pana bhikkhunī evaṃ vadeyya: “kiṃ te, ayye, eso purisapuggalo karissati avassuto vā anavassuto vā, yato tvaṃ anavassutā, iṅgha, ayye, yaṃ te eso purisapuggalo deti khādanīyaṃ vā bhojanīyaṃ vā, taṃ tvaṃ sahatthā paṭiggahetvā khāda vā bhuñja vā”ti, ayampi bhikkhunī paṭhamāpattikaṃ dhammaṃ āpannā nissāraṇīyaṃ saṅghādisesaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bi-vb-ss6",
@@ -1809,7 +1993,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "pācittiya 88. tūlonaddhayo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiyaṃ.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-pc88",
@@ -1824,7 +2008,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 16. na kāyappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk16",
@@ -1836,7 +2020,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 18. na bāhuppacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk18",
@@ -1848,7 +2032,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 20. na sīsappacālakaṃ antaraghare nisīdissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk20",
@@ -1860,7 +2044,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 3. suppaṭicchannasuppaṭicchanno antaraghare gamissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk3",
@@ -1875,7 +2059,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 30. samatittikasamatittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk30",
@@ -1889,7 +2073,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 31. sakkaccabhuñjanasakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk31",
@@ -1901,7 +2085,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 33. sapadānasapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk33",
@@ -1915,7 +2099,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 4. suppaṭicchanno antaraghare nisīdissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk4",
@@ -1927,7 +2111,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 40. ālopaparimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk40",
@@ -1942,7 +2126,7 @@
   ]
 },
 {
-  "pli": "",
+  "pli": "sekhiya 64. sayanana sayanagatassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā.",
   "skt": "",
   "matches": [
     "pli-tv-bu-vb-sk64",
@@ -1953,14 +2137,6 @@
     "san-mu-mpt-bu-pm-sk78",
     "pli-tv-bi-vb-sk64",
     "pli-tv-bi-pm-sk64",
-  ]
-},
-{
-  "pli": "",
-  "skt": "",
-  "matches": [
-    "san-mu-bu-pm-gbm3-sk62",
-    "san-mu-mpt-bu-pm-sk62"
   ]
 },
 {

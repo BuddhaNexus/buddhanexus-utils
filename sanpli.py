@@ -13,6 +13,7 @@ dhppath = os.environ['HOME']+'/sc-data/html_text/pli/sutta/kn/dhp.html'
 sagpath = os.environ['HOME']+'/sc-data/html_text/san/sutta/ybs/sag.html'
 uvpath = os.environ['HOME']+'/sc-data/html_text/san/sutta/uv/'
 pmpath = os.environ['HOME']+'/sc-data/html_text/pli/vinaya/pli-tv-bu-pm.html'
+pmbipath = os.environ['HOME']+'/sc-data/html_text/pli/vinaya/pli-tv-bi-pm.html'
 sanpmpath = os.environ['HOME']+'/sc-data/html_text/san/vinaya/san-lo-bu-pm.html'
 
 parallelpath = os.environ['HOME']+'/sc-data/relationship/parallels.json'
@@ -55,6 +56,7 @@ sagdict = retrieve_dictionary_single(sagpath, 'sag([0-9]+\.*[0-9]*)', '')
 dhpdict = retrieve_dictionary_single(dhppath, 'dhp([0-9]+)', '')
 uvdict = retrieve_dictionary_multiple(uvpath, '([0-9]+\.[0-9]+[A-Z]*)')
 pmdict = retrieve_dictionary_single(pmpath, '[a-z][a-z][0-9]+', 'pli-tv-bu-pm-')
+pmbidict = retrieve_dictionary_single(pmbipath, '[a-z][a-z][0-9]+', 'pli-tv-bi-pm-')
 sanpmdict = retrieve_dictionary_single(sanpmpath, '[a-fh-z][a-z][0-9]+', 'san-lo-bu-pm-')
 
 # temp. writing data to file. This code can be commented out after done once.
@@ -69,6 +71,13 @@ sanpmdict = retrieve_dictionary_single(sanpmpath, '[a-fh-z][a-z][0-9]+', 'san-lo
 # outputsanpmfile.write(json.dumps(sanpmdict, ensure_ascii=False, indent=2))
 # outputsanpmfile.write('\n]')
 # outputsanpmfile.close()
+
+# outputpmfile = open(outputpath+'pmbi.json','w', encoding='utf8')
+# outputpmfile.write('[\n')
+# outputpmfile.write(json.dumps(pmbidict, ensure_ascii=False, indent=2))
+# outputpmfile.write('\n]')
+# outputpmfile.close()
+
 
 # retrieving data from the parallels file.
 parallelfile = open(parallelpath,'r', encoding='utf8').read()

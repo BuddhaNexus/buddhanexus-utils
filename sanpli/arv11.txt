@@ -1,0 +1,108 @@
+{
+  "pli": "Catasso imā, bhikkhave, paṭipadā.",
+  "skt": "Tatra bhikṣavaḥ katamāś-catasraḥ pratipadaḥ?"
+},
+{
+  "pli": "Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.",
+  "skt": "Asti bhikṣavo duḥkhā pratipad dhandhābhijñā | asti duḥkhā pratipat kṣiprābhijñā | asti sukhā pratipad dhandhābhijñā | asti sukhā pratipat kṣiprābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, dukkhā paṭipadā dandhābhiññā?",
+  "skt": "Tatra katamā duḥkhā pratipad dhandhābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaiva tīvra-rāgo bhavati | tīvra-dveṣo bhavati, tīvra-moho bhavati | so ’bhīkṣṇaṁ tīvra-rāgatayā rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-dveṣatayā dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-mohatayā mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni mudūni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi dhandhāni bhavanti |"
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa evaṁ pañcānāṁ lokottarāṇam-indriyāṇāṁ mṛdutvād-aśīghra-vāhitvāc-ca dhandham evānantaryaṁ samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā dandhābhiññā.",
+  "skt": "Iyaṁ duḥkhā pratipad dhandhābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, dukkhā paṭipadā khippābhiññā?",
+  "skt": "Tatra katamā duḥkhā pratipat kṣiprābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaiva tīvra-rāgo bhavati | tīvra-dveṣo [bhavati], tīvra-moho [bhavati] | so ’bhīkṣṇaṁ tīvra-rāgatayā rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-dveṣatayā dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | abhīkṣṇaṁ tīvra-mohatayā mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni adhimattāni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi adhimātrāṇi bhavanti | "
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa eṣāṁ pañcānāṁ lokottarāṇām-indriyāṇām-adhimātratvāt (tīkṣṇatvāt) śīghra-vāhitvāc-ca kṣipram evānantaryaṁ samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā khippābhiññā.",
+  "skt": "Iyaṁ duḥkhā pratipat kṣiprābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, sukhā paṭipadā dandhābhiññā?",
+  "skt": "Tatra katamā sukhā pratipad dhandhābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaivālparāgo bhavati | alpadveṣo bhavati, alpamoho bhavati | so ’lparāgatayā nābhīkṣṇaṁ rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpadveṣatayā nābhīkṣṇaṁ dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpamohatayā nābhīkṣṇaṁ mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni mudūni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi dhandhāni bhavanti | "
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa eṣāṁ pañcānāṁ lokottarāṇām-indriyāṇāṁ dhandhatvād-atīkṣṇātvān-mṛdutvād-aśīghra-vāhitvāc-ca dhandham evānantarya-samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, sukhā paṭipadā dandhābhiññā.",
+  "skt": "Iyaṁ sukhā pratipad dhandhābhijñā ||"
+},
+{
+  "pli": "Katamā ca, bhikkhave, sukhā paṭipadā khippābhiññā?",
+  "skt": "Tatra katamā sukhā pratipat kṣiprābhijñā?"
+},
+{
+  "pli": "Idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti.",
+  "skt": "Ihaikatyaḥ pudgalaḥ prakṛtyaivālparāgo bhavati | alpadveṣaḥ, alpamohaḥ | so ’lparāgatayā nābhīkṣṇaṁ rāgajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpadveṣatayā nābhīkṣṇaṁ dveṣajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati | alpamohatayā nābhīkṣṇaṁ mohajaṁ duḥkha-daurmanasyaṁ pratisaṁvedayati ||"
+},
+{
+  "pli": "Tassimāni pañcindriyāni adhimattāni pātubhavanti—",
+  "skt": "Tasyemāni pañca lokottarāṇīndriyāṇi adhimātrāṇi bhavanti | "
+},
+{
+  "pli": "saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ.",
+  "skt": "Śraddhendriyaṁ | vīryendriyaṁ | smṛtīndriyaṁ | samādhīndriyaṁ | prajñendriyam ||"
+},
+{
+  "pli": "So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya.",
+  "skt": "Sa eṣāṁ pañcānāṁ lokottarāṇām-indriyāṇāṁ-adhimātratvāt tīkṣṇatvāt śīghra-vāhitvāc-ca kṣipram evānantaryaṁ samādhiṁ spṛśati | yad-utāsravāṇāṁ kṣayāya ||"
+},
+{
+  "pli": "Ayaṃ vuccati, bhikkhave, sukhā paṭipadā khippābhiññā.",
+  "skt": "Iyam-ucyate sukhā pratipat kṣiprābhijñā ||"
+},
+{
+  "pli": "Imā kho, bhikkhave, catasso paṭipadā”ti.",
+  "skt": "Imā bhikṣavaḥ catasraḥ pratipadaḥ ||"
+},
