@@ -1438,10 +1438,8 @@
   "skt": "",
   "matches": [
     "dn27",
-    "ma154",
     "sht-sutta65",
     "san-lo-mvu32",
-    "up3.104",
     "sf277"
   ]
 },
@@ -1451,7 +1449,6 @@
   "matches": [
     "dn27#11-#33",
     "san-mu-kd17#5-#12",
-    "up3.104",
     "sf277"
   ]
 },
@@ -1841,8 +1838,8 @@
   ]
 },
 {
-  "pli": "pācittiya 25. cīvarasaṅkamanīyasikkhāpadaṃyā pana bhikkhunī cīvarasaṅkamanīyaṃ dhāreyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī cīvarasaṅkamanīyaṃ dhāreyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī cīvara-saṁkramaṇaṁ kuryāt pācattikaṁ |",
   "matches": [
     "pli-tv-bi-vb-pc25",
     "pli-tv-bi-pm-pc25",
@@ -1850,8 +1847,8 @@
   ]
 },
 {
-  "pli": "pācittiya 28. cīvaradānasikkhāpadaṃyā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṃ dadeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṃ dadeyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī āgārikasya vā parivrājakasya vā sva-hastaṁ śramaṇa-cīvaraṁ dadyāt pācattikaṁ |",
   "matches": [
     "pli-tv-bi-vb-pc28",
     "pli-tv-bi-pm-pc28",
@@ -1859,26 +1856,8 @@
   ]
 },
 {
-  "pli": "pācittiya 35. nikkaḍḍhanasikkhāpadaṃyā pana bhikkhunī bhikkhuniyā upassayaṃ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc35",
-    "pli-tv-bi-pm-pc35",
-    "san-lo-bi-vb-pc136"
-  ]
-},
-{
-  "pli": "pācittiya 36. saṃsaṭṭhasikkhāpadaṃyā pana bhikkhunī saṃsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, saṃsaṭṭhā vihari gahapatināpi gahapatiputtenāpi, viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”ti. evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyya, iccetaṃ kusalaṃ. no ce paṭinissajjeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc36",
-    "pli-tv-bi-pm-pc36",
-    "san-lo-bi-vb-pc86"
-  ]
-},
-{
-  "pli": "pācittiya 38. tiroraṭṭhasikkhāpadaṃyā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṃ careyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī tiro-rājyan tiro-janapadam a-sārthikā cārikāṁ prakrameya pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc38",
     "pli-tv-bi-pm-pc38",
@@ -1886,8 +1865,8 @@
   ]
 },
 {
-  "pli": "pācittiya 39. antovassasikkhāpadaṃyā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī antovassaṃ cārikaṃ careyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī varṣopagatā cārikāṁ prakrameya pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc39",
     "pli-tv-bi-pm-pc39",
@@ -1895,8 +1874,8 @@
   ]
 },
 {
-  "pli": "pācittiya 40. cārikanapakkamanasikkhāpadaṃyā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī vassaṃvuṭṭhā cārikaṃ na pakkameyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī varṣā-vustā cārikāṁ na prakrameya pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc40",
     "pli-tv-bi-pm-pc40",
@@ -1904,8 +1883,8 @@
   ]
 },
 {
-  "pli": "pācittiya 44. gihiveyyāvaccasikkhāpadaṃyā pana bhikkhunī gihiveyyāvaccaṃ kareyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī gihiveyyāvaccaṃ kareyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī gṛhi-vaiyāpṛtyaṁ kuryāt pācattikaṁ || ",
   "matches": [
     "pli-tv-bi-vb-pc44",
     "pli-tv-bi-pm-pc44",
@@ -1913,8 +1892,8 @@
   ]
 },
 {
-  "pli": "pācittiya 45. adhikaraṇasikkhāpadaṃyā pana bhikkhunī bhikkhuniyā: “ehāyye, imaṃ adhikaraṇaṃ vūpasamehī”ti vuccamānā: “sādhū”ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya, na vūpasamāya ussukkaṃ kareyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī bhikkhuniyā: “ehāyye, imaṃ adhikaraṇaṃ vūpasamehī”ti vuccamānā: “sādhū”ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya, na vūpasamāya ussukkaṃ kareyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī bhikṣuṇīnāṁ kalaha-jātānāṁ bhaṇḍana-jātānāṁ vigraha-vivādam āpannānāṁ viharantīnāṁ vṛṣabhī samānā adhikaraṇāni na vyupasamayen na vyupasamāpayen na vyupasamānāyautsukyaṁ kuryāt pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc45",
     "pli-tv-bi-pm-pc45",
@@ -1922,8 +1901,8 @@
   ]
 },
 {
-  "pli": "pācittiya 46. bhojanadānasikkhāpadaṃyā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī āgārikasya vā parivrājakasya vā sva-hastaṁ khādanīyam vā bhojanīyam vā dadyāt pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc46",
     "pli-tv-bi-pm-pc46",
@@ -1931,8 +1910,8 @@
   ]
 },
 {
-  "pli": "pācittiya 51. ārāmapavisanasikkhāpadaṃyā pana bhikkhunī jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā paviseyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī jānaṃ sabhikkhukaṃ ārāmaṃ anāpucchā paviseyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī jānantī sabhikṣukaṁ saṁghārāmaṁ pūrve apratisaṁviditā an-āhūtā upasaṁkrameya pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc51",
     "pli-tv-bi-pm-pc51",
@@ -1940,8 +1919,8 @@
   ]
 },
 {
-  "pli": "pācittiya 52. bhikkhuakkosanasikkhāpadaṃyā pana bhikkhunī bhikkhuṃ akkoseyya vā paribhāseyya vā, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī bhikkhuṃ akkoseyya vā paribhāseyya vā, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī bhikṣuṇī-bhikṣuṁ sammukham ākrośayed roṣayed paribhāṣayet pācattikaṁ |",
   "matches": [
     "pli-tv-bi-vb-pc52",
     "pli-tv-bi-pm-pc52",
@@ -1949,27 +1928,8 @@
   ]
 },
 {
-  "pli": "pācittiya 58. ovādasikkhāpadaṃyā pana bhikkhunī ovādāya vā saṃvāsāya vā na gaccheyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc58",
-    "pli-tv-kd20#65-#74",
-    "pli-tv-bi-pm-pc58",
-    "san-lo-bi-vb-pc131"
-  ]
-},
-{
-  "pli": "pācittiya 59. ovādūpasaṅkamanasikkhāpadaṃanvaddhamāsaṃ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca. taṃ atikkāmentiyā pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc59",
-    "pli-tv-bi-pm-pc59",
-    "san-lo-bi-vb-pc132"
-  ]
-},
-{
-  "pli": "pācittiya 6. upatiṭṭhanasikkhāpadaṃyā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī bhikṣuṁ bhuñjantaṁ daka-vījanena upasthiheya pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc6",
     "pli-tv-bi-pm-pc6",
@@ -1977,8 +1937,8 @@
   ]
 },
 {
-  "pli": "pācittiya 60. pasākhejātasikkhāpadaṃyā pana bhikkhunī pasākhe jātaṃ gaṇḍaṃ vā rudhitaṃ vā anapaloketvā saṅghaṃ vā gaṇaṃ vā purisena saddhiṃ ekenekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṃ.",
-  "skt": "",
+  "pli": "anapaloketvā saṅghaṃ purisena phālāpeyya vā dhovāpeyya vā , pācittiyaṃ.",
+  "skt": "an-avalokayitvā saṁghaṁ puruṣeṇa pāṭāpayed vā dhovāpayed vā pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc60",
     "pli-tv-bi-pm-pc60",
@@ -1986,27 +1946,8 @@
   ]
 },
 {
-  "pli": "pācittiya 63. paṭhamasikkhamānasikkhāpadaṃyā pana bhikkhunī dve vassāni chasu dhammesu asikkhitasikkhaṃ sikkhamānaṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc63",
-    "pli-tv-bi-pm-pc63",
-    "san-lo-bi-vb-pc98"
-  ]
-},
-{
-  "pli": "pācittiya 64. dutiyasikkhamānasikkhāpadaṃyā pana bhikkhunī dve vassāni chasu dhammesu sikkhitasikkhaṃ sikkhamānaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc64",
-    "pli-tv-bi-pm-pc64",
-    "san-lo-bi-vb-pc99",
-    "san-sarv-bi-vb-pc117"
-  ]
-},
-{
-  "pli": "pācittiya 65. paṭhamagihigatasikkhāpadaṃyā pana bhikkhunī ūnadvādasavassaṃ gihigataṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī ūnadvādasavassaṃ gihigataṃ vuṭṭhāpeyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī ūna-dvādaśa-varṣāṁ gṛhi-caritām upasthāpayet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc65",
     "pli-tv-bi-pm-pc65",
@@ -2014,26 +1955,8 @@
   ]
 },
 {
-  "pli": "pācittiya 66. dutiyagihigatasikkhāpadaṃyā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc66",
-    "pli-tv-bi-pm-pc66",
-    "san-lo-bi-vb-pc102"
-  ]
-},
-{
-  "pli": "pācittiya 67. tatiyagihigatasikkhāpadaṃyā pana bhikkhunī paripuṇṇadvādasavassaṃ gihigataṃ dve vassāni chasu dhammesu sikkhitasikkhaṃ saṅghena asammataṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc67",
-    "pli-tv-bi-pm-pc67",
-    "san-lo-bi-vb-pc103"
-  ]
-},
-{
-  "pli": "pācittiya 69. pavattinīnānubandhanasikkhāpadaṃyā pana bhikkhunī vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandheyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī vuṭṭhāpitaṃ pavattiniṃ dve vassāni nānubandheyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī upasthāpitā upasthāyikāṁ dve varṣāṇī nānubandhet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc69",
     "pli-tv-bi-pm-pc69",
@@ -2041,8 +1964,8 @@
   ]
 },
 {
-  "pli": "pācittiya 7. āmakadhaññasikkhāpadaṃyā pana bhikkhunī āmakadhaññaṃ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṃ.",
+  "skt": "bhṛjjitvā vā bhṛjjāpayitvā vā kaṭhitvā vā kaṭhāpayitvā vā agilānā khādeya vā bhuñjeya vā pācattikaṁ | ",
   "matches": [
     "pli-tv-bi-vb-pc7",
     "pli-tv-bi-pm-pc7",
@@ -2050,8 +1973,8 @@
   ]
 },
 {
-  "pli": "pācittiya 70. dutiyasahajīvinīsikkhāpadaṃyā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī sahajīviniṃ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī upasthāyikā upasthāpitāṁ tathā-rūpāsv āpadāsu na vyapakarṣayet na vyapakarṣāpayet antamasato ṣaṭ-pañca yojanā ti pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc70",
     "pli-tv-bi-pm-pc70",
@@ -2059,18 +1982,8 @@
   ]
 },
 {
-  "pli": "pācittiya 71. paṭhamakumāribhūtasikkhāpadaṃyā pana bhikkhunī ūnavīsativassaṃ kumāribhūtaṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc71",
-    "pli-tv-bi-pm-pc71",
-    "san-lo-bi-vb-pc96",
-    "san-sarv-bi-vb-pc116"
-  ]
-},
-{
-  "pli": "pācittiya 72. dutiyakumāribhūtasikkhāpadaṃyā pana bhikkhunī paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "paripuṇṇavīsativassaṃ kumāribhūtaṃ dve vassāni chasu dhammesu asikkhitasikkhaṃ vuṭṭhāpeyya, pācittiyaṃ.",
+  "skt": "pūra-viṁśati-varṣā pi ca bhavati kumārī-bhūtā | tañ cādeśita-śikṣām upasthāpayet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc72",
     "pli-tv-bi-pm-pc72",
@@ -2078,8 +1991,8 @@
   ]
 },
 {
-  "pli": "pācittiya 74. ūnadvādasavassasikkhāpadaṃyā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī ūna-dvādaśa-varṣā upasthāpayet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc74",
     "pli-tv-bi-pm-pc74",
@@ -2087,26 +2000,8 @@
   ]
 },
 {
-  "pli": "pācittiya 75. paripuṇṇadvādasavassasikkhāpadaṃyā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc75",
-    "pli-tv-bi-pm-pc75",
-    "san-lo-bi-vb-pc94"
-  ]
-},
-{
-  "pli": "pācittiya 78. dutiyasikkhamānanavuṭṭhāpanasikkhāpadaṃyā pana bhikkhunī sikkhamānaṃ, “sace maṃ tvaṃ, ayye, dve vassāni anubandhissasi, evāhaṃ taṃ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṃ kareyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc78",
-    "pli-tv-bi-pm-pc78",
-    "san-lo-bi-vb-pc110"
-  ]
-},
-{
-  "pli": "pācittiya 82. anuvassasikkhāpadaṃyā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī anuvassaṃ vuṭṭhāpeyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī anu-varṣam upasthāpayet pācattikam ||",
   "matches": [
     "pli-tv-bi-vb-pc82",
     "pli-tv-bi-pm-pc82",
@@ -2114,8 +2009,8 @@
   ]
 },
 {
-  "pli": "pācittiya 85. yānasikkhāpadaṃyā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī a-gilānā yānam abhiruhet pācattikaṁ | ",
   "matches": [
     "pli-tv-bi-vb-pc85",
     "pli-tv-bi-pm-pc85",
@@ -2123,17 +2018,8 @@
   ]
 },
 {
-  "pli": "pācittiya 88. gandhavaṇṇakasikkhāpadaṃyā pana bhikkhunī gandhavaṇṇakena nahāyeyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc88",
-    "pli-tv-bi-pm-pc88",
-    "san-lo-bi-vb-pc126",
-  ]
-},
-{
-  "pli": "pācittiya 90. bhikkhuniummaddāpanasikkhāpadaṃyā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī a-gilānā bhikṣuṇīya udvartāpayet parimardāpayet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc90",
     "pli-tv-bi-pm-pc90",
@@ -2141,8 +2027,8 @@
   ]
 },
 {
-  "pli": "pācittiya 91. sikkhamānaummaddāpanasikkhāpadaṃyā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī a-gilānā śikṣamāṇāya udvartāpayet parimardāpayet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc91",
     "pli-tv-bi-pm-pc91",
@@ -2150,8 +2036,8 @@
   ]
 },
 {
-  "pli": "pācittiya 92. sāmaṇerīummaddāpanasikkhāpadaṃyā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī a-gilānā śrāmaṇerīya udvartāpayet parimardāpayet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc92",
     "pli-tv-bi-pm-pc92",
@@ -2159,8 +2045,8 @@
   ]
 },
 {
-  "pli": "pācittiya 93. gihiniummaddāpanasikkhāpadaṃyā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṃ.",
+  "skt": "yā puna bhikṣuṇī agilānā gṛhiṇīya udvartāpayet parimardāpayet pācattikaṁ ||",
   "matches": [
     "pli-tv-bi-vb-pc93",
     "pli-tv-bi-pm-pc93",
@@ -2168,111 +2054,13 @@
   ]
 },
 {
-  "pli": "pācittiya 96. asaṃkaccikasikkhāpadaṃyā pana bhikkhunī asaṃkaccikā gāmaṃ paviseyya, pācittiyaṃ.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pc96",
-    "pli-tv-bi-pm-pc96",
-    "san-lo-bi-vb-pc74"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 1. sappiviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā sappiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā: “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd1",
-    "pli-tv-bi-pm-pd1",
-    "san-sarv-bi-pm-tf44-pd3",
-    "san-lo-bi-vb-pd1"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 2. telaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā telaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd2",
-    "pli-tv-bi-pm-pd2",
-    "san-sarv-bi-pm-tf44-pd6",
-    "san-lo-bi-vb-pd2"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 3. madhuviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā madhuṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd3",
-    "pli-tv-bi-pm-pd3",
-    "san-lo-bi-vb-pd3"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 4. phāṇitaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā phāṇitaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd4",
-    "pli-tv-bi-pm-pd4",
-    "san-lo-bi-vb-pd4"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 5. macchaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā macchaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd5",
-    "pli-tv-bi-pm-pd5",
-    "san-sarv-bi-pm-tf44-pd6",
-    "san-lo-bi-vb-pd7"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 6. maṃsaviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā maṃsaṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd6",
-    "pli-tv-bi-pm-pd6",
-    "san-sarv-bi-pm-tf44-pd7",
-    "san-lo-bi-vb-pd8"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 7. khīraviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā khīraṃ viññāpetvā bhuñjeyya … pe … taṃ paṭidesemīti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd7",
-    "pli-tv-bi-pm-pd7",
-    "san-sarv-bi-pm-tf44-pd1",
-    "san-lo-bi-vb-pd5"
-  ]
-},
-{
-  "pli": "pāṭidesanīya 8. dadhiviññāpanasikkhāpadaṃyā pana bhikkhunī agilānā dadhiṃ viññāpetvā bhuñjeyya, paṭidesetabbaṃ tāya bhikkhuniyā: “gārayhaṃ, ayye, dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ, taṃ paṭidesemī”ti.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pd8",
-    "pli-tv-bi-pm-pd8",
-    "san-sarv-bi-pm-tf44-pd2",
-    "san-lo-bi-vb-pd6"
-  ]
-},
-{
-  "pli": "pārājika 5. ubbhajāṇumaṇḍalikāsikkhāpadaṃyā pana bhikkhunī avassutā avassutassa purisapuggalassa, adhakkhakaṃ ubbhajāṇumaṇḍalaṃ āmasanaṃ vā parāmasanaṃ vā gahaṇaṃ vā chupanaṃ vā paṭipīḷanaṃ vā sādiyeyya, ayampi pārājikā hoti asaṃvāsā ubbhajāṇumaṇḍalikā.",
-  "skt": "",
+  "pli": "yā pana bhikkhunī avassutā avassutassa purisapuggalassa, adhakkhakaṃ ubbhajāṇumaṇḍalaṃ āmasanaṃ vā parāmasanaṃ vā sādiyeyya, ayampi pārājikā hoti asaṃvāsā ubbhajāṇumaṇḍalikā.",
+  "skt": "yā puna bhikṣuṇī avaśrutā avaśrutasya puruṣasya adho kakṣā bhyām upari jānu-maṇḍalābhyām āmoṣaṇa-parāmoṣaṇaṁ sādiyeya iyaṁ pi bhikṣuṇī pārājikā bhavaty asamvāsyā |",
   "matches": [
     "pli-tv-bi-vb-pj5",
     "pli-tv-bi-pm-pj5",
     "san-lo-bi-vb-pj5",
     "san-sarv-sm#sm5"
-  ]
-},
-{
-  "pli": "pārājika 6. vajjappaṭicchādikāsikkhāpadaṃyā pana bhikkhunī jānaṃ pārājikaṃ dhammaṃ ajjhāpannaṃ bhikkhuniṃ nevattanā paṭicodeyya, na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṃ vadeyya: “pubbevāhaṃ, ayye, aññāsiṃ etaṃ bhikkhuniṃ ‘evarūpā ca evarūpā ca sā bhaginī’ti, no ca kho attanā paṭicodessaṃ, na gaṇassa ārocessa”nti, ayampi pārājikā hoti asaṃvāsā vajjappaṭicchādikā.",
-  "skt": "",
-  "matches": [
-    "pli-tv-bi-vb-pj6",
-    "pli-tv-bi-pm-pj6",
-    "san-sarv-bi-pm-tf3215-pj7",
-    "san-sarv-bi-pm-tf44-pj7",
-    "san-lo-bi-vb-pj7"
   ]
 },
 {
