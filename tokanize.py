@@ -9192,12 +9192,16 @@ def fix_hyphens(word):
     return word
 
 def cleanup_line(line):
+
         line = line.replace('-',' ')
         line = line.replace('      ',' ')
         line = regex.sub(r' ([a-zA-Z]) ',r' \1',line)
         line = regex.sub(r' ([a-zA-Z])([\.\,;:\?\!”’"\n—])',r'\1\2',line)
         line = regex.sub(r'([“‘]) ([a-zA-Z])',r'\1\2',line)
-        line = line.replace('—',' ')
+        line = regex.sub(r'([\—\”\’…])',r' ',line)
+        line = line.replace('  ',' ')
+        line = regex.sub(r'[\.\,;\?\!“‘‘]',r'',line)
+        line = regex.sub(r'([a-z]):',r'\1',line)
         return line
 
 def hyphenate(word, max_length):
@@ -9214,9 +9218,9 @@ def hyphenate(word, max_length):
     word = regex.sub(r'-([\.;,\?\!:”’"])', r'\1', word)
     word = fix_hyphens(word)
     
-    for segment in alpha_rex.findall(word):
-        if len(segment) > max_length:
-            print('Segment too long: {}'.format(segment))
+    # for segment in alpha_rex.findall(word):
+        # if len(segment) > max_length:
+            # print('Segment too long: {}'.format(segment))
 
     return unicode_to_internal_transliteration(word)
 
@@ -9229,7 +9233,7 @@ def unicode_to_internal_transliteration(s):
 def splitkeepsep(s, sep):
     return reduce(lambda acc, elem: acc[:-1] + [acc[-1] + elem] if elem == sep else acc + [elem], re.split("(%s)" % re.escape(sep), s), [])
 
-path = os.environ['HOME']+'/Desktop/convertbilara/inputfiles/'
+path = os.environ['HOME']+'/segmented-pali/inputfiles/'
 path_output = os.environ['HOME']+'/Desktop/convertbilara/cutsegments/'
 
 for root, dirs, files in os.walk(path):
