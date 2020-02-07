@@ -1,0 +1,29 @@
+\section{Methodology}
+\subsection{Sourcing texts}
+For this research, I used the Pali canon from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 from the Vipassana Research Institute (\url{https://tipitaka.org/}).
+
+These texts, with the exception of the commentarial texts, are used by SuttaCentral.net and they have partly segmented these files and coded them in json. These json files do not have any of the coding that is necessary to display texts online but just the pure texts, which makes it ideal to work with. This format is the basis I used for my analysis.
+
+Where these files did not exist, I have taken them from the SuttaCentral HTML and coded them into the same segmented json format. The same I have done for the commentarial texts directly from the VRI website in XML.
+
+The github repository for these json files is here: (\url{https://github.com/BuddhaNexus/segmented-pali})
+
+\subsubsection{Variant readings}
+The Mahāsaṅgīti Tipiṭaka as used by the VRI as well as SuttaCentral also list various variant readings. These were removed for the purpose of this analysis. After analysing part of the variant readings I concluded that these would not make a significant shift in the calculations. In some cases variant words were a bit longer, in other cases shorter.
+
+\subsubsection{Abbreviations}
+Many texts contain abbreviations in the form of "… pe …" or similar. These abbreviations were removed prior to calculations because they would give a much lower average word-length for texts with many abbreviations. Of course this will go from the premise that the text being substituted has an overall average that is roughly the same as the still remaining text. I feel this is reasonable assumption and above all, it would be undo-able to replace the abbreviations with the text they are to replace.
+
+\subsection{Other materials used}
+In some instances I had to look into the parallels distribution of files within a collection. For this I used the parallels json file that is used by SuttaCentral. Although this material is not complete i.e. these are human sourced parallels and not all parallels will be known, they give an indication. Moreover, these parallels also list known parallels with other Buddhist canons in other languages.
+
+One major drawback in using this parallels-list for statistical analysis is that it is not consistent in how it counts parallels. For instance text A can be parallel to text B and this can list as one parallel. But it is also possible that a more detailed listing is applied in that for instance text A, verse 1 is parallel to text B, verse 2, etc. This multiplies the number of parallels considerably. 
+
+In analysing some collections, I also made use of a sankey map and other graphs as used by BuddhaNexus.net. Although this is very detailed and complete, it only lists matches within the same canon. Matches within the same canon have their value, but in matching between various languages we can determine if texts were already in existence before the split of the schools and therefore their relative age (see \citep{sujatobrahmali}). The matching between languages is in the pipeline but to date not yet available. 
+
+Note also that BuddhaNexus graphs show the total lengths of matches so that a long match between texts counts for more than just one line, as opposed to the parallels listed in SuttaCentral, where every match just counts as 1. Therefore, it also takes the quality of the match into account.
+
+\subsection{Method of analysis}
+The segmented files were further imported into an ArangoDB database and queries made from there, using the Python programming language for retrieving meaningful data for barcharts.
+
+All punctuation and other typography markers and numbers were removed so only the alphanumerical characters were used for calculating the average word-length.
