@@ -19,7 +19,7 @@ paralleljson = json.loads(parallelfile)
 collectiondict = {}
 
 # change the regex according to the criteria you want to search on
-collectionnr = re.compile('^ja[0-9]+')
+collectionnr = re.compile('^tha-ap[0-9]+')
 totalrange = 547
 
 for parallel in paralleljson:
@@ -65,10 +65,10 @@ for parallel in paralleljson:
 # add 0 where there is no parallel and sort numbers.
 newcollectiondict = {}
 for i in range(totalrange):
-    if "ja"+str(i+1) in collectiondict.keys():
-        newcollectiondict["ja"+str(i+1)] = collectiondict["ja"+str(i+1)]
+    if "tha-ap"+str(i+1) in collectiondict.keys():
+        newcollectiondict["tha-ap"+str(i+1)] = collectiondict["tha-ap"+str(i+1)]
     else:
-        newcollectiondict["ja"+str(i+1)] = 0
+        newcollectiondict["tha-ap"+str(i+1)] = 0
 
 
 outputparallelfile.write(json.dumps(newcollectiondict, ensure_ascii=False, indent=2))
