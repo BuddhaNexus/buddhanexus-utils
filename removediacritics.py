@@ -6,6 +6,7 @@ diacritics_conversion_dict = {
     'ā': 'a',
     'ī': 'i',
     'ū': 'u',
+    'ē': 'e',
     'ṭ': 't',
     'ḍ': 'd',
     'ṅ': 'n',
