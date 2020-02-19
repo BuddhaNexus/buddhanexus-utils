@@ -19,11 +19,35 @@ In some instances I had to look into the parallels distribution of files within 
 
 One major drawback in using this parallels-list for statistical analysis is that it is not consistent in how it counts parallels. For instance text A can be parallel to text B and this can list as one parallel. But it is also possible that a more detailed listing is applied in that for instance text A, verse 1 is parallel to text B, verse 2, etc. This multiplies the number of parallels considerably. 
 
-In analysing some collections, I also made use of a sankey map and other graphs as used by BuddhaNexus.net. Although this is very detailed, it only lists matches within the same canon. Matches within the same canon have their value, but in matching between various languages we can determine if texts were already in existence before the split of the schools and therefore their relative age (see \citep{sujatobrahmali}). The matching between languages is in the pipeline but to date not yet available. 
+In analysing some collections, I also made use of a sankey graphs from BuddhaNexus.net. Although this is very detailed, it only lists matches within the same canon. Matches within the same canon have their value, but in matching between various languages we can determine if texts were already in existence before the split of the schools and therefore their relative age\footnote{{\em The Authenticity of the Early Buddhist Texts} by Bhikkhu Sujato and Bhikkhu Brahmali}. The matching between languages is in the pipeline but to date not yet available. 
 
 Note that BuddhaNexus graphs show the total lengths of matches so that a long match between texts counts for more than just one line, as opposed to the parallels listed in SuttaCentral, where every match just counts as 1. Therefore, it also takes the quality of the match into account.
 
+For the descriptions of various texts I have used the descriptions as given on SuttaCentral.net\footnote{texts written by Bhikkhu Sujato} or on Wikipedia.
+
 \subsection{Method of analysis}
-The segmented files were further imported into an ArangoDB database and queries made from there, using the Python programming language for retrieving meaningful data for barcharts.
+The segmented files were further imported into an ArangoDB database and queries made from there, using the Python programming language for retrieving meaningful data for charts.
 
 All punctuation and other typography markers and numbers were removed so only the alphanumerical characters were used for calculating the average word-length.
+
+The average word-length (AWL) is calculated as:
+
+\[
+AWL = \frac{C}{W} = \frac{\sum_{i} c_{i}}{\sum_{i} w_{i}}
+\]
+
+Whereby 'c' is the total number of characters in a file and 'w' the total number of words. 'C' is the total number of characters in a collection and 'W' the total number of words therein. 
+
+Note however that a file usually comprises of a sutta or text but in some cases it represents a chapter of a larger whole or have been merged to make one larger file within the collection. For the analysis of collections this does not make any difference but this can have an effect on the analysis of individual files within the collection.\\
+
+Next to analysis the AWL of collections, I have done an analysis of the spread of the AWL within the collection as well as an analysis of the weight of each file's AWL on the total collection AWL, depending on it's length.
+
+For this the following calculations were used for the File Character Weight (FCW) and File Word Weight (FWW):
+
+\[
+FCW = \frac{c}{C}*100\%
+\]
+
+\[
+FWW = \frac{w}{W}*100\%
+\]

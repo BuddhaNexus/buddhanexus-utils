@@ -9,8 +9,8 @@ import re
 import json
 
 base_dir = os.environ['HOME']+'/buddhanexus/data/'
-filename = 'pli-files.json'
-# filenameslist = os.environ['HOME']+'/Desktop/filelist.json'
+filename = 'chn-files.json'
+filenameslist = os.environ['HOME']+'/Desktop/filelist.json'
 
 filenamesjsonobject = []
 files_dir = os.environ['HOME']+'/Desktop/convertbilara/outputfiles/'
@@ -21,8 +21,8 @@ for root, dirs, files in os.walk(files_dir):
 fileIn = open(base_dir+filename,'r', encoding='utf8').read()
 fileobject = json.loads(fileIn)
 
-# filenamesIn = open(filenameslist,'r', encoding='utf8').read()
-# filenamesjsonobject = json.loads(filenamesIn)
+filenamesIn = open(filenameslist,'r', encoding='utf8').read()
+filenamesjsonobject = json.loads(filenamesIn)
 
 fileslist = []
 fileOut = open('errors_'+filename,'w', encoding='utf8')

@@ -1,0 +1,30 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Summary}{3}{section.1}
+\contentsline {section}{\numberline {2}Methodology}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Sourcing texts}{4}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Variant readings}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Abbreviations}{4}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Other materials used}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Method of analysis}{5}{subsection.2.3}
+\contentsline {section}{\numberline {3}Average Word Length (AWL) analysis}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}First results}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}The influence of headings}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Verse, prose and mātikā}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Collections with a very high or low value}{9}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Dhammapada (dhp)}{9}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Jātaka (ja)}{10}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Vimānavatthu (vv) and Petavatthu (pv)}{12}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.4}Therāpadāna (tha-ap) and Therīapadāna (thi-ap)}{12}{subsubsection.3.4.4}
+\contentsline {subsubsection}{\numberline {3.4.5}Cariyāpiṭaka (cp) and Buddhavaṃsa (bv)}{13}{subsubsection.3.4.5}
+\contentsline {subsubsection}{\numberline {3.4.6}Paṭisambhidāmagga (ps)}{15}{subsubsection.3.4.6}
+\contentsline {subsubsection}{\numberline {3.4.7}Peṭakopadesa (pe)}{16}{subsubsection.3.4.7}
+\contentsline {subsubsection}{\numberline {3.4.8}Bhikkhunī Pātimokkha (pli-tv-bi-pm)}{16}{subsubsection.3.4.8}
+\contentsline {subsubsection}{\numberline {3.4.9}Parivāra (pli-tv-pvr)}{16}{subsubsection.3.4.9}
+\contentsline {subsubsection}{\numberline {3.4.10}Dhammasaṅgaṇī (ds)}{17}{subsubsection.3.4.10}
+\contentsline {subsubsection}{\numberline {3.4.11}Vibhaṅga (vb)}{17}{subsubsection.3.4.11}
+\contentsline {subsubsection}{\numberline {3.4.12}Paṭṭhāna (patthana)}{18}{subsubsection.3.4.12}
+\contentsline {subsubsection}{\numberline {3.4.13}Aṭṭhakathā (atk)}{19}{subsubsection.3.4.13}
+\contentsline {section}{\numberline {4}Analysis of Average Word Length ratios}{20}{section.4}
+\contentsline {subsection}{\numberline {4.1}AWL ranges within collections}{20}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Weighted AWL ratios}{21}{subsection.4.2}
+\contentsline {section}{\numberline {5}Conclusion}{22}{section.5}

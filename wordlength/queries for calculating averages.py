@@ -8,7 +8,7 @@ async def get_average_lengths_by_file(
     """
     database = get_db()
     query_files_list = database.AQLQuery(
-        query=QUERY_FILES_FOR_LANGUAGE,
+        query=menu_queries.QUERY_FILES_FOR_LANGUAGE,
         batchSize=100000,
         bindVars={"language": language},
     )
@@ -21,12 +21,12 @@ async def get_average_lengths_by_file(
     total_collection_dict = {}
     for filename in filelist:
         # comment out the if-statement if you want all files
-        # if filename.startswith("atk-abh01a1"):
+        # if filename.startswith("dn"):
             [totalcharacters, totalwordcount] = calculate_average(filename)
             if totalwordcount > 0:
-                averages[filename] = round(totalcharacters/totalwordcount, 2)
+                averages[filename] = [totalcharacters, totalwordcount, round(totalcharacters/totalwordcount, 2)]
             else:
-                averages[filename] = 0
+                averages[filename] = [totalcharacters, totalwordcount, 0]
             collection_key = re.search(COLLECTION_PATTERN, filename)
             if not collection_key:
                 continue
@@ -40,7 +40,7 @@ async def get_average_lengths_by_file(
 
     collection_averages = {}
     for key, value in total_collection_dict.items():
-        collection_averages[key] = round(value[0]/value[1], 2)
+        collection_averages[key] = [value[0], value[1], round(value[0]/value[1], 2)]
 
     # The following sorts values in ascending order
     # return {k: v for k, v in sorted(averages.items(), key=lambda item: item[1])}, {k: v for k, v in sorted(collection_averages.items(), key=lambda item: item[1])}

@@ -13,13 +13,13 @@
 \usepackage{multirow,bigdelim}
 \usepackage{parnotes}
 \usepackage{xfrac}
-\usepackage{graphicx}% stellt \scalebox bereit
+% \usepackage{graphicx}% stellt \scalebox bereit
 \usepackage{array,booktabs}% für Tabellen
 \usepackage{natbib}
 \onehalfspacing
 \setdefaultlanguage{english}
-\setotherlanguage{hindi}
-\setotherlanguage{tibetan}
+% \setotherlanguage{hindi}
+% \setotherlanguage{tibetan}
 \newfontfamily\tibetanfont{Tibetan Machine Uni}
 \usepackage{xeCJK}
  \setCJKmainfont[BoldFont=SimHei]{SimSun}
@@ -60,8 +60,12 @@
 \newpage
 \input{Chapters/findings.tex}
 \newpage
-\bibliographystyle{plainnat}
-\bibliography{bib}
+\input{Chapters/minmax.tex}
+\newpage
+\input{Chapters/conclusion.tex}
+\newpage
+% \bibliographystyle{plainnat}
+% \bibliography{bib}
 
 % \setlength{\tabcolsep}{1.5em}
 % % %\input{Chapters/glossar.tex}
