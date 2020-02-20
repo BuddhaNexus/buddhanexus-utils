@@ -26,7 +26,6 @@ def clean_tline(segment):
     newsegment = re.sub(r'<.*?>', '', newsegment)
     newsegment = re.sub(r'\[[0-9a-z]+\] ', '', newsegment)
     newsegment = re.sub(r'\[[0-9a-z]+\]', '', newsegment)
-    newsegment = newsegment.replace('\u3000',' ')
     asciicode = re.findall(r'(&#x.*?;)', newsegment)
     if asciicode:
         for item in asciicode:
@@ -36,7 +35,7 @@ def clean_tline(segment):
                 newsegment = re.sub(item, asciitable_chinese.codes_dict[item],newsegment)
             elif not item in asciicodelist2:
                 asciicodelist2.append(item)
-
+    newsegment = re.sub(r'[0-9a-zA-Zāīūēṭḍṅṇñḷṃṁśṣḥṛṝḹ,\.~-]', '', newsegment)
     return newsegment
 
 for root, dirs, files in os.walk(path):
@@ -65,14 +64,17 @@ for root, dirs, files in os.walk(path):
                             break
                     counter = 0
                     for line in filetext:
-                        tline = re.findall(r'name="([0-9]+.*?)" .*?></a>(.*?)<a \n',line)
-                        if tline:
-                            segment = clean_tline(tline[0][1])
-                            if segment != '':
-                                segments[file.split('.')[0]+":"+tline[0][0]] = segment
-
                         if re.search(r'<span class="juanname">',line):
                             counter += 1
+                        tline = re.findall(r'name="([0-9]+.*?)" .*?></a>(.*?)<a \n',line)
+                        if counter == 2:
+                            tline = re.findall(r'name="([0-9]+.*?)" .*?></a><p><span class="juanname">(.*?)</span>',line)
+                        if tline:
+                            segment = clean_tline(tline[0][1])
+                            if segment == '' or re.search(r'^[ \[\]\(\)　]+$',segment):
+                                continue
+                            else:
+                                segments[file.split('.')[0]+":"+tline[0][0]] = segment
                         if counter == 2:
                             break
 
@@ -91,6 +93,6 @@ headerfile.write(json.dumps(headers_sorted, ensure_ascii=False, indent=4))
 headerfile.close()
 errorlog.close()
 collections_done.close()
-print(sorted(asciicodelist))
+# print(sorted(asciicodelist))
 print(sorted(asciicodelist2))
 

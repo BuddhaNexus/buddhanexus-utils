@@ -9,8 +9,8 @@ import re
 import json
 
 base_dir = os.environ['HOME']+'/buddhanexus/data/'
-catname = 'tib-categories.json'
-filename = 'tib-files.json'
+catname = 'chn-categories.json'
+filename = 'chn-files.json'
 fileCatIn = open(base_dir+catname,'r', encoding='utf8').read()
 jsoncatobject = json.loads(fileCatIn)
 
