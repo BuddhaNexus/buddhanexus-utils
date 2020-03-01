@@ -1,6 +1,6 @@
 """ 
 Function to remove diacriticals from Pali and Sanskrit text.
-"""
+[ā,ī,ū,ē,ṭ,ḍ,ṅ,ṇ,ñ,ḷ,ṃ,ṁ,ś,ṣ,ḥ,ṛ,ṝ,ḹ]
 
 diacritics_conversion_dict = {
     'ā': 'a',
