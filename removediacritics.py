@@ -1,6 +1,7 @@
 """ 
 Function to remove diacriticals from Pali and Sanskrit text.
 [ā,ī,ū,ē,ṭ,ḍ,ṅ,ṇ,ñ,ḷ,ṃ,ṁ,ś,ṣ,ḥ,ṛ,ṝ,ḹ]
+"""
 
 diacritics_conversion_dict = {
     'ā': 'a',
@@ -25,13 +26,10 @@ diacritics_conversion_dict = {
 
 def remove_diacritics(line):
     newline = ''
-    for character in line:
+    for character in line.lower():
         if character in diacritics_conversion_dict.keys():
             newline += diacritics_conversion_dict[character]
         else:
             newline += character
     return(newline)
 
-
-line = "Ā teśṭiṅg ḷīñe"
-print(line, remove_diacritics(line.lower()))

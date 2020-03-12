@@ -21,26 +21,27 @@ async def get_average_lengths_by_file(
     total_collection_dict = {}
     for filename in filelist:
         # comment out the if-statement if you want all files
-        # if filename.startswith("dn"):
-            [totalcharacters, totalwordcount] = calculate_average(filename)
+        # if filename.startswith("snp1.11"):
+            [totalcharacters, totalwordcount, totalsylables] = calculate_average(filename)
             if totalwordcount > 0:
-                averages[filename] = [totalcharacters, totalwordcount, round(totalcharacters/totalwordcount, 2)]
+                averages[filename] = [totalcharacters, totalwordcount, totalsylables, round(totalcharacters/totalwordcount, 2), round(totalsylables/totalwordcount, 4)]
             else:
-                averages[filename] = [totalcharacters, totalwordcount, 0]
+                averages[filename] = [totalcharacters, totalwordcount, totalsylables, 0, 0]
             collection_key = re.search(COLLECTION_PATTERN, filename)
             if not collection_key:
                 continue
 
             collection = collection_key.group()
             if collection not in total_collection_dict.keys():
-                total_collection_dict[collection] = [totalcharacters, totalwordcount]
+                total_collection_dict[collection] = [totalcharacters, totalwordcount, totalsylables]
             else:
                 total_collection_dict[collection][0] += totalcharacters
                 total_collection_dict[collection][1] += totalwordcount
+                total_collection_dict[collection][2] += totalsylables
 
     collection_averages = {}
     for key, value in total_collection_dict.items():
-        collection_averages[key] = [value[0], value[1], round(value[0]/value[1], 2)]
+        collection_averages[key] = [value[0], value[1], value[2], round(value[0]/value[1], 2), round(value[2]/value[1], 4) ]
 
     # The following sorts values in ascending order
     # return {k: v for k, v in sorted(averages.items(), key=lambda item: item[1])}, {k: v for k, v in sorted(collection_averages.items(), key=lambda item: item[1])}
@@ -69,6 +70,7 @@ def calculate_average(filename):
 
     totalwordcount = 0
     totalcharacters = 0
+    totalsylables = 0
 
     for line in query_segment_texts.result:
         if re.search(header_pattern,line.strip()):
@@ -77,9 +79,21 @@ def calculate_average(filename):
             continue
         if line == query_segment_texts.result[0] and not re.search(r"^[md]n[0-9]|^pli|^tika|^anya|^atk", filename):
             continue
-        line = re.sub(r"[0-9-_\?!\.,:;\|\"\'\{\}\[\]\(\)&\#‘“”’…–—☑»«⇒]", "", line)
+        line = re.sub(r"[–—]", " ", line)
+        line = re.sub(r"[0-9-_\?!\.,:;\|\"\'\{\}\[\]\(\)&\#‘“”’…☑»«⇒]", "", line)
         line = re.sub(r"  ", " ", line)
-        line = re.sub(r" pe |^pe | pe$", " ", line)
+        # removing abbreviations
+        # line = re.sub(r" pe |^pe | pe$", " ", line)
+        # removing words of just 2 letters
+        line = re.sub(r"^.. | .. | ..$", " ", line)
+        
         totalwordcount += len(line.split())
-        totalcharacters += len(line.replace(" ",""))
-    return [totalcharacters, totalwordcount]
+        sylables = re.findall(r'a|e|i|u|o|y|ā|ī|ū|ē', line)
+        totalsylables += len(sylables)
+        # correction for asp. consonants
+        consonants = re.findall(r'kh|gh|ch|jh|ṭh|ḍh|th|dh|ph|bh', line)
+        totalcharacters += len(line.replace(" ","")) - len(consonants)
+
+    return [totalcharacters, totalwordcount, totalsylables]
+
+

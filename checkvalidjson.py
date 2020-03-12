@@ -7,7 +7,7 @@ check json input files for pali to make sure they are valid
 import os
 import json
 
-path = os.environ['HOME']+'/Desktop/convertbilara/inputfiles/'
+path = os.environ['HOME']+'/buddhanexus-utils/testout/'
 
 def dict_raise_on_duplicates(ordered_pairs):
     """Reject duplicate keys."""

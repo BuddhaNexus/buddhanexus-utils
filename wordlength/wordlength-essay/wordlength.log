@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  16 FEB 2020 15:31
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  4 MAR 2020 13:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2213,9 +2213,9 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
  (./wordlength.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
+(Font)              <6> on input line 3.
 )
 \tf@toc=\write23
 \openout3 = `wordlength.toc'.
@@ -2231,10 +2231,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 16.
+
+Underfull \vbox (badness 4699) has occurred while \output is active []
+
+\openout3 = `wordlength.mw'.
+
+ [3]
+(./wordlength.mw)
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
 )
 \openout3 = `wordlength.mw'.
 
- [3] (./wordlength.mw)
+ [4] (./wordlength.mw)
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2251,7 +2286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 *************************************************
 \openout3 = `wordlength.mw'.
 
-[4] (./wordlength.mw)
+[5] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2291,7 +2326,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
 \openout3 = `wordlength.mw'.
 
-[5] (./wordlength.mw)
+[6] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2301,7 +2336,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 )
 \openout3 = `wordlength.mw'.
 
- [6] (./wordlength.mw)
+ [7] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
  (./Chapters/findings.tex
@@ -2321,7 +2356,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `wordlength.mw'.
 
- [7]
+ [8]
 (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
@@ -2347,7 +2382,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 24--25
 
 \openout3 = `wordlength.mw'.
 
-[8] (./wordlength.mw)
+[9] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2372,19 +2407,6 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 42--43
 
 Missing character: There is no ṁ in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-regular]:mapping=tex-text;!
-\openout3 = `wordlength.mw'.
-
-[9] (./wordlength.mw)
-\openout3 = `wordlength.mw'.
-
-\openout3 = `wordlength.mw'.
-
-\openout3 = `wordlength.mw'.
-
-\openout3 = `wordlength.mw'.
-
-\openout3 = `wordlength.mw'.
-
 
 Underfull \hbox (badness 1168) in paragraph at lines 55--55
 [][][]\TU/lmr/m/n/10 The Dhammapada, A New Edition edited by Ānandajoti Bhikkhu
@@ -2403,20 +2425,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 58.
+\openout3 = `wordlength.mw'.
+
+[10] (./wordlength.mw)
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (11.02269pt too wide) in paragraph at lines 58--71
+Overfull \hbox (11.02272pt too wide) in paragraph at lines 58--71
 [][] 
  []
 
 \openout3 = `wordlength.mw'.
 
-[10] (./wordlength.mw)
+[11] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2449,7 +2482,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 94--95
 
 \openout3 = `wordlength.mw'.
 
-[11] (./wordlength.mw)
+[12] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 File: thaap.jpg Graphic file (type bmp)
@@ -2459,13 +2492,9 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 115--116
 [][] 
  []
 
-
-Underfull \vbox (badness 6910) has occurred while \output is active []
-
 \openout3 = `wordlength.mw'.
 
- [12]
-(./wordlength.mw)
+[13] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2501,11 +2530,11 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 133--134
  []
 
 
-Underfull \vbox (badness 2529) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `wordlength.mw'.
 
- [13]
+ [14]
 (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
@@ -2532,7 +2561,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
 \openout3 = `wordlength.mw'.
 
-[14] (./wordlength.mw)
+[15] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 File: bv.png Graphic file (type bmp)
@@ -2550,7 +2579,7 @@ bly with the Aṭṭhakathā
 
 \openout3 = `wordlength.mw'.
 
-[15] (./wordlength.mw)
+[16] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2559,7 +2588,7 @@ bly with the Aṭṭhakathā
 
 \openout3 = `wordlength.mw'.
 
- [16] (./wordlength.mw)
+ [17] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2577,7 +2606,7 @@ bly with the Aṭṭhakathā
 Missing character: There is no ṁ in font [lmroman12-regular]:mapping=tex-text;!
 \openout3 = `wordlength.mw'.
 
- [17] (./wordlength.mw)
+ [18] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2607,7 +2636,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
 \openout3 = `wordlength.mw'.
 
-[18] (./wordlength.mw)
+[19] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2624,7 +2653,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 201--202
 )
 \openout3 = `wordlength.mw'.
 
- [19] (./wordlength.mw)
+ [20] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2648,7 +2677,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `wordlength.mw'.
 
- [20]
+ [21]
 (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
@@ -2675,7 +2704,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 23--24
 )
 \openout3 = `wordlength.mw'.
 
- [21] (./wordlength.mw)
+ [22] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2693,7 +2722,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 9--10
 )
 \openout3 = `wordlength.mw'.
 
- [22] (./wordlength.mw)
+ [23] (./wordlength.mw)
 \openout3 = `wordlength.mw'.
 
 \openout3 = `wordlength.mw'.
@@ -2823,6 +2852,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
 
 \openout3 = `wordlength.mw'.
 
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
+\openout3 = `wordlength.mw'.
+
 )
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
@@ -2832,12 +2885,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
 
  ) 
 Here is how much of TeX's memory you used:
- 50067 strings out of 494988
- 1072122 string characters out of 6178638
- 1252399 words of memory out of 5000000
- 53232 multiletter control sequences out of 15000+600000
+ 50077 strings out of 494988
+ 1072327 string characters out of 6178638
+ 1252739 words of memory out of 5000000
+ 53240 multiletter control sequences out of 15000+600000
  562863 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,8n,73p,10465b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on wordlength.pdf (22 pages).
+Output written on wordlength.pdf (23 pages).
