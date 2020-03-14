@@ -1,0 +1,302 @@
+[
+    {
+        "category": "S01",
+        "categoryname": "Avadāna",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S02",
+        "categoryname": "Dhāraṇī",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S03",
+        "categoryname": "Jātaka",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S04",
+        "categoryname": "Mahāyānasūtra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S05",
+        "categoryname": "Nirdeśa",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S06",
+        "categoryname": "Prajñāpāramitā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S07",
+        "categoryname": "Pramāṇa",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S08",
+        "categoryname": "Tantra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S09",
+        "categoryname": "Yogācāra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "S10",
+        "categoryname": "Other Sūtras",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "V01",
+        "categoryname": "Mahāsāṃghikāna",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "V02",
+        "categoryname": "Sarvāstivāda",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "V03",
+        "categoryname": "Mūlasarvāstivāda",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "V04",
+        "categoryname": "Lokuttaravāda",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "V05",
+        "categoryname": "Other Vinaya",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA01",
+        "categoryname": "Abhidharma",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA02",
+        "categoryname": "Advayatantraṭīkā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA03",
+        "categoryname": "Alaṃkāra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA04",
+        "categoryname": "Cikitsavidyā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA05",
+        "categoryname": "Stotra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA06",
+        "categoryname": "Darśana",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA07",
+        "categoryname": "Kāvya",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA08",
+        "categoryname": "Kośa",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA09",
+        "categoryname": "Lekha",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA10",
+        "categoryname": "Madhyamaka",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA11",
+        "categoryname": "Madhyamaka-yogācāra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA12",
+        "categoryname": "Nāṭaka",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA13",
+        "categoryname": "Nīti",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA14",
+        "categoryname": "Prajñāpāramitā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA15",
+        "categoryname": "Pramāṇa",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA16",
+        "categoryname": "Sautrāntika",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA17",
+        "categoryname": "Śilpaśāstra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA18",
+        "categoryname": "Vinaya",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA19",
+        "categoryname": "Vividha",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA20",
+        "categoryname": "Yogācāra",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA21",
+        "categoryname": "Yoginītantraṭīkā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA22",
+        "categoryname": "Yogottaratantraṭīkā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA23",
+        "categoryname": "Mahāyogatantraṭīkā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA24",
+        "categoryname": "Hetuvidyā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA25",
+        "categoryname": "Sveṣṭadevatā",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA26",
+        "categoryname": "Vyākaraṇa",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA27",
+        "categoryname": "Adhunātana",
+        "files": [
+
+        ]
+    },
+    {
+        "category": "SA28",
+        "categoryname": "Jyotiḥśāstra",
+        "files": [
+
+        ]
+    },

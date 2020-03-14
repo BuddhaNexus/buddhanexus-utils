@@ -10,7 +10,7 @@ import json
 from removediacritics import remove_diacritics 
 
 
-base_dir = os.environ['HOME']+'/buddhanexus-utils/test/'
+base_dir = os.environ['HOME']+'/segmented-sanskrit/xml/valid/'
 output_dir = os.environ['HOME']+'/buddhanexus-utils/testout/'
 
 filenames = open(os.environ['HOME']+'/buddhanexus-utils/filenames.json','w')
