@@ -24,7 +24,6 @@ def cleanline(line):
     newline = newline.replace('  ', ' ')
     return newline
 
-
 for root, dirs, files in os.walk(base_dir):
     for file in files:
         filename = file.split('.')[0]

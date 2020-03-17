@@ -3,34 +3,90 @@
         "category": "S01",
         "categoryname": "Avadāna",
         "files": [
-
-        ]
+    "mavadsuu": "Mahāvadāna sūtra",        ]
     },
     {
         "category": "S02",
         "categoryname": "Dhāraṇī",
         "files": [
-
+    "vadhdhdu": "Vasudhārā dhāraṇī",
+    "vadhdhgu": "Vasudhārā dhāraṇī",
+    "vadhdhju": "Vasudhārā dhāraṇī",
+    "vajvidhu": "Vajravidāraṇā Dhāraṇī",
+    "vjviddhu": "Vajravidāraṇā Dhāraṇī",
+    "bsu024_u": "Mahāsamnipātaratnaketudhāraṇī [Ratnaketuparivarta]",
+    "dhvajkdu": "Dhvajāgrakeyurā dhāraṇī",
+    "dhvajkeu": "Dhvajāgrakeyurā dhāraṇī",
+    "grahmdhu": "Grahamātṛkā nāma dhāraṇī",
+    "madadh_u": "Mahādaṇḍadhāraṇīśītavatī",
+    "manivdhu": "Mahāmaṇivipulavimānaviśvasupratiṣṭhitaguhyaparamarahasyakalparājadhāraṇī",
+    "maricdhu": "Mārīcīnāmadhāraṇī",
+    "mekhdh_u": "Mekhalā dhāraṇī",
+    "mprsvdhu": "Mahāpratisarāvidyādhāraṇī",
+    "psarkdhu": "Pratisarākalpadhāraṇī",
+    "ratnakeu": "Mahāsamnipātaratnaketudhāraṇī [Ratnaketuparivarta]",
+    "sjdh_u": "Sarvajñatākāradhāraṇī [Karuṇāpuṇḍarīka]",
         ]
     },
     {
         "category": "S03",
         "categoryname": "Jātaka",
         "files": [
-
+    "ajm_u": "Jātakamālā",
+    "gopjatmu": "Jātakamālā",
+    "hjatm_pu": "Jātakamālā",
+    "jatkstpu": "Jātakastava",
         ]
     },
     {
         "category": "S04",
         "categoryname": "Mahāyānasūtra",
         "files": [
-
+    "bsu035_u": "Suvarṇaprabhāsa sūtra",
+    "srajsgiu": "Samādhirāja sūtra",
+    "bsu034_u": "Samādhirāja sūtra",
+    "bsu031_u": "Śālistamba sūtra",
+    "bsu025_u": "Nairātmyaparipṛcchā sūtra",
+    "bsa053_u": "Madhyamakāvatāra",
+    "bsu021_u": "Saddharmalaṅkāvatāra sūtra [Laṅkāvatāra sūtra]",
+    "samghscu": "Saṃghāṭa sūtra",
+    "bsu001_u": "Āryānityatā sūtra",
+    "bsu061_u": "Vimalakīrtinirdeśa sūtra",
+    "bsu045_u": "Saṃghāṭa Sūtra",
+    "bsu008_u": "Āryabuddhabalādhānaprātihāryavikurvāṇanirdeśa nāma Mahāyāna Sūtra",
+    "bsu022_u": "Lalitavistara",
+    "bsu019_u": "Kāraṇḍavyūha Sūtra",
+    "bsu062_u": "Guṇakāraṇḍavyūha sūtra",
+    "mpsu_w_u": "Mahāparinirvāṇa sūtra",
+    "amoghapu": "Āmoghapāśanāmahṛdaya sūtra",
+    "bsu002_u": "Āmoghapāśanāmahṛdaya sūtra",
+    "bsu003_u": "Aparimitāyuḥ Sūtra",
+    "bsu005_u": "Arthaviniścaya sūtra",
+    "bsu040_u": "Vinayaviniścaya upāliparipṛcchā sūtra",
+    "vimkn_u": "Vimalakīrtinirdeśa sūtra",
+    "bsu009_u": "Maitreyavyākaraṇa",
+    "bsu026_u": "Pratītyasamutpāda mahāyāna sūtra",
+    "bsu010_u": "Bhavasaṅkrānti sūtra",
+    "bsu012_u": "Bhaiṣajyaguruvaidūryaprabharāja sūtra",
+    "bsu014_u": "Daśabhūmika sūtra",
+    "bsu016_u": "Gaṇḍavyūha sūtra",
+    "bsu032_u": "Sukhāvatīvyūha sūtra saṃkṣiptamātṛkā",
+    "bsu033_u": "Sukhāvatīvyūha sūtra vistaramātṛkā",
+    "bsu037_u": "Sarvatathāgatādhiṣṭhānavyūha Sūtra",
+    "sukhvylu": "Sukhāvatīvyūha sūtra vistaramātṛkā",
+    "sukhvysu": "Sukhāvatīvyūha sūtra saṃkṣiptamātṛkā",
+        "bsu018_u": "Karuṇāpuṇḍarīka sūtra",
+        "bsu036_u": "Saddharmapuṇḍarīka sūtra",
+        "kasyparu": "Kāśyapaparivarta Sūtra",
+        "bsu020_u": "Kāśyapaparivarta Sūtra",
         ]
     },
     {
         "category": "S05",
         "categoryname": "Nirdeśa",
         "files": [
+    "bsu013_u": "Āryacaturdharmanirdeśa sūtra",
+        "bsu027_u": "Pratītyasamutpādādivibhaṅganirdeśa sūtra",
 
         ]
     },
@@ -38,8 +94,42 @@
         "category": "S06",
         "categoryname": "Prajñāpāramitā",
         "files": [
-
-        ]
+    "adhsatpu": "Adhyardhaśatikā Prajñāpāramitā",
+    "ppfrag_u": "Fragments of Prajnāpāramitā texts@en",
+    "adsp55-u": "Aṣṭādaśasāhasrikā Prajñāpāramitā",
+    "adsp70-u": "Aṣṭādaśasāhasrikā Prajñāpāramitā",
+    "bsu049_u": "Aṣṭasāhasrikā Prajñāpāramitā",
+    "bsu055_u": "Kauśika prajñāpāramitā sūtra",
+    "bsu053_u": "Prajñāpāramitāhṛdaya sūtra",
+    "bsu054_u": "Prajñāpāramitāhṛdaya sūtra",
+    "prajnhsu": "Prajñāpāramitāhṛdaya sūtra",
+    "vchedpgu": "Vajracchedikā Prajñāpāramitā Sūtra",
+    "vchedppu": "Vajracchedikā Prajñāpāramitā Sūtra",
+    "bsu051_u": "Vajracchedikā Prajñāpāramitā Sūtra",
+    "bsu056_u": "Adhyardhaśatikā Prajñāpāramitā",
+    "bsu057_u": "Advayaśatikā Prajñāpāramitā Sūtra",
+    "bsu050_u": "Svalpākṣarā prajñāpāramitā",
+    "bsu030_u": "Suvikrāntavikrāmiparipṛcchā [Sārdhadvisāhasrikā prajñāpāramitā]",
+    "bsu052_u": "Saptaśatikā prajñāpāramitā",
+    "bsu023_u": "Madhyamaka śālistamba sūtram",
+    "psp_1u": "Pañcaviṃśatisāhasrikā Prajñāpāramitā",
+    "psp_2-3u": "Pañcaviṃśatisāhasrikā Prajñāpāramitā",
+    "psp_4u": "Pañcaviṃśatisāhasrikā Prajñāpāramitā",
+    "psp_5u": "Pañcaviṃśatisāhasrikā Prajñāpāramitā",
+    "psp_6-8u": "Pañcaviṃśatisāhasrikā Prajñāpāramitā",
+    "pspdut2u": "Pañcaviṃśatisāhasrikā Prajñāpāramitā",
+    "pvspl_u": "Pañcaviṃśatisāhasrikā Prajñāpāramitā",
+    "atrisatu": "Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ",
+    "bsa011_u": "Prajñāpāramitāpiṇḍārtha",
+    "bsa051_u": "Sāratamā [āryāṣṭasāhasrikāyāḥ prajñāpāramitāyāḥ sāratamākhyā pañjikā]",
+    "dsp1-2_u": "Daśasāhasrikā Prajñāpāramitā",
+    "pplg1__u": "Larger Prajñāpāramitā",
+    "pplg202u": "Larger Prajñāpāramitā",
+    "sspp2_1u": "Śatasāhasrikā Prajñaparamitā",
+    "sspp2_2u": "Śatasāhasrikā Prajñaparamitā",
+    "sspp2_3u": "Śatasāhasrikā Prajñaparamitā",
+    "sspp2_4u": "Śatasāhasrikā Prajñaparamitā",
+    "bsu028pu": "Ratnaguṇasaṃcayagāthā",        ]
     },
     {
         "category": "S07",
@@ -52,7 +142,9 @@
         "category": "S08",
         "categoryname": "Tantra",
         "files": [
-
+    "sdurst_u": "Sarvadurgatipariśodhana tantra",
+    "sarvttsu": "Sarvatathāgatatattvasaṅgraha sūtra",
+    "abhnispu": "Niṣpannayogāvali",
         ]
     },
     {
@@ -66,49 +158,83 @@
         "category": "S10",
         "categoryname": "Other Sūtras",
         "files": [
-
+    "anitysuu": "Anityatā sūtra",
+    "ayuhparu": "Āyuḥparyanta sūtra",
+    "udanav_u": "Udānavarga",
+    "nagsu_tu": "Nagaropama sūtra [Saṃyuktāgama]",
+    "ekottaru": "Ekottarāgama",
         ]
     },
     {
         "category": "V01",
         "categoryname": "Mahāsāṃghikāna",
         "files": [
-
+    "bsu046_u": "Prātimokṣa sūtra",
         ]
     },
     {
         "category": "V02",
         "categoryname": "Sarvāstivāda",
         "files": [
-
+    "prmosu_u": "Prātimokṣasūtra of the Sarvastivadins",
         ]
     },
     {
         "category": "V03",
         "categoryname": "Mūlasarvāstivāda",
         "files": [
-
+    "prmosubu": "Prātimoksasutra of the Mulasarvastivadins",
+    "vinsutru": "Vinaya sūtra",
+    "vinv01_u": "Pravrajyāvastu",
+    "vinv02_u": "Poṣadhavastu",
+    "vinv03_u": "Pravāraṇāvastu",
+    "vinv04_u": "Varṣāvastu",
+    "vinv05_u": "Carmavastu",
+    "vinv06_u": "Bhaiṣajyavastu",
+    "vinv07_u": "Cīvaravastu",
+    "vinv08_u": "Kaṭhinavastu",
+    "vinv09_u": "Kośāmbakavastu",
+    "vinv10_u": "Karmavastu",
+    "vinv11_u": "Pāṇḍulohitakavastu",
+    "vinv12_u": "Pudgalavastu",
+    "vinv13_u": "Pārivāsikavastu",
+    "vinv14_u": "Poṣadhasthāpanavastu",
+    "vinv15_u": "Śayanāsanavastu",
+    "vinv16_u": "Adhikaraṇavastu",
+    "vinv171u": "Saṅghabhedavastu",
+    "vinv172u": "Saṅghabhedavastu",
         ]
     },
     {
         "category": "V04",
         "categoryname": "Lokuttaravāda",
         "files": [
-
+"prmosulu": "Prātimoksasutra of the Lokottaravadimahasanghika",
         ]
     },
     {
         "category": "V05",
         "categoryname": "Other Vinaya",
         "files": [
-
+    "prmosufu": "Prātimoksasutra fragments",
+    "bsu011_u": "Bodhisattvaprātimokṣa sūtra",
+    "bsu058_u": "Vinaya sūtra",
+    "bhikavau": "Bhikṣuṇī Karmavācanā",
+    "bhivin_u": "Bhikṣuṇī Vinaya",
         ]
     },
     {
         "category": "SA01",
         "categoryname": "Abhidharma",
         "files": [
-
+    "vabhdiku": "Abhidharmadipakārikā",
+    "vabhdilu": "Abhidharmadipakārikā",
+    "vakobhau": "Abhidharmakośabhāṣya",
+    "vakobhku": "Abhidharmakośakārikā",
+    "yabhkvyu": "Sphuṭārthā Abhidharmakośavyākhyā"
+    "abhsubhu": "Abhidharmasamuccayabhāṣya",
+    "asabhs_u": "Abhidharmasamuccaya",
+    "bsa039_u": "Daśākuśalakarmapathadeśanā",
         ]
     },
     {
@@ -136,7 +262,12 @@
         "category": "SA05",
         "categoryname": "Stotra",
         "files": [
-
+    "rahppspu": "Prajñāpāramitāstotra",
+    "bst-108u": "Buddhist Stotras",
+    "tarasdhu": "Tārāsragdharāstotra",
+    "tarb108u": "Tārābhaṭṭārikānāmāṣṭottaraśatakastotra",
+     "busto1_u": "Anaparāddhastotra",
+    "namekvsu": "Namastāre-ekaviṃśatistotraguṇasahita",
         ]
     },
     {
@@ -150,35 +281,71 @@
         "category": "SA07",
         "categoryname": "Kāvya",
         "files": [
-
+    "bghsic_u": "Siddhārthacaritra Kāvya",
         ]
     },
     {
         "category": "SA08",
         "categoryname": "Kośa",
         "files": [
-
+    "bsa007_u": "Dharmasaṃgraha",
         ]
     },
     {
         "category": "SA09",
         "categoryname": "Lekha",
         "files": [
-
+    "bsa067_u": "Bhavasaṃkrāntiparikathā",
         ]
     },
     {
         "category": "SA10",
         "categoryname": "Madhyamaka",
         "files": [
-
+    "bsa027_u": "Madhyamakaśāstra [Mūlamadhyamakakārikā]",
+    "bsa036_u": "Śaraṇagamanadeśanā",
+    "nagmyv_u": "Mahāyānaviṃśikā [Mahāyānaviṃśati]",
+    "bsa012_u": "Pratītyasamutpādahṛdayakārikā",
+    "nagysk_u": "Yuktiṣaṣṭikakārikā",
+    "nagyuksu": "Yuktiṣaṣṭikārikā [Yuktiṣaṣṭikakārikā]",
+    "bsa009_u": "Hastavālaprakaraṇavṛtti",
+    "nagvigvu": "Vigrahavyāvartanī [kārikā + vṛtti]",
+    "nagvvy_u": "Vigrahavyāvartanīkārikā",
         ]
     },
     {
         "category": "SA11",
         "categoryname": "Madhyamaka-yogācāra",
         "files": [
-
+    "bsa040_u": "Cittotpādasaṃvaravidhikrama",
+    "sanss01u": "Śikṣāsamuccaya",
+    "sanss02u": "Śikṣāsamuccaya",
+    "sanss03u": "Śikṣāsamuccaya",
+    "sanss04u": "Śikṣāsamuccaya",
+    "sanss05u": "Śikṣāsamuccaya",
+    "sanss06u": "Śikṣāsamuccaya",
+    "sanss07u": "Śikṣāsamuccaya",
+    "sanss08u": "Śikṣāsamuccaya",
+    "sanss09u": "Śikṣāsamuccaya",
+    "sanss10u": "Śikṣāsamuccaya",
+    "sanss11u": "Śikṣāsamuccaya",
+    "sanss12u": "Śikṣāsamuccaya",
+    "sanss13u": "Śikṣāsamuccaya",
+    "sanss14u": "Śikṣāsamuccaya",
+    "sanss15u": "Śikṣāsamuccaya",
+    "sanss16u": "Śikṣāsamuccaya",
+    "sanss17u": "Śikṣāsamuccaya",
+    "sanss18u": "Śikṣāsamuccaya",
+    "sanss19u": "Śikṣāsamuccaya",
+    "sanssr_au": "Śikṣāsamuccaya",
+    "sanssr_pu": "Śikṣāsamuccaya",
+    "bsa014_u": "Śikṣāsamuccayakārikā",
+    "santbcpu": "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]",
+    "bsa037_u": "Mahāyānapathasādhanasaṅgraha",
+    "bsa005_u": "Caryāsaṅgrahapradīpa",
+    "bsa003_u": "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]",
+    "bsa004_u": "Bodhipathapradīpa",
+    "bsa043_u": "Samādhisaṃbhāraparivarta",
         ]
     },
     {
@@ -192,35 +359,49 @@
         "category": "SA13",
         "categoryname": "Nīti",
         "files": [
-
+    "bsa060_u": "Śatagāthā",
         ]
     },
     {
         "category": "SA14",
         "categoryname": "Prajñāpāramitā",
         "files": [
-
+    "abhisamu": "Abhisamayālaṅkāranāmaprajñāpāramitopadeśaśāstra",
+    "kamvchtu": "Prajñāpāramitāvajracchedikāṭīkā",
+    "knavslou": "Navaślokī",
+    "bsa033_u": "Abhisamayālaṅkārāntaḥ pātināṃ",
+    "bsa031_u": "Abhisamayālaṅkāravṛttiḥ sphuṭārthā",
+    "bsa026_u": "Abhisamayālaṅkāra",
         ]
     },
     {
         "category": "SA15",
         "categoryname": "Pramāṇa",
         "files": [
-
+    "bsa069_u": "Tarkaśāstra",
+    "arhebt2u": "Hetubinduṭīkā",
+    "arhebt_u": "Hetubinduṭīkā",
+    "bsa071_u": "Hetubindu",
+    "bsa001_u": "Ālambanaparīkṣā",
+    "bsa002_u": "Ālambanaparīkṣāvṛtti",
+    "bsa057_u": "Nyāyabindu Prakaraṇakārikā",
+    "dhkprvku": "Pramāṇavārttikakārikā",
+    "dhkpvsvu": "Pramāṇavārttikavṛtti",
+    "bsa066_u": "Nyāyapraveśapravṛtti",
         ]
     },
     {
         "category": "SA16",
         "categoryname": "Sautrāntika",
         "files": [
-
+    "hvsatssu": "Satyasiddhiśāstra",
         ]
     },
     {
         "category": "SA17",
         "categoryname": "Śilpaśāstra",
         "files": [
-
+    "bsa044_u": "Kriyāsaṃgrahakārikā",
         ]
     },
     {
@@ -234,28 +415,44 @@
         "category": "SA19",
         "categoryname": "Vividha",
         "files": [
-
+    "nagsaliu": "Śālistambakamahāyānasūtraṭīkā [Āryaśālistambakamahāyānasūtraṭīkā]",
+    "bsa062_u": "Śālistambakakārikā [Āryaśālistambakakārikā]",
         ]
     },
     {
         "category": "SA20",
         "categoryname": "Yogācāra",
         "files": [
-
+    "vasbocpu": "Bodhicittotpādasūtraśāstra",
+    "srabhu_u": "Śrāvakabhūmi",
+    "srabhusu": "Śrāvakabhūmi",
+    "bsa030_u": "Mahāyānasūtrālaṃkāra",
+    "asmahsbu": "Mahāyānasūtrālaṃkāra",
+    "asmahsuu": "Mahāyānasūtrālaṃkāra",
+    "bsa010_u": "Madhyāntavibhāgakārikā",
+    "bsa017_u": "Tattvaratnāvaloka [Tattvaratnāloka]",
+    "bsa018_u": "Triṃśikāvijñaptikārikā [Triṃśikākārikā]",
+    "bsa022_u": "Viṃśikāvṛtti [Viṃśatikākārikā]",
+    "bsa023_u": "Viṃśatikākārikā [Viṃśikāvṛtti]",
+    "sthtvbhu": "Triṃśikāvijñaptikārikā Triṃśikāvijñaptibhāṣya [Triṃśikābhāṣya]",
+    "vasvvmsu": "Viṃśatikā vijñaptimātratāsiddhi [Viṃśatikākārikā, Viṃśikāvṛtti]]",
+    "vmvkbh_u": "Madhyāntavibhāgabhāṣya [Madhyāntavibhāgakārikābhāṣya]",
+    "bsa058_u": "Bhavasaṃkrāntiṭīkā",
+    "bsa019_u": "Trisvabhāvanirdeśa",
         ]
     },
     {
         "category": "SA21",
         "categoryname": "Yoginītantraṭīkā",
         "files": [
-
+    "sunytjsu": "Tatvajñānasaṃsiddhi",
         ]
     },
     {
         "category": "SA22",
         "categoryname": "Yogottaratantraṭīkā",
         "files": [
-
+    "bsa006_u": "Cittaviśuddhiprakaraṇa",
         ]
     },
     {
@@ -298,5 +495,13 @@
         "categoryname": "Jyotiḥśāstra",
         "files": [
 
+        ]
+    },
+    {
+        "category": "XX",
+        "categoryname": "Other Buddhist",
+        "files": [
+    "bowermsu": "Bower Manuscript",
+        "dhppat_u": "Patna Dharmapada",
         ]
     },

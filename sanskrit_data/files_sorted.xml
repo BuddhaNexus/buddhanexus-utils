@@ -11,7 +11,6 @@ Sutras to sort
     "bsu020_u": "Kāśyapaparivarta Sūtra",
     "bsu021_u": "Saddharmalaṅkāvatāra sūtra [Laṅkāvatāra sūtra]",
     "bsu025_u": "Nairātmyaparipṛcchā sūtra",
-    "bsu026_u": "Pratītyasamutpāda mahāyāna sūtra",
     "bsu027_u": "Pratītyasamutpādādivibhaṅganirdeśa sūtra",
     "bsu031_u": "Śālistamba sūtra",
     "bsu032_u": "Sukhāvatīvyūha sūtra saṃkṣiptamātṛkā",
@@ -29,13 +28,12 @@ Sutras to sort
     "kasyparu": "Kāśyapaparivarta Sūtra",
     "mahama_u": "Mahāmantrānusāriṇī mahāsūtra",
 
-    "nagsu_tu": "Nagaropama sūtra [Saṃyuktāgama]",
-    "sarvttsu": "Sarvatathāgatatattvasaṅgraha sūtra",
+
     "srajsgiu": "Samādhirāja sūtra",
     "sukhvylu": "Sukhāvatīvyūha sūtra vistaramātṛkā",
     "sukhvysu": "Sukhāvatīvyūha sūtra saṃkṣiptamātṛkā",
     "tbimbk_u": "Tathāgatabimbakārāpaṇa sūtra",
-    "vimkn_u": "Vimalakīrtinirdeśa sūtra",
+
 
 S01
     "mavadsuu": "Mahāvadāna sūtra",
@@ -81,6 +79,9 @@ S04
     "bsu003_u": "Aparimitāyuḥ Sūtra",
     "bsu005_u": "Arthaviniścaya sūtra",
     "bsu040_u": "Vinayaviniścaya upāliparipṛcchā sūtra",
+    "vimkn_u": "Vimalakīrtinirdeśa sūtra",
+    "bsu009_u": "Maitreyavyākaraṇa",
+    "bsu026_u": "Pratītyasamutpāda mahāyāna sūtra",
 
 
 S06
@@ -119,19 +120,27 @@ S06
     "sspp2_2u": "Śatasāhasrikā Prajñaparamitā",
     "sspp2_3u": "Śatasāhasrikā Prajñaparamitā",
     "sspp2_4u": "Śatasāhasrikā Prajñaparamitā",
+    "bsu028pu": "Ratnaguṇasaṃcayagāthā",
 
-
+S08
+    "sdurst_u": "Sarvadurgatipariśodhana tantra",
+    "sarvttsu": "Sarvatathāgatatattvasaṅgraha sūtra",
+    "abhnispu": "Niṣpannayogāvali",
 
 S10
     "anitysuu": "Anityatā sūtra",
     "ayuhparu": "Āyuḥparyanta sūtra",
     "udanav_u": "Udānavarga",
-
+    "nagsu_tu": "Nagaropama sūtra [Saṃyuktāgama]",
+    "ekottaru": "Ekottarāgama",
 
 SA14
     "abhisamu": "Abhisamayālaṅkāranāmaprajñāpāramitopadeśaśāstra",
     "kamvchtu": "Prajñāpāramitāvajracchedikāṭīkā",
     "knavslou": "Navaślokī",
+    "bsa033_u": "Abhisamayālaṅkārāntaḥ pātināṃ",
+    "bsa031_u": "Abhisamayālaṅkāravṛttiḥ sphuṭārthā",
+    "bsa026_u": "Abhisamayālaṅkāra",
 
 SA05
     "rahppspu": "Prajñāpāramitāstotra",
@@ -141,19 +150,48 @@ SA05
      "busto1_u": "Anaparāddhastotra",
     "namekvsu": "Namastāre-ekaviṃśatistotraguṇasahita",
 
+SA07
+
+    "bghsic_u": "Siddhārthacaritra Kāvya",
+
+SA08
+    "bsa007_u": "Dharmasaṃgraha",
+
+SA09
+    "bsa067_u": "Bhavasaṃkrāntiparikathā",
 
 SA10
     "bsa027_u": "Madhyamakaśāstra [Mūlamadhyamakakārikā]",
+    "bsa036_u": "Śaraṇagamanadeśanā",
+    "nagmyv_u": "Mahāyānaviṃśikā [Mahāyānaviṃśati]",
+    "bsa012_u": "Pratītyasamutpādahṛdayakārikā",
+    "nagysk_u": "Yuktiṣaṣṭikakārikā",
+    "nagyuksu": "Yuktiṣaṣṭikārikā [Yuktiṣaṣṭikakārikā]",
+    "bsa009_u": "Hastavālaprakaraṇavṛtti",
+    "nagvigvu": "Vigrahavyāvartanī [kārikā + vṛtti]",
+    "nagvvy_u": "Vigrahavyāvartanīkārikā",
+
+SA13
+    "bsa060_u": "Śatagāthā",
 
 SA15
     "bsa069_u": "Tarkaśāstra",
+    "arhebt2u": "Hetubinduṭīkā",
+    "arhebt_u": "Hetubinduṭīkā",
+    "bsa071_u": "Hetubindu",
+    "bsa001_u": "Ālambanaparīkṣā",
+    "bsa002_u": "Ālambanaparīkṣāvṛtti",
+    "bsa057_u": "Nyāyabindu Prakaraṇakārikā",
+    "dhkprvku": "Pramāṇavārttikakārikā",
+    "dhkpvsvu": "Pramāṇavārttikavṛtti",
+    "bsa066_u": "Nyāyapraveśapravṛtti",
 
 SA16
     "hvsatssu": "Satyasiddhiśāstra",
 
 SA19
     "nagsaliu": "Śālistambakamahāyānasūtraṭīkā [Āryaśālistambakamahāyānasūtraṭīkā]",
-
+    "bsa062_u": "Śālistambakakārikā [Āryaśālistambakakārikā]",
 
 SA20
     "vasbocpu": "Bodhicittotpādasūtraśāstra",
@@ -162,6 +200,14 @@ SA20
     "bsa030_u": "Mahāyānasūtrālaṃkāra",
     "asmahsbu": "Mahāyānasūtrālaṃkāra",
     "asmahsuu": "Mahāyānasūtrālaṃkāra",
+    "bsa010_u": "Madhyāntavibhāgakārikā",
+    "bsa017_u": "Tattvaratnāvaloka [Tattvaratnāloka]",
+    "bsa018_u": "Triṃśikāvijñaptikārikā [Triṃśikākārikā]",
+    "bsa022_u": "Viṃśikāvṛtti [Viṃśatikākārikā]",
+    "bsa023_u": "Viṃśatikākārikā [Viṃśikāvṛtti]",
+    "sthtvbhu": "Triṃśikāvijñaptikārikā Triṃśikāvijñaptibhāṣya [Triṃśikābhāṣya]",
+    "vasvvmsu": "Viṃśatikā vijñaptimātratāsiddhi [Viṃśatikākārikā, Viṃśikāvṛtti]]",
+    "vmvkbh_u": "Madhyāntavibhāgabhāṣya [Madhyāntavibhāgakārikābhāṣya]",
 
 
 SA01
@@ -176,6 +222,7 @@ SA01
 
 
 SA11
+    "bsa040_u": "Cittotpādasaṃvaravidhikrama",
     "sanss01u": "Śikṣāsamuccaya",
     "sanss02u": "Śikṣāsamuccaya",
     "sanss03u": "Śikṣāsamuccaya",
@@ -199,10 +246,19 @@ SA11
     "sanssr_pu": "Śikṣāsamuccaya",
     "bsa014_u": "Śikṣāsamuccayakārikā",
     "santbcpu": "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]",
+    "bsa037_u": "Mahāyānapathasādhanasaṅgraha",
+    "bsa005_u": "Caryāsaṅgrahapradīpa",
+    "bsa003_u": "Bodhicaryāvatāra [Bodhisattvacaryāvatāra]",
+    "bsa004_u": "Bodhipathapradīpa",
+
+SA17
+    "bsa044_u": "Kriyāsaṃgrahakārikā",
 
 SA21
     "sunytjsu": "Tatvajñānasaṃsiddhi",
 
+SA22
+    "bsa006_u": "Cittaviśuddhiprakaraṇa",
 
 V01 mahasanghika
     "bsu046_u": "Prātimokṣa sūtra",
@@ -243,3 +299,8 @@ V05
     "prmosufu": "Prātimoksasutra fragments",
     "bsu011_u": "Bodhisattvaprātimokṣa sūtra",
     "bsu058_u": "Vinaya sūtra",
+    "bhikavau": "Bhikṣuṇī Karmavācanā",
+    "bhivin_u": "Bhikṣuṇī Vinaya",
+
+XX
+    "bowermsu": "Bower Manuscript",
