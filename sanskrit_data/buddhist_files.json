@@ -1056,3 +1056,565 @@
   "category": "V02",
   "filenr": 1
 },
+{
+  "displayName": "Adhikaraṇavastu (V03vinv16_u)",
+  "textname": "V03 vinv16_u",
+  "filename": "V03vinv16_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Bhaiṣajyavastu (V03vinv06_u)",
+  "textname": "V03 vinv06_u",
+  "filename": "V03vinv06_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Carmavastu (V03vinv05_u)",
+  "textname": "V03 vinv05_u",
+  "filename": "V03vinv05_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Cīvaravastu (V03vinv07_u)",
+  "textname": "V03 vinv07_u",
+  "filename": "V03vinv07_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Karmavastu (V03vinv10_u)",
+  "textname": "V03 vinv10_u",
+  "filename": "V03vinv10_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Kaṭhinavastu (V03vinv08_u)",
+  "textname": "V03 vinv08_u",
+  "filename": "V03vinv08_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Kośāmbakavastu (V03vinv09_u)",
+  "textname": "V03 vinv09_u",
+  "filename": "V03vinv09_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Pāṇḍulohitakavastu (V03vinv11_u)",
+  "textname": "V03 vinv11_u",
+  "filename": "V03vinv11_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Pārivāsikavastu (V03vinv13_u)",
+  "textname": "V03 vinv13_u",
+  "filename": "V03vinv13_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Poṣadhasthāpanavastu (V03vinv14_u)",
+  "textname": "V03 vinv14_u",
+  "filename": "V03vinv14_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Poṣadhavastu (V03vinv02_u)",
+  "textname": "V03 vinv02_u",
+  "filename": "V03vinv02_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Prātimoksasutra Mulasarvastivadin (V03prmosubu)",
+  "textname": "V03 prmosubu",
+  "filename": "V03prmosubu",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Pravāraṇāvastu (V03vinv03_u)",
+  "textname": "V03 vinv03_u",
+  "filename": "V03vinv03_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Pravrajyāvastu (V03vinv01_u)",
+  "textname": "V03 vinv01_u",
+  "filename": "V03vinv01_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Pudgalavastu (V03vinv12_u)",
+  "textname": "V03 vinv12_u",
+  "filename": "V03vinv12_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Saṅghabhedavastu 1 (V03vinv171u)",
+  "textname": "V03 vinv171u",
+  "filename": "V03vinv171u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Saṅghabhedavastu 2 (V03vinv172u)",
+  "textname": "V03 vinv172u",
+  "filename": "V03vinv172u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Śayanāsanavastu (V03vinv15_u)",
+  "textname": "V03 vinv15_u",
+  "filename": "V03vinv15_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Upasaṃpadājñapti (V03upsmpjnu)",
+  "textname": "V03 upsmpjnu",
+  "filename": "V03upsmpjnu",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Varṣāvastu (V03vinv04_u)",
+  "textname": "V03 vinv04_u",
+  "filename": "V03vinv04_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Vinaya sūtra (Gunaprabha) (V03vinsutru)",
+  "textname": "V03 vinsutru",
+  "filename": "V03vinsutru",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Vinaya sūtra 1 (Gunaprabha:):  Pravrajyavastu (V03bsu058_u)",
+  "textname": "V03 bsu058_u",
+  "filename": "V03bsu058_u",
+  "category": "V03",
+  "filenr": 1
+},
+{
+  "displayName": "Prātimoksasutra of the Lokottaravadimahasanghika (V04prmosulu)",
+  "textname": "V04 prmosulu",
+  "filename": "V04prmosulu",
+  "category": "V04",
+  "filenr": 1
+},
+{
+  "displayName": "Bhikṣukarmavākya (V05bsa068_u)",
+  "textname": "V05 bsa068_u",
+  "filename": "V05bsa068_u",
+  "category": "V05",
+  "filenr": 1
+},
+{
+  "displayName": "Bhikṣuṇī Karmavācanā (V05bhikavau)",
+  "textname": "V05 bhikavau",
+  "filename": "V05bhikavau",
+  "category": "V05",
+  "filenr": 1
+},
+{
+  "displayName": "Bhikṣuṇī Vinaya (V05bhivin_u)",
+  "textname": "V05 bhivin_u",
+  "filename": "V05bhivin_u",
+  "category": "V05",
+  "filenr": 1
+},
+{
+  "displayName": "Bodhisattvaprātimokṣa sūtra (V05bsu011_u)",
+  "textname": "V05 bsu011_u",
+  "filename": "V05bsu011_u",
+  "category": "V05",
+  "filenr": 1
+},
+{
+  "displayName": "Prātimoksasutra fragments (V05prmosufu)",
+  "textname": "V05 prmosufu",
+  "filename": "V05prmosufu",
+  "category": "V05",
+  "filenr": 1
+},
+{
+  "displayName": "Abhidharmadipakārikā: Vimalamitra (SA01vabhdiku)",
+  "textname": "SA01 vabhdiku",
+  "filename": "SA01vabhdiku",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Abhidharmadipakārikā: Vimalamitra Karikas 1-383 (SA01vabhdilu)",
+  "textname": "SA01 vabhdilu",
+  "filename": "SA01vabhdilu",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Abhidharmakośabhāṣya (SA01vakobhau)",
+  "textname": "SA01 vakobhau",
+  "filename": "SA01vakobhau",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Abhidharmakośakārikā (SA01vakobhku)",
+  "textname": "SA01 vakobhku",
+  "filename": "SA01vakobhku",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Abhidharmasamuccaya (SA01asabhs_u)",
+  "textname": "SA01 asabhs_u",
+  "filename": "SA01asabhs_u",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Abhidharmasamuccayabhāṣya (SA01abhsubhu)",
+  "textname": "SA01 abhsubhu",
+  "filename": "SA01abhsubhu",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Daśākuśalakarmapathadeśanā (SA01bsa039_u)",
+  "textname": "SA01 bsa039_u",
+  "filename": "SA01bsa039_u",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Dharmadhātugarbhavivaraṇa (SA01nagdhdbu)",
+  "textname": "SA01 nagdhdbu",
+  "filename": "SA01nagdhdbu",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Mahākarmavibhaṅga (SA01mkarmviu)",
+  "textname": "SA01 mkarmviu",
+  "filename": "SA01mkarmviu",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Sphuṭārthā Abhidharmakośavyākhyā (SA01yabhkvyu)",
+  "textname": "SA01 yabhkvyu",
+  "filename": "SA01yabhkvyu",
+  "category": "SA01",
+  "filenr": 1
+},
+{
+  "displayName": "Sekoddeśa [Sekoddeśaṭikā] (SA02narsekou)",
+  "textname": "SA02 narsekou",
+  "filename": "SA02narsekou",
+  "category": "SA02",
+  "filenr": 1
+},
+
+{
+  "displayName": "Acintyastava (SA05nagast_u)",
+  "textname": "SA05 nagast_u",
+  "filename": "SA05nagast_u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Anaparāddhastotra (SA05busto1_u)",
+  "textname": "SA05 busto1_u",
+  "filename": "SA05busto1_u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Buddhist Stotras (SA05bst-108u)",
+  "textname": "SA05 bst-108u",
+  "filename": "SA05bst-108u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Lokātītastava (SA05naglok_u)",
+  "textname": "SA05 naglok_u",
+  "filename": "SA05naglok_u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Mañjuśrīnāmasaṃgīti (v. Davidson) (SA05manjn1pu)",
+  "textname": "SA05 manjn1pu",
+  "filename": "SA05manjn1pu",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Mañjuśrīnāmasaṃgīti (v. Janardan Shastri Pandey) (SA05manjnspu)",
+  "textname": "SA05 manjnspu",
+  "filename": "SA05manjnspu",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Namastāre-ekaviṃśatistotraguṇasahita (SA05namekvsu)",
+  "textname": "SA05 namekvsu",
+  "filename": "SA05namekvsu",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Prajñāpāramitāstotra (SA05rahppspu)",
+  "textname": "SA05 rahppspu",
+  "filename": "SA05rahppspu",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Ratnāvalī [Ratnamālā] (1-2.46, and 4) (SA05bsa025_u)",
+  "textname": "SA05 bsa025_u",
+  "filename": "SA05bsa025_u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Ratnāvalī [Ratnamālā] 1 (SA05nrat_1_u)",
+  "textname": "SA05 nrat_1_u",
+  "filename": "SA05nrat_1_u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Ratnāvalī [Ratnamālā] 2 (SA05nrat_2_u)",
+  "textname": "SA05 nrat_2_u",
+  "filename": "SA05nrat_2_u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Ratnāvalī [Ratnamālā] 4 (SA05nrat_4_u)",
+  "textname": "SA05 nrat_4_u",
+  "filename": "SA05nrat_4_u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Tārābhaṭṭārikānāmāṣṭottaraśatakastotra (SA05tarb108u)",
+  "textname": "SA05 tarb108u",
+  "filename": "SA05tarb108u",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Tārāsragdharāstotra (SA05tarasdhu)",
+  "textname": "SA05 tarasdhu",
+  "filename": "SA05tarasdhu",
+  "category": "SA05",
+  "filenr": 1
+},
+{
+  "displayName": "Gurukriyākrama (SA06bsa042_u)",
+  "textname": "SA06 bsa042_u",
+  "filename": "SA06bsa042_u",
+  "category": "SA06",
+  "filenr": 1
+},
+{
+  "displayName": "Gurupañcāśikā (SA06bsa045_u)",
+  "textname": "SA06 bsa045_u",
+  "filename": "SA06bsa045_u",
+  "category": "SA06",
+  "filenr": 1
+},
+{
+  "displayName": "Siddhārthacaritra Kāvya (SA07bghsic_u)",
+  "textname": "SA07 bghsic_u",
+  "filename": "SA07bghsic_u",
+  "category": "SA07",
+  "filenr": 1
+},
+{
+  "displayName": "Subhāṣitaratnakaraṇḍakathā (SA07subhrk_u)",
+  "textname": "SA07 subhrk_u",
+  "filename": "SA07subhrk_u",
+  "category": "SA07",
+  "filenr": 1
+},
+{
+  "displayName": "Yaśodharācarita (SA07davyasou)",
+  "textname": "SA07 davyasou",
+  "filename": "SA07davyasou",
+  "category": "SA07",
+  "filenr": 1
+},
+{
+  "displayName": "Dharmasaṃgraha (SA08bsa007_u)",
+  "textname": "SA08 bsa007_u",
+  "filename": "SA08bsa007_u",
+  "category": "SA08",
+  "filenr": 1
+},
+{
+  "displayName": "Bhavasaṃkrāntiparikathā (SA09bsa067_u)",
+  "textname": "SA09 bsa067_u",
+  "filename": "SA09bsa067_u",
+  "category": "SA09",
+  "filenr": 1
+},
+{
+  "displayName": "Śiṣyalekha (SA09cansisyu)",
+  "textname": "SA09 cansisyu",
+  "filename": "SA09cansisyu",
+  "category": "SA09",
+  "filenr": 1
+},
+{
+  "displayName": "Suhṛllekha (SA09bsa015_u)",
+  "textname": "SA09 bsa015_u",
+  "filename": "SA09bsa015_u",
+  "category": "SA09",
+  "filenr": 1
+},
+{
+  "displayName": "Catuḥśatikā (SA10bsa028_u)",
+  "textname": "SA10 bsa028_u",
+  "filename": "SA10bsa028_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Hastavālaprakaraṇavṛtti (SA10bsa009_u)",
+  "textname": "SA10 bsa009_u",
+  "filename": "SA10bsa009_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Madhyamakāloka (SA10ksmadhlu)",
+  "textname": "SA10 ksmadhlu",
+  "filename": "SA10ksmadhlu",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Madhyamakaśāstra [Mūlamadhyamakakārikā] (SA10bsa027_u)",
+  "textname": "SA10 bsa027_u",
+  "filename": "SA10bsa027_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Mahāyānaviṃśikā [Mahāyānaviṃśati] (SA10nagmyv_u)",
+  "textname": "SA10 nagmyv_u",
+  "filename": "SA10nagmyv_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Mūlamadhyamakakārikā (SA10nagmmk_u)",
+  "textname": "SA10 nagmmk_u",
+  "filename": "SA10nagmmk_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Prasannapadā (SA10canprasu)",
+  "textname": "SA10 canprasu",
+  "filename": "SA10canprasu",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Pratītyasamutpādahṛdayakārikā (SA10bsa012_u)",
+  "textname": "SA10 bsa012_u",
+  "filename": "SA10bsa012_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Pratītyasamutpādahṛdayavyākhyāna (SA10bsa013_u)",
+  "textname": "SA10 bsa013_u",
+  "filename": "SA10bsa013_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Śaraṇagamanadeśanā (SA10bsa036_u)",
+  "textname": "SA10 bsa036_u",
+  "filename": "SA10bsa036_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Satyadvayāvatāranāma (SA10bsa024_u)",
+  "textname": "SA10 bsa024_u",
+  "filename": "SA10bsa024_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Śūnyatāsaptati (SA10bsa016_u)",
+  "textname": "SA10 bsa016_u",
+  "filename": "SA10bsa016_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Sūtrārthasamuccayopadeśa (SA10bsa038_u)",
+  "textname": "SA10 bsa038_u",
+  "filename": "SA10bsa038_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Vigrahavyāvartanī (SA10bsa021_u)",
+  "textname": "SA10 bsa021_u",
+  "filename": "SA10bsa021_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Vigrahavyāvartanī [kārikā + vṛtti] (SA10nagvigvu)",
+  "textname": "SA10 nagvigvu",
+  "filename": "SA10nagvigvu",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Vigrahavyāvartanīkārikā (SA10nagvvy_u)",
+  "textname": "SA10 nagvvy_u",
+  "filename": "SA10nagvvy_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Yuktiṣaṣṭikakārikā (SA10nagysk_u)",
+  "textname": "SA10 nagysk_u",
+  "filename": "SA10nagysk_u",
+  "category": "SA10",
+  "filenr": 1
+},
+{
+  "displayName": "Yuktiṣaṣṭikārikā [Yuktiṣaṣṭikakārikā] (SA10nagyuksu)",
+  "textname": "SA10 nagyuksu",
+  "filename": "SA10nagyuksu",
+  "category": "SA10",
+  "filenr": 1
+},
+
