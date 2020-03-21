@@ -792,38 +792,10 @@
 },
 {
   "displayName": "Harivamsa, Appendix I.",
-  "textname": "GE07hv_appau",
-  "filename": "GE07hv_appau",
-  "category": "GE07",
-  "filenr": 518
-},
-{
-  "displayName": "Harivamsa, Appendix I.",
-  "textname": "GE07hv_appiu",
-  "filename": "GE07hv_appiu",
-  "category": "GE07",
-  "filenr": 519
-},
-{
-  "displayName": "Harivamsa, Appendix I.",
   "textname": "GE07hv_apppu",
   "filename": "GE07hv_apppu",
   "category": "GE07",
   "filenr": 520
-},
-{
-  "displayName": "Harivamsa, constituted text with star passages",
-  "textname": "GE07hv_conau",
-  "filename": "GE07hv_conau",
-  "category": "GE07",
-  "filenr": 521
-},
-{
-  "displayName": "Harivamsa, constituted text with star passages",
-  "textname": "GE07hv_coniu",
-  "filename": "GE07hv_coniu",
-  "category": "GE07",
-  "filenr": 522
 },
 {
   "displayName": "Harivamsa, constituted text with star passages",
@@ -833,140 +805,126 @@
   "filenr": 523
 },
 {
-  "displayName": "Harivamsa (complete)",
-  "textname": "GE07hv_cumiu",
-  "filename": "GE07hv_cumiu",
-  "category": "GE07",
-  "filenr": 524
-},
-{
-  "displayName": "% Mahabharata, Parvans 1 - 18",
-  "textname": "GE07mbh1-18u",
-  "filename": "GE07mbh1-18u",
-  "category": "GE07",
-  "filenr": 525
-},
-{
-  "displayName": "% Mahabharata: Adiparvan",
+  "displayName": "Mahabharata: Adiparvan",
   "textname": "GE07mbh_01_u",
   "filename": "GE07mbh_01_u",
   "category": "GE07",
   "filenr": 526
 },
 {
-  "displayName": "% Mahabharata: Sabhaparvan",
+  "displayName": "Mahabharata: Sabhaparvan",
   "textname": "GE07mbh_02_u",
   "filename": "GE07mbh_02_u",
   "category": "GE07",
   "filenr": 527
 },
 {
-  "displayName": "% Mahabharata: Aranyakaparvan",
+  "displayName": "Mahabharata: Aranyakaparvan",
   "textname": "GE07mbh_03_u",
   "filename": "GE07mbh_03_u",
   "category": "GE07",
   "filenr": 528
 },
 {
-  "displayName": "% Mahabharata: Virataparvan",
+  "displayName": "Mahabharata: Virataparvan",
   "textname": "GE07mbh_04_u",
   "filename": "GE07mbh_04_u",
   "category": "GE07",
   "filenr": 529
 },
 {
-  "displayName": "% Mahabharata: Udyogaparvan",
+  "displayName": "Mahabharata: Udyogaparvan",
   "textname": "GE07mbh_05_u",
   "filename": "GE07mbh_05_u",
   "category": "GE07",
   "filenr": 530
 },
 {
-  "displayName": "% Mahabharata: Bhismaparvan",
+  "displayName": "Mahabharata: Bhismaparvan",
   "textname": "GE07mbh_06_u",
   "filename": "GE07mbh_06_u",
   "category": "GE07",
   "filenr": 531
 },
 {
-  "displayName": "% Mahabharata: Dronaparvan",
+  "displayName": "Mahabharata: Dronaparvan",
   "textname": "GE07mbh_07_u",
   "filename": "GE07mbh_07_u",
   "category": "GE07",
   "filenr": 532
 },
 {
-  "displayName": "% Mahabharata: Karnaparvan",
+  "displayName": "Mahabharata: Karnaparvan",
   "textname": "GE07mbh_08_u",
   "filename": "GE07mbh_08_u",
   "category": "GE07",
   "filenr": 533
 },
 {
-  "displayName": "% Mahabharata: Salyaparvan",
+  "displayName": "Mahabharata: Salyaparvan",
   "textname": "GE07mbh_09_u",
   "filename": "GE07mbh_09_u",
   "category": "GE07",
   "filenr": 534
 },
 {
-  "displayName": "% Mahabharata: Sauptikaparvan",
+  "displayName": "Mahabharata: Sauptikaparvan",
   "textname": "GE07mbh_10_u",
   "filename": "GE07mbh_10_u",
   "category": "GE07",
   "filenr": 535
 },
 {
-  "displayName": "% Mahabharata: Striparvan",
+  "displayName": "Mahabharata: Striparvan",
   "textname": "GE07mbh_11_u",
   "filename": "GE07mbh_11_u",
   "category": "GE07",
   "filenr": 536
 },
 {
-  "displayName": "% Mahabharata: Santiparvan",
+  "displayName": "Mahabharata: Santiparvan",
   "textname": "GE07mbh_12_u",
   "filename": "GE07mbh_12_u",
   "category": "GE07",
   "filenr": 537
 },
 {
-  "displayName": "% Mahabharata: Anusasanaparvan",
+  "displayName": "Mahabharata: Anusasanaparvan",
   "textname": "GE07mbh_13_u",
   "filename": "GE07mbh_13_u",
   "category": "GE07",
   "filenr": 538
 },
 {
-  "displayName": "% Mahabharata: Asvamedhikaparvan",
+  "displayName": "Mahabharata: Asvamedhikaparvan",
   "textname": "GE07mbh_14_u",
   "filename": "GE07mbh_14_u",
   "category": "GE07",
   "filenr": 539
 },
 {
-  "displayName": "% Mahabharata: Asramavasikaparvan",
+  "displayName": "Mahabharata: Asramavasikaparvan",
   "textname": "GE07mbh_15_u",
   "filename": "GE07mbh_15_u",
   "category": "GE07",
   "filenr": 540
 },
 {
-  "displayName": "% Mahabharata: Mausalaparvan",
+  "displayName": "Mahabharata: Mausalaparvan",
   "textname": "GE07mbh_16_u",
   "filename": "GE07mbh_16_u",
   "category": "GE07",
   "filenr": 541
 },
 {
-  "displayName": "% Mahabharata: Mahaprasthanikaparvan",
+  "displayName": "Mahabharata: Mahaprasthanikaparvan",
   "textname": "GE07mbh_17_u",
   "filename": "GE07mbh_17_u",
   "category": "GE07",
   "filenr": 542
 },
 {
-  "displayName": "% Mahabharata: Svargarohanaparvan",
+  "displayName": "Mahabharata: Svargarohanaparvan",
   "textname": "GE07mbh_18_u",
   "filename": "GE07mbh_18_u",
   "category": "GE07",
@@ -985,20 +943,6 @@
   "filename": "GE07naray_bu",
   "category": "GE07",
   "filenr": 545
-},
-{
-  "displayName": "Narayaniya (Mahabharata 12.321-339)",
-  "textname": "GE07narayriu",
-  "filename": "GE07narayriu",
-  "category": "GE07",
-  "filenr": 546
-},
-{
-  "displayName": "Valmiki (trad.): Ramayana: Khandas 2-3",
-  "textname": "GE09ram2-3iu",
-  "filename": "GE09ram2-3iu",
-  "category": "GE09",
-  "filenr": 547
 },
 {
   "displayName": "Valmiki: Ramayana, 1. Balakanda",
@@ -2416,20 +2360,6 @@
 },
 {
   "displayName": "Bhamaha: Kavyalamkara",
-  "textname": "GK16bhakavau",
-  "filename": "GK16bhakavau",
-  "category": "GK16",
-  "filenr": 750
-},
-{
-  "displayName": "Bhamaha: Kavyalamkara",
-  "textname": "GK16bhakaviu",
-  "filename": "GK16bhakaviu",
-  "category": "GK16",
-  "filenr": 751
-},
-{
-  "displayName": "Bhamaha: Kavyalamkara",
   "textname": "GK16bhakavpu",
   "filename": "GK16bhakavpu",
   "category": "GK16",
@@ -2444,24 +2374,10 @@
 },
 {
   "displayName": "DANDIN: KAVYADARSA, Pariccheda 1",
-  "textname": "GK16dkavy1au",
-  "filename": "GK16dkavy1au",
-  "category": "GK16",
-  "filenr": 754
-},
-{
-  "displayName": "DANDIN: KAVYADARSA, Pariccheda 1",
   "textname": "GK16dkavy1pu",
   "filename": "GK16dkavy1pu",
   "category": "GK16",
   "filenr": 755
-},
-{
-  "displayName": "DANDIN: KAVYADARSA, Pariccheda 2 (incomplete!): Verses 2.1-144, 310-368",
-  "textname": "GK16dkavy2au",
-  "filename": "GK16dkavy2au",
-  "category": "GK16",
-  "filenr": 756
 },
 {
   "displayName": "DANDIN: KAVYADARSA, Pariccheda 2 (incomplete!): Verses 2.1-144, 310-368",
@@ -2476,20 +2392,6 @@
   "filename": "GK16dkavy3_u",
   "category": "GK16",
   "filenr": 758
-},
-{
-  "displayName": "Jayadeva (alias Piyusavarsa): Candraloka",
-  "textname": "GK16jaycndau",
-  "filename": "GK16jaycndau",
-  "category": "GK16",
-  "filenr": 759
-},
-{
-  "displayName": "Jayadeva (alias Piyusavarsa): Candraloka",
-  "textname": "GK16jaycndiu",
-  "filename": "GK16jaycndiu",
-  "category": "GK16",
-  "filenr": 760
 },
 {
   "displayName": "Jayadeva (alias Piyusavarsa): Candraloka",
@@ -2525,13 +2427,6 @@
   "filename": "GK16mamkpb_u",
   "category": "GK16",
   "filenr": 765
-},
-{
-  "displayName": "Mammata: Kavyaprakasa",
-  "textname": "GK16mamkpbiu",
-  "filename": "GK16mamkpbiu",
-  "category": "GK16",
-  "filenr": 766
 },
 {
   "displayName": "Mammata: Kavyaprakasa (Karikavali)",
@@ -2759,20 +2654,6 @@
 },
 {
   "displayName": "Jnanasrimitra: Vrttamalastuti",
-  "textname": "GK17jvrtmsau",
-  "filename": "GK17jvrtmsau",
-  "category": "GK17",
-  "filenr": 799
-},
-{
-  "displayName": "Jnanasrimitra: Vrttamalastuti",
-  "textname": "GK17jvrtmsiu",
-  "filename": "GK17jvrtmsiu",
-  "category": "GK17",
-  "filenr": 800
-},
-{
-  "displayName": "Jnanasrimitra: Vrttamalastuti",
   "textname": "GK17jvrtmspu",
   "filename": "GK17jvrtmspu",
   "category": "GK17",
@@ -2913,13 +2794,6 @@
 },
 {
   "displayName": "Bana: Harsacarita, Ucchvasa V",
-  "textname": "GK19bahcar5_au",
-  "filename": "GK19bahcar5_au",
-  "category": "GK19",
-  "filenr": 821
-},
-{
-  "displayName": "Bana: Harsacarita, Ucchvasa V",
   "textname": "GK19bahcar5_pu",
   "filename": "GK19bahcar5_pu",
   "category": "GK19",
@@ -2962,45 +2836,10 @@
 },
 {
   "displayName": "Bharavi: Kiratarjuniya",
-  "textname": "GK19bhakirau",
-  "filename": "GK19bhakirau",
-  "category": "GK19",
-  "filenr": 828
-},
-{
-  "displayName": "Bharavi: Kiratarjuniya",
-  "textname": "GK19bhakiriu",
-  "filename": "GK19bhakiriu",
-  "category": "GK19",
-  "filenr": 829
-},
-{
-  "displayName": "Bharavi: Kiratarjuniya",
   "textname": "GK19bhakirpu",
   "filename": "GK19bhakirpu",
   "category": "GK19",
   "filenr": 830
-},
-{
-  "displayName": "Bharavi: Kiratarjuniya",
-  "textname": "GK19bhakirxu",
-  "filename": "GK19bhakirxu",
-  "category": "GK19",
-  "filenr": 831
-},
-{
-  "displayName": "Bhallata: Bhallatasataka",
-  "textname": "GK19bhall_au",
-  "filename": "GK19bhall_au",
-  "category": "GK19",
-  "filenr": 832
-},
-{
-  "displayName": "Bhallata: Bhallatasataka",
-  "textname": "GK19bhall_iu",
-  "filename": "GK19bhall_iu",
-  "category": "GK19",
-  "filenr": 833
 },
 {
   "displayName": "Bhallata: Bhallatasataka",
@@ -3010,25 +2849,11 @@
   "filenr": 834
 },
 {
-  "displayName": "Bhallata: Bhallatasataka",
-  "textname": "GK19bhall_xu",
-  "filename": "GK19bhall_xu",
-  "category": "GK19",
-  "filenr": 835
-},
-{
   "displayName": "Bhatti: Ravanavadha (Bhattikavya)",
   "textname": "GK19bhattiku",
   "filename": "GK19bhattiku",
   "category": "GK19",
   "filenr": 836
-},
-{
-  "displayName": "GK19bhcarr_au",
-  "textname": "GK19bhcarr_au",
-  "filename": "GK19bhcarr_au",
-  "category": "GK19",
-  "filenr": 837
 },
 {
   "displayName": "GK19bhcarr_pu",
@@ -3039,31 +2864,10 @@
 },
 {
   "displayName": "Bilhana: Caurapancasika",
-  "textname": "GK19bicaupau",
-  "filename": "GK19bicaupau",
-  "category": "GK19",
-  "filenr": 839
-},
-{
-  "displayName": "Bilhana: Caurapancasika",
-  "textname": "GK19bicaupiu",
-  "filename": "GK19bicaupiu",
-  "category": "GK19",
-  "filenr": 840
-},
-{
-  "displayName": "Bilhana: Caurapancasika",
   "textname": "GK19bicauppu",
   "filename": "GK19bicauppu",
   "category": "GK19",
   "filenr": 841
-},
-{
-  "displayName": "Bilhana: Caurapancasika",
-  "textname": "GK19bicaupxu",
-  "filename": "GK19bicaupxu",
-  "category": "GK19",
-  "filenr": 842
 },
 {
   "displayName": "Damodaragupta: Kuttanimata",
@@ -3172,31 +2976,10 @@
 },
 {
   "displayName": "Jalhana: Mugdhopadesa",
-  "textname": "GK19jalmugau",
-  "filename": "GK19jalmugau",
-  "category": "GK19",
-  "filenr": 858
-},
-{
-  "displayName": "Jalhana: Mugdhopadesa",
-  "textname": "GK19jalmugiu",
-  "filename": "GK19jalmugiu",
-  "category": "GK19",
-  "filenr": 859
-},
-{
-  "displayName": "Jalhana: Mugdhopadesa",
   "textname": "GK19jalmugpu",
   "filename": "GK19jalmugpu",
   "category": "GK19",
   "filenr": 860
-},
-{
-  "displayName": "Jalhana: Mugdhopadesa",
-  "textname": "GK19jalmugxu",
-  "filename": "GK19jalmugxu",
-  "category": "GK19",
-  "filenr": 861
 },
 {
   "displayName": "Jayadeva: Gitagovinda-kavya (in pausa)",
@@ -3221,38 +3004,10 @@
 },
 {
   "displayName": "Kalidasa: Kumarasambhava",
-  "textname": "GK19kakumsau",
-  "filename": "GK19kakumsau",
-  "category": "GK19",
-  "filenr": 865
-},
-{
-  "displayName": "Kalidasa: Kumarasambhava",
-  "textname": "GK19kakumsiu",
-  "filename": "GK19kakumsiu",
-  "category": "GK19",
-  "filenr": 866
-},
-{
-  "displayName": "Kalidasa: Kumarasambhava",
   "textname": "GK19kakumspu",
   "filename": "GK19kakumspu",
   "category": "GK19",
   "filenr": 867
-},
-{
-  "displayName": "Kalidasa: Rtusamhara",
-  "textname": "GK19kalrs_au",
-  "filename": "GK19kalrs_au",
-  "category": "GK19",
-  "filenr": 868
-},
-{
-  "displayName": "Kalidasa: Rtusamhara",
-  "textname": "GK19kalrs_iu",
-  "filename": "GK19kalrs_iu",
-  "category": "GK19",
-  "filenr": 869
 },
 {
   "displayName": "Kalidasa: Rtusamhara",
@@ -3302,20 +3057,6 @@
   "filename": "GK19kmeghvpu",
   "category": "GK19",
   "filenr": 876
-},
-{
-  "displayName": "Kalidasa: Raghuvamsa",
-  "textname": "GK19kragh_au",
-  "filename": "GK19kragh_au",
-  "category": "GK19",
-  "filenr": 877
-},
-{
-  "displayName": "Kalidasa: Raghuvamsa",
-  "textname": "GK19kragh_iu",
-  "filename": "GK19kragh_iu",
-  "category": "GK19",
-  "filenr": 878
 },
 {
   "displayName": "Kalidasa: Raghuvamsa",
@@ -3472,46 +3213,11 @@
   "filenr": 900
 },
 {
-  "displayName": "Narayanabhatta: Narayaniya",
-  "textname": "GK19narayniu",
-  "filename": "GK19narayniu",
-  "category": "GK19",
-  "filenr": 901
-},
-{
-  "displayName": "Nilakantha Diksita: Kalividambana",
-  "textname": "GK19nkalivau",
-  "filename": "GK19nkalivau",
-  "category": "GK19",
-  "filenr": 902
-},
-{
-  "displayName": "Nilakantha Diksita: Kalividambana",
-  "textname": "GK19nkaliviu",
-  "filename": "GK19nkaliviu",
-  "category": "GK19",
-  "filenr": 903
-},
-{
   "displayName": "Nilakantha Diksita: Kalividambana",
   "textname": "GK19nkalivpu",
   "filename": "GK19nkalivpu",
   "category": "GK19",
   "filenr": 904
-},
-{
-  "displayName": "Nilakantha Diksita: Kalividambana",
-  "textname": "GK19nkalivxu",
-  "filename": "GK19nkalivxu",
-  "category": "GK19",
-  "filenr": 905
-},
-{
-  "displayName": "Padmagupta (alias Parimala): Navasahasankacarita",
-  "textname": "GK19padnscau",
-  "filename": "GK19padnscau",
-  "category": "GK19",
-  "filenr": 906
 },
 {
   "displayName": "Padmagupta (alias Parimala): Navasahasankacarita",
@@ -3526,13 +3232,6 @@
   "filename": "GK19padnscsu",
   "category": "GK19",
   "filenr": 908
-},
-{
-  "displayName": "Padmagupta (alias Parimala): Navasahasankacarita",
-  "textname": "GK19padnscxu",
-  "filename": "GK19padnscxu",
-  "category": "GK19",
-  "filenr": 909
 },
 {
   "displayName": "Rupa Gosvami (comp.): Padyavali",
@@ -3610,20 +3309,6 @@
   "filename": "GK19suvasavu",
   "category": "GK19",
   "filenr": 920
-},
-{
-  "displayName": "Uddanda: Kokilasamdesa",
-  "textname": "GK19uddkokau",
-  "filename": "GK19uddkokau",
-  "category": "GK19",
-  "filenr": 921
-},
-{
-  "displayName": "Uddanda: Kokilasamdesa",
-  "textname": "GK19uddkokiu",
-  "filename": "GK19uddkokiu",
-  "category": "GK19",
-  "filenr": 922
 },
 {
   "displayName": "Uddanda: Kokilasamdesa",
