@@ -11,6 +11,7 @@ from removediacritics import remove_diacritics
 
 
 base_dir = os.environ['HOME']+'/segmented-sanskrit/xml/valid/'
+# base_dir = os.environ['HOME']+'/buddhanexus-utils/test/'
 output_dir = os.environ['HOME']+'/buddhanexus-utils/testout/'
 
 filenames = open(os.environ['HOME']+'/buddhanexus-utils/filenames.json','w')
@@ -24,9 +25,12 @@ def cleanline(line):
     newline = newline.replace('  ', ' ')
     return newline
 
+with open(os.environ['HOME']+"/buddhanexus-utils/sanskrit_data/buddhist_temp.json") as json_file:
+    categorylist = json.load(json_file)
+
 for root, dirs, files in os.walk(base_dir):
     for file in files:
-        filename = file.split('.')[0]
+        filename = categorylist[file.split('.')[0]]+file.split('.')[0]
         fileIn = open(base_dir+file,'r', encoding='utf8')
         fileOut = open(output_dir+filename+'.json','w', encoding='utf8')
         output_dict = {}
@@ -46,6 +50,7 @@ for root, dirs, files in os.walk(base_dir):
             xml_id = re.findall(r'xml:id="(.*?)"',line)
             if xml_id:
                 xml_number = remove_diacritics(xml_id[0].strip())
+                xml_number = xml_number.replace('*','_')
                 if xml_number == old_xml_number:
                     print(xml_number, " is double in ", file)
                 old_xml_number = xml_number
@@ -53,6 +58,8 @@ for root, dirs, files in os.walk(base_dir):
             else:
                 clean_line = cleanline(line)
                 if clean_line and clean_line != '':
+                    if re.search(r' and | to | is | are | the |note| off |NOTE', clean_line):
+                        print(filename+" contains English in ", xml_number+"_"+str(counter))
                     if len(clean_line) > 100:
                         line_parts = re.split('(.*?[/,:;.\n])', clean_line)[1::2]
                         if line_parts == []:

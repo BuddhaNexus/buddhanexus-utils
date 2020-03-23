@@ -8,8 +8,10 @@ import os
 import re
 import json
 
-base_dir = os.environ['HOME']+'/buddhanexus/data/'
-filename = 'chn-files.json'
+# base_dir = os.environ['HOME']+'/buddhanexus/data/'
+# filename = 'chn-files.json'
+base_dir = os.environ['HOME']+'/buddhanexus-utils/sanskrit_data/'
+filename = 'skt-files_new.json'
 filenameslist = os.environ['HOME']+'/Desktop/filelist.json'
 
 filenamesjsonobject = []
