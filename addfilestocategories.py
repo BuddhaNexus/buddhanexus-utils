@@ -8,9 +8,10 @@ import os
 import re
 import json
 
-base_dir = os.environ['HOME']+'/buddhanexus/data/'
-catname = 'chn-categories.json'
-filename = 'chn-files.json'
+# base_dir = os.environ['HOME']+'/buddhanexus/data/'
+base_dir = os.environ['HOME']+'/buddhanexus-utils/sanskrit_data/'
+catname = 'skt-categories.json'
+filename = 'skt-files.json'
 fileCatIn = open(base_dir+catname,'r', encoding='utf8').read()
 jsoncatobject = json.loads(fileCatIn)
 
@@ -26,7 +27,7 @@ for item in jsoncatobject:
         if file['category'] == item['category']:
             filelist.append(file['filename'])
     item["files"] = filelist
-    fileOut.write(json.dumps(item, ensure_ascii=False, indent=2))
+    fileOut.write(json.dumps(item, ensure_ascii=False, indent=4))
     fileOut.write(',\n')
 
 fileOut.write(']\n')

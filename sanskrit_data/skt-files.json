@@ -4264,13 +4264,6 @@
   "filenr": 700
 },
 {
-  "displayName": "Vinasikhatantra (GR13 vinst_su)",
-  "textname": "GR13 vinst_su",
-  "filename": "GR13vinst_su",
-  "category": "GR13",
-  "filenr": 701
-},
-{
   "displayName": "Astavakragita (GR14 astavgpu)",
   "textname": "GR14 astavgpu",
   "filename": "GR14astavgpu",
@@ -4656,13 +4649,6 @@
   "filenr": 770
 },
 {
-  "displayName": "GK16ruvyavivya_pu (GK16 ruvyavivya_pu)",
-  "textname": "GK16 ruvyavivya_pu",
-  "filename": "GK16ruvyavivya_pu",
-  "category": "GK16",
-  "filenr": 772
-},
-{
   "displayName": "Ruyyaka: Alamkarasarvasva (Sutras only!) (GK16 ruyalscu)",
   "textname": "GK16 ruyalscu",
   "filename": "GK16ruyalscu",
@@ -4682,6 +4668,13 @@
   "filename": "GK16ruyalsvu",
   "category": "GK16",
   "filenr": 775
+},
+{
+  "displayName": "Ruyyaka: Vyaktivivekavyakhya, 2nd vimarsa (GK16 ruvyavivya_pu)",
+  "textname": "GK16 ruvyavivya_pu",
+  "filename": "GK16ruvyavivya_pu",
+  "category": "GK16",
+  "filenr": 772
 },
 {
   "displayName": "Simhabhupala: Rasarnavasudhakara (GK16 simhrs_u)",
@@ -5046,13 +5039,6 @@
   "filename": "GK19bhattiku",
   "category": "GK19",
   "filenr": 836
-},
-{
-  "displayName": "GK19bhcarr_pu (GK19 bhcarr_pu)",
-  "textname": "GK19 bhcarr_pu",
-  "filename": "GK19bhcarr_pu",
-  "category": "GK19",
-  "filenr": 838
 },
 {
   "displayName": "Bilhana: Caurapancasika (GK19 bicauppu)",
@@ -5496,13 +5482,6 @@
   "filenr": 927
 },
 {
-  "displayName": "Dramatic Fragments (buddhist) (GK20 dramfrag_tu)",
-  "textname": "GK20 dramfrag_tu",
-  "filename": "GK20dramfrag_tu",
-  "category": "GK20",
-  "filenr": 928
-},
-{
   "displayName": "Harsadeva: Naganandanataka (GK20 harnagau)",
   "textname": "GK20 harnagau",
   "filename": "GK20harnagau",
@@ -5566,25 +5545,11 @@
   "filenr": 943
 },
 {
-  "displayName": "Buddhasvamin: Brhatkathaslokasamgraha (GK21 brkas_su)",
-  "textname": "GK21 brkas_su",
-  "filename": "GK21brkas_su",
-  "category": "GK21",
-  "filenr": 944
-},
-{
   "displayName": "Narayana: Hitopadesa (GK21 hitop_u)",
   "textname": "GK21 hitop_u",
   "filename": "GK21hitop_u",
   "category": "GK21",
   "filenr": 945
-},
-{
-  "displayName": "Somadeva: Kathasaritsagara (GK21 sokss_mu)",
-  "textname": "GK21 sokss_mu",
-  "filename": "GK21sokss_mu",
-  "category": "GK21",
-  "filenr": 946
 },
 {
   "displayName": "Somadeva: Kathasaritsagara (GK21 sokss_pu)",
@@ -5755,13 +5720,6 @@
   "filenr": 986
 },
 {
-  "displayName": " ---------------------------------------------------------------------- (GS24 vakyp_su)",
-  "textname": "GS24 vakyp_su",
-  "filename": "GS24vakyp_su",
-  "category": "GS24",
-  "filenr": 987
-},
-{
   "displayName": "Varadaraja: Laghusiddhantakaumudi (= Laghukaumudi) (GS24 varlghku)",
   "textname": "GS24 varlghku",
   "filename": "GS24varlghku",
@@ -5818,35 +5776,35 @@
   "filenr": 996
 },
 {
-  "displayName": "GSP27moksop_u (GSP27 moksop_u)",
+  "displayName": "Mokṣopāya (GSP27 moksop_u)",
   "textname": "GSP27 moksop_u",
   "filename": "GSP27moksop_u",
   "category": "GSP27",
   "filenr": 997
 },
 {
-  "displayName": "Moksopaya (Yogavasistha) 1 (GSP27 motik_1u)",
+  "displayName": "Mokṣopāya with Bhāskarakaṇṭha's Ṭīkā 1. Vairāgya (GSP27 motik_1u)",
   "textname": "GSP27 motik_1u",
   "filename": "GSP27motik_1u",
   "category": "GSP27",
   "filenr": 998
 },
 {
-  "displayName": "Moksopaya (Yogavasistha) 2 (GSP27 motik_2u)",
+  "displayName": "Mokṣopāya with Bhāskarakaṇṭha's Ṭīkā 2. Mumukṣuvyavahāra (GSP27 motik_2u)",
   "textname": "GSP27 motik_2u",
   "filename": "GSP27motik_2u",
   "category": "GSP27",
   "filenr": 998
 },
 {
-  "displayName": "Moksopaya (Yogavasistha) 3 (GSP27 motik_3u)",
+  "displayName": "Mokṣopāya with Bhāskarakaṇṭha's Ṭīkā 3. Utpatti (GSP27 motik_3u)",
   "textname": "GSP27 motik_3u",
   "filename": "GSP27motik_3u",
   "category": "GSP27",
   "filenr": 998
 },
 {
-  "displayName": "Moksopaya (Yogavasistha) 4 (GSP27 motik_4u)",
+  "displayName": "Mokṣopāya with Bhāskarakaṇṭha's Ṭīkā 4. Sthiti (GSP27 motik_4u)",
   "textname": "GSP27 motik_4u",
   "filename": "GSP27motik_4u",
   "category": "GSP27",
@@ -7029,13 +6987,6 @@
   "filenr": 1197
 },
 {
-  "displayName": "Samkara (attrib.): Vivekacudamani (GSP34 vivcud_u)",
-  "textname": "GSP34 vivcud_u",
-  "filename": "GSP34vivcud_u",
-  "category": "GSP34",
-  "filenr": 1198
-},
-{
   "displayName": "Patanjali: Yogasutra (GSP34 yogasutu)",
   "textname": "GSP34 yogasutu",
   "filename": "GSP34yogasutu",
@@ -7503,13 +7454,6 @@
   "filename": "GS41yogay2_u",
   "category": "GS41",
   "filenr": 1299
-},
-{
-  "displayName": "Nagnajit: Citralaksana (= NCit) (OT nagcitpu)",
-  "textname": "OT nagcitpu",
-  "filename": "OTnagcitpu",
-  "category": "OT",
-  "filenr": 1301
 },
 {
   "displayName": "Sanskrit portions of Javano-Balinese texts (OT sktexcerptsjb_pu)",
