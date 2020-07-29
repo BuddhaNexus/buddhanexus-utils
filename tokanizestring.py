@@ -12,7 +12,7 @@ from functools import reduce
 import paliwords
 
 
-cons = "(?:br|[kgcjtṭdḍbp]h|[kgcjtṭdḍp](?!h)|[mnyrlvshṅṇṃkñḷ]|b(?![rh]))";
+cons = "(?:br|[kgcjtṭdḍbp]h|[kgcjtṭdḍp](?!h)|[mnyrlvshṅṇṃṁkñḷ]|b(?![rh]))";
 vowel_chars = 'aioueāīū'
 vowel_pattern = '[' + vowel_chars.lower() + ']'
 vowel_antipattern = '[^' + vowel_chars.lower() + '-]'

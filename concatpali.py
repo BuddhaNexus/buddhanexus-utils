@@ -9,7 +9,7 @@ import re
 import os
 import json
 
-base_dir = os.environ['HOME']+'/bilara-data/root/pli/ms/sn'
+base_dir = os.environ['HOME']+'/bilara-data/root/pli/ms/sutta/sn'
 suttadir = os.environ['HOME']+'/Desktop/bilara-converted/'
 
 collections = {}
