@@ -1,3 +1,9 @@
 find . -name "*txt" | parallel -j5 python script.py {}
 very simple
 -jX where X is the number of cores + 1 for best performance
+
+
+
+pigz -d *
+then run: perl -i -pe "s/LC//g;" *json
+and then run pigz *
