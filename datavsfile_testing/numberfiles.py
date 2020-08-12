@@ -9,8 +9,9 @@ import re
 import json
 
 # base_dir = os.environ['HOME']+'/buddhanexus/data/'
-base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
-filename = 'chn-files.json'
+# base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
+base_dir = os.environ['HOME']+'/segmented-sanskrit/data/'
+filename = 'skt-files.json'
 fileIn = open(base_dir+filename,'r', encoding='utf8').read()
 jsonobject = json.loads(fileIn)
 

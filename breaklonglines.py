@@ -9,8 +9,8 @@ import os
 import json
 import re
 
-inpath = os.environ['HOME']+'/buddhanexus-utils/test/'
-outpath = os.environ['HOME']+'/buddhanexus-utils/testout/'
+inpath = os.environ['HOME']+'/buddhanexus-utils/testout/'
+outpath = os.environ['HOME']+'/buddhanexus-utils/testout2/'
 
 def splitsegment(inputstring):
     inputstring = re.sub(r' ([/\|])', r'\1', inputstring)
@@ -28,6 +28,11 @@ def splitsegment(inputstring):
             newstring = ''
     if newstring != '':
         outputstrings.append(newstring.strip())
+
+    if len(outputstrings[-1]) < 20:
+        outputstrings[-2] += ' '+outputstrings[-1]
+        outputstrings.remove(outputstrings[-1])
+
     return outputstrings
 
 
@@ -47,7 +52,7 @@ for root, dirs, files in os.walk(inpath):
                 newdictionary[item] = jsonobject[item]
         
         fileOut = open(outpath+"/"+name,'w', encoding='utf8')
-        fileOut.write(json.dumps(newdictionary, ensure_ascii=False, indent=4))
+        fileOut.write(json.dumps(newdictionary, ensure_ascii=False, indent=2))
         fileOut.close()
 
 
