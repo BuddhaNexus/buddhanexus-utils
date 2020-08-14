@@ -8,10 +8,10 @@ import os
 import re
 import json
 
-# base_dir = os.environ['HOME']+'/buddhanexus/data/'
-base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
-catname = 'chn-categories.json'
-filename = 'chn-files.json'
+base_dir = os.environ['HOME']+'/buddhanexus/data/'
+# base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
+catname = 'skt-categories.json'
+filename = 'skt-files.json'
 fileCatIn = open(base_dir+catname,'r', encoding='utf8').read()
 jsoncatobject = json.loads(fileCatIn)
 

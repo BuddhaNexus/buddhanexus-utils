@@ -9,8 +9,22 @@ import os
 import json
 import re
 
-inpath = os.environ['HOME']+'/buddhanexus-utils/testout/'
-outpath = os.environ['HOME']+'/buddhanexus-utils/testout2/'
+inpath = os.environ['HOME']+'/buddhanexus-utils/testout2/'
+outpath = os.environ['HOME']+'/buddhanexus-utils/testout3/'
+
+MINLENGTH = 10
+MAXLENGTH = 180
+
+def remove_small_segments(partslist):
+    if len(partslist) >= 2:
+        if len(partslist[-1]) < MINLENGTH:
+            partslist[-2] += ' '+partslist[-1]
+            partslist.remove(partslist[-1])
+        if len(partslist[0]) < MINLENGTH:
+            partslist[0] += ' '+partslist[1]
+            partslist.remove(partslist[1])
+    return partslist
+
 
 def splitsegment(inputstring):
     inputstring = re.sub(r' ([/\|])', r'\1', inputstring)
@@ -29,11 +43,22 @@ def splitsegment(inputstring):
     if newstring != '':
         outputstrings.append(newstring.strip())
 
-    if len(outputstrings[-1]) < 20:
-        outputstrings[-2] += ' '+outputstrings[-1]
-        outputstrings.remove(outputstrings[-1])
+    outputstrings2 = []
+    for outputstring in outputstrings:
+        if len(outputstring) > 200:
+            outputstring = re.sub(r' /', '/', outputstring)
+            outputstring_words = outputstring.rsplit(' ', 1)
+            for outputword in outputstring_words:
+                if '//' in outputword:
+                    outputword = outputword.replace('//',' //')
+                elif '/' in outputword:
+                    outputword = outputword.replace('/',' /')
+                outputstrings2.append(outputword.strip())
+        else: outputstrings2.append(outputstring)
 
-    return outputstrings
+    outputstrings2 = remove_small_segments(outputstrings2)
+
+    return outputstrings2
 
 
 for root, dirs, files in os.walk(inpath):
@@ -42,7 +67,7 @@ for root, dirs, files in os.walk(inpath):
         filetext = open(root+"/"+name).read()
         jsonobject = json.loads(filetext)
         for item in jsonobject:
-            if len(jsonobject[item]) > 180:
+            if len(jsonobject[item]) > MAXLENGTH:
                 outputstrings = splitsegment(jsonobject[item])
                 counter = 0
                 for outputstring in outputstrings:
