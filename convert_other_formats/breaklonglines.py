@@ -9,10 +9,10 @@ import os
 import json
 import re
 
-inpath = os.environ['HOME']+'/buddhanexus-utils/testout2/'
-outpath = os.environ['HOME']+'/buddhanexus-utils/testout3/'
+inpath = os.environ['HOME']+'/buddhanexus-utils/testout2_buddhist/'
+outpath = os.environ['HOME']+'/buddhanexus-utils/testout3_buddhist/'
 
-MINLENGTH = 10
+MINLENGTH = 20
 MAXLENGTH = 180
 
 def remove_small_segments(partslist):

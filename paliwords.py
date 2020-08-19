@@ -40,6 +40,7 @@ UNICODE_INTERN = [
         (u'au', 'O')
 ]
 
+
 segments = {
 "ababa",
 "abaddha",
@@ -9160,7 +9161,8 @@ segments = {
     "dukkha",
     "pañca",
     "mātā",
-    "pitū"
+    "pitū",
+    "bya"
 }
 
 

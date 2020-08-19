@@ -1,14 +1,14 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 """ 
-This module converts a string in pali to a tokanized version.
-F.i. rājakumāra becomes rAja kumAra
+Tokanizer for changing Bilara json files to be used in a neuronal network.
+Based on hypenation code and pali lookup tool.
+
 """
 
 import regex
+import os
 import re
 from functools import reduce
+import json
 import paliwords
 
 
@@ -32,6 +32,7 @@ def fix_hyphens(word):
     word = regex.sub(r'-(\p{alpha}{0,1})$', r'\1', word)
     word = regex.sub(r'-(\p{alpha}{0,1})-', r'-\1', word)
     return word
+
 
 def cleanup_line(line):
         line = line.replace('-',' ')
@@ -60,22 +61,44 @@ def unicode_to_internal_transliteration(s):
 def splitkeepsep(s, sep):
     return reduce(lambda acc, elem: acc[:-1] + [acc[-1] + elem] if elem == sep else acc + [elem], re.split("(%s)" % re.escape(sep), s), [])
 
-
 def remove_non_alphabetic_characters(line):
     line = line.lower()
     line = regex.sub(r'[\'”’"–-—]', ' ', line)
     line = regex.sub(r'[^a-zāīūēṭḍṅṇñḷṃṁśṣḥṛṝḹ ]', '', line)
     line = line.replace('  ',' ')
     return line.strip()
+            
 
+# base_dir = os.environ['HOME']+'/buddhanexus-utils/palitest/test/' 
+# output_dir = os.environ['HOME']+'/buddhanexus-utils/palitest/'
+base_dir = os.environ['HOME']+'/Desktop/convertbilara/cutsegments/' 
+output_dir = os.environ['HOME']+'/Desktop/convertbilara/outputfiles/'
 
-def tokanize_string(line): 
-    lineout = ""
-    linetext = remove_non_alphabetic_characters(line.strip())
-    wordlist = linetext.split(' ')
+for name in os.listdir(base_dir):
+    print(name)
 
-    for word in wordlist:
-        newword = hyphenate(word,3)
-        lineout += newword + ' '
-        lineout = cleanup_line(lineout)
-    return lineout
+    with open(base_dir+name) as json_file:
+        fileOpen = json.load(json_file)
+
+    fileOut = open(output_dir+name[:-4]+'txt','w')
+    linein = ''
+
+    for linenumber in fileOpen:
+        lineout = ""
+        linetext = remove_non_alphabetic_characters(fileOpen[linenumber].strip())
+        wordlist = linetext.split(' ')
+        for word in wordlist:
+            newword = hyphenate(word,3)
+            lineout += newword + ' '
+            lineout = cleanup_line(lineout)
+        if lineout.strip() != '':
+            fileOut.write('LC'+linenumber+'      '+ linein + fileOpen[linenumber].strip()+'      '+lineout.strip()+'\n')
+            linein = ''
+        else:
+            linein += fileOpen[linenumber].strip() + ' '
+
+    if linein.strip() != '':
+        fileOut.write('LC'+linenumber+'      '+ linein + '      '+'\n')
+
+    fileOut.close()
+

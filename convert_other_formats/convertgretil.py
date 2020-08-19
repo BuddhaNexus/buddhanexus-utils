@@ -11,7 +11,7 @@ from functools import reduce
 
 
 base_dir = os.environ['HOME']+'/Desktop/1_sanskr/'
-output_dir = os.environ['HOME']+'/buddhanexus-utils/testout2/'
+output_dir = os.environ['HOME']+'/buddhanexus-utils/testout2_buddhist/'
 
 with open(os.environ['HOME']+"/buddhanexus-utils/sanskrit_data/skt-categories.json") as json_file:
     categorylist = json.load(json_file)
