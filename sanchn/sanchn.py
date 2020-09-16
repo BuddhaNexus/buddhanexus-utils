@@ -74,7 +74,7 @@ chndict = {**t210dict, **t212dict, **t213dict}
 
 # retrieving data from the parallels file.
 parallelfile = open(parallelpath,'r', encoding='utf8').read()
-outputparallelfile = open(outputpath+'parallel.json','w', encoding='utf8')
+outputparallelfile = open(outputpath+'parallel2.json','w', encoding='utf8')
 outputparallelfile.write('[\n')
 
 paralleljson = json.loads(parallelfile)
@@ -94,8 +94,9 @@ for parallel in paralleljson:
                 if dhpnr.match(item) or uvnr.match(item):
                     dhpuvparallel.append(item)
             dhpuvparallel = sorted(dhpuvparallel)
-            paralleldict["skt"] = uvdict[dhpuvparallel[1]]
-            paralleldict["pli"] = dhpdict[dhpuvparallel[0]]
+            if len(dhpuvparallel[0].split("-")) == 1:
+                paralleldict[dhpuvparallel[1]] = uvdict[dhpuvparallel[1]]
+                paralleldict[dhpuvparallel[0]] = dhpdict[dhpuvparallel[0]]
 
         if any(uvkgnr.match(x) for x in parallel["parallels"]) and any(uvnr.match(y) for y in parallel["parallels"]):
             uvkguvparallel = []
@@ -103,8 +104,9 @@ for parallel in paralleljson:
                 if uvkgnr.match(item) or uvnr.match(item):
                     uvkguvparallel.append(item)
             uvkguvparallel = sorted(uvkguvparallel)
-            paralleldict["skt"] = uvdict[uvkguvparallel[1]]
-            paralleldict["tib"] = uvkgdict[uvkguvparallel[0]]
+            if len(uvkguvparallel[0].split("-#")) == 1:
+                paralleldict[uvkguvparallel[1]] = uvdict[uvkguvparallel[1]]
+                paralleldict[uvkguvparallel[0]] = uvkgdict[uvkguvparallel[0]]
 
         if any(uvnr.match(x) for x in parallel["parallels"]) and any(t210nr.match(y) for y in parallel["parallels"]):
             t210uvparallel = []
@@ -112,8 +114,9 @@ for parallel in paralleljson:
                 if t210nr.match(item) or uvnr.match(item):
                     t210uvparallel.append(item)
             t210uvparallel = sorted(t210uvparallel)
-            paralleldict["skt"] = uvdict[t210uvparallel[1]]
-            paralleldict["t210"] = t210dict[t210uvparallel[0]]
+            if len(t210uvparallel[0].split("-#")) == 1:
+                paralleldict[t210uvparallel[1]] = uvdict[t210uvparallel[1]]
+                paralleldict[t210uvparallel[0]] = t210dict[t210uvparallel[0]]
 
         if any(uvnr.match(x) for x in parallel["parallels"]) and any(t212nr.match(y) for y in parallel["parallels"]):
             t212uvparallel = []
@@ -121,8 +124,9 @@ for parallel in paralleljson:
                 if t212nr.match(item) or uvnr.match(item):
                     t212uvparallel.append(item)
             t212uvparallel = sorted(t212uvparallel)
-            paralleldict["skt"] = uvdict[t212uvparallel[1]]
-            paralleldict["t212"] = t212dict[t212uvparallel[0]]
+            if len(t212uvparallel[0].split("-#")) == 1:
+                paralleldict[t212uvparallel[1]] = uvdict[t212uvparallel[1]]
+                paralleldict[t212uvparallel[0]] = t212dict[t212uvparallel[0]]
 
         if any(uvnr.match(x) for x in parallel["parallels"]) and any(t213nr.match(y) for y in parallel["parallels"]):
             t213uvparallel = []
@@ -130,8 +134,9 @@ for parallel in paralleljson:
                 if t213nr.match(item) or uvnr.match(item):
                     t213uvparallel.append(item)
             t213uvparallel = sorted(t213uvparallel)
-            paralleldict["skt"] = uvdict[t213uvparallel[1]]
-            paralleldict["t213"] = t213dict[t213uvparallel[0]]
+            if len(t213uvparallel[0].split("-#")) == 1:
+                paralleldict[t213uvparallel[1]] = uvdict[t213uvparallel[1]]
+                paralleldict[t213uvparallel[0]] = t213dict[t213uvparallel[0]]
 
         if paralleldict:
             outputparallelfile.write(json.dumps(paralleldict, ensure_ascii=False, indent=2))

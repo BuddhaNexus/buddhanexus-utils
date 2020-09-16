@@ -10,7 +10,7 @@ import json
 
 base_dir = os.environ['HOME']+'/buddhanexus/data/'
 # base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
-filename = 'skt-files.json'
+filename = 'chn-files.json'
 filenameslist = os.environ['HOME']+'/Desktop/filelist.json'
 
 filenamesjsonobject = []
