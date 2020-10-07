@@ -74,9 +74,10 @@ chndict = {**t210dict, **t212dict, **t213dict}
 
 # retrieving data from the parallels file.
 parallelfile = open(parallelpath,'r', encoding='utf8').read()
-outputparallelfile = open(outputpath+'parallel2.json','w', encoding='utf8')
-outputparallelfile.write('[\n')
+outputparallelfile = open(outputpath+'parallel.json','w', encoding='utf8')
 
+
+parallelfulldict = {}
 paralleljson = json.loads(parallelfile)
 for parallel in paralleljson:
     try:
@@ -107,6 +108,8 @@ for parallel in paralleljson:
             if len(uvkguvparallel[0].split("-#")) == 1:
                 paralleldict[uvkguvparallel[1]] = uvdict[uvkguvparallel[1]]
                 paralleldict[uvkguvparallel[0]] = uvkgdict[uvkguvparallel[0]]
+            else:
+                print(uvkguvparallel)
 
         if any(uvnr.match(x) for x in parallel["parallels"]) and any(t210nr.match(y) for y in parallel["parallels"]):
             t210uvparallel = []
@@ -139,13 +142,18 @@ for parallel in paralleljson:
                 paralleldict[t213uvparallel[0]] = t213dict[t213uvparallel[0]]
 
         if paralleldict:
-            outputparallelfile.write(json.dumps(paralleldict, ensure_ascii=False, indent=2))
-            outputparallelfile.write(',\n')
-
+            for item in paralleldict:
+                if uvnr.match(item):
+                    uvnr1 = re.findall(r'[0-9]+', item)
+                    if int(uvnr1[2]) < 10:
+                        uvnr1[2] = '0' + uvnr1[2]
+                    combined_number = float(uvnr1[1]+'.'+uvnr1[2])
+                    parallelfulldict[combined_number] = paralleldict
     except:
         continue
 
-outputparallelfile.write('\n]')
+outputparallelfile.write(json.dumps(dict(sorted(parallelfulldict.items())), ensure_ascii=False, indent=2))
+
 outputparallelfile.close()
 
 
