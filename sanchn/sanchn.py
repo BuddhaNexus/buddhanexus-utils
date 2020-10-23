@@ -89,15 +89,15 @@ for parallel in paralleljson:
         uvkgnr = re.compile('^uv-kg[0-9]+#[0-9]+[A-Z]*')
         paralleldict = {}
 
-        if any(dhpnr.match(x) for x in parallel["parallels"]) and any(uvnr.match(y) for y in parallel["parallels"]):
-            dhpuvparallel = []
-            for item in parallel["parallels"]:
-                if dhpnr.match(item) or uvnr.match(item):
-                    dhpuvparallel.append(item)
-            dhpuvparallel = sorted(dhpuvparallel)
-            if len(dhpuvparallel[0].split("-")) == 1:
-                paralleldict[dhpuvparallel[1]] = uvdict[dhpuvparallel[1]]
-                paralleldict[dhpuvparallel[0]] = dhpdict[dhpuvparallel[0]]
+        # if any(dhpnr.match(x) for x in parallel["parallels"]) and any(uvnr.match(y) for y in parallel["parallels"]):
+        #     dhpuvparallel = []
+        #     for item in parallel["parallels"]:
+        #         if dhpnr.match(item) or uvnr.match(item):
+        #             dhpuvparallel.append(item)
+        #     dhpuvparallel = sorted(dhpuvparallel)
+        #     if len(dhpuvparallel[0].split("-")) == 1:
+        #         paralleldict[dhpuvparallel[1]] = uvdict[dhpuvparallel[1]]
+        #         paralleldict[dhpuvparallel[0]] = dhpdict[dhpuvparallel[0]]
 
         if any(uvkgnr.match(x) for x in parallel["parallels"]) and any(uvnr.match(y) for y in parallel["parallels"]):
             uvkguvparallel = []
@@ -111,35 +111,35 @@ for parallel in paralleljson:
             else:
                 print(uvkguvparallel)
 
-        if any(uvnr.match(x) for x in parallel["parallels"]) and any(t210nr.match(y) for y in parallel["parallels"]):
-            t210uvparallel = []
-            for item in parallel["parallels"]:
-                if t210nr.match(item) or uvnr.match(item):
-                    t210uvparallel.append(item)
-            t210uvparallel = sorted(t210uvparallel)
-            if len(t210uvparallel[0].split("-#")) == 1:
-                paralleldict[t210uvparallel[1]] = uvdict[t210uvparallel[1]]
-                paralleldict[t210uvparallel[0]] = t210dict[t210uvparallel[0]]
+        # if any(uvnr.match(x) for x in parallel["parallels"]) and any(t210nr.match(y) for y in parallel["parallels"]):
+        #     t210uvparallel = []
+        #     for item in parallel["parallels"]:
+        #         if t210nr.match(item) or uvnr.match(item):
+        #             t210uvparallel.append(item)
+        #     t210uvparallel = sorted(t210uvparallel)
+        #     if len(t210uvparallel[0].split("-#")) == 1:
+        #         paralleldict[t210uvparallel[1]] = uvdict[t210uvparallel[1]]
+        #         paralleldict[t210uvparallel[0]] = t210dict[t210uvparallel[0]]
 
-        if any(uvnr.match(x) for x in parallel["parallels"]) and any(t212nr.match(y) for y in parallel["parallels"]):
-            t212uvparallel = []
-            for item in parallel["parallels"]:
-                if t212nr.match(item) or uvnr.match(item):
-                    t212uvparallel.append(item)
-            t212uvparallel = sorted(t212uvparallel)
-            if len(t212uvparallel[0].split("-#")) == 1:
-                paralleldict[t212uvparallel[1]] = uvdict[t212uvparallel[1]]
-                paralleldict[t212uvparallel[0]] = t212dict[t212uvparallel[0]]
+        # if any(uvnr.match(x) for x in parallel["parallels"]) and any(t212nr.match(y) for y in parallel["parallels"]):
+        #     t212uvparallel = []
+        #     for item in parallel["parallels"]:
+        #         if t212nr.match(item) or uvnr.match(item):
+        #             t212uvparallel.append(item)
+        #     t212uvparallel = sorted(t212uvparallel)
+        #     if len(t212uvparallel[0].split("-#")) == 1:
+        #         paralleldict[t212uvparallel[1]] = uvdict[t212uvparallel[1]]
+        #         paralleldict[t212uvparallel[0]] = t212dict[t212uvparallel[0]]
 
-        if any(uvnr.match(x) for x in parallel["parallels"]) and any(t213nr.match(y) for y in parallel["parallels"]):
-            t213uvparallel = []
-            for item in parallel["parallels"]:
-                if t213nr.match(item) or uvnr.match(item):
-                    t213uvparallel.append(item)
-            t213uvparallel = sorted(t213uvparallel)
-            if len(t213uvparallel[0].split("-#")) == 1:
-                paralleldict[t213uvparallel[1]] = uvdict[t213uvparallel[1]]
-                paralleldict[t213uvparallel[0]] = t213dict[t213uvparallel[0]]
+        # if any(uvnr.match(x) for x in parallel["parallels"]) and any(t213nr.match(y) for y in parallel["parallels"]):
+        #     t213uvparallel = []
+        #     for item in parallel["parallels"]:
+        #         if t213nr.match(item) or uvnr.match(item):
+        #             t213uvparallel.append(item)
+        #     t213uvparallel = sorted(t213uvparallel)
+        #     if len(t213uvparallel[0].split("-#")) == 1:
+        #         paralleldict[t213uvparallel[1]] = uvdict[t213uvparallel[1]]
+        #         paralleldict[t213uvparallel[0]] = t213dict[t213uvparallel[0]]
 
         if paralleldict:
             for item in paralleldict:
