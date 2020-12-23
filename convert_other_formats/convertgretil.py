@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 """ 
-converts gretil xml files to files used in buddhanexus before tokanization.
+converts gretil html files to files used in buddhanexus before tokanization.
 """
 
 import re

@@ -12,7 +12,8 @@ import json
 path = os.environ['HOME']+'/segmented-pali/inputfiles/'
 # path = './palitest/'
 
-WORD_PATTERN = r"([Uu]bhato[bv]ya.janak)"
+# WORD_PATTERN = r"((?<!ato)[v]yañjana)"
+WORD_PATTERN = r"(aṅgajāta)"
 
 totalworddict = {}
 

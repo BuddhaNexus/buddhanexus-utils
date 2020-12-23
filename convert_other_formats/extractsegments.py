@@ -9,8 +9,8 @@ import os
 import json
 import gzip
 
-base_dir = os.environ['HOME']+'/buddhanexus/json/skt/'
-output_dir = os.environ['HOME']+'/segmented-sanskrit/files/'
+base_dir = os.environ['HOME']+'/bnjsons/tib/'
+output_dir = os.environ['HOME']+'/segmented-tibetan/files/'
 
 
 def get_segments_from_gzipped_file(file_bytes: str) -> list:
@@ -45,5 +45,6 @@ def write_segments_to_file(root, file_name):
 
 for root, dirs, files in os.walk(base_dir):
     for name in files:
-        write_segments_to_file(root, name)
+        if name.startswith('N'):
+            write_segments_to_file(root, name)
 

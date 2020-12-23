@@ -12,7 +12,8 @@ import json
 path = os.environ['HOME']+'/segmented-sanskrit/segmented_files/'
 # path = './palitest/'
 
-WORD_PATTERN = r"([UuoO]bhaya[bv]ya.jana)"
+# WORD_PATTERN = r"([UuoO]bhaya[bv]ya.jana)"
+WORD_PATTERN = r"(liṅga)"
 
 totalworddict = {}
 

@@ -6,7 +6,7 @@ Some notes:
 3. The Sanskrit Udanavarga numbers used in parallel.json are those used in BuddhaNexus.
 4. The Sanskrit Udanavarga can vary slightly in parallel.json from the version used in BuddhaNexus due to some differences in spacing, etc. But the numbers are the same.
 
-Explanation of parallel.json:
+Explanation of parallel.json: NOTE: in parallel_array.json this has all been spelled out in the same arrays that are used in BuddhaNexus backend jsons.
 
 Most objects in parallel.json look like this:
 

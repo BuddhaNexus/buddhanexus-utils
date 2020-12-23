@@ -10,8 +10,8 @@ import json
 
 base_dir = os.environ['HOME']+'/buddhanexus/data/'
 # base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
-catname = 'chn-categories.json'
-filename = 'chn-files.json'
+catname = 'tib-categories.json'
+filename = 'tib-files.json'
 fileCatIn = open(base_dir+catname,'r', encoding='utf8').read()
 jsoncatobject = json.loads(fileCatIn)
 
