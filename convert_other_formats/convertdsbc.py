@@ -25,6 +25,7 @@ def cleanline(line):
         newline = re.sub(r'<[A-Za-z-/].*?>', ' ', line)
         newline = newline.replace('&nbsp;',' ')
         newline = newline.replace('&ntilde;','ñ')
+        newline = newline.replace('&#039;','’')
         newline = newline.replace('"', '“')
         newline = newline.replace('  ', ' ')
         newline = re.sub(r'[ ]{2,}', ' ', newline)
