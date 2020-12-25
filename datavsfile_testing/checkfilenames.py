@@ -8,16 +8,17 @@ import os
 import re
 import json
 
-base_dir = os.environ['HOME']+'/buddhanexus/data/'
+# base_dir = os.environ['HOME']+'/buddhanexus/data/'
 # base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
-filename = 'tib-files.json'
+base_dir = os.environ['HOME']+'/buddhanexus-utils/convert_other_formats/'
+filename = 'skt-files.json'
 filenameslist = os.environ['HOME']+'/Desktop/filelist.json'
 
 filenamesjsonobject = []
-files_dir = os.environ['HOME']+'/Desktop/convertbilara/outputfiles/'
-for root, dirs, files in os.walk(files_dir):
-		for file in files:
-			filenamesjsonobject.append(file[:-4])
+# files_dir = os.environ['HOME']+'/Desktop/convertbilara/outputfiles/'
+# for root, dirs, files in os.walk(files_dir):
+# 		for file in files:
+# 			filenamesjsonobject.append(file[:-4])
 
 fileIn = open(base_dir+filename,'r', encoding='utf8').read()
 fileobject = json.loads(fileIn)

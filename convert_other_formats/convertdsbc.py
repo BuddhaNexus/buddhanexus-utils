@@ -84,11 +84,12 @@ def splitline(line_array, sep):
     return partslist
 
 for directoryname in directorylist:
+    bncategory = directorylist[directoryname]["bncategory"]
     sourcedir = base_dir+directoryname+"/"
     for root, dirs, files in os.walk(sourcedir):
         for file in files:
             fileIn = open(root+'/'+file,'r', encoding='utf8')
-            fileOut = open(output_dir+file[:-5]+'.json','w', encoding='utf8')
+            fileOut = open(output_dir+bncategory+"n"+file[:-5]+'.json','w', encoding='utf8')
             output_dict = {}
             counter = 0
             filename = file[:-5]
@@ -113,7 +114,7 @@ for directoryname in directorylist:
                         new_line_parts = splitline(new_line_parts, ";")
 
                     for newpart in new_line_parts:
-                        output_dict[filename+":"+str(counter)] = newpart.strip()
+                        output_dict[bncategory+"n"+filename+":"+str(counter)] = newpart.strip()
                         counter += 1
 
                 if re.search(r'callout large secondary mycallout', line):

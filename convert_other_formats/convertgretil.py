@@ -10,10 +10,12 @@ import json
 from functools import reduce
 
 
-base_dir = os.environ['HOME']+'/Desktop/1_sanskr/'
-output_dir = os.environ['HOME']+'/buddhanexus-utils/testout2_buddhist/'
+base_dir = os.environ['HOME']+'/Desktop/toconvert/'
+output_dir = os.environ['HOME']+'/buddhanexus-utils/test/'
 
-with open(os.environ['HOME']+"/buddhanexus-utils/sanskrit_data/skt-categories.json") as json_file:
+# the skt-filelist is derived from the updated skt-categories.json and contains only all files and their full names:
+# "abhisdhu": "XXabhisdhu", etc.
+with open("skt-filelist.json") as json_file:
     categorylist = json.load(json_file)
 
 MAXLENGTH = 10
@@ -97,12 +99,12 @@ for root, dirs, files in os.walk(base_dir):
             filename = categorylist[file.split('.')[0]]
         except:
             continue
-        fileIn = open(root+'/'+file,'r', encoding='utf8')
+        fileIn = open(root+file,'r', encoding='utf8')
         fileOut = open(output_dir+filename+'.json','w', encoding='utf8')
         output_dict = {}
 
         for line in fileIn:
-            if re.search(r'^http://gretil.sub.uni-goettingen.de/gretil.htm', line):
+            if re.search(r'<h2>Text</h2>', line):
                 break
 
         counter = 0

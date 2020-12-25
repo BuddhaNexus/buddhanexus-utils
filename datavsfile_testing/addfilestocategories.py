@@ -8,10 +8,11 @@ import os
 import re
 import json
 
-base_dir = os.environ['HOME']+'/buddhanexus/data/'
+# base_dir = os.environ['HOME']+'/buddhanexus/data/'
 # base_dir = os.environ['HOME']+'/segmented-chinese/data_abbr/'
-catname = 'tib-categories.json'
-filename = 'tib-files.json'
+base_dir = os.environ['HOME']+'/buddhanexus-utils/convert_other_formats/'
+catname = 'skt-categories.json'
+filename = 'skt-files.json'
 fileCatIn = open(base_dir+catname,'r', encoding='utf8').read()
 jsoncatobject = json.loads(fileCatIn)
 

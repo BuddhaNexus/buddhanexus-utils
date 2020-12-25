@@ -30,6 +30,7 @@ def cleanline(line):
 
 
 for bookname in booklist:
+    bncategory = booklist[bookname]["bncategory"]
     sourcefile = base_dir+bookname+".html"
     fileIn = open(sourcefile,'r', encoding='utf8')
     filelist = {}
@@ -44,8 +45,8 @@ for bookname in booklist:
             filenr = re.findall(r'<a href=".*?/([0-9]*)\.html">', line)
         if filenr:
             clean_line = cleanline(line)
-            filelist[filenr[0]] = clean_line.strip()
-            testFile = open(output_dir+filenr[0]+'.json','r', encoding='utf8')
+            filelist[bncategory+"n"+filenr[0]] = clean_line.strip()
+            testFile = open(output_dir+bncategory+"n"+filenr[0]+'.json','r', encoding='utf8')
 
         if re.search(r'</table>', line):
             break
