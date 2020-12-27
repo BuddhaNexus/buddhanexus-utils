@@ -1,0 +1,47 @@
+Added by hand:
+an1.175-186 not found
+an1.485-494 not found
+an10.199-210 not found
+an3.183-352 not found
+sn31 does not have a section
+sn45.141-148 not found
+sn49.1-12 not found
+sn49.13-22 not found
+
+t780a not found
+t780b not found
+sa861-863 not found
+sa677-678 not found
+sa681-683 not found
+sa686-687 not found
+sa787-788 not found
+sa508-528 not found
+ea29.3-4 not found
+ea9.3-4 not found
+ea11.7-8 not found
+
+lal17 not found in list
+lal22 not found in list
+
+File numbers match
+mil3.1.7-mil3.1.8 not found
+mil3.3.1-mil3.3.2 not found
+mil3.3.3-mil3.3.4 not found
+mil3.5.3-mil3.5.4 not found
+mil3.5.6-mil3.5.8 not found
+mil3.6.10-mil3.6.11 not found
+mil3.7.12-mil3.7.13 not found
+
+
+Don't exit in Gretil/DSBC
+sf108 not found in list
+sf140 not found in list
+sf242 not found in list
+sf282 not found in list
+sf55 not found in list
+sf277 not found in list
+sf61 not found in list
+sf121 not found in list
+sf124 not found in list
+san-mu-kd14 not found in list
+san-mu-kd18b not found in list

@@ -19,17 +19,18 @@ parallelfulllist = []
 paralleljson = json.loads(parallelfile)
 
 # pali_regex = re.compile('^[md]n[0-9]+|^[sa]n[0-9]+\.[0-9]+')
-pali_regex = re.compile('^[md]n[0-9]+')
+pali_regex = re.compile('^[asmd]n[0-9]+|^iti|^mil|^snp|^[ck]p|^ud|^[bpv]v|^th[ai]|^[mc]nd|^[np]e|^ps|^ja')
 chn_regex = re.compile('^[mds]a[0-9]+|^t[0-9]+[a-z1-9\.]*|^[es]a-[2-3]\.[0-9]+|ea[0-9]+\.[0-9]+')
+skt_regex = re.compile('^arv|^avs|^divy|^lal|^san|^sf|^mkv')
 
 for parallel in paralleljson:
     try:
-        if any(pali_regex.match(x) for x in parallel["parallels"]) and any(chn_regex.match(y) for y in parallel["parallels"]):
+        if any(pali_regex.match(x) for x in parallel["parallels"]) and (any(chn_regex.match(y) for y in parallel["parallels"]) or any(skt_regex.match(y) for y in parallel["parallels"])):
             parallellist = []
             for item in parallel["parallels"]:
-                if '#' not in item:
+                if '#' not in item and '~' not in item:
                     parallellist.append(item)
-            if len(parallellist) >= 2 and any(pali_regex.match(x) for x in parallellist) and any(chn_regex.match(y) for y in parallellist):
+            if len(parallellist) >= 2 and any(pali_regex.match(x) for x in parallellist) and (any(chn_regex.match(y) for y in parallellist) or any(skt_regex.match(y) for y in parallel["parallels"])):
                 parallelfulllist.append(parallellist)
     except:
         continue
